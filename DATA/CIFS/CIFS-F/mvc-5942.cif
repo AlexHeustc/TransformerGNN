@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2AgWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80540501
+_cell_length_b   6.02778037
+_cell_length_c   8.02897878
+_cell_angle_alpha   93.32816952
+_cell_angle_beta   131.51343044
+_cell_angle_gamma   121.29918129
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2AgWO6
+_chemical_formula_sum   'Ca2 Ag1 W1 O6'
+_cell_volume   139.76767083
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.993960  0.549427  0.210673  1
+  Ca  Ca1  1  0.012445  0.569406  0.717344  1
+  Ag  Ag2  1  0.993753  0.005348  0.490638  1
+  W  W3  1  0.000948  0.982858  0.002775  1
+  O  O4  1  0.756867  0.831867  0.114096  1
+  O  O5  1  0.208560  0.061195  0.877768  1
+  O  O6  1  0.356094  0.433702  0.241999  1
+  O  O7  1  0.427961  0.813573  0.670139  1
+  O  O8  1  0.497514  0.058639  0.326423  1
+  O  O9  1  0.688581  0.508068  0.806883  1

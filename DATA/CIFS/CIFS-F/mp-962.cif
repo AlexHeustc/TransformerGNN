@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SmZn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55854404
+_cell_length_b   5.74776273
+_cell_length_c   5.74776273
+_cell_angle_alpha   79.31131526
+_cell_angle_beta   66.63735699
+_cell_angle_gamma   66.63735705
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmZn2
+_chemical_formula_sum   'Sm2 Zn4'
+_cell_volume   126.84641373
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.834266  0.714831  0.616638  1
+  Zn  Zn1  1  0.165734  0.285169  0.383362  1
+  Zn  Zn2  1  0.834266  0.116638  0.214831  1
+  Zn  Zn3  1  0.165734  0.883362  0.785169  1
+  Sm  Sm4  1  0.533616  0.716384  0.216384  1
+  Sm  Sm5  1  0.466384  0.283616  0.783616  1

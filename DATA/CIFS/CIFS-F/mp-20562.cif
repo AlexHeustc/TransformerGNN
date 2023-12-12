@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeGeAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52534831
+_cell_length_b   7.37550741
+_cell_length_c   7.94651757
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeGeAu
+_chemical_formula_sum   'Ce4 Ge4 Au4'
+_cell_volume   265.22885079
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.250000  0.715282  0.403596  1
+  Ge  Ge1  1  0.250000  0.215282  0.096404  1
+  Ge  Ge2  1  0.750000  0.284718  0.596404  1
+  Ge  Ge3  1  0.750000  0.784718  0.903596  1
+  Ce  Ce4  1  0.750000  0.502860  0.205149  1
+  Ce  Ce5  1  0.250000  0.997140  0.705149  1
+  Ce  Ce6  1  0.750000  0.002860  0.294851  1
+  Ce  Ce7  1  0.250000  0.497140  0.794851  1
+  Au  Au8  1  0.250000  0.810362  0.077442  1
+  Au  Au9  1  0.250000  0.310362  0.422558  1
+  Au  Au10  1  0.750000  0.689638  0.577442  1
+  Au  Au11  1  0.750000  0.189638  0.922558  1

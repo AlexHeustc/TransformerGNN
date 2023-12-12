@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Dy5AgS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.22257634
+_cell_length_b   7.22257659
+_cell_length_c   7.22257698
+_cell_angle_alpha   109.60710779
+_cell_angle_beta   109.60710800
+_cell_angle_gamma   109.19979049
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy5AgS8
+_chemical_formula_sum   'Dy5 Ag1 S8'
+_cell_volume   290.03289587
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.875000  0.125000  0.750000  1
+  Dy  Dy1  1  0.108740  0.746463  0.868036  1
+  Dy  Dy2  1  0.253537  0.621572  0.362276  1
+  Dy  Dy3  1  0.378428  0.240704  0.631964  1
+  Dy  Dy4  1  0.625000  0.375000  0.250000  1
+  Dy  Dy5  1  0.759296  0.891260  0.137724  1
+  S  S6  1  0.143685  0.142014  0.139639  1
+  S  S7  1  0.380311  0.516194  0.009605  1
+  S  S8  1  0.629295  0.619689  0.635883  1
+  S  S9  1  0.483806  0.993412  0.864117  1
+  S  S10  1  0.502375  0.004046  0.360361  1
+  S  S11  1  0.995954  0.856315  0.498329  1
+  S  S12  1  0.857986  0.497625  0.001671  1
+  S  S13  1  0.006588  0.370705  0.490395  1

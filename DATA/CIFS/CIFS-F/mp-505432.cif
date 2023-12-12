@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SmBeF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58330787
+_cell_length_b   6.84777875
+_cell_length_c   8.22296548
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmBeF4
+_chemical_formula_sum   'Sm4 Be4 F16'
+_cell_volume   314.39075239
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.712258  0.897293  0.864273  1
+  Sm  Sm1  1  0.212258  0.102707  0.135727  1
+  Sm  Sm2  1  0.712258  0.602707  0.364273  1
+  Sm  Sm3  1  0.212258  0.397293  0.635727  1
+  F  F4  1  0.806263  0.088197  0.636997  1
+  F  F5  1  0.306263  0.911803  0.363003  1
+  F  F6  1  0.806263  0.411803  0.136997  1
+  F  F7  1  0.306263  0.588197  0.863003  1
+  F  F8  1  0.792395  0.940080  0.349497  1
+  F  F9  1  0.292395  0.059920  0.650503  1
+  F  F10  1  0.792395  0.559920  0.849497  1
+  F  F11  1  0.292395  0.440080  0.150503  1
+  F  F12  1  0.072403  0.728392  0.581259  1
+  F  F13  1  0.572403  0.271608  0.418741  1
+  F  F14  1  0.072403  0.771608  0.081259  1
+  F  F15  1  0.572403  0.228392  0.918741  1
+  F  F16  1  0.029341  0.243778  0.397081  1
+  F  F17  1  0.529341  0.756222  0.602919  1
+  F  F18  1  0.029341  0.256222  0.897081  1
+  F  F19  1  0.529341  0.743778  0.102919  1
+  Be  Be20  1  0.788141  0.370817  0.952419  1
+  Be  Be21  1  0.288141  0.629183  0.047581  1
+  Be  Be22  1  0.788141  0.129183  0.452419  1
+  Be  Be23  1  0.288141  0.870817  0.547581  1

@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ce8Fe8As8O7F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.95222075
+_cell_length_b   7.95222105
+_cell_length_c   10.56299896
+_cell_angle_alpha   67.86909992
+_cell_angle_beta   67.86909213
+_cell_angle_gamma   89.95353866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce8Fe8As8O7F
+_chemical_formula_sum   'Ce8 Fe8 As8 O7 F1'
+_cell_volume   565.37701456
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.061510  0.551559  0.148146  1
+  Ce  Ce1  1  0.055555  0.055756  0.138964  1
+  Ce  Ce2  1  0.540344  0.550295  0.148146  1
+  Ce  Ce3  1  0.555482  0.055280  0.138964  1
+  Ce  Ce4  1  0.444720  0.944518  0.861036  1
+  Ce  Ce5  1  0.444244  0.444445  0.861036  1
+  Ce  Ce6  1  0.949705  0.959656  0.851854  1
+  Ce  Ce7  1  0.948441  0.438490  0.851854  1
+  Fe  Fe8  1  0.124534  0.874534  0.500932  1
+  Fe  Fe9  1  0.125000  0.375000  0.500000  1
+  Fe  Fe10  1  0.378486  0.628486  0.500000  1
+  Fe  Fe11  1  0.377157  0.122843  0.500000  1
+  Fe  Fe12  1  0.625000  0.875000  0.500000  1
+  Fe  Fe13  1  0.625466  0.375466  0.499068  1
+  Fe  Fe14  1  0.872843  0.627157  0.500000  1
+  Fe  Fe15  1  0.871514  0.121514  0.500000  1
+  As  As16  1  0.218629  0.718278  0.314160  1
+  As  As17  1  0.217211  0.217562  0.314160  1
+  As  As18  1  0.279215  0.780083  0.689712  1
+  As  As19  1  0.282438  0.282789  0.685840  1
+  As  As20  1  0.719795  0.718927  0.310288  1
+  As  As21  1  0.719917  0.220785  0.310288  1
+  As  As22  1  0.781073  0.780205  0.689712  1
+  As  As23  1  0.781722  0.281371  0.685840  1
+  O  O24  1  0.122026  0.872026  0.000000  1
+  O  O25  1  0.121761  0.378239  0.000000  1
+  O  O26  1  0.373572  0.623572  0.002855  1
+  O  O27  1  0.375000  0.125000  0.000000  1
+  O  O28  1  0.628239  0.871761  1.000000  1
+  O  O29  1  0.627974  0.377974  1.000000  1
+  O  O30  1  0.876428  0.126428  0.997145  1
+  F  F31  1  0.875000  0.625000  0.000000  1

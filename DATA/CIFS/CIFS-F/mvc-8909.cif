@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_ZnCuBiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16722863
+_cell_length_b   8.20441013
+_cell_length_c   10.96116337
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   110.62794388
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCuBiO5
+_chemical_formula_sum   'Zn4 Cu4 Bi4 O20'
+_cell_volume   434.89607593
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.652120  0.189530  0.911993  1
+  Zn  Zn1  1  0.347880  0.810470  0.088007  1
+  Zn  Zn2  1  0.847880  0.310470  0.411993  1
+  Zn  Zn3  1  0.152120  0.689530  0.588007  1
+  Cu  Cu4  1  0.805322  0.962832  0.640362  1
+  Cu  Cu5  1  0.194678  0.037168  0.359638  1
+  Cu  Cu6  1  0.694678  0.537168  0.140362  1
+  Cu  Cu7  1  0.305322  0.462832  0.859638  1
+  Bi  Bi8  1  0.147154  0.162084  0.102050  1
+  Bi  Bi9  1  0.852846  0.837916  0.897950  1
+  Bi  Bi10  1  0.647154  0.662084  0.397950  1
+  Bi  Bi11  1  0.352846  0.337916  0.602050  1
+  O  O12  1  0.577058  0.318459  0.064866  1
+  O  O13  1  0.059412  0.338042  0.978957  1
+  O  O14  1  0.582902  0.714394  0.209029  1
+  O  O15  1  0.762094  0.505256  0.538785  1
+  O  O16  1  0.700891  0.450835  0.294101  1
+  O  O17  1  0.200891  0.950835  0.205899  1
+  O  O18  1  0.559412  0.838042  0.521043  1
+  O  O19  1  0.440588  0.161958  0.478957  1
+  O  O20  1  0.237906  0.494744  0.461215  1
+  O  O21  1  0.922942  0.181541  0.564866  1
+  O  O22  1  0.299109  0.549165  0.705899  1
+  O  O23  1  0.422942  0.681541  0.935134  1
+  O  O24  1  0.077058  0.818459  0.435134  1
+  O  O25  1  0.799109  0.049165  0.794101  1
+  O  O26  1  0.737906  0.994744  0.038785  1
+  O  O27  1  0.262094  0.005256  0.961215  1
+  O  O28  1  0.417098  0.285606  0.790971  1
+  O  O29  1  0.940588  0.661958  0.021043  1
+  O  O30  1  0.917098  0.785606  0.709029  1
+  O  O31  1  0.082902  0.214393  0.290971  1

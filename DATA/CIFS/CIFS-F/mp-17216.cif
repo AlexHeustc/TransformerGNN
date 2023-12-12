@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Hf5Si4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.07217154
+_cell_length_b   7.07217154
+_cell_length_c   12.88277865
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf5Si4
+_chemical_formula_sum   'Hf20 Si16'
+_cell_volume   644.34003643
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.646433  0.703885  0.822864  1
+  Si  Si1  1  0.353567  0.296115  0.322864  1
+  Si  Si2  1  0.703885  0.646433  0.177136  1
+  Si  Si3  1  0.203885  0.853567  0.572864  1
+  Si  Si4  1  0.796115  0.146433  0.072864  1
+  Si  Si5  1  0.853567  0.203885  0.427136  1
+  Si  Si6  1  0.146433  0.796115  0.927136  1
+  Si  Si7  1  0.296115  0.353567  0.677136  1
+  Si  Si8  1  0.697070  0.952851  0.686317  1
+  Si  Si9  1  0.302930  0.047149  0.186317  1
+  Si  Si10  1  0.952851  0.697070  0.313683  1
+  Si  Si11  1  0.452851  0.802930  0.436317  1
+  Si  Si12  1  0.547149  0.197070  0.936317  1
+  Si  Si13  1  0.802930  0.452851  0.563683  1
+  Si  Si14  1  0.197070  0.547149  0.063683  1
+  Si  Si15  1  0.047149  0.302930  0.813683  1
+  Hf  Hf16  1  0.500592  0.646767  0.626305  1
+  Hf  Hf17  1  0.000592  0.853233  0.123695  1
+  Hf  Hf18  1  0.146767  0.999408  0.376305  1
+  Hf  Hf19  1  0.853233  0.000592  0.876305  1
+  Hf  Hf20  1  0.499408  0.353233  0.126305  1
+  Hf  Hf21  1  0.646767  0.500592  0.373695  1
+  Hf  Hf22  1  0.353233  0.499408  0.873695  1
+  Hf  Hf23  1  0.999408  0.146767  0.623695  1
+  Hf  Hf24  1  0.653053  0.002396  0.283163  1
+  Hf  Hf25  1  0.346947  0.997604  0.783163  1
+  Hf  Hf26  1  0.002396  0.653053  0.716837  1
+  Hf  Hf27  1  0.502396  0.846947  0.033163  1
+  Hf  Hf28  1  0.497604  0.153053  0.533163  1
+  Hf  Hf29  1  0.846947  0.502396  0.966837  1
+  Hf  Hf30  1  0.153053  0.497604  0.466837  1
+  Hf  Hf31  1  0.997604  0.346947  0.216837  1
+  Hf  Hf32  1  0.825702  0.825702  0.500000  1
+  Hf  Hf33  1  0.674298  0.325702  0.750000  1
+  Hf  Hf34  1  0.325702  0.674298  0.250000  1
+  Hf  Hf35  1  0.174298  0.174298  0.000000  1

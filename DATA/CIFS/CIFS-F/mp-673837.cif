@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ba8Bi4O17
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42507412
+_cell_length_b   19.35732188
+_cell_length_c   17.07802078
+_cell_angle_alpha   19.01210103
+_cell_angle_beta   55.87348489
+_cell_angle_gamma   60.28914815
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba8Bi4O17
+_chemical_formula_sum   'Ba8 Bi4 O17'
+_cell_volume   568.00146802
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.219892  0.244290  0.265639  1
+  Ba  Ba1  1  0.487416  0.171600  0.499742  1
+  Ba  Ba2  1  0.171293  0.564347  0.316717  1
+  Ba  Ba3  1  0.682794  0.059940  0.821133  1
+  Ba  Ba4  1  0.202446  0.898775  0.296094  1
+  Ba  Ba5  1  0.712683  0.389479  0.805145  1
+  Ba  Ba6  1  0.462037  0.815834  0.541608  1
+  Ba  Ba7  1  0.731747  0.761573  0.748608  1
+  Bi  Bi8  1  0.981222  0.994543  0.017589  1
+  Bi  Bi9  1  0.997259  0.327752  0.008438  1
+  Bi  Bi10  1  0.997628  0.666226  0.001530  1
+  Bi  Bi11  1  0.470247  0.490261  0.527383  1
+  O  O12  1  0.252331  0.099365  0.217147  1
+  O  O13  1  0.297488  0.474455  0.136760  1
+  O  O14  1  0.767656  0.105031  0.224133  1
+  O  O15  1  0.196305  0.065448  0.791113  1
+  O  O16  1  0.797532  0.233404  0.253526  1
+  O  O17  1  0.245597  0.758754  0.238631  1
+  O  O18  1  0.249982  0.245721  0.748588  1
+  O  O19  1  0.841792  0.475322  0.144336  1
+  O  O20  1  0.778168  0.580748  0.239135  1
+  O  O21  1  0.218083  0.409533  0.760746  1
+  O  O22  1  0.259958  0.562224  0.756965  1
+  O  O23  1  0.753512  0.244311  0.757797  1
+  O  O24  1  0.745353  0.755100  0.250627  1
+  O  O25  1  0.768829  0.931050  0.232338  1
+  O  O26  1  0.287234  0.911952  0.711065  1
+  O  O27  1  0.781844  0.571149  0.758209  1
+  O  O28  1  0.841875  0.914932  0.709783  1

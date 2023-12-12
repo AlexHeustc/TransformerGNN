@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.82249675
+_cell_length_b   11.36918311
+_cell_length_c   11.36918349
+_cell_angle_alpha   69.38093797
+_cell_angle_beta   77.75535369
+_cell_angle_gamma   77.75535761
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrSi
+_chemical_formula_sum   'Sr10 Si10'
+_cell_volume   563.67577645
+_cell_formula_units_Z   10
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.188540  0.646379  0.976541  1
+  Sr  Sr1  1  0.811460  0.023459  0.353621  1
+  Sr  Sr2  1  0.811460  0.353621  0.023459  1
+  Sr  Sr3  1  1.000000  0.708578  0.291422  1
+  Sr  Sr4  1  0.188540  0.976541  0.646379  1
+  Sr  Sr5  1  0.000000  0.000000  0.000000  1
+  Sr  Sr6  1  0.168555  0.331445  0.331445  1
+  Sr  Sr7  1  0.000000  0.291422  0.708578  1
+  Sr  Sr8  1  0.500000  0.500000  0.500000  1
+  Sr  Sr9  1  0.831445  0.668555  0.668555  1
+  Si  Si10  1  0.628876  0.550794  0.191454  1
+  Si  Si11  1  0.431888  0.223418  0.912806  1
+  Si  Si12  1  0.431888  0.912806  0.223418  1
+  Si  Si13  1  0.357089  0.142911  0.142911  1
+  Si  Si14  1  0.371124  0.808546  0.449206  1
+  Si  Si15  1  0.568112  0.087194  0.776582  1
+  Si  Si16  1  0.628876  0.191454  0.550794  1
+  Si  Si17  1  0.371124  0.449206  0.808546  1
+  Si  Si18  1  0.642911  0.857089  0.857089  1
+  Si  Si19  1  0.568112  0.776582  0.087194  1

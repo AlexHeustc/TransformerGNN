@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_MnTlO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13191518
+_cell_length_b   6.13171239
+_cell_length_c   12.01344415
+_cell_angle_alpha   89.99994523
+_cell_angle_beta   89.99978674
+_cell_angle_gamma   119.99440602
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnTlO3
+_chemical_formula_sum   'Mn6 Tl6 O18'
+_cell_volume   391.20154203
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.999914  0.665142  0.493562  1
+  Mn  Mn1  1  0.000073  0.334774  0.993728  1
+  Mn  Mn2  1  0.334731  0.334809  0.493542  1
+  Mn  Mn3  1  0.334773  0.000060  0.993732  1
+  Mn  Mn4  1  0.665310  0.665302  0.993724  1
+  Mn  Mn5  1  0.665075  0.999993  0.493552  1
+  Tl  Tl6  1  0.333322  0.666664  0.233200  1
+  Tl  Tl7  1  0.999995  0.999986  0.263927  1
+  Tl  Tl8  1  0.000000  0.000010  0.763831  1
+  Tl  Tl9  1  0.333332  0.666666  0.733203  1
+  Tl  Tl10  1  0.666641  0.333314  0.733202  1
+  Tl  Tl11  1  0.666671  0.333334  0.233193  1
+  O  O12  1  -0.000000  0.683132  0.655229  1
+  O  O13  1  -0.000002  0.649335  0.332111  1
+  O  O14  1  0.000000  0.350556  0.832134  1
+  O  O15  1  0.000009  0.316755  0.155353  1
+  O  O16  1  0.333343  0.666638  0.002294  1
+  O  O17  1  0.000002  0.000001  0.477639  1
+  O  O18  1  0.999972  0.999946  0.977806  1
+  O  O19  1  0.333360  0.666680  0.502070  1
+  O  O20  1  0.316877  0.316898  0.655210  1
+  O  O21  1  0.350677  0.350699  0.332089  1
+  O  O22  1  0.316751  0.999995  0.155356  1
+  O  O23  1  0.649424  0.649416  0.832130  1
+  O  O24  1  0.350559  -0.000002  0.832141  1
+  O  O25  1  0.683220  0.683213  0.155358  1
+  O  O26  1  0.666681  0.333354  0.502072  1
+  O  O27  1  0.666660  0.333280  0.002297  1
+  O  O28  1  0.649321  0.000030  0.332094  1
+  O  O29  1  0.683108  0.000022  0.655214  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Li2Co4OF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85559597
+_cell_length_b   7.81453817
+_cell_length_c   8.50895098
+_cell_angle_alpha   101.95757613
+_cell_angle_beta   114.81454222
+_cell_angle_gamma   99.96014017
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Co4OF8
+_chemical_formula_sum   'Li4 Co8 O2 F16'
+_cell_volume   387.05749298
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.133872  0.235932  0.370621  1
+  Li  Li1  1  0.525166  0.736751  0.912321  1
+  Li  Li2  1  0.474834  0.263249  0.087679  1
+  Li  Li3  1  0.866128  0.764068  0.629379  1
+  Co  Co4  1  0.073445  0.407352  0.750425  1
+  Co  Co5  1  0.328673  0.900235  0.542047  1
+  Co  Co6  1  0.138340  0.873720  0.084729  1
+  Co  Co7  1  0.371998  0.605205  0.232961  1
+  Co  Co8  1  0.628002  0.394795  0.767039  1
+  Co  Co9  1  0.861660  0.126280  0.915271  1
+  Co  Co10  1  0.671327  0.099765  0.457953  1
+  Co  Co11  1  0.926555  0.592648  0.249575  1
+  O  O12  1  0.199445  0.775237  0.283411  1
+  O  O13  1  0.800555  0.224763  0.716589  1
+  F  F14  1  0.029699  0.947779  0.857784  1
+  F  F15  1  0.048754  0.754906  0.520492  1
+  F  F16  1  0.215744  0.355717  0.997927  1
+  F  F17  1  0.363831  0.494948  0.741895  1
+  F  F18  1  0.165266  0.449468  0.306300  1
+  F  F19  1  0.549565  0.905564  0.783866  1
+  F  F20  1  0.362110  0.161447  0.542970  1
+  F  F21  1  0.680604  0.288188  0.987091  1
+  F  F22  1  0.319396  0.711812  0.012909  1
+  F  F23  1  0.637890  0.838553  0.457030  1
+  F  F24  1  0.450435  0.094436  0.216134  1
+  F  F25  1  0.834734  0.550532  0.693700  1
+  F  F26  1  0.636169  0.505052  0.258105  1
+  F  F27  1  0.784256  0.644283  0.002073  1
+  F  F28  1  0.951246  0.245094  0.479508  1
+  F  F29  1  0.970301  0.052221  0.142216  1

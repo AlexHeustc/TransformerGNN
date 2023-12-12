@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Li17(MnAs2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.32981808
+_cell_length_b   8.75607044
+_cell_length_c   6.17988696
+_cell_angle_alpha   89.95952468
+_cell_angle_beta   89.99734720
+_cell_angle_gamma   45.05513874
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li17(MnAs2)4
+_chemical_formula_sum   'Li17 Mn4 As8'
+_cell_volume   472.22480275
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.138915  0.232123  0.751053  1
+  As  As1  1  0.128932  0.738300  0.750040  1
+  As  As2  1  0.374115  0.259668  0.249003  1
+  As  As3  1  0.375877  0.735214  0.248724  1
+  As  As4  1  0.622652  0.243255  0.748948  1
+  As  As5  1  0.875619  0.245745  0.250376  1
+  As  As6  1  0.617899  0.757544  0.749882  1
+  As  As7  1  0.874740  0.760389  0.241671  1
+  Li  Li8  1  0.117105  0.018868  0.002422  1
+  Li  Li9  1  0.119158  0.012555  0.499602  1
+  Li  Li10  1  0.374960  0.997094  0.035180  1
+  Li  Li11  1  0.375240  0.996638  0.470431  1
+  Li  Li12  1  0.126368  0.485452  0.005766  1
+  Li  Li13  1  0.384965  0.238126  0.758619  1
+  Li  Li14  1  0.130865  0.750125  0.238861  1
+  Li  Li15  1  0.375834  0.496770  0.995759  1
+  Li  Li16  1  0.622273  0.979327  0.021700  1
+  Li  Li17  1  0.624355  0.983833  0.483327  1
+  Li  Li18  1  0.375368  0.497174  0.502313  1
+  Li  Li19  1  0.620953  0.243939  0.238843  1
+  Li  Li20  1  0.364234  0.762490  0.760072  1
+  Li  Li21  1  0.875249  0.028159  0.975604  1
+  Li  Li22  1  0.877680  0.015287  0.514570  1
+  Li  Li23  1  0.630206  0.502294  1.000564  1
+  Li  Li24  1  0.862063  0.791462  0.763510  1
+  Mn  Mn25  1  0.124883  0.490411  0.493134  1
+  Mn  Mn26  1  0.627142  0.500873  0.501343  1
+  Mn  Mn27  1  0.877660  0.493303  -0.001975  1
+  Mn  Mn28  1  0.879686  0.493583  0.500657  1

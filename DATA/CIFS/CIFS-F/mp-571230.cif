@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Dy4InRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.65731059
+_cell_length_b   9.65731007
+_cell_length_c   9.65730974
+_cell_angle_alpha   59.99999763
+_cell_angle_beta   59.99999941
+_cell_angle_gamma   59.99999579
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy4InRh
+_chemical_formula_sum   'Dy16 In4 Rh4'
+_cell_volume   636.87399172
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.810909  0.810909  0.189091  1
+  Dy  Dy1  1  0.810909  0.189091  0.189091  1
+  Dy  Dy2  1  0.189091  0.810909  0.189091  1
+  Dy  Dy3  1  0.562067  0.937933  0.937933  1
+  Dy  Dy4  1  0.349811  0.349811  0.950568  1
+  Dy  Dy5  1  0.937933  0.562067  0.937933  1
+  Dy  Dy6  1  0.349811  0.950568  0.349811  1
+  Dy  Dy7  1  0.189091  0.810909  0.810909  1
+  Dy  Dy8  1  0.562067  0.562067  0.937933  1
+  Dy  Dy9  1  0.937933  0.562067  0.562067  1
+  Dy  Dy10  1  0.937933  0.937933  0.562067  1
+  Dy  Dy11  1  0.562067  0.937933  0.562067  1
+  Dy  Dy12  1  0.349811  0.349811  0.349811  1
+  Dy  Dy13  1  0.189091  0.189091  0.810909  1
+  Dy  Dy14  1  0.810909  0.189091  0.810909  1
+  Dy  Dy15  1  0.950568  0.349811  0.349811  1
+  In  In16  1  0.582733  0.582733  0.251801  1
+  In  In17  1  0.251801  0.582733  0.582733  1
+  In  In18  1  0.582733  0.582733  0.582733  1
+  In  In19  1  0.582733  0.251801  0.582733  1
+  Rh  Rh20  1  0.142503  0.572490  0.142503  1
+  Rh  Rh21  1  0.572490  0.142503  0.142503  1
+  Rh  Rh22  1  0.142503  0.142503  0.572490  1
+  Rh  Rh23  1  0.142503  0.142503  0.142503  1

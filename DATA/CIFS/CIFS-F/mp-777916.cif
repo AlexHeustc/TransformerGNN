@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Li4Fe3Cu3(TeO8)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01719525
+_cell_length_b   5.91719352
+_cell_length_c   9.86472545
+_cell_angle_alpha   90.01826956
+_cell_angle_beta   87.55297099
+_cell_angle_gamma   119.53457123
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Fe3Cu3(TeO8)2
+_chemical_formula_sum   'Li4 Fe3 Cu3 Te2 O16'
+_cell_volume   305.22744612
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.326603  0.663219  0.915450  1
+  Li  Li1  1  0.997705  0.999280  0.983849  1
+  Li  Li2  1  0.005356  0.002545  0.479259  1
+  Li  Li3  1  0.683034  0.341637  0.413367  1
+  Fe  Fe4  1  0.658851  0.829501  0.214440  1
+  Fe  Fe5  1  0.822744  0.657898  0.712943  1
+  Fe  Fe6  1  0.822739  0.164808  0.712910  1
+  Cu  Cu7  1  0.172478  0.832511  0.209526  1
+  Cu  Cu8  1  0.172475  0.339968  0.209470  1
+  Cu  Cu9  1  0.338054  0.168832  0.708026  1
+  Te  Te10  1  0.342080  0.671109  0.483004  1
+  Te  Te11  1  0.655428  0.327531  0.983321  1
+  O  O12  1  0.163465  0.824148  0.586606  1
+  O  O13  1  0.058417  0.529816  0.350033  1
+  O  O14  1  0.332619  0.666754  0.118573  1
+  O  O15  1  0.004773  0.002001  0.289082  1
+  O  O16  1  0.001181  0.000768  0.793794  1
+  O  O17  1  0.162968  0.339359  0.586432  1
+  O  O18  1  0.515143  0.977035  0.361544  1
+  O  O19  1  0.514313  0.537691  0.361469  1
+  O  O20  1  0.320130  0.159579  0.087513  1
+  O  O21  1  0.650981  0.825366  0.600222  1
+  O  O22  1  0.521728  0.487908  0.855853  1
+  O  O23  1  0.522287  0.033229  0.855963  1
+  O  O24  1  0.668733  0.334210  0.612954  1
+  O  O25  1  0.804382  0.646041  0.087151  1
+  O  O26  1  0.956561  0.478533  0.847756  1
+  O  O27  1  0.804769  0.159023  0.087329  1

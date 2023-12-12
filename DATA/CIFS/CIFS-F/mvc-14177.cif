@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MgTiF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09546467
+_cell_length_b   5.09547028
+_cell_length_c   6.29136684
+_cell_angle_alpha   114.42593501
+_cell_angle_beta   114.19429250
+_cell_angle_gamma   90.09767997
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTiF4
+_chemical_formula_sum   'Mg2 Ti2 F8'
+_cell_volume   132.75063785
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.252339  0.248217  0.500364  1
+  Mg  Mg1  1  0.751629  0.747049  0.497730  1
+  Ti  Ti2  1  0.997890  0.500318  0.999228  1
+  Ti  Ti3  1  0.497894  0.000631  0.999111  1
+  F  F4  1  0.878723  0.381669  0.255366  1
+  F  F5  1  0.617436  0.119236  0.739998  1
+  F  F6  1  0.116766  0.615956  0.740484  1
+  F  F7  1  0.117809  0.116723  0.742393  1
+  F  F8  1  0.376797  0.880446  0.255052  1
+  F  F9  1  0.380616  0.382124  0.258816  1
+  F  F10  1  0.878262  0.883749  0.257912  1
+  F  F11  1  0.618413  0.621505  0.743968  1

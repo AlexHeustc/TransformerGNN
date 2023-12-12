@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ti6AgS12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.26051178
+_cell_length_b   5.92671015
+_cell_length_c   8.77077872
+_cell_angle_alpha   70.16857631
+_cell_angle_beta   54.06605393
+_cell_angle_gamma   89.98519420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti6AgS12
+_chemical_formula_sum   'Ti6 Ag1 S12'
+_cell_volume   392.16115021
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.080869  0.742989  0.505102  1
+  Ti  Ti1  1  0.241968  0.240084  0.515382  1
+  Ti  Ti2  1  0.412927  0.742588  0.506952  1
+  Ti  Ti3  1  0.584321  0.255755  0.497436  1
+  Ti  Ti4  1  0.756404  0.758847  0.487040  1
+  Ti  Ti5  1  0.918384  0.256259  0.495840  1
+  Ag  Ag6  1  0.500076  0.499446  0.001454  1
+  S  S7  1  0.030377  0.695725  0.276936  1
+  S  S8  1  0.192289  0.188881  0.283089  1
+  S  S9  1  0.357843  0.689815  0.284744  1
+  S  S10  1  0.136201  0.800410  0.726117  1
+  S  S11  1  0.305368  0.303103  0.725734  1
+  S  S12  1  0.524324  0.188251  0.284039  1
+  S  S13  1  0.691688  0.695067  0.278003  1
+  S  S14  1  0.473852  0.809678  0.719540  1
+  S  S15  1  0.861323  0.199288  0.276608  1
+  S  S16  1  0.640866  0.308877  0.718128  1
+  S  S17  1  0.806977  0.810466  0.718362  1
+  S  S18  1  0.968407  0.303757  0.724559  1

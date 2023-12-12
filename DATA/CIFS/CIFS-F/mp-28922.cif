@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ca2Si5N8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63760775
+_cell_length_b   7.74742297
+_cell_length_c   9.75314351
+_cell_angle_alpha   110.36539719
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.33606490
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Si5N8
+_chemical_formula_sum   'Ca4 Si10 N16'
+_cell_volume   368.05755310
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.278553  0.590975  0.916014  1
+  N  N1  1  0.312423  0.590975  0.416014  1
+  N  N2  1  0.786176  0.261922  0.772798  1
+  N  N3  1  0.475746  0.261922  0.272798  1
+  N  N4  1  0.847741  0.667887  0.435265  1
+  N  N5  1  0.820146  0.667887  0.935265  1
+  N  N6  1  0.977930  0.962397  0.717521  1
+  N  N7  1  0.984468  0.962397  0.217521  1
+  N  N8  1  0.550876  0.606644  0.675990  1
+  N  N9  1  0.055768  0.606644  0.175990  1
+  N  N10  1  0.037170  0.590578  0.669719  1
+  N  N11  1  0.553407  0.590578  0.169719  1
+  N  N12  1  0.139474  0.257313  0.496790  1
+  N  N13  1  0.117839  0.257313  0.996790  1
+  N  N14  1  0.348330  0.973546  0.429836  1
+  N  N15  1  0.625216  0.973546  0.929836  1
+  Si  Si16  1  0.857800  0.711226  0.626402  1
+  Si  Si17  1  0.853426  0.711226  0.126402  1
+  Si  Si18  1  0.570432  0.724947  0.868108  1
+  Si  Si19  1  0.154515  0.724947  0.368108  1
+  Si  Si20  1  0.250956  0.508480  0.563105  1
+  Si  Si21  1  0.257524  0.508480  0.063105  1
+  Si  Si22  1  0.965223  0.511229  0.818135  1
+  Si  Si23  1  0.546005  0.511229  0.318135  1
+  Si  Si24  1  0.862959  0.115356  0.853115  1
+  Si  Si25  1  0.252397  0.115356  0.353115  1
+  Ca  Ca26  1  0.356285  0.218280  0.696621  1
+  Ca  Ca27  1  0.861995  0.218280  0.196621  1
+  Ca  Ca28  1  0.765091  0.002019  0.502480  1
+  Ca  Ca29  1  0.236928  0.002019  0.002480  1

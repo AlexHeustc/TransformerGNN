@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_Ba3As14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.93790886
+_cell_length_b   10.39534436
+_cell_length_c   13.94995109
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.18213733
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3As14
+_chemical_formula_sum   'Ba6 As28'
+_cell_volume   1006.09261597
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.101616  0.814369  0.500191  1
+  As  As1  1  0.398384  0.685631  0.000191  1
+  As  As2  1  0.898384  0.185631  0.499809  1
+  As  As3  1  0.601616  0.314369  0.999809  1
+  As  As4  1  0.894196  0.856789  0.354435  1
+  As  As5  1  0.605804  0.643211  0.854435  1
+  As  As6  1  0.105804  0.143211  0.645565  1
+  As  As7  1  0.394196  0.356789  0.145565  1
+  As  As8  1  0.569497  0.178361  0.560099  1
+  As  As9  1  0.930503  0.321639  0.060099  1
+  As  As10  1  0.430503  0.821639  0.439901  1
+  As  As11  1  0.069497  0.678361  0.939901  1
+  As  As12  1  0.678783  0.030924  0.185921  1
+  As  As13  1  0.821217  0.469076  0.685921  1
+  As  As14  1  0.321217  0.969076  0.814079  1
+  As  As15  1  0.178783  0.530924  0.314078  1
+  As  As16  1  0.442894  0.127478  0.080520  1
+  As  As17  1  0.057106  0.372522  0.580520  1
+  As  As18  1  0.557106  0.872522  0.919480  1
+  As  As19  1  0.942894  0.627478  0.419480  1
+  As  As20  1  0.119143  0.866043  0.220474  1
+  As  As21  1  0.380857  0.633957  0.720474  1
+  As  As22  1  0.880857  0.133957  0.779526  1
+  As  As23  1  0.619143  0.366043  0.279526  1
+  As  As24  1  0.875436  0.223669  0.219404  1
+  As  As25  1  0.624564  0.276330  0.719404  1
+  As  As26  1  0.124564  0.776331  0.780596  1
+  As  As27  1  0.375436  0.723669  0.280596  1
+  Ba  Ba28  1  0.000000  0.000000  0.000000  1
+  Ba  Ba29  1  0.500000  0.500000  0.500000  1
+  Ba  Ba30  1  0.813383  0.616493  0.158012  1
+  Ba  Ba31  1  0.686617  0.883507  0.658012  1
+  Ba  Ba32  1  0.186617  0.383507  0.841988  1
+  Ba  Ba33  1  0.313383  0.116493  0.341988  1

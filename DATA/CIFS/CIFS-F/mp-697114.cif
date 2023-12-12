@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_MgH12SO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29926590
+_cell_length_b   4.89642592
+_cell_length_c   6.82065963
+_cell_angle_alpha   92.08965500
+_cell_angle_beta   116.18874809
+_cell_angle_gamma   90.86520318
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgH12SO9
+_chemical_formula_sum   'Mg1 H12 S1 O9'
+_cell_volume   188.53986299
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.784358  0.015779  0.424834  1
+  H  H1  1  0.863658  0.557244  0.566375  1
+  H  H2  1  0.442258  0.587677  0.506201  1
+  H  H3  1  0.539831  0.603574  0.100788  1
+  H  H4  1  0.742694  0.252184  0.779127  1
+  H  H5  1  0.366823  0.890393  0.526381  1
+  H  H6  1  0.218557  0.449258  0.821711  1
+  H  H7  1  0.622644  0.858992  0.022588  1
+  H  H8  1  0.257484  0.076520  0.038916  1
+  H  H9  1  0.413625  0.286181  0.796261  1
+  H  H10  1  0.842612  0.821248  0.917679  1
+  H  H11  1  0.716755  0.802574  0.832136  1
+  H  H12  1  0.115653  0.685282  0.574876  1
+  S  S13  1  0.093341  0.302378  0.207825  1
+  O  O14  1  0.368138  0.706726  0.579240  1
+  O  O15  1  0.632277  0.173604  0.624148  1
+  O  O16  1  0.642291  0.371607  0.466881  1
+  O  O17  1  0.591912  0.798772  0.143361  1
+  O  O18  1  0.854026  0.342039  0.021749  1
+  O  O19  1  0.349442  0.328425  0.900902  1
+  O  O20  1  0.052838  0.188751  0.394684  1
+  O  O21  1  0.187597  0.019230  0.137728  1
+  O  O22  1  -0.017974  0.721982  0.615611  1

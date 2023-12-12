@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_La6Cu6O17
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.75233011
+_cell_length_b   6.76437491
+_cell_length_c   10.46943997
+_cell_angle_alpha   89.90195533
+_cell_angle_beta   90.03426129
+_cell_angle_gamma   120.05958252
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La6Cu6O17
+_chemical_formula_sum   'La6 Cu6 O17'
+_cell_volume   413.87929739
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.333926  0.665351  0.480581  1
+  La  La1  1  0.999381  0.001403  0.003557  1
+  La  La2  1  0.000272  0.998324  0.496484  1
+  La  La3  1  0.333220  0.668286  0.019455  1
+  La  La4  1  0.666516  0.334790  0.959667  1
+  La  La5  1  0.666931  0.331947  0.540374  1
+  Cu  Cu6  1  0.169416  0.831913  0.750131  1
+  Cu  Cu7  1  0.169005  0.337241  0.749977  1
+  Cu  Cu8  1  0.341739  0.170930  0.249936  1
+  Cu  Cu9  1  0.662173  0.831466  0.749869  1
+  Cu  Cu10  1  0.829113  0.657890  0.249819  1
+  Cu  Cu11  1  0.829204  0.171095  0.250128  1
+  O  O12  1  0.034607  0.694853  0.906399  1
+  O  O13  1  0.308078  0.963934  0.593586  1
+  O  O14  1  0.034775  0.339706  0.593680  1
+  O  O15  1  0.000039  0.999796  0.250006  1
+  O  O16  1  0.000656  0.000573  0.750042  1
+  O  O17  1  0.332693  0.665980  0.750006  1
+  O  O18  1  0.307034  0.343467  0.906513  1
+  O  O19  1  0.657776  0.967707  0.904947  1
+  O  O20  1  0.342603  0.329657  0.396909  1
+  O  O21  1  0.658430  0.690835  0.594947  1
+  O  O22  1  0.341288  0.012163  0.103154  1
+  O  O23  1  0.670103  0.658634  0.102734  1
+  O  O24  1  0.665880  0.333558  0.750011  1
+  O  O25  1  0.666597  0.333233  0.249931  1
+  O  O26  1  0.987665  0.657120  0.397074  1
+  O  O27  1  0.670606  0.011214  0.397312  1
+  O  O28  1  0.987273  0.330635  0.102768  1

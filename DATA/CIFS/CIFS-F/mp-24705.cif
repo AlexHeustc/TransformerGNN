@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrCaB5H2ClO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42453403
+_cell_length_b   6.58036042
+_cell_length_c   6.73748072
+_cell_angle_alpha   78.65943393
+_cell_angle_beta   61.44467081
+_cell_angle_gamma   60.88488411
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCaB5H2ClO10
+_chemical_formula_sum   'Sr1 Ca1 B5 H2 Cl1 O10'
+_cell_volume   218.33177159
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.055125  0.101117  0.247075  1
+  H  H1  1  0.770926  0.166446  0.272340  1
+  B  B2  1  0.564521  0.610153  0.168104  1
+  B  B3  1  0.351104  0.645118  0.619671  1
+  B  B4  1  0.000737  0.497507  0.831931  1
+  B  B5  1  0.592075  0.723406  0.779040  1
+  B  B6  1  0.210585  0.052482  0.738972  1
+  O  O7  1  0.456790  0.664180  0.016720  1
+  O  O8  1  0.898134  0.073295  0.335844  1
+  O  O9  1  0.390004  0.613200  0.389693  1
+  O  O10  1  0.151057  0.894581  0.698084  1
+  O  O11  1  0.604645  0.589517  0.616813  1
+  O  O12  1  0.255174  0.484054  0.774622  1
+  O  O13  1  0.017923  0.278510  0.773214  1
+  O  O14  1  0.833037  0.537248  0.089235  1
+  O  O15  1  0.856280  0.686452  0.720791  1
+  O  O16  1  0.440933  0.979852  0.756755  1
+  Cl  Cl17  1  0.453449  0.135489  0.203747  1
+  Ca  Ca18  1  0.690689  0.168288  0.744706  1
+  Sr  Sr19  1  0.031731  0.623436  0.292742  1

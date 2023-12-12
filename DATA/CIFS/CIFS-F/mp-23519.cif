@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ga4Bi2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00303470
+_cell_length_b   7.99755399
+_cell_length_c   8.50614261
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga4Bi2O9
+_chemical_formula_sum   'Ga8 Bi4 O18'
+_cell_volume   408.37645421
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.241081  0.500000  0.000000  1
+  Ga  Ga1  1  0.758919  0.000000  0.500000  1
+  Ga  Ga2  1  0.000000  0.854160  0.162302  1
+  Ga  Ga3  1  0.000000  0.645840  0.662302  1
+  Ga  Ga4  1  0.241081  0.000000  0.500000  1
+  Ga  Ga5  1  0.000000  0.145840  0.837698  1
+  Ga  Ga6  1  0.758919  0.500000  0.000000  1
+  Ga  Ga7  1  0.000000  0.354160  0.337698  1
+  Bi  Bi8  1  0.500000  0.320843  0.679092  1
+  Bi  Bi9  1  0.500000  0.820843  0.820908  1
+  Bi  Bi10  1  0.500000  0.179157  0.179092  1
+  Bi  Bi11  1  0.500000  0.679157  0.320908  1
+  O  O12  1  0.500000  0.152161  0.439376  1
+  O  O13  1  0.742924  0.878765  0.288145  1
+  O  O14  1  0.257076  0.621235  0.788145  1
+  O  O15  1  0.257076  0.878765  0.288145  1
+  O  O16  1  0.500000  0.847839  0.560624  1
+  O  O17  1  0.000000  0.135907  0.412804  1
+  O  O18  1  0.000000  0.864093  0.587196  1
+  O  O19  1  0.000000  0.635907  0.087196  1
+  O  O20  1  0.000000  0.364093  0.912804  1
+  O  O21  1  0.000000  0.500000  0.500000  1
+  O  O22  1  0.742924  0.121235  0.711855  1
+  O  O23  1  0.500000  0.347839  0.939376  1
+  O  O24  1  0.742924  0.378765  0.211855  1
+  O  O25  1  0.742924  0.621235  0.788145  1
+  O  O26  1  0.000000  0.000000  0.000000  1
+  O  O27  1  0.500000  0.652161  0.060624  1
+  O  O28  1  0.257076  0.121235  0.711855  1
+  O  O29  1  0.257076  0.378765  0.211855  1

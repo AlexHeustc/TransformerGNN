@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ce2HfSe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.97107579
+_cell_length_b   7.70753931
+_cell_length_c   8.44992517
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2HfSe5
+_chemical_formula_sum   'Ce8 Hf4 Se20'
+_cell_volume   779.65378525
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.173709  0.051909  0.998532  1
+  Ce  Ce1  1  0.326291  0.551909  0.001468  1
+  Ce  Ce2  1  0.673709  0.448093  0.501468  1
+  Ce  Ce3  1  0.826291  0.948092  0.498532  1
+  Ce  Ce4  1  0.826291  0.948092  0.001468  1
+  Ce  Ce5  1  0.673709  0.448093  0.998532  1
+  Ce  Ce6  1  0.326291  0.551909  0.498532  1
+  Ce  Ce7  1  0.173709  0.051909  0.501468  1
+  Hf  Hf8  1  0.009105  0.575331  0.250000  1
+  Hf  Hf9  1  0.490895  0.075331  0.749999  1
+  Hf  Hf10  1  0.509105  0.924670  0.250000  1
+  Hf  Hf11  1  0.990895  0.424669  0.749999  1
+  Se  Se12  1  0.291037  0.834795  0.250000  1
+  Se  Se13  1  0.208964  0.334794  0.749999  1
+  Se  Se14  1  0.791037  0.665205  0.250000  1
+  Se  Se15  1  0.708964  0.165206  0.749999  1
+  Se  Se16  1  0.505723  0.554811  0.250000  1
+  Se  Se17  1  0.994278  0.054811  0.749999  1
+  Se  Se18  1  0.005723  0.945190  0.250000  1
+  Se  Se19  1  0.494278  0.445189  0.749999  1
+  Se  Se20  1  0.189810  0.353330  0.250000  1
+  Se  Se21  1  0.310190  0.853330  0.749999  1
+  Se  Se22  1  0.689810  0.146670  0.250000  1
+  Se  Se23  1  0.810190  0.646670  0.749999  1
+  Se  Se24  1  0.422975  0.176371  0.037699  1
+  Se  Se25  1  0.077025  0.676371  0.962300  1
+  Se  Se26  1  0.922974  0.323629  0.462300  1
+  Se  Se27  1  0.577026  0.823628  0.537699  1
+  Se  Se28  1  0.577026  0.823628  0.962300  1
+  Se  Se29  1  0.922974  0.323629  0.037699  1
+  Se  Se30  1  0.077025  0.676371  0.537699  1
+  Se  Se31  1  0.422975  0.176371  0.462300  1

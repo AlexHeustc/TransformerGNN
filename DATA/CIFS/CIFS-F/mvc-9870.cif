@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HoMg(BiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71509631
+_cell_length_b   5.97199006
+_cell_length_c   8.53627612
+_cell_angle_alpha   89.99141872
+_cell_angle_beta   89.99874698
+_cell_angle_gamma   89.93077673
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoMg(BiO3)2
+_chemical_formula_sum   'Ho2 Mg2 Bi4 O12'
+_cell_volume   291.34714221
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.020750  0.932470  0.749994  1
+  Ho  Ho1  1  0.521047  0.568453  0.249994  1
+  Mg  Mg2  1  0.509873  0.502466  0.749985  1
+  Mg  Mg3  1  0.009836  0.996921  0.250014  1
+  Bi  Bi4  1  0.005080  0.488026  0.001384  1
+  Bi  Bi5  1  0.005078  0.488023  0.498617  1
+  Bi  Bi6  1  0.505189  0.012215  0.501389  1
+  Bi  Bi7  1  0.505183  0.012206  0.998608  1
+  O  O8  1  0.158172  0.402864  0.249896  1
+  O  O9  1  0.157229  0.160865  0.927511  1
+  O  O10  1  0.157251  0.160791  0.572546  1
+  O  O11  1  0.319339  0.684872  0.910737  1
+  O  O12  1  0.319445  0.684858  0.589329  1
+  O  O13  1  0.344141  0.907732  0.249942  1
+  O  O14  1  0.659404  0.097473  0.750073  1
+  O  O15  1  0.658315  0.339853  0.427494  1
+  O  O16  1  0.658408  0.339842  0.072434  1
+  O  O17  1  0.820629  0.814312  0.089311  1
+  O  O18  1  0.820674  0.814390  0.410650  1
+  O  O19  1  0.844952  0.591367  0.750090  1

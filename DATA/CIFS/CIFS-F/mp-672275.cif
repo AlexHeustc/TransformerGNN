@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ce3(Ge3Pd10)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.87993284
+_cell_length_b   8.88002483
+_cell_length_c   8.88020078
+_cell_angle_alpha   59.99934279
+_cell_angle_beta   59.99847378
+_cell_angle_gamma   59.99943543
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3(Ge3Pd10)2
+_chemical_formula_sum   'Ce3 Ge6 Pd20'
+_cell_volume   495.13386268
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  -0.000001  0.999998  0.000003  1
+  Ce  Ce1  1  0.250012  0.250001  0.249988  1
+  Ce  Ce2  1  0.750009  0.750009  0.749979  1
+  Ge  Ge3  1  0.731337  0.268657  0.268654  1
+  Ge  Ge4  1  0.268668  0.731334  0.268657  1
+  Ge  Ge5  1  0.731349  0.731350  0.268650  1
+  Ge  Ge6  1  0.268658  0.731347  0.731353  1
+  Ge  Ge7  1  0.268642  0.268642  0.731357  1
+  Ge  Ge8  1  0.731336  0.268661  0.731347  1
+  Pd  Pd9  1  0.381708  0.381749  0.854767  1
+  Pd  Pd10  1  0.651157  0.000402  0.348074  1
+  Pd  Pd11  1  0.000367  0.000350  0.348166  1
+  Pd  Pd12  1  0.348068  0.651229  0.000362  1
+  Pd  Pd13  1  0.348118  0.000309  0.000365  1
+  Pd  Pd14  1  0.381695  0.381745  0.381769  1
+  Pd  Pd15  1  0.000331  0.348142  0.000374  1
+  Pd  Pd16  1  0.651168  0.000394  0.000349  1
+  Pd  Pd17  1  0.000386  0.651131  0.000358  1
+  Pd  Pd18  1  0.000312  0.348144  0.651177  1
+  Pd  Pd19  1  0.617797  0.617742  0.146739  1
+  Pd  Pd20  1  0.617799  0.617740  0.617720  1
+  Pd  Pd21  1  0.348094  0.000337  0.651201  1
+  Pd  Pd22  1  0.146810  0.617761  0.617712  1
+  Pd  Pd23  1  0.000340  0.000359  0.651133  1
+  Pd  Pd24  1  0.617801  0.146789  0.617706  1
+  Pd  Pd25  1  0.651211  0.348054  0.000359  1
+  Pd  Pd26  1  0.000380  0.651149  0.348137  1
+  Pd  Pd27  1  0.854749  0.381726  0.381765  1
+  Pd  Pd28  1  0.381699  0.854749  0.381776  1

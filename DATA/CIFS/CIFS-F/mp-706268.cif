@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_BaAlSi5N7O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44768369
+_cell_length_b   11.67294488
+_cell_length_c   9.49383993
+_cell_angle_alpha   35.57841224
+_cell_angle_beta   75.37155384
+_cell_angle_gamma   78.14686237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaAlSi5N7O2
+_chemical_formula_sum   'Ba2 Al2 Si10 N14 O4'
+_cell_volume   402.25438308
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.802965  0.917777  0.005023  1
+  Ba  Ba1  1  0.802965  0.582223  0.840577  1
+  Al  Al2  1  0.617048  0.213444  0.028936  1
+  Al  Al3  1  0.617048  0.286556  0.455825  1
+  Si  Si4  1  0.138662  0.083766  0.106020  1
+  Si  Si5  1  0.138662  0.416234  0.273553  1
+  Si  Si6  1  0.078047  0.063380  0.491193  1
+  Si  Si7  1  0.078047  0.436620  0.617954  1
+  Si  Si8  1  0.191867  0.796989  0.259459  1
+  Si  Si9  1  0.465721  0.757468  0.001020  1
+  Si  Si10  1  0.191867  0.703011  0.853437  1
+  Si  Si11  1  0.465721  0.742532  0.515956  1
+  Si  Si12  1  0.428979  0.462350  0.618115  1
+  Si  Si13  1  0.428979  0.037650  0.542815  1
+  N  N14  1  0.102055  0.986391  0.382555  1
+  N  N15  1  0.202915  0.718251  0.155965  1
+  N  N16  1  0.102055  0.513609  0.355337  1
+  N  N17  1  0.597655  0.078494  0.330683  1
+  N  N18  1  0.437863  0.739504  0.340966  1
+  N  N19  1  0.202915  0.781749  0.592468  1
+  N  N20  1  0.518236  0.484956  0.762791  1
+  N  N21  1  0.597655  0.421506  0.487671  1
+  N  N22  1  0.939395  0.255830  0.400286  1
+  N  N23  1  0.437863  0.760496  0.819973  1
+  N  N24  1  0.518236  0.015044  0.732703  1
+  N  N25  1  0.939395  0.244170  0.911946  1
+  N  N26  1  0.644367  0.919556  0.369347  1
+  N  N27  1  0.644367  0.580444  0.208459  1
+  O  O28  1  0.399816  0.322005  0.315327  1
+  O  O29  1  0.399816  0.177996  0.959336  1
+  O  O30  1  0.976048  0.846511  0.785641  1
+  O  O31  1  0.976048  0.653489  0.478664  1

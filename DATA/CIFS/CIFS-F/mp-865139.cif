@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LiV2CrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.45210045
+_cell_length_b   5.45072166
+_cell_length_c   5.45035812
+_cell_angle_alpha   55.00552181
+_cell_angle_beta   54.99615731
+_cell_angle_gamma   54.99938219
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiV2CrO6
+_chemical_formula_sum   'Li1 V2 Cr1 O6'
+_cell_volume   101.20913020
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.280146  0.280335  0.280058  1
+  V  V1  1  0.002949  0.002746  0.002900  1
+  V  V2  1  0.495887  0.495719  0.495782  1
+  Cr  Cr3  1  0.802298  0.802277  0.802196  1
+  O  O4  1  0.106525  0.722289  0.394910  1
+  O  O5  1  0.395201  0.106516  0.722367  1
+  O  O6  1  0.722579  0.395075  0.106182  1
+  O  O7  1  0.225129  0.618362  0.851995  1
+  O  O8  1  0.618160  0.851996  0.225366  1
+  O  O9  1  0.851926  0.225484  0.618242  1

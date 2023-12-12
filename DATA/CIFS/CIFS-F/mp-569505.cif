@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TbRe2SiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97862352
+_cell_length_b   5.81022829
+_cell_length_c   7.27112278
+_cell_angle_alpha   90.01951554
+_cell_angle_beta   90.01859805
+_cell_angle_gamma   110.03430208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbRe2SiC
+_chemical_formula_sum   'Tb2 Re4 Si2 C2'
+_cell_volume   157.91323862
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.043193  0.086093  0.750117  1
+  Tb  Tb1  1  0.956896  0.914078  0.249882  1
+  Re  Re2  1  0.326523  0.652348  0.562381  1
+  Re  Re3  1  0.673458  0.347709  0.437558  1
+  Si  Si4  1  0.765551  0.530454  0.750940  1
+  Re  Re5  1  0.672523  0.346498  0.063068  1
+  Re  Re6  1  0.327409  0.653288  0.936994  1
+  Si  Si7  1  0.234466  0.469590  0.249061  1
+  C  C8  1  0.499989  -0.000028  0.999994  1
+  C  C9  1  0.499992  0.999972  0.500006  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2NaGaP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43774092
+_cell_length_b   6.65513059
+_cell_length_c   8.65965257
+_cell_angle_alpha   112.60629094
+_cell_angle_beta   111.82105204
+_cell_angle_gamma   89.99999996
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaGaP2
+_chemical_formula_sum   'K4 Na2 Ga2 P4'
+_cell_volume   313.51724664
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.749986  0.000000  0.000000  1
+  Na  Na1  1  0.250014  0.000000  0.000000  1
+  P  P2  1  0.591921  0.790952  0.183842  1
+  P  P3  1  0.408079  0.209048  0.816158  1
+  P  P4  1  0.908145  0.607144  0.816289  1
+  P  P5  1  0.091855  0.392856  0.183711  1
+  K  K6  1  0.825350  0.072082  0.650700  1
+  K  K7  1  0.174650  0.927918  0.349300  1
+  K  K8  1  0.674694  0.421243  0.349388  1
+  K  K9  1  0.325306  0.578757  0.650612  1
+  Ga  Ga10  1  0.250063  0.500000  0.000000  1
+  Ga  Ga11  1  0.749937  0.500000  0.000000  1

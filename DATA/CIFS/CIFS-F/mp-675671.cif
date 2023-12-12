@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Sc(VN)9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86144559
+_cell_length_b   16.23712922
+_cell_length_c   7.71363727
+_cell_angle_alpha   18.20222042
+_cell_angle_beta   55.53660109
+_cell_angle_gamma   51.18829082
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc(VN)9
+_chemical_formula_sum   'Sc1 V9 N9'
+_cell_volume   177.37059770
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.400000  0.700000  0.500000  1
+  V  V1  1  0.202180  0.105718  0.473622  1
+  V  V2  1  0.066812  0.302936  0.504017  1
+  V  V3  1  0.733188  0.097064  0.495983  1
+  V  V4  1  0.021438  0.481911  0.525552  1
+  V  V5  1  0.597820  0.294282  0.526378  1
+  V  V6  1  0.494525  0.479014  0.535450  1
+  V  V7  1  0.305475  0.920986  0.464550  1
+  V  V8  1  0.900000  0.700000  0.500000  1
+  V  V9  1  0.778562  0.918089  0.474448  1
+  N  N10  1  0.992332  0.005401  0.983458  1
+  N  N11  1  0.303962  0.381702  0.031271  1
+  N  N12  1  0.900000  0.200000  0.000000  1
+  N  N13  1  0.189334  0.601912  0.009561  1
+  N  N14  1  0.807668  0.394599  0.016542  1
+  N  N15  1  0.111721  0.785791  0.022594  1
+  N  N16  1  0.688279  0.614209  0.977406  1
+  N  N17  1  0.610666  0.798088  0.990439  1
+  N  N18  1  0.496038  0.018298  0.968729  1

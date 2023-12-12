@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HoMg(CoO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13655199
+_cell_length_b   5.55135903
+_cell_length_c   7.41336904
+_cell_angle_alpha   90.05708961
+_cell_angle_beta   91.67411819
+_cell_angle_gamma   89.97462846
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoMg(CoO3)2
+_chemical_formula_sum   'Ho2 Mg2 Co4 O12'
+_cell_volume   211.30071017
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.021891  0.916818  0.746590  1
+  Ho  Ho1  1  0.521870  0.582783  0.246449  1
+  Mg  Mg2  1  0.474993  0.426416  0.753439  1
+  Mg  Mg3  1  0.975102  0.074520  0.253961  1
+  Co  Co4  1  0.000870  0.487764  0.997808  1
+  Co  Co5  1  0.004589  0.490182  0.500364  1
+  Co  Co6  1  0.501205  0.012745  0.497748  1
+  Co  Co7  1  0.504500  0.009538  0.000142  1
+  O  O8  1  0.110242  0.451184  0.236690  1
+  O  O9  1  0.210334  0.185588  0.935956  1
+  O  O10  1  0.200264  0.192944  0.561987  1
+  O  O11  1  0.310039  0.677548  0.941615  1
+  O  O12  1  0.301658  0.671612  0.562747  1
+  O  O13  1  0.365378  0.969889  0.264925  1
+  O  O14  1  0.609769  0.048377  0.736154  1
+  O  O15  1  0.710483  0.314267  0.435024  1
+  O  O16  1  0.699977  0.306467  0.061048  1
+  O  O17  1  0.802263  0.828197  0.062297  1
+  O  O18  1  0.809403  0.823407  0.441107  1
+  O  O19  1  0.865165  0.529753  0.763950  1

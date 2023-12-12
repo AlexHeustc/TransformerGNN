@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ErCu(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08166141
+_cell_length_b   5.98453273
+_cell_length_c   9.99109332
+_cell_angle_alpha   89.99041806
+_cell_angle_beta   92.81093900
+_cell_angle_gamma   90.00726602
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErCu(WO4)2
+_chemical_formula_sum   'Er2 Cu2 W4 O16'
+_cell_volume   303.47723388
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.405340  0.360990  0.136562  1
+  O  O1  1  0.094633  0.360867  0.363443  1
+  O  O2  1  0.594660  0.639010  0.863438  1
+  O  O3  1  0.905367  0.639133  0.636556  1
+  O  O4  1  0.449101  0.910370  0.610746  1
+  O  O5  1  0.050792  0.910457  0.889248  1
+  O  O6  1  0.550898  0.089630  0.389253  1
+  O  O7  1  0.949208  0.089543  0.110752  1
+  O  O8  1  0.895797  0.634334  0.112250  1
+  O  O9  1  0.604116  0.634301  0.387762  1
+  O  O10  1  0.104202  0.365667  0.887750  1
+  O  O11  1  0.395884  0.365700  0.612239  1
+  O  O12  1  0.436751  0.885428  0.097281  1
+  O  O13  1  0.563249  0.114572  0.902718  1
+  O  O14  1  0.063184  0.885455  0.402724  1
+  O  O15  1  0.936815  0.114545  0.597276  1
+  Cu  Cu16  1  0.250112  0.716131  0.750045  1
+  Cu  Cu17  1  0.749888  0.283869  0.249955  1
+  Er  Er18  1  0.749949  0.334064  0.749974  1
+  Er  Er19  1  0.250053  0.665934  0.250026  1
+  W  W20  1  0.248969  0.169015  0.011085  1
+  W  W21  1  0.751030  0.830985  0.988915  1
+  W  W22  1  0.251067  0.169014  0.488900  1
+  W  W23  1  0.748933  0.830986  0.511100  1

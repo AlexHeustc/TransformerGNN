@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sr3(AsO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53052281
+_cell_length_b   7.53062994
+_cell_length_c   7.53054463
+_cell_angle_alpha   44.27112709
+_cell_angle_beta   44.27078570
+_cell_angle_gamma   44.27186798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3(AsO4)2
+_chemical_formula_sum   'Sr3 As2 O8'
+_cell_volume   189.11453253
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000074  0.999942  0.999978  1
+  Sr  Sr1  1  0.204896  0.204924  0.204912  1
+  Sr  Sr2  1  0.795068  0.795101  0.795099  1
+  As  As3  1  0.592971  0.593009  0.593033  1
+  As  As4  1  0.407031  0.407009  0.406952  1
+  O  O5  1  0.268730  0.766247  0.268719  1
+  O  O6  1  0.233749  0.731238  0.731320  1
+  O  O7  1  0.677010  0.677155  0.677128  1
+  O  O8  1  0.322844  0.322985  0.322872  1
+  O  O9  1  0.731228  0.731343  0.233743  1
+  O  O10  1  0.268743  0.268708  0.766242  1
+  O  O11  1  0.766234  0.268761  0.268678  1
+  O  O12  1  0.731304  0.233778  0.731244  1

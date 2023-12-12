@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaMgCrBiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55880863
+_cell_length_b   5.76034137
+_cell_length_c   8.12273907
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.04940311
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaMgCrBiO6
+_chemical_formula_sum   'La2 Mg2 Cr2 Bi2 O12'
+_cell_volume   260.05946923
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.012708  0.943712  0.752385  1
+  La  La1  1  0.512708  0.556288  0.252385  1
+  Mg  Mg2  1  0.480906  0.450282  0.749358  1
+  Mg  Mg3  1  0.980906  0.049718  0.249358  1
+  Cr  Cr4  1  0.500325  0.005800  0.500451  1
+  Cr  Cr5  1  0.000325  0.494200  0.000451  1
+  Bi  Bi6  1  0.498199  0.004743  0.001877  1
+  Bi  Bi7  1  0.998199  0.495257  0.501877  1
+  O  O8  1  0.110501  0.416364  0.234280  1
+  O  O9  1  0.186106  0.218703  0.926157  1
+  O  O10  1  0.217398  0.194317  0.569357  1
+  O  O11  1  0.301153  0.666814  0.926210  1
+  O  O12  1  0.346347  0.695685  0.570170  1
+  O  O13  1  0.346355  0.953772  0.269755  1
+  O  O14  1  0.610501  0.083636  0.734280  1
+  O  O15  1  0.686106  0.281297  0.426157  1
+  O  O16  1  0.717398  0.305683  0.069357  1
+  O  O17  1  0.801153  0.833186  0.426210  1
+  O  O18  1  0.846347  0.804315  0.070170  1
+  O  O19  1  0.846355  0.546228  0.769755  1

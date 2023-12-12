@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Li3Fe10O7F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10324036
+_cell_length_b   6.20469473
+_cell_length_c   10.82204277
+_cell_angle_alpha   71.36699526
+_cell_angle_beta   89.38601957
+_cell_angle_gamma   61.71900526
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Fe10O7F9
+_chemical_formula_sum   'Li3 Fe10 O7 F9'
+_cell_volume   337.08878686
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.786346  0.443075  0.430583  1
+  Li  Li1  1  0.207784  0.559805  0.574190  1
+  Li  Li2  1  0.997621  0.005194  0.995547  1
+  Fe  Fe3  1  0.746152  0.021786  0.249282  1
+  Fe  Fe4  1  0.733886  0.486166  0.755828  1
+  Fe  Fe5  1  0.746276  0.997286  0.754659  1
+  Fe  Fe6  1  0.500580  0.491019  0.988901  1
+  Fe  Fe7  1  0.243191  0.016105  0.252132  1
+  Fe  Fe8  1  0.260158  0.499228  0.250003  1
+  Fe  Fe9  1  0.500109  0.996743  0.501862  1
+  Fe  Fe10  1  0.510585  0.013302  0.989537  1
+  Fe  Fe11  1  0.002552  0.496479  -0.000592  1
+  Fe  Fe12  1  0.251174  0.979197  0.748279  1
+  O  O13  1  0.585216  0.829978  0.366736  1
+  O  O14  1  0.632350  0.736143  0.884640  1
+  O  O15  1  0.896363  0.225108  0.122210  1
+  O  O16  1  0.649060  0.229792  0.881501  1
+  O  O17  1  0.117785  0.763922  0.881255  1
+  O  O18  1  0.361284  0.274089  0.120024  1
+  O  O19  1  0.408980  0.172465  0.632541  1
+  F  F20  1  0.899102  0.749073  0.127170  1
+  F  F21  1  0.876056  0.710453  0.638939  1
+  F  F22  1  0.871109  0.258009  0.628512  1
+  F  F23  1  0.607226  0.292858  0.366842  1
+  F  F24  1  0.374184  0.729123  0.625565  1
+  F  F25  1  0.371016  0.773195  0.115775  1
+  F  F26  1  0.125530  0.738630  0.368725  1
+  F  F27  1  0.112726  0.277514  0.369159  1
+  F  F28  1  0.125589  0.234272  0.880191  1

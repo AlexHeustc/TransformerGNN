@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_MgTi2(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43299127
+_cell_length_b   7.47314681
+_cell_length_c   7.47015918
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.04941151
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTi2(PO5)2
+_chemical_formula_sum   'Mg2 Ti4 P4 O20'
+_cell_volume   359.17919515
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.000000  0.000000  0.000000  1
+  Mg  Mg1  1  0.500000  0.500000  0.500000  1
+  Ti  Ti2  1  0.027778  0.294418  0.721499  1
+  Ti  Ti3  1  0.972222  0.705582  0.278501  1
+  Ti  Ti4  1  0.527778  0.794418  0.778501  1
+  Ti  Ti5  1  0.472222  0.205582  0.221499  1
+  P  P6  1  0.250196  0.005589  0.620224  1
+  P  P7  1  0.750196  0.505589  0.879776  1
+  P  P8  1  0.749804  0.994411  0.379776  1
+  P  P9  1  0.249804  0.494411  0.120224  1
+  O  O10  1  0.129010  0.571777  0.232867  1
+  O  O11  1  0.644917  0.585791  0.749614  1
+  O  O12  1  0.144917  0.085791  0.750386  1
+  O  O13  1  0.085727  0.824697  0.506555  1
+  O  O14  1  0.629010  0.071777  0.267133  1
+  O  O15  1  0.399674  0.185965  0.495777  1
+  O  O16  1  0.855083  0.914209  0.249614  1
+  O  O17  1  0.600326  0.814035  0.504223  1
+  O  O18  1  0.268519  0.499867  0.657843  1
+  O  O19  1  0.768519  -0.000133  0.842157  1
+  O  O20  1  0.100326  0.314035  0.995777  1
+  O  O21  1  0.585727  0.324697  0.993445  1
+  O  O22  1  0.731481  0.500133  0.342157  1
+  O  O23  1  0.914273  0.175303  0.493445  1
+  O  O24  1  0.870990  0.428223  0.767133  1
+  O  O25  1  0.231481  1.000133  0.157843  1
+  O  O26  1  0.899674  0.685965  0.004223  1
+  O  O27  1  0.370990  0.928223  0.732867  1
+  O  O28  1  0.355083  0.414209  0.250386  1
+  O  O29  1  0.414273  0.675303  0.006555  1

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Co21(B3Mo)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39443191
+_cell_length_b   7.39443229
+_cell_length_c   7.39443204
+_cell_angle_alpha   59.99999663
+_cell_angle_beta   59.99999493
+_cell_angle_gamma   59.99999838
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co21(B3Mo)2
+_chemical_formula_sum   'Co21 B6 Mo2'
+_cell_volume   285.89031376
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.000000  0.000000  0.000000  1
+  Co  Co1  1  0.381975  0.381975  0.381975  1
+  Co  Co2  1  0.618025  0.618025  0.145925  1
+  Co  Co3  1  0.145925  0.618025  0.618025  1
+  Co  Co4  1  0.618025  0.145925  0.618025  1
+  Co  Co5  1  0.854075  0.381975  0.381975  1
+  Co  Co6  1  0.381975  0.854075  0.381975  1
+  Co  Co7  1  0.381975  0.381975  0.854075  1
+  Co  Co8  1  0.618025  0.618025  0.618025  1
+  Co  Co9  1  0.338539  0.000000  0.000000  1
+  Co  Co10  1  0.000000  0.000000  0.338539  1
+  Co  Co11  1  0.338539  0.661461  0.000000  1
+  Co  Co12  1  1.000000  0.338539  0.661461  1
+  Co  Co13  1  0.000000  0.661461  0.338539  1
+  Co  Co14  1  1.000000  0.338539  0.000000  1
+  Co  Co15  1  0.338539  1.000000  0.661461  1
+  Co  Co16  1  0.661461  0.338539  1.000000  1
+  Co  Co17  1  0.000000  0.661461  1.000000  1
+  Co  Co18  1  0.661461  0.000000  0.338539  1
+  Co  Co19  1  1.000000  1.000000  0.661461  1
+  Co  Co20  1  0.661461  1.000000  1.000000  1
+  Mo  Mo21  1  0.250000  0.250000  0.250000  1
+  Mo  Mo22  1  0.750000  0.750000  0.750000  1
+  B  B23  1  0.725466  0.274534  0.274534  1
+  B  B24  1  0.725466  0.725466  0.274534  1
+  B  B25  1  0.274534  0.274534  0.725466  1
+  B  B26  1  0.725466  0.274534  0.725466  1
+  B  B27  1  0.274534  0.725466  0.274534  1
+  B  B28  1  0.274534  0.725466  0.725466  1

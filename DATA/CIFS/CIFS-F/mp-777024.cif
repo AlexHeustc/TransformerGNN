@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CeNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31928408
+_cell_length_b   5.71972727
+_cell_length_c   7.67099980
+_cell_angle_alpha   90.00456376
+_cell_angle_beta   90.00302794
+_cell_angle_gamma   89.99832727
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeNiO3
+_chemical_formula_sum   'Ce4 Ni4 O12'
+_cell_volume   233.38904926
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.024070  0.923366  0.749971  1
+  Ce  Ce1  1  0.475936  0.423402  0.749981  1
+  Ce  Ce2  1  0.524070  0.576620  0.250019  1
+  Ce  Ce3  1  0.975948  0.076598  0.250029  1
+  Ni  Ni4  1  0.000010  0.499969  0.000005  1
+  Ni  Ni5  1  0.000009  0.499969  0.499995  1
+  Ni  Ni6  1  0.500003  0.000022  0.999967  1
+  Ni  Ni7  1  0.500004  0.000023  0.500032  1
+  O  O8  1  0.127248  0.452516  0.250015  1
+  O  O9  1  0.182100  0.187850  0.564328  1
+  O  O10  1  0.182125  0.187839  0.935607  1
+  O  O11  1  0.317830  0.687886  0.564390  1
+  O  O12  1  0.317786  0.687865  0.935573  1
+  O  O13  1  0.372819  0.952502  0.249990  1
+  O  O14  1  0.627255  0.047525  0.750011  1
+  O  O15  1  0.682190  0.312160  0.064411  1
+  O  O16  1  0.682145  0.312141  0.435626  1
+  O  O17  1  0.817830  0.812136  0.064424  1
+  O  O18  1  0.817854  0.812125  0.435640  1
+  O  O19  1  0.872771  0.547485  0.749986  1

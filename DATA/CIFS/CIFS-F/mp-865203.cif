@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YCuPbS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.27778908
+_cell_length_b   6.81772740
+_cell_length_c   13.05317798
+_cell_angle_alpha   16.75032653
+_cell_angle_beta   90.01261027
+_cell_angle_gamma   90.06557427
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YCuPbS3
+_chemical_formula_sum   'Y2 Cu2 Pb2 S6'
+_cell_volume   263.60271522
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.512142  0.499718  0.500248  1
+  Y  Y1  1  0.012143  0.499524  0.500390  1
+  Cu  Cu2  1  0.261210  0.498971  0.966433  1
+  Cu  Cu3  1  0.760869  0.500760  0.033143  1
+  Pb  Pb4  1  0.264564  0.501004  0.251097  1
+  Pb  Pb5  1  0.764378  0.501418  0.747568  1
+  S  S6  1  0.762009  0.499668  0.426321  1
+  S  S7  1  0.261740  0.500005  0.573936  1
+  S  S8  1  0.943927  0.497951  0.139514  1
+  S  S9  1  0.578433  0.499036  0.138640  1
+  S  S10  1  0.078333  0.499860  0.861823  1
+  S  S11  1  0.443436  0.502048  0.860376  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Mo2SBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70860320
+_cell_length_b   9.85282848
+_cell_length_c   12.06732514
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.90371240
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mo2SBr2
+_chemical_formula_sum   'Mo12 S6 Br12'
+_cell_volume   749.98885028
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.987997  0.143916  0.601838  1
+  Mo  Mo1  1  0.012003  0.856084  0.398162  1
+  Mo  Mo2  1  0.744219  0.000000  0.438523  1
+  Mo  Mo3  1  0.844080  0.856084  0.898162  1
+  Mo  Mo4  1  0.155920  0.143916  0.398162  1
+  Mo  Mo5  1  0.255781  0.000000  0.938523  1
+  Mo  Mo6  1  0.844080  0.856084  0.601838  1
+  Mo  Mo7  1  0.155920  0.143916  0.101838  1
+  Mo  Mo8  1  0.744219  0.000000  0.061477  1
+  Mo  Mo9  1  0.987997  0.143916  0.898162  1
+  Mo  Mo10  1  0.012003  0.856084  0.101838  1
+  Mo  Mo11  1  0.255781  0.000000  0.561477  1
+  S  S12  1  0.911461  0.000000  0.250000  1
+  S  S13  1  0.380891  0.000000  0.371853  1
+  S  S14  1  0.619109  0.000000  0.628147  1
+  S  S15  1  0.380891  0.000000  0.128147  1
+  S  S16  1  0.619109  0.000000  0.871853  1
+  S  S17  1  0.088539  0.000000  0.750000  1
+  Br  Br18  1  0.889390  0.285197  0.063434  1
+  Br  Br19  1  0.395808  0.285197  0.563434  1
+  Br  Br20  1  0.630549  0.655744  0.750000  1
+  Br  Br21  1  0.889390  0.285197  0.436566  1
+  Br  Br22  1  0.025195  0.655744  0.250000  1
+  Br  Br23  1  0.395808  0.285197  0.936566  1
+  Br  Br24  1  0.369451  0.344256  0.250000  1
+  Br  Br25  1  0.604192  0.714803  0.436566  1
+  Br  Br26  1  0.974805  0.344256  0.750000  1
+  Br  Br27  1  0.604192  0.714803  0.063434  1
+  Br  Br28  1  0.110610  0.714803  0.936566  1
+  Br  Br29  1  0.110610  0.714803  0.563434  1

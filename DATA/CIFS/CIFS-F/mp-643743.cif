@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CuHClO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00858561
+_cell_length_b   6.82727539
+_cell_length_c   5.67381312
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   114.37592895
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuHClO
+_chemical_formula_sum   'Cu4 H4 Cl4 O4'
+_cell_volume   212.00444436
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.011382  0.378530  0.770759  1
+  Cu  Cu1  1  0.988618  0.878530  0.729241  1
+  Cu  Cu2  1  0.988618  0.621470  0.229241  1
+  Cu  Cu3  1  0.011382  0.121470  0.270759  1
+  H  H4  1  0.698653  0.359473  0.994032  1
+  H  H5  1  0.301347  0.859473  0.505968  1
+  H  H6  1  0.301347  0.640527  0.005968  1
+  H  H7  1  0.698653  0.140527  0.494032  1
+  Cl  Cl8  1  0.315534  0.406898  0.629847  1
+  Cl  Cl9  1  0.684466  0.906898  0.870153  1
+  Cl  Cl10  1  0.684466  0.593102  0.370153  1
+  Cl  Cl11  1  0.315534  0.093102  0.129847  1
+  O  O12  1  0.878099  0.361338  0.055133  1
+  O  O13  1  0.121901  0.861338  0.444867  1
+  O  O14  1  0.121901  0.638662  0.944867  1
+  O  O15  1  0.878099  0.138662  0.555133  1

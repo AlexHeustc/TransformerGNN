@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Li5Cu(PO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19177366
+_cell_length_b   5.36779098
+_cell_length_c   9.94605429
+_cell_angle_alpha   89.07205851
+_cell_angle_beta   89.59999120
+_cell_angle_gamma   89.25885013
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5Cu(PO4)2
+_chemical_formula_sum   'Li10 Cu2 P4 O16'
+_cell_volume   330.48993335
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.003477  0.161439  0.249400  1
+  Li  Li1  1  0.993038  0.149161  0.747193  1
+  Li  Li2  1  0.750970  0.325691  0.491780  1
+  Li  Li3  1  0.241905  0.325078  0.498444  1
+  Li  Li4  1  0.252807  0.331543  0.000464  1
+  Li  Li5  1  0.247642  0.665671  0.750197  1
+  Li  Li6  1  0.260302  0.676702  0.251996  1
+  Li  Li7  1  0.498944  0.850241  0.002745  1
+  Li  Li8  1  0.500521  0.841164  0.499650  1
+  Li  Li9  1  0.752604  0.679614  0.248701  1
+  O  O10  1  0.208145  0.686519  0.952891  1
+  O  O11  1  0.796259  0.688571  0.447967  1
+  O  O12  1  0.000132  0.100398  0.449584  1
+  O  O13  1  0.010508  0.830326  0.163935  1
+  O  O14  1  0.709753  0.318194  0.208734  1
+  O  O15  1  0.017007  0.106491  0.951000  1
+  O  O16  1  -0.000745  0.819344  0.657642  1
+  O  O17  1  0.208462  0.685658  0.449606  1
+  O  O18  1  0.283354  0.310047  0.697595  1
+  O  O19  1  0.296183  0.319340  0.200373  1
+  O  O20  1  0.483820  0.891313  0.698466  1
+  O  O21  1  0.493906  0.169238  0.903883  1
+  O  O22  1  0.495020  0.177999  0.411649  1
+  O  O23  1  0.503964  0.905522  0.203844  1
+  O  O24  1  0.697090  0.289753  0.687535  1
+  O  O25  1  0.791655  0.718436  0.962373  1
+  P  P26  1  0.010259  0.834807  0.008080  1
+  P  P27  1  0.488287  0.165140  0.746885  1
+  P  P28  1  0.000301  0.823763  0.500466  1
+  P  P29  1  0.500495  0.178643  0.255295  1
+  Cu  Cu30  1  0.753458  0.346160  -0.009672  1
+  Cu  Cu31  1  0.750478  0.628036  0.762856  1

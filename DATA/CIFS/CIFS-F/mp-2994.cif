@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Co2(GeTe)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.78124381
+_cell_length_b   8.78124381
+_cell_length_c   8.78124381
+_cell_angle_alpha   89.98961578
+_cell_angle_beta   89.98961579
+_cell_angle_gamma   89.98961578
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2(GeTe)3
+_chemical_formula_sum   'Co8 Ge12 Te12'
+_cell_volume   677.12380970
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.245139  0.245139  0.245139  1
+  Co  Co1  1  0.754861  0.754861  0.754861  1
+  Co  Co2  1  0.248750  0.745835  0.748065  1
+  Co  Co3  1  0.748065  0.248750  0.745835  1
+  Co  Co4  1  0.745835  0.748065  0.248750  1
+  Co  Co5  1  0.751250  0.254165  0.251935  1
+  Co  Co6  1  0.251935  0.751250  0.254165  1
+  Co  Co7  1  0.254165  0.251935  0.751250  1
+  Ge  Ge8  1  0.996587  0.319122  0.167654  1
+  Ge  Ge9  1  0.167654  0.996587  0.319122  1
+  Ge  Ge10  1  0.319122  0.167654  0.996587  1
+  Ge  Ge11  1  0.003413  0.680878  0.832346  1
+  Ge  Ge12  1  0.832346  0.003413  0.680878  1
+  Ge  Ge13  1  0.680878  0.832346  0.003413  1
+  Ge  Ge14  1  0.500774  0.819092  0.331646  1
+  Ge  Ge15  1  0.331646  0.500774  0.819092  1
+  Ge  Ge16  1  0.819092  0.331646  0.500774  1
+  Ge  Ge17  1  0.499226  0.180908  0.668354  1
+  Ge  Ge18  1  0.668354  0.499226  0.180908  1
+  Ge  Ge19  1  0.180908  0.668354  0.499226  1
+  Te  Te20  1  0.999198  0.344064  0.851567  1
+  Te  Te21  1  0.851567  0.999198  0.344064  1
+  Te  Te22  1  0.344064  0.851567  0.999198  1
+  Te  Te23  1  0.000802  0.655936  0.148433  1
+  Te  Te24  1  0.148433  0.000802  0.655936  1
+  Te  Te25  1  0.655936  0.148433  0.000802  1
+  Te  Te26  1  0.504213  0.844471  0.647964  1
+  Te  Te27  1  0.647964  0.504213  0.844471  1
+  Te  Te28  1  0.844471  0.647964  0.504213  1
+  Te  Te29  1  0.495787  0.155529  0.352036  1
+  Te  Te30  1  0.352036  0.495787  0.155529  1
+  Te  Te31  1  0.155529  0.352036  0.495787  1

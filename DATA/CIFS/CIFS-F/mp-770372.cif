@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CeHfO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.71319143
+_cell_length_b   5.41320564
+_cell_length_c   7.70280146
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   96.47764849
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeHfO4
+_chemical_formula_sum   'Ce4 Hf4 O16'
+_cell_volume   319.56255896
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.353017  0.727424  0.614751  1
+  Ce  Ce1  1  0.353017  0.772576  0.114751  1
+  Ce  Ce2  1  0.646983  0.227424  0.885249  1
+  Ce  Ce3  1  0.646983  0.272576  0.385249  1
+  Hf  Hf4  1  0.153449  0.227457  0.814805  1
+  Hf  Hf5  1  0.153449  0.272543  0.314805  1
+  Hf  Hf6  1  0.846551  0.727457  0.685195  1
+  Hf  Hf7  1  0.846551  0.772543  0.185195  1
+  O  O8  1  0.080495  0.900423  0.684296  1
+  O  O9  1  0.080495  0.599577  0.184296  1
+  O  O10  1  0.176579  0.390786  0.571829  1
+  O  O11  1  0.176579  0.109214  0.071829  1
+  O  O12  1  0.332447  0.509786  0.885810  1
+  O  O13  1  0.396835  0.009668  0.834087  1
+  O  O14  1  0.332447  0.990214  0.385810  1
+  O  O15  1  0.396835  0.490332  0.334087  1
+  O  O16  1  0.603165  0.509668  0.665913  1
+  O  O17  1  0.667553  0.009786  0.614190  1
+  O  O18  1  0.603165  0.990332  0.165913  1
+  O  O19  1  0.667553  0.490214  0.114190  1
+  O  O20  1  0.823421  0.890786  0.928171  1
+  O  O21  1  0.823421  0.609214  0.428171  1
+  O  O22  1  0.919505  0.400423  0.815704  1
+  O  O23  1  0.919505  0.099577  0.315704  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_In3Cu3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19008855
+_cell_length_b   10.25796641
+_cell_length_c   6.02600590
+_cell_angle_alpha   89.82762436
+_cell_angle_beta   69.91403962
+_cell_angle_gamma   89.95840404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In3Cu3O8
+_chemical_formula_sum   'In6 Cu6 O16'
+_cell_volume   359.36337209
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.460144  0.166705  0.015122  1
+  In  In1  1  0.500106  0.500022  0.999885  1
+  In  In2  1  0.499939  0.000006  0.500089  1
+  In  In3  1  0.539543  0.833167  0.985029  1
+  In  In4  1  0.460176  0.333314  0.515148  1
+  In  In5  1  0.539959  0.666630  0.484755  1
+  Cu  Cu6  1  -0.000039  0.000069  -0.000034  1
+  Cu  Cu7  1  0.984725  0.307451  0.984412  1
+  Cu  Cu8  1  0.984889  0.192624  0.484256  1
+  Cu  Cu9  1  0.015424  0.692527  0.015283  1
+  Cu  Cu10  1  0.000037  0.500098  0.499996  1
+  Cu  Cu11  1  0.015034  0.807262  0.516121  1
+  O  O12  1  0.020897  0.155115  0.161344  1
+  O  O13  1  0.673468  0.010065  0.108808  1
+  O  O14  1  0.657562  0.328666  0.115947  1
+  O  O15  1  0.305086  0.159600  0.409286  1
+  O  O16  1  0.020722  0.344196  0.660852  1
+  O  O17  1  0.326478  0.510179  0.391175  1
+  O  O18  1  0.326325  0.989863  0.891273  1
+  O  O19  1  0.694835  0.659400  0.090649  1
+  O  O20  1  0.657779  0.171340  0.615921  1
+  O  O21  1  0.979368  0.656057  0.339184  1
+  O  O22  1  0.305129  0.340575  0.909156  1
+  O  O23  1  0.341821  0.828528  0.384545  1
+  O  O24  1  0.673666  0.489778  0.608681  1
+  O  O25  1  0.342569  0.671273  0.883823  1
+  O  O26  1  0.695204  0.840297  0.590906  1
+  O  O27  1  0.979153  0.845161  0.838285  1

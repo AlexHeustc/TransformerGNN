@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ba2AlTlCu2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76566993
+_cell_length_b   3.76569092
+_cell_length_c   12.86828995
+_cell_angle_alpha   89.98402043
+_cell_angle_beta   90.00944403
+_cell_angle_gamma   90.02514827
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2AlTlCu2O7
+_chemical_formula_sum   'Ba2 Al1 Tl1 Cu2 O7'
+_cell_volume   182.47681621
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.500011  0.499987  0.213323  1
+  Ba  Ba1  1  0.499993  0.500056  0.786606  1
+  Al  Al2  1  0.499989  0.499955  0.500050  1
+  Tl  Tl3  1  0.000008  0.000025  0.000035  1
+  Cu  Cu4  1  0.999930  0.999900  0.385160  1
+  Cu  Cu5  1  0.000046  0.999850  0.614773  1
+  O  O6  1  0.000001  0.000002  0.164699  1
+  O  O7  1  0.000112  0.499952  0.403183  1
+  O  O8  1  0.500058  0.999868  0.403180  1
+  O  O9  1  0.499960  0.000239  0.596838  1
+  O  O10  1  0.499990  0.500012  0.000011  1
+  O  O11  1  0.999904  0.500114  0.596840  1
+  O  O12  1  0.999997  0.000037  0.835304  1

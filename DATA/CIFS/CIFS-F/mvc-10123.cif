@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HoZn(MoO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41899101
+_cell_length_b   5.64055025
+_cell_length_c   7.99040218
+_cell_angle_alpha   89.99120292
+_cell_angle_beta   89.64077734
+_cell_angle_gamma   89.99174345
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoZn(MoO3)2
+_chemical_formula_sum   'Ho2 Zn2 Mo4 O12'
+_cell_volume   244.23055533
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.013402  0.937011  0.751032  1
+  Ho  Ho1  1  0.512976  0.562847  0.250674  1
+  Zn  Zn2  1  0.505496  0.495825  0.749477  1
+  Zn  Zn3  1  0.005508  0.004310  0.249304  1
+  Mo  Mo4  1  -0.000145  0.485460  0.001896  1
+  Mo  Mo5  1  0.999066  0.489982  0.498648  1
+  Mo  Mo6  1  0.499715  0.014545  0.501844  1
+  Mo  Mo7  1  0.499474  0.010036  0.998560  1
+  O  O8  1  0.130446  0.422493  0.246573  1
+  O  O9  1  0.167985  0.184272  0.933806  1
+  O  O10  1  0.182868  0.176038  0.567961  1
+  O  O11  1  0.308753  0.682214  0.929366  1
+  O  O12  1  0.326949  0.690909  0.568719  1
+  O  O13  1  0.365181  0.940392  0.253784  1
+  O  O14  1  0.630712  0.077273  0.746437  1
+  O  O15  1  0.667646  0.315744  0.433643  1
+  O  O16  1  0.682971  0.324076  0.067726  1
+  O  O17  1  0.827874  0.809565  0.068014  1
+  O  O18  1  0.807954  0.817375  0.428686  1
+  O  O19  1  0.865167  0.559635  0.753852  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmTaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14824961
+_cell_length_b   5.48134394
+_cell_length_c   6.68019623
+_cell_angle_alpha   111.93791709
+_cell_angle_beta   110.26104487
+_cell_angle_gamma   95.46020322
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmTaO4
+_chemical_formula_sum   'Sm2 Ta2 O8'
+_cell_volume   158.48616648
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.996519  0.791809  0.063538  1
+  O  O1  1  0.567019  0.271729  0.063538  1
+  O  O2  1  0.003481  0.208191  0.936462  1
+  O  O3  1  0.432981  0.728271  0.936462  1
+  O  O4  1  0.200665  0.359541  0.413990  1
+  O  O5  1  0.713324  0.054448  0.413990  1
+  O  O6  1  0.799335  0.640459  0.586010  1
+  O  O7  1  0.286676  0.945552  0.586010  1
+  Sm  Sm8  1  0.381480  0.631480  0.262959  1
+  Sm  Sm9  1  0.618520  0.368520  0.737041  1
+  Ta  Ta10  1  0.850198  0.100198  0.200395  1
+  Ta  Ta11  1  0.149802  0.899802  0.799605  1

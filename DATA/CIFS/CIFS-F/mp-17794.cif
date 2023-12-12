@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HoGe2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26397262
+_cell_length_b   8.90516327
+_cell_length_c   9.46833568
+_cell_angle_alpha   118.05118936
+_cell_angle_beta   103.01288227
+_cell_angle_gamma   90.00000001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoGe2Ir
+_chemical_formula_sum   'Ho4 Ge8 Ir4'
+_cell_volume   306.79020016
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.201431  0.048868  0.402861  1
+  Ge  Ge1  1  0.798569  0.951132  0.597139  1
+  Ge  Ge2  1  0.798569  0.646007  0.597139  1
+  Ge  Ge3  1  0.201431  0.353993  0.402861  1
+  Ge  Ge4  1  0.576707  0.576707  0.153414  1
+  Ge  Ge5  1  0.422243  0.922243  0.844487  1
+  Ge  Ge6  1  0.577757  0.077757  0.155513  1
+  Ge  Ge7  1  0.423293  0.423293  0.846586  1
+  Ho  Ho8  1  0.204869  0.704869  0.409739  1
+  Ho  Ho9  1  0.000000  0.262680  0.000000  1
+  Ho  Ho10  1  0.795131  0.295131  0.590261  1
+  Ho  Ho11  1  0.000000  0.737320  0.000000  1
+  Ir  Ir12  1  0.354856  0.605408  0.709711  1
+  Ir  Ir13  1  0.645144  0.394592  0.290289  1
+  Ir  Ir14  1  0.645144  0.895697  0.290289  1
+  Ir  Ir15  1  0.354856  0.104303  0.709711  1

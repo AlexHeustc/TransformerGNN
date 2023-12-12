@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_HoGaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09370176
+_cell_length_b   6.09370460
+_cell_length_c   11.71424563
+_cell_angle_alpha   89.99985931
+_cell_angle_beta   90.00008651
+_cell_angle_gamma   120.00011290
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoGaO3
+_chemical_formula_sum   'Ho6 Ga6 O18'
+_cell_volume   376.70991980
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.333330  0.666674  0.229378  1
+  Ho  Ho1  1  -0.000002  0.000006  0.271267  1
+  Ho  Ho2  1  0.999992  0.999998  0.771280  1
+  Ho  Ho3  1  0.333323  0.666660  0.729377  1
+  Ho  Ho4  1  0.666655  0.333325  0.729373  1
+  Ho  Ho5  1  0.666667  0.333340  0.229378  1
+  Ga  Ga6  1  0.999990  0.665886  0.496627  1
+  Ga  Ga7  1  0.999996  0.334123  0.996629  1
+  Ga  Ga8  1  0.334101  0.334104  0.496624  1
+  Ga  Ga9  1  0.665885  0.665889  0.996629  1
+  Ga  Ga10  1  0.334115  0.000004  0.996628  1
+  Ga  Ga11  1  0.665877  0.999992  0.496626  1
+  O  O12  1  0.999986  0.693125  0.659901  1
+  O  O13  1  -0.000002  0.640833  0.334721  1
+  O  O14  1  0.999988  0.359165  0.834721  1
+  O  O15  1  0.999998  0.306886  0.159906  1
+  O  O16  1  0.333332  0.666673  0.016691  1
+  O  O17  1  0.333319  0.666663  0.516689  1
+  O  O18  1  0.999987  0.999991  0.474132  1
+  O  O19  1  0.999996  0.000008  0.974144  1
+  O  O20  1  0.306849  0.306854  0.659898  1
+  O  O21  1  0.359168  0.359182  0.334719  1
+  O  O22  1  0.306875  0.000008  0.159906  1
+  O  O23  1  0.640822  0.640826  0.834721  1
+  O  O24  1  0.693123  0.693130  0.159907  1
+  O  O25  1  0.359157  0.999993  0.834719  1
+  O  O26  1  0.666658  0.333328  0.516687  1
+  O  O27  1  0.666667  0.333338  0.016693  1
+  O  O28  1  0.640829  0.000006  0.334721  1
+  O  O29  1  0.693121  0.999993  0.659900  1

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ho2Zr8O19
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66308675
+_cell_length_b   36.87978549
+_cell_length_c   35.20378839
+_cell_angle_alpha   5.18083422
+_cell_angle_beta   58.65089627
+_cell_angle_gamma   60.22410543
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Zr8O19
+_chemical_formula_sum   'Ho2 Zr8 O19'
+_cell_volume   352.18860275
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.037887  0.024901  0.967966  1
+  Ho  Ho1  1  0.964762  0.069554  0.038047  1
+  Zr  Zr2  1  0.984281  0.184265  0.019594  1
+  Zr  Zr3  1  0.986630  0.289608  0.013770  1
+  Zr  Zr4  1  0.989472  0.392875  0.009751  1
+  Zr  Zr5  1  0.996692  0.496653  0.004575  1
+  Zr  Zr6  1  0.005657  0.603435  0.995782  1
+  Zr  Zr7  1  0.010907  0.707718  0.990071  1
+  Zr  Zr8  1  0.015105  0.808193  0.988880  1
+  Zr  Zr9  1  0.019958  0.909577  0.986993  1
+  O  O10  1  0.275700  0.020524  0.224994  1
+  O  O11  1  0.206993  0.065924  0.293430  1
+  O  O12  1  0.262227  0.210246  0.237877  1
+  O  O13  1  0.253615  0.302144  0.247516  1
+  O  O14  1  0.235519  0.386929  0.266104  1
+  O  O15  1  0.297420  0.534835  0.205730  1
+  O  O16  1  0.225049  0.575773  0.279364  1
+  O  O17  1  0.807193  0.141998  0.696607  1
+  O  O18  1  0.313246  0.745768  0.192032  1
+  O  O19  1  0.729299  0.179029  0.775543  1
+  O  O20  1  0.752470  0.297045  0.753027  1
+  O  O21  1  0.190891  0.851360  0.310908  1
+  O  O22  1  0.771424  0.415911  0.730125  1
+  O  O23  1  0.696286  0.457240  0.804188  1
+  O  O24  1  0.772134  0.617884  0.728440  1
+  O  O25  1  0.726524  0.682071  0.773135  1
+  O  O26  1  0.748532  0.798719  0.751900  1
+  O  O27  1  0.778989  0.922267  0.722073  1
+  O  O28  1  0.727543  0.978755  0.775800  1

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ta6Co16Ge7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03049727
+_cell_length_b   8.02977433
+_cell_length_c   8.02988012
+_cell_angle_alpha   59.98418891
+_cell_angle_beta   59.98762954
+_cell_angle_gamma   59.98916981
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta6Co16Ge7
+_chemical_formula_sum   'Ta6 Co16 Ge7'
+_cell_volume   366.02585815
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.799986  0.800026  0.199958  1
+  Ta  Ta1  1  0.800002  0.199958  0.800037  1
+  Ta  Ta2  1  0.199983  0.200006  0.800028  1
+  Ta  Ta3  1  0.200006  0.800014  0.200019  1
+  Ta  Ta4  1  0.199985  0.799994  0.799979  1
+  Ta  Ta5  1  0.800015  0.199995  0.199988  1
+  Co  Co6  1  0.618774  0.143653  0.618806  1
+  Co  Co7  1  0.504369  0.165191  0.165203  1
+  Co  Co8  1  0.381207  0.381192  0.856355  1
+  Co  Co9  1  0.834821  0.834839  0.495558  1
+  Co  Co10  1  0.165212  0.165176  0.504385  1
+  Co  Co11  1  0.834820  0.495577  0.834832  1
+  Co  Co12  1  0.165210  0.504387  0.165177  1
+  Co  Co13  1  0.618770  0.618812  0.143655  1
+  Co  Co14  1  0.165239  0.165201  0.165202  1
+  Co  Co15  1  0.381202  0.856347  0.381195  1
+  Co  Co16  1  0.618763  0.618804  0.618797  1
+  Co  Co17  1  0.856380  0.381189  0.381188  1
+  Co  Co18  1  0.381225  0.381220  0.381211  1
+  Co  Co19  1  0.834790  0.834803  0.834808  1
+  Co  Co20  1  0.143664  0.618799  0.618782  1
+  Co  Co21  1  0.495560  0.834839  0.834827  1
+  Ge  Ge22  1  0.000097  0.499961  0.499959  1
+  Ge  Ge23  1  0.499958  0.000069  0.499923  1
+  Ge  Ge24  1  0.499901  0.500043  0.499990  1
+  Ge  Ge25  1  0.000055  0.499984  -0.000004  1
+  Ge  Ge26  1  0.499978  0.000021  0.000066  1
+  Ge  Ge27  1  0.499956  0.499925  0.000089  1
+  Ge  Ge28  1  0.000071  -0.000025  0.499988  1

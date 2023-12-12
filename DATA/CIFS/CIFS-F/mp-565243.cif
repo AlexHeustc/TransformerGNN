@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ni5Se4(BrO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49328448
+_cell_length_b   7.72273926
+_cell_length_c   7.85627882
+_cell_angle_alpha   67.63273346
+_cell_angle_beta   74.09635930
+_cell_angle_gamma   81.64818351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni5Se4(BrO6)2
+_chemical_formula_sum   'Ni5 Se4 Br2 O12'
+_cell_volume   350.00352107
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.367750  0.311125  0.578407  1
+  Ni  Ni1  1  0.822576  0.874862  0.649838  1
+  Ni  Ni2  1  0.500000  0.000000  0.000000  1
+  Ni  Ni3  1  0.632250  0.688875  0.421593  1
+  Ni  Ni4  1  0.177424  0.125138  0.350162  1
+  Se  Se5  1  0.842120  0.307206  0.689422  1
+  Se  Se6  1  0.157880  0.692794  0.310578  1
+  Se  Se7  1  0.294029  0.838559  0.770074  1
+  Se  Se8  1  0.705971  0.161441  0.229926  1
+  Br  Br9  1  0.703911  0.665094  0.016450  1
+  Br  Br10  1  0.296089  0.334906  0.983550  1
+  O  O11  1  0.079168  0.301980  0.520338  1
+  O  O12  1  0.859177  0.093873  0.394256  1
+  O  O13  1  0.340805  0.047711  0.787807  1
+  O  O14  1  0.458218  0.200817  0.366776  1
+  O  O15  1  0.658492  0.405844  0.548461  1
+  O  O16  1  0.920832  0.698020  0.479662  1
+  O  O17  1  0.768854  0.076662  0.786463  1
+  O  O18  1  0.659195  0.952289  0.212193  1
+  O  O19  1  0.231146  0.923338  0.213537  1
+  O  O20  1  0.341508  0.594156  0.451539  1
+  O  O21  1  0.541782  0.799183  0.633224  1
+  O  O22  1  0.140823  0.906127  0.605744  1

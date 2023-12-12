@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li3Mn(NiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00746783
+_cell_length_b   5.12042941
+_cell_length_c   9.97400597
+_cell_angle_alpha   95.13697163
+_cell_angle_beta   90.07426759
+_cell_angle_gamma   60.73346391
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Mn(NiO3)2
+_chemical_formula_sum   'Li6 Mn2 Ni4 O12'
+_cell_volume   221.93200929
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.186310  0.844391  0.255336  1
+  Li  Li1  1  0.134580  0.499575  0.749674  1
+  Li  Li2  1  0.469748  0.843742  0.754702  1
+  Li  Li3  1  0.530281  0.156138  0.245214  1
+  Li  Li4  1  0.865251  0.500133  0.250242  1
+  Li  Li5  1  0.814067  0.155871  0.744795  1
+  Mn  Mn6  1  0.999577  0.000138  0.000001  1
+  Mn  Mn7  1  0.499368  0.999802  0.500003  1
+  Ni  Ni8  1  0.171100  0.665200  0.500293  1
+  Ni  Ni9  1  0.663646  0.665579  0.000293  1
+  Ni  Ni10  1  0.336408  0.334393  0.999708  1
+  Ni  Ni11  1  0.828916  0.334897  0.499719  1
+  O  O12  1  0.991853  0.699145  0.107692  1
+  O  O13  1  0.325617  0.668897  0.888029  1
+  O  O14  1  0.191316  0.299967  0.391995  1
+  O  O15  1  0.507760  0.668378  0.387372  1
+  O  O16  1  0.494085  0.331565  0.612126  1
+  O  O17  1  0.174934  0.014554  0.610517  1
+  O  O18  1  0.807310  0.697774  0.607834  1
+  O  O19  1  0.675247  0.331128  0.112185  1
+  O  O20  1  0.312603  0.012223  0.110202  1
+  O  O21  1  0.006288  0.301992  0.892487  1
+  O  O22  1  0.688655  0.986523  0.889406  1
+  O  O23  1  0.825089  0.987971  0.390174  1

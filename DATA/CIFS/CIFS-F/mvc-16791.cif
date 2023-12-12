@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Al(NiS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00586529
+_cell_length_b   6.84117625
+_cell_length_c   6.82774900
+_cell_angle_alpha   87.41361461
+_cell_angle_beta   121.36490787
+_cell_angle_gamma   121.34849281
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al(NiS2)2
+_chemical_formula_sum   'Al2 Ni4 S8'
+_cell_volume   226.91959005
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.000001  -0.000001  0.000004  1
+  Al  Al1  1  0.500014  0.000001  0.000014  1
+  Ni  Ni2  1  0.500001  -0.000004  0.499999  1
+  Ni  Ni3  1  0.500024  0.500011  0.500019  1
+  Ni  Ni4  1  -0.000000  0.499994  0.999995  1
+  Ni  Ni5  1  0.999990  0.499998  0.499992  1
+  S  S6  1  0.029280  0.740298  0.254557  1
+  S  S7  1  0.500707  0.763514  0.750131  1
+  S  S8  1  0.471674  0.746179  0.261321  1
+  S  S9  1  0.996411  0.744709  0.759979  1
+  S  S10  1  0.528324  0.253804  0.738682  1
+  S  S11  1  0.499300  0.236484  0.249876  1
+  S  S12  1  0.003606  0.255289  0.240036  1
+  S  S13  1  0.970717  0.259689  0.745439  1

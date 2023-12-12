@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_H7BrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30582218
+_cell_length_b   6.66757539
+_cell_length_c   6.66757539
+_cell_angle_alpha   53.36542218
+_cell_angle_beta   87.06022508
+_cell_angle_gamma   87.06022508
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H7BrO3
+_chemical_formula_sum   'H14 Br2 O6'
+_cell_volume   224.58618352
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.474700  0.761994  0.039059  1
+  H  H1  1  0.514020  0.027539  0.783080  1
+  H  H2  1  0.974700  0.539059  0.261994  1
+  H  H3  1  0.014020  0.283080  0.527539  1
+  H  H4  1  0.724136  0.705793  0.813645  1
+  H  H5  1  0.828061  0.489024  0.798195  1
+  H  H6  1  0.265238  0.735085  0.562160  1
+  H  H7  1  0.040056  0.738946  0.713335  1
+  H  H8  1  0.289790  0.830707  0.734343  1
+  H  H9  1  0.765238  0.062160  0.235085  1
+  H  H10  1  0.540056  0.213335  0.238946  1
+  H  H11  1  0.789790  0.234343  0.330707  1
+  H  H12  1  0.328061  0.298195  0.989024  1
+  H  H13  1  0.224136  0.313645  0.205793  1
+  Br  Br14  1  0.469835  0.498656  0.513631  1
+  Br  Br15  1  0.969835  0.013631  0.998656  1
+  O  O16  1  0.489398  0.850146  0.856520  1
+  O  O17  1  0.989398  0.356520  0.350146  1
+  O  O18  1  0.856341  0.607649  0.834931  1
+  O  O19  1  0.187329  0.831824  0.617993  1
+  O  O20  1  0.687329  0.117993  0.331824  1
+  O  O21  1  0.356341  0.334931  0.107649  1

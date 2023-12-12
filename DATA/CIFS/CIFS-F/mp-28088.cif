@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca5(AlBi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.57790049
+_cell_length_b   7.62506840
+_cell_length_c   23.55355793
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca5(AlBi3)2
+_chemical_formula_sum   'Ca10 Al4 Bi12'
+_cell_volume   822.17943875
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.500000  0.705954  0.502757  1
+  Bi  Bi1  1  0.500000  0.294046  0.497243  1
+  Bi  Bi2  1  0.500000  0.205954  0.997243  1
+  Bi  Bi3  1  0.500000  0.794046  0.002757  1
+  Bi  Bi4  1  0.500000  0.513401  0.688258  1
+  Bi  Bi5  1  0.500000  0.486599  0.311742  1
+  Bi  Bi6  1  0.500000  0.013401  0.811742  1
+  Bi  Bi7  1  0.500000  0.986599  0.188258  1
+  Bi  Bi8  1  0.000000  0.463095  0.136351  1
+  Bi  Bi9  1  0.000000  0.536905  0.863649  1
+  Bi  Bi10  1  0.000000  0.963095  0.363649  1
+  Bi  Bi11  1  0.000000  0.036905  0.636351  1
+  Ca  Ca12  1  0.000000  0.500000  0.000000  1
+  Ca  Ca13  1  0.000000  0.000000  0.500000  1
+  Ca  Ca14  1  0.000000  0.227760  0.254642  1
+  Ca  Ca15  1  0.000000  0.772240  0.745358  1
+  Ca  Ca16  1  0.000000  0.727760  0.245358  1
+  Ca  Ca17  1  0.000000  0.272240  0.754642  1
+  Ca  Ca18  1  0.000000  0.961793  0.911685  1
+  Ca  Ca19  1  0.000000  0.038207  0.088315  1
+  Ca  Ca20  1  0.000000  0.461793  0.588315  1
+  Ca  Ca21  1  0.000000  0.538207  0.411685  1
+  Al  Al22  1  0.500000  0.681257  0.120837  1
+  Al  Al23  1  0.500000  0.318743  0.879163  1
+  Al  Al24  1  0.500000  0.181257  0.379163  1
+  Al  Al25  1  0.500000  0.818743  0.620837  1

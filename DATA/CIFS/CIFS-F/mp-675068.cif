@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Nd2Zr8O19
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68529331
+_cell_length_b   37.30522432
+_cell_length_c   35.63859905
+_cell_angle_alpha   5.15227338
+_cell_angle_beta   58.89214206
+_cell_angle_gamma   60.42452285
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2Zr8O19
+_chemical_formula_sum   'Nd2 Zr8 O19'
+_cell_volume   362.41239439
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.056224  0.042185  0.947556  1
+  Nd  Nd1  1  0.940180  0.049188  0.062397  1
+  Zr  Zr2  1  0.944431  0.149288  0.061933  1
+  Zr  Zr3  1  0.975543  0.375148  0.029948  1
+  Zr  Zr4  1  0.958636  0.262847  0.045355  1
+  Zr  Zr5  1  0.992860  0.489746  0.011751  1
+  Zr  Zr6  1  0.026168  0.715828  0.979434  1
+  Zr  Zr7  1  0.009890  0.604222  0.993774  1
+  Zr  Zr8  1  0.041300  0.828624  0.964037  1
+  Zr  Zr9  1  0.053904  0.940198  0.949749  1
+  O  O10  1  0.235081  0.984993  0.268040  1
+  O  O11  1  0.194808  0.052195  0.308586  1
+  O  O12  1  0.238279  0.187341  0.264938  1
+  O  O13  1  0.267907  0.309757  0.236823  1
+  O  O14  1  0.234519  0.383325  0.270051  1
+  O  O15  1  0.323615  0.557601  0.178306  1
+  O  O16  1  0.254605  0.600842  0.248905  1
+  O  O17  1  0.840236  0.168764  0.664029  1
+  O  O18  1  0.353869  0.779604  0.150542  1
+  O  O19  1  0.773674  0.214470  0.731812  1
+  O  O20  1  0.745987  0.299151  0.751287  1
+  O  O21  1  0.149553  0.816357  0.353261  1
+  O  O22  1  0.717437  0.371636  0.784266  1
+  O  O23  1  0.670562  0.433486  0.832465  1
+  O  O24  1  0.738049  0.587734  0.764246  1
+  O  O25  1  0.729033  0.679919  0.774248  1
+  O  O26  1  0.734181  0.782839  0.770462  1
+  O  O27  1  0.800550  0.935695  0.704455  1
+  O  O28  1  0.742681  0.992410  0.759784  1

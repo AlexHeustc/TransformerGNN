@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_InAgTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79748947
+_cell_length_b   4.78208003
+_cell_length_c   56.07386608
+_cell_angle_alpha   57.52209108
+_cell_angle_beta   57.43026696
+_cell_angle_gamma   60.62733879
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InAgTe2
+_chemical_formula_sum   'In6 Ag6 Te12'
+_cell_volume   877.10051841
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.041936  0.041744  0.989683  1
+  In  In1  1  0.000488  0.002204  0.081896  1
+  In  In2  1  0.990265  0.991376  0.168440  1
+  In  In3  1  0.992946  0.991933  0.252420  1
+  In  In4  1  0.973059  0.973417  0.424062  1
+  In  In5  1  0.987849  0.990305  0.337044  1
+  Ag  Ag6  1  0.989125  0.989931  0.586403  1
+  Ag  Ag7  1  0.953243  0.955188  0.511611  1
+  Ag  Ag8  1  0.995200  0.995750  0.668391  1
+  Ag  Ag9  1  0.003165  0.004542  0.832998  1
+  Ag  Ag10  1  -0.000634  -0.000576  0.750685  1
+  Ag  Ag11  1  0.011297  0.011939  0.914292  1
+  Te  Te12  1  0.270638  0.268967  0.015006  1
+  Te  Te13  1  0.257795  0.257493  0.101067  1
+  Te  Te14  1  0.258195  0.256530  0.185121  1
+  Te  Te15  1  0.257178  0.254017  0.269895  1
+  Te  Te16  1  0.244211  0.244179  0.356527  1
+  Te  Te17  1  0.216753  0.215954  0.445883  1
+  Te  Te18  1  0.240137  0.239738  0.522779  1
+  Te  Te19  1  0.246741  0.246630  0.604271  1
+  Te  Te20  1  0.251995  0.251852  0.686420  1
+  Te  Te21  1  0.257551  0.257689  0.768393  1
+  Te  Te22  1  0.267888  0.267085  0.849577  1
+  Te  Te23  1  0.292977  0.292113  0.927139  1

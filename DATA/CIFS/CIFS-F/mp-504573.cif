@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cr2CuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97285292
+_cell_length_b   5.97285337
+_cell_length_c   5.97285305
+_cell_angle_alpha   90.17504416
+_cell_angle_beta   119.89899613
+_cell_angle_gamma   119.89898579
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2CuO4
+_chemical_formula_sum   'Cr4 Cu2 O8'
+_cell_volume   150.90056164
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.475467  0.738447  0.713914  1
+  O  O1  1  0.024534  0.738447  0.262980  1
+  O  O2  1  0.024533  0.286086  0.261554  1
+  O  O3  1  0.524533  0.262980  0.738447  1
+  O  O4  1  0.975467  0.713913  0.738446  1
+  O  O5  1  0.975468  0.261554  0.737021  1
+  O  O6  1  0.475467  0.737020  0.261553  1
+  O  O7  1  0.524533  0.261554  0.286086  1
+  Cr  Cr8  1  0.000000  0.500000  0.500000  1
+  Cr  Cr9  1  0.999999  0.499999  0.000000  1
+  Cr  Cr10  1  0.499999  0.499999  0.499999  1
+  Cr  Cr11  1  0.500000  0.000000  0.500000  1
+  Cu  Cu12  1  0.750000  0.875000  0.125000  1
+  Cu  Cu13  1  0.250001  0.125001  0.875000  1

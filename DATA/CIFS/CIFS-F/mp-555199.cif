@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TlHgAsS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28974147
+_cell_length_b   6.28967297
+_cell_length_c   16.68005054
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   96.11284156
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlHgAsS3
+_chemical_formula_sum   'Tl4 Hg4 As4 S12'
+_cell_volume   656.11780185
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.333576  0.166438  0.449366  1
+  Tl  Tl1  1  0.666424  0.833562  0.550634  1
+  Tl  Tl2  1  0.833576  0.666438  0.050634  1
+  Tl  Tl3  1  0.166424  0.333562  0.949366  1
+  Hg  Hg4  1  0.078087  0.922382  0.750005  1
+  Hg  Hg5  1  0.921913  0.077618  0.249995  1
+  Hg  Hg6  1  0.421913  0.577618  0.250005  1
+  Hg  Hg7  1  0.578087  0.422382  0.749995  1
+  As  As8  1  0.573280  0.926749  0.890371  1
+  As  As9  1  0.926720  0.573251  0.390371  1
+  As  As10  1  0.426720  0.073251  0.109629  1
+  As  As11  1  0.073280  0.426749  0.609629  1
+  S  S12  1  0.862811  0.208120  0.391187  1
+  S  S13  1  0.708233  0.362398  0.608810  1
+  S  S14  1  0.362811  0.708120  0.108813  1
+  S  S15  1  0.291767  0.637602  0.391190  1
+  S  S16  1  0.137189  0.791880  0.608813  1
+  S  S17  1  0.145117  0.354726  0.738602  1
+  S  S18  1  0.645117  0.854726  0.761398  1
+  S  S19  1  0.354883  0.145274  0.238602  1
+  S  S20  1  0.854883  0.645274  0.261398  1
+  S  S21  1  0.791767  0.137602  0.108810  1
+  S  S22  1  0.208233  0.862398  0.891190  1
+  S  S23  1  0.637189  0.291880  0.891187  1

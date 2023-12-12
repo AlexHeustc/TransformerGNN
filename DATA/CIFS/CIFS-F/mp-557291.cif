@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaCoF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24638852
+_cell_length_b   5.95689512
+_cell_length_c   7.71832141
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.96707533
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCoF4
+_chemical_formula_sum   'Ba2 Co2 F8'
+_cell_volume   187.70492204
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.146401  0.461022  0.292802  1
+  Ba  Ba1  1  0.853599  0.961022  0.707198  1
+  Co  Co2  1  0.587937  0.001259  0.175874  1
+  Co  Co3  1  0.412063  0.501259  0.824126  1
+  F  F4  1  0.300909  0.700519  0.601818  1
+  F  F5  1  0.472042  0.819013  0.944085  1
+  F  F6  1  0.921334  0.510475  0.842668  1
+  F  F7  1  0.699091  0.200519  0.398182  1
+  F  F8  1  0.527958  0.319013  0.055915  1
+  F  F9  1  0.665702  0.725312  0.331404  1
+  F  F10  1  0.334298  0.225312  0.668596  1
+  F  F11  1  0.078666  0.010475  0.157332  1

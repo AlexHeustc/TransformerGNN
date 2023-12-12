@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ba2NbFeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87895068
+_cell_length_b   5.87908952
+_cell_length_c   14.38339064
+_cell_angle_alpha   89.99999998
+_cell_angle_beta   90.02290012
+_cell_angle_gamma   120.00078101
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2NbFeO6
+_chemical_formula_sum   'Ba6 Nb3 Fe3 O18'
+_cell_volume   430.52495798
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.000137  0.000069  0.249629  1
+  Ba  Ba1  1  0.999863  0.999931  0.750371  1
+  Ba  Ba2  1  0.333560  0.666780  0.095354  1
+  Ba  Ba3  1  0.666440  0.333220  0.904646  1
+  Ba  Ba4  1  0.333445  0.666723  0.398234  1
+  Ba  Ba5  1  0.666555  0.333277  0.601766  1
+  Nb  Nb6  1  0.000000  0.000000  0.500000  1
+  Nb  Nb7  1  0.333410  0.666705  0.844385  1
+  Nb  Nb8  1  0.666590  0.333295  0.155615  1
+  Fe  Fe9  1  0.000000  0.000000  0.000000  1
+  Fe  Fe10  1  0.333869  0.666934  0.650677  1
+  Fe  Fe11  1  0.666131  0.333066  0.349323  1
+  O  O12  1  0.971145  0.485572  0.248584  1
+  O  O13  1  0.514457  0.485528  0.248525  1
+  O  O14  1  0.514457  0.028928  0.248525  1
+  O  O15  1  0.028855  0.514428  0.751416  1
+  O  O16  1  0.485543  0.514472  0.751475  1
+  O  O17  1  0.485543  0.971072  0.751475  1
+  O  O18  1  0.333516  0.166758  0.081545  1
+  O  O19  1  0.833313  0.166723  0.081553  1
+  O  O20  1  0.833313  0.666591  0.081553  1
+  O  O21  1  0.666484  0.833242  0.918455  1
+  O  O22  1  0.166687  0.833277  0.918447  1
+  O  O23  1  0.166687  0.333409  0.918447  1
+  O  O24  1  0.326196  0.163098  0.419273  1
+  O  O25  1  0.836844  0.163091  0.419259  1
+  O  O26  1  0.836844  0.673753  0.419259  1
+  O  O27  1  0.673804  0.836902  0.580727  1
+  O  O28  1  0.163156  0.836909  0.580741  1
+  O  O29  1  0.163156  0.326247  0.580741  1

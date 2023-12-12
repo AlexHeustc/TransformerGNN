@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ce3Si2Rh3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65599715
+_cell_length_b   7.72691813
+_cell_length_c   14.88003376
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3Si2Rh3
+_chemical_formula_sum   'Ce12 Si8 Rh12'
+_cell_volume   650.30846802
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.881746  0.837432  0.750000  1
+  Ce  Ce1  1  0.856305  0.527114  0.392154  1
+  Ce  Ce2  1  0.356305  0.972886  0.607846  1
+  Ce  Ce3  1  0.143695  0.472886  0.892154  1
+  Ce  Ce4  1  0.643695  0.027113  0.107846  1
+  Ce  Ce5  1  0.118254  0.162568  0.250000  1
+  Ce  Ce6  1  0.143695  0.472886  0.607846  1
+  Ce  Ce7  1  0.643695  0.027113  0.392154  1
+  Ce  Ce8  1  0.381746  0.662568  0.250000  1
+  Ce  Ce9  1  0.356305  0.972886  0.892154  1
+  Ce  Ce10  1  0.618254  0.337432  0.750000  1
+  Ce  Ce11  1  0.856305  0.527114  0.107846  1
+  Si  Si12  1  0.644152  0.625682  0.898821  1
+  Si  Si13  1  0.855848  0.125682  0.601179  1
+  Si  Si14  1  0.144152  0.874318  0.101180  1
+  Si  Si15  1  0.144152  0.874318  0.398821  1
+  Si  Si16  1  0.644152  0.625682  0.601179  1
+  Si  Si17  1  0.855848  0.125682  0.898821  1
+  Si  Si18  1  0.355848  0.374318  0.101180  1
+  Si  Si19  1  0.355848  0.374318  0.398821  1
+  Rh  Rh20  1  0.595116  0.337078  0.963657  1
+  Rh  Rh21  1  0.095116  0.162922  0.463657  1
+  Rh  Rh22  1  0.095116  0.162922  0.036343  1
+  Rh  Rh23  1  0.418795  0.688701  0.750000  1
+  Rh  Rh24  1  0.904884  0.837078  0.963657  1
+  Rh  Rh25  1  0.581205  0.311299  0.250000  1
+  Rh  Rh26  1  0.904884  0.837078  0.536343  1
+  Rh  Rh27  1  0.918795  0.811299  0.250000  1
+  Rh  Rh28  1  0.595116  0.337078  0.536343  1
+  Rh  Rh29  1  0.404884  0.662922  0.463657  1
+  Rh  Rh30  1  0.081205  0.188701  0.750000  1
+  Rh  Rh31  1  0.404884  0.662922  0.036343  1

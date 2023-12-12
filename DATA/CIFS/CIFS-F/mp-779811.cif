@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Fe5O3F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78410754
+_cell_length_b   4.78880085
+_cell_length_c   15.74672741
+_cell_angle_alpha   89.99077664
+_cell_angle_beta   90.03798249
+_cell_angle_gamma   90.15054842
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe5O3F7
+_chemical_formula_sum   'Fe10 O6 F14'
+_cell_volume   360.75837299
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.974739  0.952901  0.993341  1
+  Fe  Fe1  1  0.027999  0.026803  0.198790  1
+  Fe  Fe2  1  0.027756  0.011664  0.405531  1
+  Fe  Fe3  1  0.024431  0.970215  0.600398  1
+  Fe  Fe4  1  0.026661  0.971589  0.799870  1
+  Fe  Fe5  1  0.500965  0.493946  0.099707  1
+  Fe  Fe6  1  0.471050  0.510677  0.492921  1
+  Fe  Fe7  1  0.483501  0.472956  0.297630  1
+  Fe  Fe8  1  0.486971  0.513863  0.700126  1
+  Fe  Fe9  1  0.488598  0.519815  0.906600  1
+  O  O10  1  0.203789  0.798718  0.507216  1
+  O  O11  1  0.185843  0.812972  0.700656  1
+  O  O12  1  0.172372  0.814365  0.899638  1
+  O  O13  1  0.327743  0.318943  0.196265  1
+  O  O14  1  0.318825  0.315897  0.397589  1
+  O  O15  1  0.684866  0.686051  0.009209  1
+  F  F16  1  0.195935  0.797302  0.095153  1
+  F  F17  1  0.220427  0.802745  0.298727  1
+  F  F18  1  0.279676  0.287786  0.008288  1
+  F  F19  1  0.297349  0.301333  0.595235  1
+  F  F20  1  0.291238  0.301008  0.803317  1
+  F  F21  1  0.711358  0.702414  0.200578  1
+  F  F22  1  0.702614  0.700439  0.396678  1
+  F  F23  1  0.697012  0.700563  0.593653  1
+  F  F24  1  0.699121  0.712819  0.800728  1
+  F  F25  1  0.801739  0.191361  0.092753  1
+  F  F26  1  0.793474  0.212182  0.510354  1
+  F  F27  1  0.809517  0.210261  0.301162  1
+  F  F28  1  0.794785  0.189753  0.898294  1
+  F  F29  1  0.799644  0.198654  0.699591  1

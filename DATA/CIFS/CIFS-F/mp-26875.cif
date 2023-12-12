@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Li2CuPO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13314119
+_cell_length_b   10.91697819
+_cell_length_c   5.16589375
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.68140516
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CuPO4
+_chemical_formula_sum   'Li8 Cu4 P4 O16'
+_cell_volume   345.85985978
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  1.001359  0.164487  0.303703  1
+  Li  Li1  1  0.744055  0.927488  0.298596  1
+  Li  Li2  1  0.755945  0.427488  0.201404  1
+  Li  Li3  1  0.498641  0.664487  0.196297  1
+  Li  Li4  1  -0.001359  0.835513  0.696297  1
+  Li  Li5  1  0.255945  0.072512  0.701404  1
+  Li  Li6  1  0.244055  0.572512  0.798596  1
+  Li  Li7  1  0.501359  0.335513  0.803703  1
+  O  O8  1  0.751031  0.955751  0.687462  1
+  O  O9  1  0.765346  0.081933  0.104682  1
+  O  O10  1  0.961937  0.152489  0.696617  1
+  O  O11  1  0.251031  0.544249  0.187462  1
+  O  O12  1  0.044659  0.340897  0.217966  1
+  O  O13  1  0.748969  0.455751  0.812538  1
+  O  O14  1  0.234654  0.918067  0.895318  1
+  O  O15  1  0.248969  0.044249  0.312538  1
+  O  O16  1  0.038063  0.847511  0.303383  1
+  O  O17  1  0.265346  0.418067  0.604682  1
+  O  O18  1  0.461937  0.347511  0.196617  1
+  O  O19  1  0.455341  0.840897  0.282034  1
+  O  O20  1  0.544659  0.159103  0.717966  1
+  O  O21  1  0.538063  0.652489  0.803383  1
+  O  O22  1  0.734654  0.581933  0.395318  1
+  O  O23  1  0.955341  0.659103  0.782034  1
+  P  P24  1  0.246743  0.912501  0.197421  1
+  P  P25  1  0.253257  0.412501  0.302579  1
+  P  P26  1  0.746743  0.587499  0.697421  1
+  P  P27  1  0.753257  0.087499  0.802579  1
+  Cu  Cu28  1  0.500999  0.171036  0.287201  1
+  Cu  Cu29  1  0.499001  0.828964  0.712799  1
+  Cu  Cu30  1  0.999001  0.671036  0.212799  1
+  Cu  Cu31  1  0.000999  0.328964  0.787201  1

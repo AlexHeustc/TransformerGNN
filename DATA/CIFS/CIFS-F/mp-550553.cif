@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CdBiClO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24651315
+_cell_length_b   6.29125124
+_cell_length_c   7.66067681
+_cell_angle_alpha   98.16410460
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdBiClO2
+_chemical_formula_sum   'Cd2 Bi2 Cl2 O4'
+_cell_volume   202.58756446
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.750000  0.653112  0.896192  1
+  O  O1  1  0.250000  0.509986  0.855658  1
+  O  O2  1  0.750000  0.490014  0.144342  1
+  Cl  Cl3  1  0.250000  0.977592  0.202576  1
+  O  O4  1  0.750000  0.453932  0.593748  1
+  Cl  Cl5  1  0.750000  0.022408  0.797424  1
+  Bi  Bi6  1  0.250000  0.314223  0.601940  1
+  O  O7  1  0.250000  0.546068  0.406252  1
+  Bi  Bi8  1  0.750000  0.685777  0.398061  1
+  Cd  Cd9  1  0.250000  0.346888  0.103808  1

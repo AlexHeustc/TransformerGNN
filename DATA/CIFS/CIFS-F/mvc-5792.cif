@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Zn2CoIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13321102
+_cell_length_b   5.14932795
+_cell_length_c   7.52702142
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.73015162
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2CoIrO6
+_chemical_formula_sum   'Zn4 Co2 Ir2 O12'
+_cell_volume   198.95644192
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.992380  0.967635  0.248861  1
+  Zn  Zn1  1  0.507620  0.467635  0.251139  1
+  Zn  Zn2  1  0.492380  0.532365  0.748861  1
+  Zn  Zn3  1  0.007620  0.032365  0.751139  1
+  Co  Co4  1  0.000000  0.500000  0.000000  1
+  Co  Co5  1  0.500000  0.000000  0.500000  1
+  Ir  Ir6  1  0.000000  0.500000  0.500000  1
+  Ir  Ir7  1  0.500000  0.000000  0.000000  1
+  O  O8  1  0.114171  0.415567  0.752385  1
+  O  O9  1  0.173159  0.180995  0.061459  1
+  O  O10  1  0.178965  0.174761  0.434997  1
+  O  O11  1  0.321035  0.674761  0.065003  1
+  O  O12  1  0.326841  0.680995  0.438541  1
+  O  O13  1  0.385829  0.915567  0.747615  1
+  O  O14  1  0.614171  0.084433  0.252385  1
+  O  O15  1  0.673159  0.319005  0.561459  1
+  O  O16  1  0.678965  0.325239  0.934997  1
+  O  O17  1  0.826841  0.819005  0.938541  1
+  O  O18  1  0.821035  0.825239  0.565003  1
+  O  O19  1  0.885829  0.584433  0.247615  1

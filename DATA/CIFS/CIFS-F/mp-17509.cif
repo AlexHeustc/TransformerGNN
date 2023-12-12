@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Rb2NaCr(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.44116973
+_cell_length_b   7.93138455
+_cell_length_c   10.83998174
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.61836193
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NaCr(CN)6
+_chemical_formula_sum   'Rb4 Na2 Cr2 C12 N12'
+_cell_volume   639.72522440
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.776522  0.140619  0.035164  1
+  C  C1  1  0.276522  0.359381  0.535164  1
+  C  C2  1  0.223478  0.859381  0.964836  1
+  C  C3  1  0.723478  0.640619  0.464836  1
+  C  C4  1  0.637713  0.285492  0.456326  1
+  C  C5  1  0.862287  0.785492  0.043674  1
+  C  C6  1  0.362287  0.714508  0.543674  1
+  C  C7  1  0.137713  0.214508  0.956326  1
+  C  C8  1  0.077983  0.022473  0.180171  1
+  C  C9  1  0.422017  0.522473  0.319829  1
+  C  C10  1  0.922017  0.977527  0.819829  1
+  C  C11  1  0.577983  0.477527  0.680171  1
+  N  N12  1  0.120587  0.037227  0.284435  1
+  N  N13  1  0.379413  0.537227  0.215565  1
+  N  N14  1  0.879413  0.962773  0.715565  1
+  N  N15  1  0.620587  0.462773  0.784435  1
+  N  N16  1  0.719188  0.163798  0.430006  1
+  N  N17  1  0.219188  0.336202  0.930006  1
+  N  N18  1  0.280812  0.836202  0.569994  1
+  N  N19  1  0.780812  0.663798  0.069994  1
+  N  N20  1  0.648765  0.222649  0.056319  1
+  N  N21  1  0.851235  0.722649  0.443681  1
+  N  N22  1  0.351235  0.777351  0.943681  1
+  N  N23  1  0.148765  0.277351  0.556319  1
+  Na  Na24  1  0.000000  0.000000  0.500000  1
+  Na  Na25  1  0.500000  0.500000  0.000000  1
+  Cr  Cr26  1  0.000000  0.000000  0.000000  1
+  Cr  Cr27  1  0.500000  0.500000  0.500000  1
+  Rb  Rb28  1  0.023565  0.572201  0.748371  1
+  Rb  Rb29  1  0.476435  0.072201  0.751629  1
+  Rb  Rb30  1  0.976435  0.427799  0.251630  1
+  Rb  Rb31  1  0.523565  0.927799  0.248370  1

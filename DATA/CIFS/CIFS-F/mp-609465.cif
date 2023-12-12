@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Fe2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37857248
+_cell_length_b   5.37857230
+_cell_length_c   15.12518725
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000109
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2O3
+_chemical_formula_sum   'Fe12 O18'
+_cell_volume   378.93561348
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.657482  0.624029  0.227200  1
+  Fe  Fe1  1  0.000000  0.000000  0.915363  1
+  Fe  Fe2  1  0.000000  0.000000  0.080048  1
+  Fe  Fe3  1  0.973263  0.623431  0.733761  1
+  Fe  Fe4  1  0.000000  0.000000  0.577671  1
+  Fe  Fe5  1  0.666667  0.333333  0.927879  1
+  Fe  Fe6  1  0.650168  0.026737  0.733761  1
+  Fe  Fe7  1  0.966547  0.342518  0.227200  1
+  Fe  Fe8  1  0.333333  0.666667  0.032972  1
+  Fe  Fe9  1  0.376569  0.349832  0.733761  1
+  Fe  Fe10  1  0.375971  0.033453  0.227200  1
+  Fe  Fe11  1  0.000000  0.000000  0.402285  1
+  O  O12  1  0.268774  0.260542  0.516644  1
+  O  O13  1  0.033091  0.698230  0.164885  1
+  O  O14  1  0.705678  0.048362  0.855823  1
+  O  O15  1  0.686598  0.707568  0.685877  1
+  O  O16  1  0.665139  0.966909  0.164885  1
+  O  O17  1  0.292432  0.979030  0.685877  1
+  O  O18  1  0.681389  0.680652  0.995181  1
+  O  O19  1  0.996757  0.303446  0.341858  1
+  O  O20  1  0.342684  0.294322  0.855823  1
+  O  O21  1  0.301770  0.334861  0.164885  1
+  O  O22  1  0.319348  0.000737  0.995181  1
+  O  O23  1  0.306690  0.003243  0.341858  1
+  O  O24  1  0.020970  0.313402  0.685877  1
+  O  O25  1  0.696554  0.693310  0.341858  1
+  O  O26  1  0.951638  0.657316  0.855823  1
+  O  O27  1  0.739458  0.008233  0.516644  1
+  O  O28  1  0.999263  0.318611  0.995181  1
+  O  O29  1  0.991767  0.731226  0.516644  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_PrZn(CoO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32770701
+_cell_length_b   5.37346356
+_cell_length_c   7.71256092
+_cell_angle_alpha   89.99517359
+_cell_angle_beta   89.99851554
+_cell_angle_gamma   90.08845199
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrZn(CoO3)2
+_chemical_formula_sum   'Pr2 Zn2 Co4 O12'
+_cell_volume   220.79677711
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.004422  0.963011  0.750047  1
+  Pr  Pr1  1  0.504289  0.537362  0.250033  1
+  Zn  Zn2  1  0.481417  0.457451  0.749912  1
+  Zn  Zn3  1  0.981749  0.042310  0.250055  1
+  Co  Co4  1  0.995592  0.495245  -0.000069  1
+  Co  Co5  1  0.995427  0.495038  0.500092  1
+  Co  Co6  1  0.496081  0.004340  0.499946  1
+  Co  Co7  1  0.496266  0.004268  0.000083  1
+  O  O8  1  0.077514  0.437556  0.249946  1
+  O  O9  1  0.216157  0.246273  0.943038  1
+  O  O10  1  0.216104  0.246447  0.557052  1
+  O  O11  1  0.324520  0.715192  0.559777  1
+  O  O12  1  0.324376  0.715101  0.940203  1
+  O  O13  1  0.363355  0.974852  0.249917  1
+  O  O14  1  0.576381  0.062468  0.750169  1
+  O  O15  1  0.716872  0.254694  0.056758  1
+  O  O16  1  0.716765  0.254714  0.443188  1
+  O  O17  1  0.824535  0.784494  0.059748  1
+  O  O18  1  0.824658  0.784476  0.440124  1
+  O  O19  1  0.863514  0.524709  0.749981  1

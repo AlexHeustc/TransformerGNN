@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ti2Cu(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.15706010
+_cell_length_b   7.32527381
+_cell_length_c   7.63090078
+_cell_angle_alpha   118.09305706
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Cu(PO5)2
+_chemical_formula_sum   'Ti4 Cu2 P4 O20'
+_cell_volume   352.93398378
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.259768  0.942116  0.599185  1
+  O  O1  1  0.759768  0.057884  0.900815  1
+  O  O2  1  0.740232  0.057884  0.400815  1
+  O  O3  1  0.240232  0.942116  0.099185  1
+  O  O4  1  0.482840  0.754698  0.827449  1
+  O  O5  1  0.982840  0.245302  0.672551  1
+  O  O6  1  0.517160  0.245302  0.172551  1
+  O  O7  1  0.017160  0.754698  0.327449  1
+  O  O8  1  0.244652  0.556062  0.912743  1
+  O  O9  1  0.744652  0.443938  0.587257  1
+  O  O10  1  0.150265  0.224067  0.999401  1
+  O  O11  1  0.650265  0.775933  0.500599  1
+  O  O12  1  0.849735  0.775933  0.000599  1
+  O  O13  1  0.349735  0.224067  0.499401  1
+  O  O14  1  0.003054  0.245789  0.340712  1
+  O  O15  1  0.503054  0.754211  0.159288  1
+  O  O16  1  0.996946  0.754211  0.659288  1
+  O  O17  1  0.496946  0.245789  0.840712  1
+  O  O18  1  0.255348  0.556062  0.412743  1
+  O  O19  1  0.755348  0.443938  0.087257  1
+  P  P20  1  0.370631  0.748956  0.997516  1
+  P  P21  1  0.870631  0.251044  0.502484  1
+  P  P22  1  0.629369  0.251044  0.002484  1
+  P  P23  1  0.129369  0.748956  0.497516  1
+  Ti  Ti24  1  0.279762  0.261743  0.297973  1
+  Ti  Ti25  1  0.779762  0.738257  0.202027  1
+  Ti  Ti26  1  0.720238  0.738257  0.702027  1
+  Ti  Ti27  1  0.220238  0.261743  0.797973  1
+  Cu  Cu28  1  0.500000  0.000000  0.500000  1
+  Cu  Cu29  1  0.000000  0.000000  0.000000  1

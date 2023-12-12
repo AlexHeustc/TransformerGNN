@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_TaO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.42971452
+_cell_length_b   3.85141153
+_cell_length_c   3.89855042
+_cell_angle_alpha   86.25410479
+_cell_angle_beta   56.67915298
+_cell_angle_gamma   69.35684604
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaO10
+_chemical_formula_sum   'Ta1 O10'
+_cell_volume   155.54058463
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.751744  0.912200  0.799597  1
+  O  O1  1  0.024987  0.364037  0.806640  1
+  O  O2  1  0.081728  0.026946  0.685800  1
+  O  O3  1  0.202393  0.491310  -0.022634  1
+  O  O4  1  0.413773  0.566800  0.002973  1
+  O  O5  1  0.287363  0.187915  0.709325  1
+  O  O6  1  0.514601  0.612084  -0.232039  1
+  O  O7  1  0.406523  0.153212  0.490629  1
+  O  O8  1  0.706300  -0.041998  0.377623  1
+  O  O9  1  0.707207  0.462045  -0.130070  1
+  O  O10  1  0.922855  0.732548  0.494309  1

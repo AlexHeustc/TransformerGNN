@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_NaHfPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.30803098
+_cell_length_b   6.65554308
+_cell_length_c   5.55523675
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   87.65665603
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHfPCO7
+_chemical_formula_sum   'Na2 Hf2 P2 C2 O14'
+_cell_volume   343.85913024
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.203601  0.493617  0.240806  1
+  Na  Na1  1  0.796399  0.993617  0.759194  1
+  Hf  Hf2  1  0.342568  0.766688  0.790903  1
+  Hf  Hf3  1  0.657432  0.266688  0.209097  1
+  P  P4  1  0.438765  0.259963  0.724422  1
+  P  P5  1  0.561235  0.759963  0.275578  1
+  C  C6  1  0.073693  0.734263  0.723340  1
+  C  C7  1  0.926307  0.234263  0.276660  1
+  O  O8  1  0.055679  0.246793  0.312849  1
+  O  O9  1  0.132068  0.736636  0.940519  1
+  O  O10  1  0.177849  0.724025  0.547915  1
+  O  O11  1  0.344259  0.073704  0.779302  1
+  O  O12  1  0.355129  0.449920  0.800291  1
+  O  O13  1  0.421374  0.743952  0.132087  1
+  O  O14  1  0.482329  0.268290  0.451452  1
+  O  O15  1  0.517671  0.768290  0.548548  1
+  O  O16  1  0.578626  0.243952  0.867913  1
+  O  O17  1  0.644871  0.949920  0.199709  1
+  O  O18  1  0.655741  0.573704  0.220698  1
+  O  O19  1  0.822151  0.224025  0.452085  1
+  O  O20  1  0.867932  0.236636  0.059481  1
+  O  O21  1  0.944321  0.746793  0.687151  1

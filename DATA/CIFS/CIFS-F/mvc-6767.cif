@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Zn2NiWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44218591
+_cell_length_b   7.58869378
+_cell_length_c   6.66605253
+_cell_angle_alpha   92.96601979
+_cell_angle_beta   128.18724072
+_cell_angle_gamma   123.76455862
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2NiWO6
+_chemical_formula_sum   'Zn2 Ni1 W1 O6'
+_cell_volume   143.22536960
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.107052  0.675320  0.301057  1
+  Zn  Zn1  1  0.986310  0.617626  0.745113  1
+  Ni  Ni2  1  0.076808  0.128075  0.533443  1
+  W  W3  1  0.036918  0.994678  0.023518  1
+  O  O4  1  0.050606  0.928327  0.299896  1
+  O  O5  1  0.806240  0.908830  0.625747  1
+  O  O6  1  0.339228  0.328905  0.222500  1
+  O  O7  1  0.339799  0.726415  0.695106  1
+  O  O8  1  0.493188  0.024614  0.171597  1
+  O  O9  1  0.719413  0.479772  0.861393  1

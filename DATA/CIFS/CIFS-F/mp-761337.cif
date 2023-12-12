@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_SrCrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53153845
+_cell_length_b   5.55258142
+_cell_length_c   13.68560695
+_cell_angle_alpha   89.99368180
+_cell_angle_beta   90.01223179
+_cell_angle_gamma   119.80797894
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCrO3
+_chemical_formula_sum   'Sr6 Cr6 O18'
+_cell_volume   364.73096689
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.332686  0.666151  0.092612  1
+  Sr  Sr1  1  0.003119  0.999787  0.249940  1
+  Sr  Sr2  1  0.004332  0.999519  0.749958  1
+  Sr  Sr3  1  0.332640  0.666316  0.406615  1
+  Sr  Sr4  1  0.666389  0.333777  0.593114  1
+  Sr  Sr5  1  0.666517  0.333434  0.906635  1
+  Cr  Cr6  1  0.339116  0.662811  0.844536  1
+  Cr  Cr7  1  0.005636  0.000697  -0.000005  1
+  Cr  Cr8  1  0.005070  0.000856  0.500124  1
+  Cr  Cr9  1  0.338695  0.662823  0.655253  1
+  Cr  Cr10  1  0.676473  0.336946  0.155442  1
+  Cr  Cr11  1  0.676193  0.337084  0.344666  1
+  O  O12  1  0.158947  0.839723  0.580717  1
+  O  O13  1  0.160042  0.839353  0.919673  1
+  O  O14  1  0.030137  0.517287  0.750169  1
+  O  O15  1  0.163850  0.338685  0.582042  1
+  O  O16  1  0.165041  0.338511  0.918097  1
+  O  O17  1  0.485317  0.971364  0.750091  1
+  O  O18  1  0.494144  0.509190  0.749957  1
+  O  O19  1  0.667212  0.838792  0.581036  1
+  O  O20  1  0.668097  0.838798  0.918923  1
+  O  O21  1  0.321151  0.160909  0.079607  1
+  O  O22  1  0.320183  0.161193  0.420359  1
+  O  O23  1  0.512068  0.482457  0.249932  1
+  O  O24  1  0.513027  0.028102  0.250019  1
+  O  O25  1  0.827321  0.661645  0.082103  1
+  O  O26  1  0.826014  0.661300  0.417954  1
+  O  O27  1  0.983832  0.490092  0.250182  1
+  O  O28  1  0.827822  0.161364  0.418990  1
+  O  O29  1  0.829156  0.161461  0.081264  1

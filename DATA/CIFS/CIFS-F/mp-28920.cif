@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Tl5Se2Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.77104412
+_cell_length_b   8.77104412
+_cell_length_c   13.33014315
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl5Se2Cl
+_chemical_formula_sum   'Tl20 Se8 Cl4'
+_cell_volume   1025.50410805
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.250000  0.250000  0.542225  1
+  Cl  Cl1  1  0.750000  0.750000  0.957775  1
+  Cl  Cl2  1  0.750000  0.750000  0.457775  1
+  Cl  Cl3  1  0.250000  0.250000  0.042225  1
+  Se  Se4  1  0.410679  0.589321  0.250000  1
+  Se  Se5  1  0.910679  0.410679  0.250000  1
+  Se  Se6  1  0.589321  0.089321  0.250000  1
+  Se  Se7  1  0.089321  0.910679  0.250000  1
+  Se  Se8  1  0.910679  0.089321  0.750000  1
+  Se  Se9  1  0.410679  0.910679  0.750000  1
+  Se  Se10  1  0.089321  0.589321  0.750000  1
+  Se  Se11  1  0.589321  0.410679  0.750000  1
+  Tl  Tl12  1  0.123121  0.915620  0.607175  1
+  Tl  Tl13  1  0.584380  0.123121  0.607175  1
+  Tl  Tl14  1  0.915620  0.376879  0.607175  1
+  Tl  Tl15  1  0.623121  0.084380  0.892825  1
+  Tl  Tl16  1  0.876879  0.415620  0.892825  1
+  Tl  Tl17  1  0.376879  0.584380  0.607175  1
+  Tl  Tl18  1  0.415620  0.623121  0.892825  1
+  Tl  Tl19  1  0.084380  0.876879  0.892825  1
+  Tl  Tl20  1  0.915620  0.123121  0.107175  1
+  Tl  Tl21  1  0.584380  0.376879  0.107175  1
+  Tl  Tl22  1  0.623121  0.415620  0.392825  1
+  Tl  Tl23  1  0.123121  0.584380  0.107175  1
+  Tl  Tl24  1  0.376879  0.915620  0.107175  1
+  Tl  Tl25  1  0.084380  0.623121  0.392825  1
+  Tl  Tl26  1  0.415620  0.876879  0.392825  1
+  Tl  Tl27  1  0.876879  0.084380  0.392825  1
+  Tl  Tl28  1  0.250000  0.250000  0.792102  1
+  Tl  Tl29  1  0.750000  0.750000  0.707898  1
+  Tl  Tl30  1  0.750000  0.750000  0.207898  1
+  Tl  Tl31  1  0.250000  0.250000  0.292102  1

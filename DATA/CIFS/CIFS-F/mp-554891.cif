@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_RbCoF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00365692
+_cell_length_b   6.00365675
+_cell_length_c   14.71266984
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000095
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCoF3
+_chemical_formula_sum   'Rb6 Co6 F18'
+_cell_volume   459.25494084
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.000000  0.000000  0.000000  1
+  Co  Co1  1  0.000000  0.000000  0.500000  1
+  Co  Co2  1  0.333333  0.666667  0.846251  1
+  Co  Co3  1  0.666667  0.333333  0.346251  1
+  Co  Co4  1  0.666667  0.333333  0.153749  1
+  Co  Co5  1  0.333333  0.666667  0.653749  1
+  F  F6  1  0.517834  0.035668  0.250000  1
+  F  F7  1  0.482166  0.517834  0.750000  1
+  F  F8  1  0.035668  0.517834  0.750000  1
+  F  F9  1  0.964332  0.482166  0.250000  1
+  F  F10  1  0.517834  0.482166  0.250000  1
+  F  F11  1  0.482166  0.964332  0.750000  1
+  F  F12  1  0.834683  0.669367  0.080123  1
+  F  F13  1  0.165317  0.834683  0.580123  1
+  F  F14  1  0.669367  0.834683  0.580123  1
+  F  F15  1  0.330633  0.165317  0.080123  1
+  F  F16  1  0.834683  0.165317  0.080123  1
+  F  F17  1  0.165317  0.330633  0.919877  1
+  F  F18  1  0.165317  0.834683  0.919877  1
+  F  F19  1  0.165317  0.330633  0.580123  1
+  F  F20  1  0.669367  0.834683  0.919877  1
+  F  F21  1  0.330633  0.165317  0.419877  1
+  F  F22  1  0.834683  0.669367  0.419877  1
+  F  F23  1  0.834683  0.165317  0.419877  1
+  Rb  Rb24  1  0.000000  0.000000  0.250000  1
+  Rb  Rb25  1  0.000000  0.000000  0.750000  1
+  Rb  Rb26  1  0.333333  0.666667  0.094918  1
+  Rb  Rb27  1  0.666667  0.333333  0.594918  1
+  Rb  Rb28  1  0.666667  0.333333  0.905082  1
+  Rb  Rb29  1  0.333333  0.666667  0.405082  1

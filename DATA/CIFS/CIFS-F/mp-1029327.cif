@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Te6MoW3S2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.45391924
+_cell_length_b   3.45387488
+_cell_length_c   39.35658370
+_cell_angle_alpha   90.00018871
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00042488
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te6MoW3S2
+_chemical_formula_sum   'Te6 Mo1 W3 S2'
+_cell_volume   406.59772515
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.333353  0.666706  0.704832  1
+  Te  Te1  1  0.666648  0.333295  0.046939  1
+  Te  Te2  1  0.666651  0.333300  0.422356  1
+  Te  Te3  1  0.666653  0.333304  0.140927  1
+  Te  Te4  1  0.666653  0.333304  0.516853  1
+  Te  Te5  1  0.333351  0.666704  0.610321  1
+  Mo  Mo6  1  0.333308  0.666615  0.093927  1
+  W  W7  1  0.333309  0.666619  0.469607  1
+  W  W8  1  0.666685  0.333370  0.281801  1
+  W  W9  1  0.666695  0.333389  0.657595  1
+  S  S10  1  0.333348  0.666697  0.319644  1
+  S  S11  1  0.333348  0.666697  0.243946  1

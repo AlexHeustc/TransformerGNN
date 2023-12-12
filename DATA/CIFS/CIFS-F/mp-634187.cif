@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Fe3H6C6(N3Cl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.95485248
+_cell_length_b   9.95494422
+_cell_length_c   6.15264840
+_cell_angle_alpha   90.00091888
+_cell_angle_beta   89.99968853
+_cell_angle_gamma   119.99979884
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3H6C6(N3Cl4)2
+_chemical_formula_sum   'Fe3 H6 C6 N6 Cl8'
+_cell_volume   528.04054294
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.000000  0.000000  0.000000  1
+  Fe  Fe1  1  0.333333  0.666666  0.141075  1
+  Fe  Fe2  1  0.666667  0.333334  0.858925  1
+  H  H3  1  0.086033  0.390376  0.650324  1
+  H  H4  1  0.304347  0.913966  0.650322  1
+  H  H5  1  0.609620  0.695655  0.650324  1
+  H  H6  1  0.913967  0.609624  0.349676  1
+  H  H7  1  0.695653  0.086034  0.349678  1
+  H  H8  1  0.390380  0.304345  0.349676  1
+  C  C9  1  0.063004  0.285363  0.735074  1
+  C  C10  1  0.222354  0.936994  0.735082  1
+  C  C11  1  0.714641  0.777647  0.735081  1
+  C  C12  1  0.936996  0.714637  0.264926  1
+  C  C13  1  0.777646  0.063006  0.264918  1
+  C  C14  1  0.285359  0.222353  0.264919  1
+  N  N15  1  0.039339  0.174256  0.827212  1
+  N  N16  1  0.134921  0.960656  0.827206  1
+  N  N17  1  0.825738  0.865079  0.827206  1
+  N  N18  1  0.960661  0.825744  0.172788  1
+  N  N19  1  0.865079  0.039344  0.172794  1
+  N  N20  1  0.174262  0.134921  0.172794  1
+  Cl  Cl21  1  0.333308  0.666615  0.781357  1
+  Cl  Cl22  1  0.666692  0.333385  0.218643  1
+  Cl  Cl23  1  0.520067  0.627267  0.257326  1
+  Cl  Cl24  1  0.107201  0.479927  0.257328  1
+  Cl  Cl25  1  0.372727  0.892797  0.257320  1
+  Cl  Cl26  1  0.479933  0.372733  0.742674  1
+  Cl  Cl27  1  0.892799  0.520073  0.742672  1
+  Cl  Cl28  1  0.627273  0.107203  0.742680  1

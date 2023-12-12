@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Dy2TiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.47883981
+_cell_length_b   11.27324759
+_cell_length_c   3.72127620
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2TiO5
+_chemical_formula_sum   'Dy8 Ti4 O20'
+_cell_volume   439.59642517
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.112457  0.723788  0.250000  1
+  Dy  Dy1  1  0.135636  0.056550  0.250000  1
+  Dy  Dy2  1  0.364364  0.556550  0.750000  1
+  Dy  Dy3  1  0.387543  0.223788  0.750000  1
+  Dy  Dy4  1  0.612457  0.776212  0.250000  1
+  Dy  Dy5  1  0.635636  0.443450  0.250000  1
+  Dy  Dy6  1  0.864364  0.943450  0.750000  1
+  Dy  Dy7  1  0.887543  0.276212  0.750000  1
+  Ti  Ti8  1  0.177812  0.379397  0.250000  1
+  Ti  Ti9  1  0.322188  0.879397  0.750000  1
+  Ti  Ti10  1  0.677812  0.120603  0.250000  1
+  Ti  Ti11  1  0.822188  0.620603  0.750000  1
+  O  O12  1  0.007242  0.103857  0.750000  1
+  O  O13  1  0.011696  0.341687  0.250000  1
+  O  O14  1  0.225384  0.542709  0.250000  1
+  O  O15  1  0.240791  0.382730  0.750000  1
+  O  O16  1  0.238224  0.728546  0.750000  1
+  O  O17  1  0.261776  0.228546  0.250000  1
+  O  O18  1  0.259209  0.882730  0.250000  1
+  O  O19  1  0.274616  0.042709  0.750000  1
+  O  O20  1  0.488304  0.841687  0.750000  1
+  O  O21  1  0.492758  0.603857  0.250000  1
+  O  O22  1  0.507242  0.396143  0.750000  1
+  O  O23  1  0.511696  0.158313  0.250000  1
+  O  O24  1  0.725384  0.957291  0.250000  1
+  O  O25  1  0.740791  0.117270  0.750000  1
+  O  O26  1  0.738224  0.771454  0.750000  1
+  O  O27  1  0.761776  0.271454  0.250000  1
+  O  O28  1  0.759209  0.617270  0.250000  1
+  O  O29  1  0.774616  0.457291  0.750000  1
+  O  O30  1  0.988304  0.658313  0.750000  1
+  O  O31  1  0.992758  0.896143  0.250000  1

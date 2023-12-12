@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K2BaCu(NO2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66908337
+_cell_length_b   7.66908338
+_cell_length_c   7.89215780
+_cell_angle_alpha   118.90790704
+_cell_angle_beta   118.90790710
+_cell_angle_gamma   90.29058426
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2BaCu(NO2)6
+_chemical_formula_sum   'K2 Ba1 Cu1 N6 O12'
+_cell_volume   338.00386890
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.189764  0.810236  0.000000  1
+  N  N1  1  0.810236  0.189764  0.000000  1
+  N  N2  1  0.792201  0.792201  0.584401  1
+  N  N3  1  0.207799  0.207799  0.415599  1
+  N  N4  1  0.190095  0.190095  0.000000  1
+  N  N5  1  0.809905  0.809905  0.000000  1
+  O  O6  1  0.656174  0.656174  0.811808  1
+  O  O7  1  0.343826  0.343826  0.188192  1
+  O  O8  1  0.155634  0.155634  0.811808  1
+  O  O9  1  0.833036  0.634565  0.467601  1
+  O  O10  1  0.634565  0.833036  0.467601  1
+  O  O11  1  0.365435  0.166964  0.532399  1
+  O  O12  1  0.650865  0.149226  1.000000  1
+  O  O13  1  0.149226  0.650865  0.000000  1
+  O  O14  1  0.850774  0.349135  0.000000  1
+  O  O15  1  0.349135  0.850774  0.000000  1
+  O  O16  1  0.166964  0.365435  0.532399  1
+  O  O17  1  0.844366  0.844366  0.188192  1
+  K  K18  1  0.250000  0.750000  0.500000  1
+  K  K19  1  0.750000  0.250000  0.500000  1
+  Cu  Cu20  1  0.000000  0.000000  0.000000  1
+  Ba  Ba21  1  0.500000  0.500000  0.000000  1

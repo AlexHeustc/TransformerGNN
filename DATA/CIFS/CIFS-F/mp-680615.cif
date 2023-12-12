@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Sm4In21Pd10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.53076117
+_cell_length_b   11.89636274
+_cell_length_c   14.64689936
+_cell_angle_alpha   81.38598946
+_cell_angle_beta   81.12905692
+_cell_angle_gamma   79.01154807
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm4In21Pd10
+_chemical_formula_sum   'Sm4 In21 Pd10'
+_cell_volume   759.79640902
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.778432  0.131549  0.325004  1
+  Sm  Sm1  1  0.880614  0.408368  0.834275  1
+  Sm  Sm2  1  0.122897  0.587372  0.164979  1
+  Sm  Sm3  1  0.234696  0.865095  0.675126  1
+  In  In4  1  0.539463  0.784864  0.132649  1
+  In  In5  1  0.463593  0.216539  0.867677  1
+  In  In6  1  0.620738  0.973168  0.796066  1
+  In  In7  1  0.930736  0.828880  0.297679  1
+  In  In8  1  0.403685  0.704330  0.495353  1
+  In  In9  1  0.796103  0.896727  0.504282  1
+  In  In10  1  0.374630  0.560840  0.700551  1
+  In  In11  1  0.071320  0.170074  0.702567  1
+  In  In12  1  0.986178  0.430804  0.595729  1
+  In  In13  1  0.197674  0.100693  0.495688  1
+  In  In14  1  0.628899  0.437737  0.301800  1
+  In  In15  1  0.503983  0.998883  0.999036  1
+  In  In16  1  0.253812  0.289971  0.206018  1
+  In  In17  1  0.701423  0.599808  0.997949  1
+  In  In18  1  0.389636  0.030901  0.201717  1
+  In  In19  1  0.601964  0.295210  0.501908  1
+  In  In20  1  0.299796  0.403802  0.999608  1
+  In  In21  1  0.751764  0.707603  0.792969  1
+  In  In22  1  0.896072  0.177492  0.050612  1
+  In  In23  1  0.005209  0.573495  0.405831  1
+  In  In24  1  0.113631  0.823972  0.947002  1
+  Pd  Pd25  1  0.498741  0.675259  0.310241  1
+  Pd  Pd26  1  0.660256  0.079280  0.615043  1
+  Pd  Pd27  1  0.339227  0.922766  0.384669  1
+  Pd  Pd28  1  0.141640  0.331591  0.393901  1
+  Pd  Pd29  1  0.251964  0.616260  0.886307  1
+  Pd  Pd30  1  0.024112  0.062360  0.888971  1
+  Pd  Pd31  1  0.750266  0.386168  0.112417  1
+  Pd  Pd32  1  0.867987  0.672212  0.605910  1
+  Pd  Pd33  1  0.979125  0.935589  0.113695  1
+  Pd  Pd34  1  0.494288  0.322000  0.687231  1

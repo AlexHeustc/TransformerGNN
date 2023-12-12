@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Lu2SiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67335051
+_cell_length_b   7.88268490
+_cell_length_c   9.49384812
+_cell_angle_alpha   71.93042431
+_cell_angle_beta   69.42356889
+_cell_angle_gamma   64.95741725
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2SiO5
+_chemical_formula_sum   'Lu8 Si4 O20'
+_cell_volume   415.86001048
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.388513  0.636985  0.395641  1
+  O  O1  1  0.421140  0.863015  0.104359  1
+  O  O2  1  0.611487  0.363015  0.604359  1
+  O  O3  1  0.578860  0.136985  0.895641  1
+  O  O4  1  0.126023  0.028012  0.566272  1
+  O  O5  1  0.720306  0.471988  0.933728  1
+  O  O6  1  0.873977  0.971988  0.433728  1
+  O  O7  1  0.279694  0.528012  0.066272  1
+  O  O8  1  0.450131  0.723253  0.678625  1
+  O  O9  1  0.852009  0.776747  0.821375  1
+  O  O10  1  0.549869  0.276747  0.321375  1
+  O  O11  1  0.147991  0.223253  0.178625  1
+  O  O12  1  0.074315  0.457320  0.366010  1
+  O  O13  1  0.897645  0.042680  0.133990  1
+  O  O14  1  0.925685  0.542680  0.633990  1
+  O  O15  1  0.102355  0.957320  0.866010  1
+  O  O16  1  0.833716  0.586509  0.169351  1
+  O  O17  1  0.589577  0.913491  0.330649  1
+  O  O18  1  0.166284  0.413491  0.830649  1
+  O  O19  1  0.410423  0.086509  0.669351  1
+  Si  Si20  1  0.274913  0.940930  0.693987  1
+  Si  Si21  1  0.909829  0.559070  0.806013  1
+  Si  Si22  1  0.725087  0.059070  0.306013  1
+  Si  Si23  1  0.090171  0.440930  0.193987  1
+  Lu  Lu24  1  0.240348  0.943385  0.339159  1
+  Lu  Lu25  1  0.522893  0.556615  0.160841  1
+  Lu  Lu26  1  0.759652  0.056615  0.660841  1
+  Lu  Lu27  1  0.477107  0.443385  0.839159  1
+  Lu  Lu28  1  0.218522  0.105176  0.971368  1
+  Lu  Lu29  1  0.295066  0.394824  0.528632  1
+  Lu  Lu30  1  0.781478  0.894824  0.028632  1
+  Lu  Lu31  1  0.704934  0.605176  0.471368  1

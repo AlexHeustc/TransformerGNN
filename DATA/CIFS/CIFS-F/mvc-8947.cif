@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaLaFeNiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46323026
+_cell_length_b   5.49053737
+_cell_length_c   7.68370997
+_cell_angle_alpha   89.72916971
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaLaFeNiO6
+_chemical_formula_sum   'Ca2 La2 Fe2 Ni2 O12'
+_cell_volume   230.47852640
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.536958  0.509861  0.249527  1
+  Ca  Ca1  1  0.963042  0.009861  0.749526  1
+  La  La2  1  0.027561  0.993500  0.250248  1
+  La  La3  1  0.472439  0.493500  0.750248  1
+  Fe  Fe4  1  0.499307  0.999525  0.001013  1
+  Fe  Fe5  1  0.000693  0.499525  0.501013  1
+  Ni  Ni6  1  0.499172  0.999992  0.499550  1
+  Ni  Ni7  1  0.000828  0.499992  0.999550  1
+  O  O8  1  0.011216  0.577093  0.747130  1
+  O  O9  1  0.221367  0.212824  0.958231  1
+  O  O10  1  0.214057  0.221394  0.540743  1
+  O  O11  1  0.285943  0.721395  0.040743  1
+  O  O12  1  0.278633  0.712824  0.458231  1
+  O  O13  1  0.488784  0.077093  0.247129  1
+  O  O14  1  0.515825  0.933240  0.752491  1
+  O  O15  1  0.726101  0.279937  0.537592  1
+  O  O16  1  0.721070  0.272634  0.963474  1
+  O  O17  1  0.778930  0.772634  0.463474  1
+  O  O18  1  0.773899  0.779937  0.037592  1
+  O  O19  1  0.984175  0.433240  0.252491  1

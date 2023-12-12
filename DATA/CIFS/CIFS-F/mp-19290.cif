@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Mn2As2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.90280629
+_cell_length_b   5.63042898
+_cell_length_c   5.63042898
+_cell_angle_alpha   105.06519530
+_cell_angle_beta   97.72538326
+_cell_angle_gamma   97.72538332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2As2O7
+_chemical_formula_sum   'Mn2 As2 O7'
+_cell_volume   146.37509962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.287618  0.925375  0.605890  1
+  O  O1  1  0.712382  0.394110  0.074625  1
+  O  O2  1  0.712382  0.074625  0.394110  1
+  O  O3  1  0.287618  0.605890  0.925375  1
+  O  O4  1  0.000000  0.000000  0.000000  1
+  O  O5  1  0.778687  0.603018  0.603018  1
+  O  O6  1  0.221313  0.396982  0.396982  1
+  Mn  Mn7  1  0.500000  0.692012  0.307988  1
+  Mn  Mn8  1  0.500000  0.307988  0.692012  1
+  As  As9  1  0.096705  0.768281  0.768281  1
+  As  As10  1  0.903295  0.231719  0.231719  1

@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Sr8Si2PtO14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79878950
+_cell_length_b   7.27649474
+_cell_length_c   9.98606907
+_cell_angle_alpha   109.72131140
+_cell_angle_beta   106.87906199
+_cell_angle_gamma   90.00193307
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr8Si2PtO14
+_chemical_formula_sum   'Sr8 Si2 Pt1 O14'
+_cell_volume   377.30486668
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.475558  0.201112  0.955754  1
+  Sr  Sr1  1  0.109714  0.457416  0.184813  1
+  Sr  Sr2  1  0.164261  0.994766  0.331638  1
+  Sr  Sr3  1  0.316128  0.711256  0.627838  1
+  Sr  Sr4  1  0.519844  0.798909  0.044252  1
+  Sr  Sr5  1  0.832593  0.005213  0.668372  1
+  Sr  Sr6  1  0.924859  0.542542  0.815261  1
+  Sr  Sr7  1  0.688376  0.288745  0.372167  1
+  Si  Si8  1  0.690825  0.705509  0.342854  1
+  Si  Si9  1  0.347932  0.294483  0.657119  1
+  Pt  Pt10  1  -0.003368  0.000005  0.999994  1
+  O  O11  1  0.988186  0.700520  0.391838  1
+  O  O12  1  0.677877  0.859735  0.839719  1
+  O  O13  1  0.562485  0.540237  0.175199  1
+  O  O14  1  0.030383  0.758739  0.075411  1
+  O  O15  1  0.634695  0.928734  0.347137  1
+  O  O16  1  0.287470  0.071270  0.652849  1
+  O  O17  1  0.838365  0.140419  0.160339  1
+  O  O18  1  0.119163  0.346145  0.536035  1
+  O  O19  1  0.596346  0.299444  0.608167  1
+  O  O20  1  0.317308  0.142294  0.160975  1
+  O  O21  1  0.955177  0.241291  0.924597  1
+  O  O22  1  0.156168  0.857590  0.838986  1
+  O  O23  1  0.583028  0.653859  0.463911  1
+  O  O24  1  0.387227  0.459767  0.824775  1

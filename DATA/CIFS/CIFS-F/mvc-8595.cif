@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ti2Zn(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66472321
+_cell_length_b   6.66472296
+_cell_length_c   9.17580794
+_cell_angle_alpha   102.13101231
+_cell_angle_beta   102.13101125
+_cell_angle_gamma   114.91977424
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Zn(PO5)2
+_chemical_formula_sum   'Ti4 Zn2 P4 O20'
+_cell_volume   340.25285419
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.888224  0.625511  0.270420  1
+  Ti  Ti1  1  0.355091  0.617802  0.729580  1
+  Ti  Ti2  1  0.867802  0.105091  0.229580  1
+  Ti  Ti3  1  0.875511  0.638224  0.770420  1
+  Zn  Zn4  1  0.516131  0.016131  0.500000  1
+  Zn  Zn5  1  0.266131  0.266131  1.000000  1
+  P  P6  1  0.030049  0.036204  0.581445  1
+  P  P7  1  0.698604  0.204760  0.918555  1
+  P  P8  1  0.454760  0.448604  0.418555  1
+  P  P9  1  0.286204  0.780049  0.081445  1
+  O  O10  1  0.593513  0.559656  0.316310  1
+  O  O11  1  0.656716  0.662646  0.837547  1
+  O  O12  1  0.301811  0.577693  0.970310  1
+  O  O13  1  0.809656  0.343513  0.816310  1
+  O  O14  1  0.216114  0.242543  0.305148  1
+  O  O15  1  0.429333  0.648357  0.527521  1
+  O  O16  1  0.069169  0.575099  0.662453  1
+  O  O17  1  0.825099  0.819169  0.162453  1
+  O  O18  1  0.912646  0.406716  0.337547  1
+  O  O19  1  0.160966  0.687394  0.194852  1
+  O  O20  1  0.243346  0.277204  0.683690  1
+  O  O21  1  0.492543  0.966114  0.805148  1
+  O  O22  1  0.937394  0.910966  0.694852  1
+  O  O23  1  0.151813  0.870836  0.972479  1
+  O  O24  1  0.120836  0.901813  0.472479  1
+  O  O25  1  0.898357  0.179333  0.027521  1
+  O  O26  1  0.827693  0.051811  0.470310  1
+  O  O27  1  0.607384  0.331501  0.029690  1
+  O  O28  1  0.527204  0.993346  0.183690  1
+  O  O29  1  0.581501  0.357384  0.529690  1

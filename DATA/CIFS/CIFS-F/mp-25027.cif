@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaLaMnWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64280761
+_cell_length_b   5.70975002
+_cell_length_c   8.10605943
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.16697802
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLaMnWO6
+_chemical_formula_sum   'Na2 La2 Mn2 W2 O12'
+_cell_volume   261.16818874
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.334399  0.770657  0.017854  1
+  O  O1  1  0.665601  0.270657  0.982146  1
+  O  O2  1  0.163973  0.720552  0.490154  1
+  O  O3  1  0.836027  0.220552  0.509846  1
+  O  O4  1  0.071442  0.455065  0.217678  1
+  O  O5  1  0.928558  0.955065  0.782322  1
+  O  O6  1  0.033574  0.430252  0.777329  1
+  O  O7  1  0.966426  0.930252  0.222671  1
+  O  O8  1  0.548415  0.509463  0.691732  1
+  O  O9  1  0.451585  0.009463  0.308268  1
+  O  O10  1  0.520988  0.540170  0.307055  1
+  O  O11  1  0.479012  0.040170  0.692945  1
+  Na  Na12  1  0.246365  0.226579  0.000201  1
+  Na  Na13  1  0.753635  0.726579  0.999799  1
+  Mn  Mn14  1  0.249635  0.750197  0.762005  1
+  Mn  Mn15  1  0.750365  0.250197  0.237995  1
+  La  La16  1  0.742840  0.786431  0.499998  1
+  La  La17  1  0.257160  0.286431  0.500002  1
+  W  W18  1  0.753846  0.244035  0.761082  1
+  W  W19  1  0.246154  0.744035  0.238918  1

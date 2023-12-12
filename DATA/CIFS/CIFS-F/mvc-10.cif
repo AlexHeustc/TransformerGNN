@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_TaNb2Zn2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28303431
+_cell_length_b   5.97531417
+_cell_length_c   10.13288000
+_cell_angle_alpha   103.47572470
+_cell_angle_beta   91.81457417
+_cell_angle_gamma   91.92598115
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaNb2Zn2O8
+_chemical_formula_sum   'Ta2 Nb4 Zn4 O16'
+_cell_volume   310.63358564
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.756816  0.652534  0.995333  1
+  Ta  Ta1  1  0.241622  0.344532  0.003668  1
+  Nb  Nb2  1  0.707062  0.239749  0.241935  1
+  Nb  Nb3  1  0.727053  0.007100  0.767079  1
+  Nb  Nb4  1  0.290888  0.761094  0.756715  1
+  Nb  Nb5  1  0.274216  0.991254  0.230852  1
+  Zn  Zn6  1  0.779507  0.426518  0.561799  1
+  Zn  Zn7  1  0.736282  0.857872  0.439452  1
+  Zn  Zn8  1  0.218018  0.573730  0.436632  1
+  Zn  Zn9  1  0.266146  0.146859  0.558021  1
+  O  O10  1  0.064951  0.197150  0.130136  1
+  O  O11  1  0.402304  0.092876  0.884830  1
+  O  O12  1  0.932752  0.798003  0.867212  1
+  O  O13  1  0.604209  0.908202  0.113386  1
+  O  O14  1  0.583466  0.441926  0.109499  1
+  O  O15  1  0.914218  0.326815  0.895949  1
+  O  O16  1  0.418051  0.557789  0.889098  1
+  O  O17  1  0.088575  0.667849  0.101188  1
+  O  O18  1  0.409345  0.295815  0.365943  1
+  O  O19  1  0.079543  0.932903  0.648158  1
+  O  O20  1  0.366084  0.844480  0.383540  1
+  O  O21  1  0.144860  0.460699  0.613858  1
+  O  O22  1  0.636494  0.149864  0.612075  1
+  O  O23  1  0.852086  0.541769  0.385941  1
+  O  O24  1  0.924630  0.069557  0.349731  1
+  O  O25  1  0.589357  0.701547  0.635266  1

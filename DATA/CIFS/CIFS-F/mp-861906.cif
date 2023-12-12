@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaNa2Mg(PO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.37288037
+_cell_length_b   5.37288055
+_cell_length_c   7.04243448
+_cell_angle_alpha   90.00012939
+_cell_angle_beta   90.00015209
+_cell_angle_gamma   120.00016522
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNa2Mg(PO4)2
+_chemical_formula_sum   'Ba1 Na2 Mg1 P2 O8'
+_cell_volume   176.06258745
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.000001  0.000001  0.500000  1
+  Na  Na1  1  0.666667  0.333332  0.178562  1
+  Na  Na2  1  0.333334  0.666669  0.821438  1
+  Mg  Mg3  1  0.000000  0.000000  0.000000  1
+  P  P4  1  0.333325  0.666662  0.257399  1
+  P  P5  1  0.666675  0.333339  0.742600  1
+  O  O6  1  0.642186  0.771010  0.178837  1
+  O  O7  1  0.228983  0.871165  0.178845  1
+  O  O8  1  0.128829  0.357817  0.178849  1
+  O  O9  1  0.333341  0.666672  0.475566  1
+  O  O10  1  0.666659  0.333329  0.524434  1
+  O  O11  1  0.871172  0.642184  0.821151  1
+  O  O12  1  0.771017  0.128834  0.821155  1
+  O  O13  1  0.357813  0.228989  0.821162  1

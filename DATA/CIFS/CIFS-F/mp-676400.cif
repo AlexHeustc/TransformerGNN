@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TlNO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.52991688
+_cell_length_b   3.95872123
+_cell_length_c   4.20505825
+_cell_angle_alpha   86.96747189
+_cell_angle_beta   81.35637316
+_cell_angle_gamma   84.40219884
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlNO2
+_chemical_formula_sum   'Tl1 N1 O2'
+_cell_volume   74.13989960
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.020189  -0.007358  -0.013340  1
+  N  N1  1  0.576233  0.469274  0.434656  1
+  O  O2  1  0.318378  0.384045  0.408473  1
+  O  O3  1  0.585199  0.654040  0.670210  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaSiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10169447
+_cell_length_b   5.11574865
+_cell_length_c   7.20644693
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSiO3
+_chemical_formula_sum   'Ca4 Si4 O12'
+_cell_volume   188.08096184
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.492800  0.998942  0.750000  1
+  Ca  Ca1  1  0.507200  0.001058  0.250000  1
+  Ca  Ca2  1  0.992800  0.501058  0.750000  1
+  Ca  Ca3  1  0.007200  0.498942  0.250000  1
+  Si  Si4  1  0.000000  0.000000  0.500000  1
+  Si  Si5  1  0.000000  0.000000  0.000000  1
+  Si  Si6  1  0.500000  0.500000  0.000000  1
+  Si  Si7  1  0.500000  0.500000  0.500000  1
+  O  O8  1  0.737891  0.762110  0.518099  1
+  O  O9  1  0.262109  0.237890  0.018099  1
+  O  O10  1  0.998764  0.964568  0.250000  1
+  O  O11  1  0.762109  0.262110  0.481901  1
+  O  O12  1  0.001236  0.035432  0.750000  1
+  O  O13  1  0.501236  0.464568  0.750000  1
+  O  O14  1  0.762109  0.262110  0.018099  1
+  O  O15  1  0.498764  0.535432  0.250000  1
+  O  O16  1  0.262109  0.237890  0.481901  1
+  O  O17  1  0.237891  0.737890  0.518099  1
+  O  O18  1  0.737891  0.762110  0.981901  1
+  O  O19  1  0.237891  0.737890  0.981901  1

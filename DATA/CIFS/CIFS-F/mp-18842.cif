@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_TlV4O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.71376945
+_cell_length_b   6.15421074
+_cell_length_c   10.04939336
+_cell_angle_alpha   100.10322151
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   107.56129377
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlV4O10
+_chemical_formula_sum   'Tl1 V4 O10'
+_cell_volume   215.23903775
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.840766  0.681534  0.325076  1
+  O  O1  1  0.159233  0.318465  0.674924  1
+  O  O2  1  0.741861  0.483725  0.881223  1
+  O  O3  1  0.258137  0.516275  0.118777  1
+  O  O4  1  0.934778  0.869557  0.095209  1
+  O  O5  1  0.378807  0.757615  0.870249  1
+  O  O6  1  0.621191  0.242385  0.129751  1
+  O  O7  1  0.065221  0.130442  0.904791  1
+  O  O8  1  0.901655  0.803312  0.679488  1
+  O  O9  1  0.098344  0.196687  0.320512  1
+  V  V10  1  0.911058  0.822118  0.844033  1
+  V  V11  1  0.088941  0.177882  0.155967  1
+  V  V12  1  0.205815  0.411631  0.838688  1
+  V  V13  1  0.794184  0.588370  0.161313  1
+  Tl  Tl14  1  0.499999  1.000000  0.500000  1

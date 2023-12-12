@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaCaSiHO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77287413
+_cell_length_b   7.10884247
+_cell_length_c   5.53657034
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   122.38677651
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaSiHO4
+_chemical_formula_sum   'Na2 Ca2 Si2 H2 O8'
+_cell_volume   191.86976660
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.361799  0.767453  0.622320  1
+  Na  Na1  1  0.638201  0.267453  0.377680  1
+  Ca  Ca2  1  0.997381  0.511732  0.991454  1
+  Ca  Ca3  1  0.002619  0.011732  0.008546  1
+  Si  Si4  1  0.659108  0.754842  0.285334  1
+  Si  Si5  1  0.340892  0.254842  0.714666  1
+  H  H6  1  0.964053  0.001177  0.494466  1
+  H  H7  1  0.035947  0.501177  0.505534  1
+  O  O8  1  0.326528  0.762267  0.129586  1
+  O  O9  1  0.673472  0.262267  0.870414  1
+  O  O10  1  0.766046  0.758776  0.063613  1
+  O  O11  1  0.233954  0.258776  0.936387  1
+  O  O12  1  0.794916  0.574953  0.504929  1
+  O  O13  1  0.205084  0.074953  0.495071  1
+  O  O14  1  0.791304  0.951800  0.493187  1
+  O  O15  1  0.208696  0.451800  0.506813  1

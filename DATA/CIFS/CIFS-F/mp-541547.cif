@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CrHg5O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84986441
+_cell_length_b   8.28347253
+_cell_length_c   8.28347651
+_cell_angle_alpha   91.79834325
+_cell_angle_beta   95.52067987
+_cell_angle_gamma   95.52060168
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrHg5O6
+_chemical_formula_sum   'Cr2 Hg10 O12'
+_cell_volume   465.26801153
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.249999  0.317071  0.682928  1
+  Cr  Cr1  1  0.750000  0.682915  0.317086  1
+  Hg  Hg2  1  0.197395  0.797361  0.649407  1
+  Hg  Hg3  1  0.302606  0.350593  0.202639  1
+  Hg  Hg4  1  0.802605  0.202653  0.350598  1
+  Hg  Hg5  1  0.697394  0.649402  0.797348  1
+  Hg  Hg6  1  0.210137  0.614715  0.065896  1
+  Hg  Hg7  1  0.710138  0.065910  0.614720  1
+  Hg  Hg8  1  0.789862  0.385280  0.934090  1
+  Hg  Hg9  1  0.289862  0.934104  0.385285  1
+  Hg  Hg10  1  0.499997  0.000003  0.999996  1
+  Hg  Hg11  1  0.000002  0.000004  0.999997  1
+  O  O12  1  0.292925  0.517765  0.723101  1
+  O  O13  1  0.207075  0.276898  0.482235  1
+  O  O14  1  0.707070  0.482224  0.276903  1
+  O  O15  1  0.792930  0.723097  0.517775  1
+  O  O16  1  0.447256  0.228805  0.758972  1
+  O  O17  1  0.052744  0.241029  0.771194  1
+  O  O18  1  0.552752  0.771193  0.241033  1
+  O  O19  1  0.947247  0.758968  0.228807  1
+  O  O20  1  0.354236  0.091361  0.188246  1
+  O  O21  1  0.145765  0.811754  0.908638  1
+  O  O22  1  0.645765  0.908641  0.811750  1
+  O  O23  1  0.854234  0.188249  0.091358  1

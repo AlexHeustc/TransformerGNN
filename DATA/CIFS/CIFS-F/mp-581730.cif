@@ -1,0 +1,61 @@
+# generated using pymatgen
+data_Ho4Ga21Ni10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06821840
+_cell_length_b   10.65206712
+_cell_length_c   12.92839548
+_cell_angle_alpha   81.14625151
+_cell_angle_beta   80.96220730
+_cell_angle_gamma   78.97482590
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho4Ga21Ni10
+_chemical_formula_sum   'Ho4 Ga21 Ni10'
+_cell_volume   538.63116794
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.766258  0.142280  0.322543  1
+  Ho  Ho1  1  0.115687  0.597008  0.166942  1
+  Ho  Ho2  1  0.883369  0.402935  0.832631  1
+  Ho  Ho3  1  0.231104  0.857539  0.677413  1
+  Ga  Ga4  1  0.112569  0.818744  0.947719  1
+  Ga  Ga5  1  0.002819  0.580910  0.408918  1
+  Ga  Ga6  1  0.614666  0.972863  0.795603  1
+  Ga  Ga7  1  0.297196  0.403917  0.001743  1
+  Ga  Ga8  1  0.203022  0.099378  0.496030  1
+  Ga  Ga9  1  0.621845  0.447485  0.305876  1
+  Ga  Ga10  1  0.380581  0.028940  0.203417  1
+  Ga  Ga11  1  0.602560  0.293458  0.503626  1
+  Ga  Ga12  1  0.377854  0.551927  0.694125  1
+  Ga  Ga13  1  0.244607  0.303255  0.205299  1
+  Ga  Ga14  1  0.998038  0.418275  0.591099  1
+  Ga  Ga15  1  0.069809  0.160676  0.704463  1
+  Ga  Ga16  1  0.799116  0.897963  0.502702  1
+  Ga  Ga17  1  0.932700  0.837942  0.294597  1
+  Ga  Ga18  1  0.496529  0.999849  0.999851  1
+  Ga  Ga19  1  0.461355  0.209822  0.870734  1
+  Ga  Ga20  1  0.881238  0.181365  0.053533  1
+  Ga  Ga21  1  0.700950  0.596944  0.997970  1
+  Ga  Ga22  1  0.535224  0.790756  0.130268  1
+  Ga  Ga23  1  0.397138  0.705417  0.496474  1
+  Ga  Ga24  1  0.752149  0.697722  0.794873  1
+  Ni  Ni25  1  0.499756  0.686497  0.312382  1
+  Ni  Ni26  1  0.969598  0.942717  0.106611  1
+  Ni  Ni27  1  0.023693  0.057620  0.893694  1
+  Ni  Ni28  1  0.657028  0.079519  0.610753  1
+  Ni  Ni29  1  0.130367  0.342393  0.396598  1
+  Ni  Ni30  1  0.749189  0.386037  0.113615  1
+  Ni  Ni31  1  0.247763  0.614891  0.886069  1
+  Ni  Ni32  1  0.868868  0.656511  0.603938  1
+  Ni  Ni33  1  0.346971  0.918502  0.387454  1
+  Ni  Ni34  1  0.503346  0.312076  0.687887  1

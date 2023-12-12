@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_RuC4(O2F3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34350121
+_cell_length_b   8.74748172
+_cell_length_c   9.25290262
+_cell_angle_alpha   81.93756190
+_cell_angle_beta   84.17016018
+_cell_angle_gamma   87.12169981
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RuC4(O2F3)2
+_chemical_formula_sum   'Ru2 C8 O8 F12'
+_cell_volume   425.72697665
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ru  Ru0  1  0.320391  0.535443  0.442935  1
+  Ru  Ru1  1  0.679609  0.464557  0.557065  1
+  O  O2  1  0.287783  0.736846  0.540305  1
+  O  O3  1  0.712217  0.263154  0.459695  1
+  O  O4  1  0.105758  0.422244  0.628032  1
+  O  O5  1  0.894242  0.577756  0.371968  1
+  O  O6  1  0.536785  0.643478  0.263331  1
+  O  O7  1  0.463215  0.356522  0.736669  1
+  O  O8  1  0.355879  0.332782  0.348344  1
+  O  O9  1  0.644121  0.667218  0.651656  1
+  F  F10  1  0.292511  0.017834  0.624530  1
+  F  F11  1  0.707489  0.982166  0.375470  1
+  F  F12  1  0.648838  0.956246  0.721206  1
+  F  F13  1  0.351162  0.043754  0.278794  1
+  F  F14  1  0.936584  0.167127  0.840087  1
+  F  F15  1  0.063416  0.832873  0.159913  1
+  F  F16  1  0.901235  0.390684  0.924465  1
+  F  F17  1  0.098765  0.609316  0.075535  1
+  C  C18  1  0.455829  0.756608  0.622760  1
+  C  C19  1  0.544171  0.243392  0.377240  1
+  F  F20  1  0.294566  0.866942  0.835427  1
+  F  F21  1  0.705434  0.133058  0.164573  1
+  F  F22  1  0.214253  0.227093  0.980540  1
+  F  F23  1  0.785747  0.772907  0.019460  1
+  C  C24  1  0.227555  0.359566  0.735175  1
+  C  C25  1  0.772445  0.640434  0.264825  1
+  C  C26  1  0.068406  0.283572  0.873632  1
+  C  C27  1  0.931594  0.716428  0.126368  1
+  C  C28  1  0.424382  0.902436  0.701605  1
+  C  C29  1  0.575618  0.097564  0.298395  1

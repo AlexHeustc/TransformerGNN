@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Cr2B3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.95054632
+_cell_length_b   2.93549377
+_cell_length_c   9.20040006
+_cell_angle_alpha   99.17966134
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2B3
+_chemical_formula_sum   'Cr4 B6'
+_cell_volume   78.66695863
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.750000  0.023592  0.047183  1
+  B  B1  1  0.250000  0.976408  0.952817  1
+  B  B2  1  0.750000  0.118865  0.237731  1
+  B  B3  1  0.250000  0.881135  0.762269  1
+  B  B4  1  0.750000  0.827470  0.654939  1
+  B  B5  1  0.250000  0.172530  0.345061  1
+  Cr  Cr6  1  0.750000  0.428049  0.856098  1
+  Cr  Cr7  1  0.250000  0.571951  0.143902  1
+  Cr  Cr8  1  0.750000  0.702958  0.405916  1
+  Cr  Cr9  1  0.250000  0.297042  0.594084  1

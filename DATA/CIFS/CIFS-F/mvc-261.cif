@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr2YCr2GaO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60966717
+_cell_length_b   5.74153330
+_cell_length_c   12.20446180
+_cell_angle_alpha   103.59591162
+_cell_angle_beta   103.28201377
+_cell_angle_gamma   90.00365274
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2YCr2GaO7
+_chemical_formula_sum   'Sr4 Y2 Cr4 Ga2 O14'
+_cell_volume   371.23954758
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.138163  0.180023  0.308551  1
+  Sr  Sr1  1  0.829750  0.819026  0.691853  1
+  Sr  Sr2  1  0.638296  0.627849  0.308530  1
+  Sr  Sr3  1  0.330044  0.371301  0.691926  1
+  Y  Y4  1  0.495283  0.499520  0.000299  1
+  Y  Y5  1  0.995439  0.999525  0.000255  1
+  Cr  Cr6  1  0.422922  0.926326  0.849912  1
+  Cr  Cr7  1  0.073351  0.576997  0.150203  1
+  Cr  Cr8  1  0.923148  0.421984  0.850215  1
+  Cr  Cr9  1  0.573536  0.072823  0.150698  1
+  Ga  Ga10  1  0.214304  0.821434  0.500143  1
+  Ga  Ga11  1  0.714349  0.177754  0.500239  1
+  O  O12  1  0.773927  0.352412  0.128365  1
+  O  O13  1  0.876228  0.882707  0.500190  1
+  O  O14  1  0.273903  0.275230  0.128322  1
+  O  O15  1  0.850515  0.375209  0.644104  1
+  O  O16  1  0.726112  0.138630  0.865887  1
+  O  O17  1  0.226194  0.225487  0.865873  1
+  O  O18  1  0.376152  0.116522  0.500107  1
+  O  O19  1  0.145216  0.724036  0.872030  1
+  O  O20  1  0.645242  0.646283  0.872018  1
+  O  O21  1  0.350950  0.767216  0.643903  1
+  O  O22  1  0.206856  0.623959  0.356292  1
+  O  O23  1  0.707405  0.231866  0.356454  1
+  O  O24  1  0.860196  0.859917  0.134453  1
+  O  O25  1  0.360349  0.773887  0.134492  1

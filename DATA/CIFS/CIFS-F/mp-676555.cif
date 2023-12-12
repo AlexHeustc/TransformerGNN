@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Ag8GeTe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.21363992
+_cell_length_b   8.59112942
+_cell_length_c   8.29632491
+_cell_angle_alpha   62.03687955
+_cell_angle_beta   62.81640255
+_cell_angle_gamma   61.68459535
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag8GeTe6
+_chemical_formula_sum   'Ag8 Ge1 Te6'
+_cell_volume   434.02709345
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.606601  0.159698  0.583690  1
+  Ag  Ag1  1  0.559163  0.632373  0.625526  1
+  Ag  Ag2  1  0.974098  0.668925  0.358251  1
+  Ag  Ag3  1  0.626163  0.015562  0.963517  1
+  Ag  Ag4  1  0.990739  0.995529  0.333708  1
+  Ag  Ag5  1  0.972057  0.337798  0.974097  1
+  Ag  Ag6  1  0.951620  0.669333  0.984868  1
+  Ag  Ag7  1  0.033237  0.984456  0.656724  1
+  Ge  Ge8  1  0.278888  0.273843  0.249433  1
+  Te  Te9  1  0.947397  0.010820  0.006269  1
+  Te  Te10  1  0.381085  0.447157  0.351568  1
+  Te  Te11  1  0.370972  0.901416  0.346715  1
+  Te  Te12  1  0.347873  0.383213  0.864650  1
+  Te  Te13  1  0.884789  0.385812  0.355774  1
+  Te  Te14  1  0.758317  0.769066  0.710211  1

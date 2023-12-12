@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LiAlPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17094432
+_cell_length_b   4.16335761
+_cell_length_c   5.42731630
+_cell_angle_alpha   89.84089868
+_cell_angle_beta   90.00284228
+_cell_angle_gamma   120.23680597
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlPt
+_chemical_formula_sum   'Li2 Al2 Pt2'
+_cell_volume   81.42361790
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.666648  0.333701  0.249805  1
+  Li  Li1  1  0.333353  0.666298  0.750195  1
+  Al  Al2  1  0.666678  0.333665  0.749854  1
+  Al  Al3  1  0.333322  0.666334  0.250146  1
+  Pt  Pt4  1  0.999999  0.000001  1.000000  1
+  Pt  Pt5  1  0.000000  0.000001  0.500000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_UNb2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84516156
+_cell_length_b   6.55930807
+_cell_length_c   10.80883173
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.24579258
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UNb2O7
+_chemical_formula_sum   'U2 Nb4 O14'
+_cell_volume   268.26882249
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.652999  0.056092  0.305999  1
+  O  O1  1  0.347000  0.943908  0.694001  1
+  O  O2  1  0.347000  0.556092  0.694001  1
+  O  O3  1  0.652999  0.443908  0.305999  1
+  O  O4  1  0.751250  0.750000  0.502498  1
+  O  O5  1  0.248752  0.250000  0.497502  1
+  O  O6  1  0.450205  0.250000  0.900409  1
+  O  O7  1  0.549797  0.750000  0.099591  1
+  O  O8  1  0.863477  0.250000  0.726954  1
+  O  O9  1  0.136523  0.750000  0.273046  1
+  O  O10  1  0.052196  0.065274  0.104394  1
+  O  O11  1  0.947804  0.565274  0.895607  1
+  O  O12  1  0.947804  0.934726  0.895607  1
+  O  O13  1  0.052196  0.434726  0.104394  1
+  Nb  Nb14  1  0.663718  0.750000  0.327436  1
+  Nb  Nb15  1  0.336282  0.250000  0.672564  1
+  Nb  Nb16  1  0.024241  0.750000  0.048482  1
+  Nb  Nb17  1  0.975758  0.250000  0.951518  1
+  U  U18  1  0.144176  0.250000  0.288353  1
+  U  U19  1  0.855823  0.750000  0.711647  1

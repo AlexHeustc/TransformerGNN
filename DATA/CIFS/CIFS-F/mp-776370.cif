@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ag3IrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42066879
+_cell_length_b   7.42259010
+_cell_length_c   8.26871435
+_cell_angle_alpha   89.98297662
+_cell_angle_beta   89.90820782
+_cell_angle_gamma   90.00035659
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag3IrO4
+_chemical_formula_sum   'Ag12 Ir4 O16'
+_cell_volume   455.44499994
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.999989  0.179452  0.999981  1
+  Ag  Ag1  1  0.000045  0.756517  0.999921  1
+  Ag  Ag2  1  0.000033  0.243811  0.500076  1
+  Ag  Ag3  1  0.999982  0.820596  0.500020  1
+  Ag  Ag4  1  0.199345  0.500100  0.250126  1
+  Ag  Ag5  1  0.179222  0.000066  0.749914  1
+  Ag  Ag6  1  0.243449  0.999898  0.250218  1
+  Ag  Ag7  1  0.499942  0.199366  0.500035  1
+  Ag  Ag8  1  0.499961  0.800508  0.999971  1
+  Ag  Ag9  1  0.756379  0.999902  0.749788  1
+  Ag  Ag10  1  0.820665  0.000043  0.250091  1
+  Ag  Ag11  1  0.800711  0.500097  0.749858  1
+  Ir  Ir12  1  0.278380  0.499998  0.750083  1
+  Ir  Ir13  1  0.500002  0.278709  0.000132  1
+  Ir  Ir14  1  0.500001  0.721510  0.499876  1
+  Ir  Ir15  1  0.721218  0.499998  0.249912  1
+  O  O16  1  0.088878  0.316715  0.741991  1
+  O  O17  1  0.088947  0.683068  0.758116  1
+  O  O18  1  0.311891  0.473974  0.987408  1
+  O  O19  1  0.312262  0.525503  0.512481  1
+  O  O20  1  0.316529  0.088507  0.008283  1
+  O  O21  1  0.316578  0.911583  0.492097  1
+  O  O22  1  0.474165  0.312723  0.762331  1
+  O  O23  1  0.474137  0.687645  0.737860  1
+  O  O24  1  0.526105  0.312535  0.237576  1
+  O  O25  1  0.526131  0.687828  0.262238  1
+  O  O26  1  0.683554  0.911631  0.507868  1
+  O  O27  1  0.683602  0.088473  0.991750  1
+  O  O28  1  0.687965  0.473964  0.012649  1
+  O  O29  1  0.687582  0.525509  0.487464  1
+  O  O30  1  0.911207  0.316623  0.258179  1
+  O  O31  1  0.911142  0.683148  0.241707  1

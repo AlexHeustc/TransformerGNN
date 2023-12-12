@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_CaV4O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61774899
+_cell_length_b   5.17477948
+_cell_length_c   11.47621567
+_cell_angle_alpha   90.00503743
+_cell_angle_beta   89.99996534
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaV4O10
+_chemical_formula_sum   'Ca1 V4 O10'
+_cell_volume   214.84684392
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.250000  0.147829  0.750013  1
+  V  V1  1  0.250000  0.407297  0.100948  1
+  V  V2  1  0.750000  0.606995  0.901350  1
+  V  V3  1  0.749999  0.606932  0.598661  1
+  V  V4  1  0.250001  0.407244  0.399042  1
+  O  O5  1  0.750001  0.436568  0.750006  1
+  O  O6  1  0.249999  0.522262  0.250005  1
+  O  O7  1  0.749998  0.512331  0.070715  1
+  O  O8  1  0.249999  0.470898  0.925990  1
+  O  O9  1  0.750000  0.512240  0.429290  1
+  O  O10  1  0.249998  0.470824  0.574012  1
+  O  O11  1  0.250000  0.097825  0.389911  1
+  O  O12  1  0.749998  0.925666  0.629001  1
+  O  O13  1  0.749999  0.925716  0.871012  1
+  O  O14  1  0.249999  0.097901  0.110039  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Cu7Hg6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.92968916
+_cell_length_b   8.92974931
+_cell_length_c   8.92955341
+_cell_angle_alpha   90.14766396
+_cell_angle_beta   90.14572946
+_cell_angle_gamma   90.15116454
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu7Hg6
+_chemical_formula_sum   'Cu14 Hg12'
+_cell_volume   712.03440950
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.014572  0.338914  0.014570  1
+  Cu  Cu1  1  0.092425  0.092425  0.092407  1
+  Cu  Cu2  1  0.843613  0.170714  0.170727  1
+  Cu  Cu3  1  0.287299  0.287305  0.081242  1
+  Cu  Cu4  1  0.107256  0.891634  0.891626  1
+  Cu  Cu5  1  0.170711  0.843610  0.170716  1
+  Cu  Cu6  1  0.338894  0.014567  0.014561  1
+  Cu  Cu7  1  0.891627  0.107256  0.891629  1
+  Cu  Cu8  1  0.891623  0.891624  0.107266  1
+  Cu  Cu9  1  0.014563  0.014555  0.338899  1
+  Cu  Cu10  1  0.837958  0.837942  0.837966  1
+  Cu  Cu11  1  0.081264  0.287297  0.287293  1
+  Cu  Cu12  1  0.287279  0.081269  0.287285  1
+  Cu  Cu13  1  0.170732  0.170727  0.843602  1
+  Hg  Hg14  1  0.965917  0.349432  0.695120  1
+  Hg  Hg15  1  0.028666  0.666525  0.666523  1
+  Hg  Hg16  1  0.349435  0.965906  0.695120  1
+  Hg  Hg17  1  0.014999  0.620527  0.015006  1
+  Hg  Hg18  1  0.695119  0.965903  0.349436  1
+  Hg  Hg19  1  0.666515  0.666515  0.028665  1
+  Hg  Hg20  1  0.349430  0.695128  0.965917  1
+  Hg  Hg21  1  0.695131  0.349428  0.965923  1
+  Hg  Hg22  1  0.620528  0.015004  0.015010  1
+  Hg  Hg23  1  0.015007  0.015008  0.620527  1
+  Hg  Hg24  1  0.965906  0.695120  0.349435  1
+  Hg  Hg25  1  0.666530  0.028665  0.666528  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaLuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82255086
+_cell_length_b   7.28594919
+_cell_length_c   5.98072503
+_cell_angle_alpha   75.00928441
+_cell_angle_beta   112.31775920
+_cell_angle_gamma   75.89552868
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLuO2
+_chemical_formula_sum   'Na4 Lu4 O8'
+_cell_volume   209.47289521
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.805867  0.388433  0.055740  1
+  Na  Na1  1  0.430490  0.138970  0.180474  1
+  Na  Na2  1  0.569539  0.861012  0.819561  1
+  Na  Na3  1  0.194108  0.611566  0.944206  1
+  Lu  Lu4  1  0.943057  0.113852  0.693065  1
+  Lu  Lu5  1  0.683186  0.633594  0.433133  1
+  Lu  Lu6  1  0.316813  0.366421  0.566857  1
+  Lu  Lu7  1  0.056954  0.886152  0.306945  1
+  O  O8  1  0.940293  0.627203  0.234699  1
+  O  O9  1  0.709022  0.124054  0.916612  1
+  O  O10  1  0.567402  0.372707  0.361940  1
+  O  O11  1  0.167040  0.124017  0.459531  1
+  O  O12  1  0.832946  0.875984  0.540474  1
+  O  O13  1  0.432597  0.627280  0.638068  1
+  O  O14  1  0.290976  0.875961  0.083397  1
+  O  O15  1  0.059710  0.372795  0.765302  1

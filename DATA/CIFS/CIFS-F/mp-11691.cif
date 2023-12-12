@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Nd2HgO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84369114
+_cell_length_b   7.27161055
+_cell_length_c   9.23410515
+_cell_angle_alpha   76.69014209
+_cell_angle_beta   77.98752121
+_cell_angle_gamma   74.67497292
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2HgO4
+_chemical_formula_sum   'Nd4 Hg2 O8'
+_cell_volume   239.22732305
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.203975  0.650084  0.941967  1
+  O  O1  1  0.796025  0.349916  0.058033  1
+  O  O2  1  0.036536  0.205830  0.721097  1
+  O  O3  1  0.963464  0.794170  0.278903  1
+  O  O4  1  0.419564  0.507043  0.653829  1
+  O  O5  1  0.580436  0.492957  0.346171  1
+  O  O6  1  0.228315  0.153898  0.389471  1
+  O  O7  1  0.771685  0.846102  0.610529  1
+  Nd  Nd8  1  0.619787  0.220214  0.540213  1
+  Nd  Nd9  1  0.380213  0.779786  0.459787  1
+  Nd  Nd10  1  0.841332  0.518904  0.798432  1
+  Nd  Nd11  1  0.158668  0.481096  0.201568  1
+  Hg  Hg12  1  0.114959  0.931454  0.838627  1
+  Hg  Hg13  1  0.885041  0.068546  0.161373  1

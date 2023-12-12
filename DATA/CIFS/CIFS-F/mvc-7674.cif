@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaAlCuNiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.72038065
+_cell_length_b   3.72047686
+_cell_length_c   7.62564642
+_cell_angle_alpha   90.00116714
+_cell_angle_beta   90.00051999
+_cell_angle_gamma   89.98130294
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaAlCuNiO5
+_chemical_formula_sum   'Ba1 Al1 Cu1 Ni1 O5'
+_cell_volume   105.55106648
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.999998  0.999998  0.976120  1
+  Al  Al1  1  0.000001  0.999999  0.479566  1
+  Cu  Cu2  1  0.499995  0.499996  0.245844  1
+  Ni  Ni3  1  0.500002  0.500002  0.688677  1
+  O  O4  1  0.999999  0.499997  0.620549  1
+  O  O5  1  0.500002  0.999994  0.620555  1
+  O  O6  1  0.999999  0.500004  0.302447  1
+  O  O7  1  0.499997  0.000003  0.302445  1
+  O  O8  1  0.500001  0.500000  0.951716  1

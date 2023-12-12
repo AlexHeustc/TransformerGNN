@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ta2W2O11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34232480
+_cell_length_b   7.34232437
+_cell_length_c   14.67223093
+_cell_angle_alpha   64.86818300
+_cell_angle_beta   64.86818510
+_cell_angle_gamma   59.61303076
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2W2O11
+_chemical_formula_sum   'Ta4 W4 O22'
+_cell_volume   595.00233456
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.984436  0.452966  0.540941  1
+  Ta  Ta1  1  0.996134  0.078165  0.228620  1
+  Ta  Ta2  1  0.547034  0.015564  0.459059  1
+  Ta  Ta3  1  0.921835  0.003866  0.771380  1
+  W  W4  1  0.991849  0.008151  1.000000  1
+  W  W5  1  0.012686  0.513897  0.988015  1
+  W  W6  1  0.486103  0.987314  0.011985  1
+  W  W7  1  0.019604  0.980396  0.500000  1
+  O  O8  1  0.069174  0.695318  0.024111  1
+  O  O9  1  0.066417  0.036245  0.348869  1
+  O  O10  1  0.692114  0.060088  0.028726  1
+  O  O11  1  0.072336  0.682012  0.527696  1
+  O  O12  1  0.318290  0.957843  0.151099  1
+  O  O13  1  0.297384  0.283415  0.488204  1
+  O  O14  1  0.048487  0.034837  0.855133  1
+  O  O15  1  0.702058  0.081436  0.318483  1
+  O  O16  1  0.697435  0.696282  0.024166  1
+  O  O17  1  0.944584  0.359382  0.146207  1
+  O  O18  1  0.317988  0.927664  0.472304  1
+  O  O19  1  0.712748  0.061650  0.514570  1
+  O  O20  1  0.042157  0.681710  0.848901  1
+  O  O21  1  0.303718  0.302565  0.975834  1
+  O  O22  1  0.716585  0.702616  0.511796  1
+  O  O23  1  0.965163  0.951513  0.144867  1
+  O  O24  1  0.640618  0.055416  0.853793  1
+  O  O25  1  0.938350  0.287252  0.485430  1
+  O  O26  1  0.918564  0.297942  0.681517  1
+  O  O27  1  0.304682  0.930826  0.975889  1
+  O  O28  1  0.963755  0.933583  0.651131  1
+  O  O29  1  0.939912  0.307886  0.971274  1

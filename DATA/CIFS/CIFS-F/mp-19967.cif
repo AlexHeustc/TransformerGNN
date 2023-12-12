@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuMnSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01378188
+_cell_length_b   6.79917375
+_cell_length_c   7.53280286
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuMnSi
+_chemical_formula_sum   'Lu4 Mn4 Si4'
+_cell_volume   205.57320616
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.250000  0.784472  0.114594  1
+  Si  Si1  1  0.750000  0.215528  0.885406  1
+  Si  Si2  1  0.250000  0.284472  0.385406  1
+  Si  Si3  1  0.750000  0.715528  0.614594  1
+  Mn  Mn4  1  0.750000  0.859377  0.941639  1
+  Mn  Mn5  1  0.250000  0.140623  0.058361  1
+  Mn  Mn6  1  0.750000  0.359377  0.558361  1
+  Mn  Mn7  1  0.250000  0.640623  0.441639  1
+  Lu  Lu8  1  0.250000  0.514984  0.815084  1
+  Lu  Lu9  1  0.750000  0.485016  0.184916  1
+  Lu  Lu10  1  0.250000  0.014984  0.684916  1
+  Lu  Lu11  1  0.750000  0.985016  0.315084  1

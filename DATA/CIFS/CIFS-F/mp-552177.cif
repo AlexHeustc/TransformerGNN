@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ce4Se3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95099353
+_cell_length_b   6.63030828
+_cell_length_c   8.60951765
+_cell_angle_alpha   90.13590049
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   107.33448439
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4Se3O4
+_chemical_formula_sum   'Ce4 Se3 O4'
+_cell_volume   215.29334249
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.363356  0.726713  0.668387  1
+  Se  Se1  1  0.362525  0.725050  0.333029  1
+  O  O2  1  0.587262  0.174524  -0.000197  1
+  O  O3  1  0.089184  0.178367  0.753905  1
+  O  O4  1  0.088600  0.177201  0.245564  1
+  Ce  Ce5  1  0.687222  0.374445  0.239947  1
+  O  O6  1  0.616673  0.233345  0.500031  1
+  Ce  Ce7  1  0.010636  0.021273  0.499749  1
+  Ce  Ce8  1  0.997106  0.994212  0.998862  1
+  Se  Se9  1  0.306335  0.612670  0.000441  1
+  Ce  Ce10  1  0.687671  0.375341  0.760282  1

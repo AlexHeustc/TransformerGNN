@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ni2Te3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29231637
+_cell_length_b   6.82168858
+_cell_length_c   11.59733204
+_cell_angle_alpha   97.82592220
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   112.82412378
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni2Te3O8
+_chemical_formula_sum   'Ni4 Te6 O16'
+_cell_volume   381.67500092
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.724512  0.465810  0.973303  1
+  O  O1  1  0.258700  0.534190  0.526697  1
+  O  O2  1  0.275490  0.534191  0.026698  1
+  O  O3  1  0.741299  0.465809  0.473302  1
+  O  O4  1  0.455961  0.601966  0.803053  1
+  O  O5  1  0.853995  0.398034  0.696947  1
+  O  O6  1  0.544038  0.398033  0.196947  1
+  O  O7  1  0.146005  0.601967  0.303053  1
+  O  O8  1  0.037357  0.774573  0.868684  1
+  O  O9  1  0.262785  0.225427  0.631316  1
+  O  O10  1  0.965290  0.835837  0.144487  1
+  O  O11  1  0.129453  0.164163  0.355513  1
+  O  O12  1  0.034709  0.164162  0.855514  1
+  O  O13  1  0.962642  0.225426  0.131316  1
+  O  O14  1  0.737217  0.774574  0.368684  1
+  O  O15  1  0.870548  0.835838  0.644486  1
+  Ni  Ni16  1  0.941768  0.528947  0.144718  1
+  Ni  Ni17  1  0.412823  0.471053  0.355282  1
+  Ni  Ni18  1  0.058231  0.471054  0.855282  1
+  Ni  Ni19  1  0.587176  0.528946  0.644718  1
+  Te  Te20  1  0.821045  0.000000  0.250000  1
+  Te  Te21  1  0.178956  1.000000  0.750000  1
+  Te  Te22  1  0.045675  0.729171  0.443426  1
+  Te  Te23  1  0.316503  0.270829  0.056574  1
+  Te  Te24  1  0.954326  0.270828  0.556574  1
+  Te  Te25  1  0.683497  0.729172  0.943426  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CaNi2(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26818225
+_cell_length_b   7.26818204
+_cell_length_c   8.34059461
+_cell_angle_alpha   102.01815434
+_cell_angle_beta   102.01815941
+_cell_angle_gamma   121.47396077
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNi2(PO5)2
+_chemical_formula_sum   'Ca2 Ni4 P4 O20'
+_cell_volume   339.98374000
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.493818  0.993818  0.500000  1
+  Ca  Ca1  1  0.243818  0.243818  1.000000  1
+  Ni  Ni2  1  0.869062  0.620479  0.249045  1
+  Ni  Ni3  1  0.371435  0.620017  0.750955  1
+  Ni  Ni4  1  0.870017  0.121435  0.250955  1
+  Ni  Ni5  1  0.870479  0.619062  0.749045  1
+  P  P6  1  0.037811  0.038415  0.587032  1
+  P  P7  1  0.700778  0.201383  0.912968  1
+  P  P8  1  0.451383  0.450778  0.412968  1
+  P  P9  1  0.288415  0.787811  0.087032  1
+  O  O10  1  0.574343  0.547476  0.288303  1
+  O  O11  1  0.704570  0.704624  0.915317  1
+  O  O12  1  0.304974  0.604571  0.971011  1
+  O  O13  1  0.797476  0.324343  0.788303  1
+  O  O14  1  0.203217  0.230969  0.288991  1
+  O  O15  1  0.437688  0.634599  0.531117  1
+  O  O16  1  0.039252  0.539307  0.584683  1
+  O  O17  1  0.789307  0.789252  0.084683  1
+  O  O18  1  0.954624  0.454570  0.415317  1
+  O  O19  1  0.164226  0.691978  0.211009  1
+  O  O20  1  0.259173  0.286040  0.711697  1
+  O  O21  1  0.480969  0.953217  0.788991  1
+  O  O22  1  0.941978  0.914226  0.711009  1
+  O  O23  1  0.156572  0.853483  0.968883  1
+  O  O24  1  0.103483  0.906572  0.468883  1
+  O  O25  1  0.884599  0.187688  0.031117  1
+  O  O26  1  0.854571  0.054974  0.471011  1
+  O  O27  1  0.633559  0.333963  0.028989  1
+  O  O28  1  0.536040  0.009173  0.211697  1
+  O  O29  1  0.583963  0.383559  0.528989  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_CoSiH12(OF)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40013813
+_cell_length_b   6.40013814
+_cell_length_c   6.40013813
+_cell_angle_alpha   96.49782645
+_cell_angle_beta   96.49782643
+_cell_angle_gamma   96.49782646
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoSiH12(OF)6
+_chemical_formula_sum   'Co1 Si1 H12 O6 F6'
+_cell_volume   256.68788646
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.312887  0.203958  0.815332  1
+  H  H1  1  0.203958  0.815332  0.312887  1
+  H  H2  1  0.815332  0.312886  0.203957  1
+  H  H3  1  0.687114  0.796043  0.184668  1
+  H  H4  1  0.796043  0.184669  0.687113  1
+  H  H5  1  0.184669  0.687113  0.796042  1
+  H  H6  1  0.402020  0.202737  0.058201  1
+  H  H7  1  0.202738  0.058202  0.402019  1
+  H  H8  1  0.058201  0.402020  0.202737  1
+  H  H9  1  0.797263  0.941799  0.597981  1
+  H  H10  1  0.941798  0.597981  0.797263  1
+  H  H11  1  0.597981  0.797264  0.941799  1
+  O  O12  1  0.128192  0.939620  0.300186  1
+  O  O13  1  0.939619  0.300186  0.128191  1
+  O  O14  1  0.699815  0.871809  0.060381  1
+  O  O15  1  0.871809  0.060381  0.699814  1
+  O  O16  1  0.060381  0.699814  0.871809  1
+  O  O17  1  0.300186  0.128192  0.939618  1
+  F  F18  1  0.670380  0.702475  0.433206  1
+  F  F19  1  0.702476  0.433207  0.670380  1
+  F  F20  1  0.433206  0.670379  0.702474  1
+  F  F21  1  0.329621  0.297526  0.566794  1
+  F  F22  1  0.566793  0.329620  0.297525  1
+  F  F23  1  0.297525  0.566794  0.329620  1
+  Si  Si24  1  0.500000  0.500000  0.500000  1
+  Co  Co25  1  0.000000  0.000000  0.000000  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Li6Mo2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97398873
+_cell_length_b   12.09515663
+_cell_length_c   10.40113451
+_cell_angle_alpha   30.68991641
+_cell_angle_beta   54.94521678
+_cell_angle_gamma   60.40171516
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6Mo2O7
+_chemical_formula_sum   'Li12 Mo4 O14'
+_cell_volume   314.00283912
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.017214  0.000000  0.019343  1
+  Li  Li1  1  0.986551  0.250000  1.000000  1
+  Li  Li2  1  0.511511  0.000000  0.985785  1
+  Li  Li3  1  0.983081  0.500000  0.014215  1
+  Li  Li4  1  0.959535  0.750000  1.000000  1
+  Li  Li5  1  0.959535  0.250000  0.500000  1
+  Li  Li6  1  0.555899  0.500000  0.980657  1
+  Li  Li7  1  0.982518  0.500000  0.519367  1
+  Li  Li8  1  0.553477  0.750000  0.000000  1
+  Li  Li9  1  0.553477  0.250000  0.500000  1
+  Li  Li10  1  0.986551  0.750000  0.500000  1
+  Li  Li11  1  0.521252  0.000000  0.480633  1
+  Mo  Mo12  1  0.501447  0.250000  1.000000  1
+  Mo  Mo13  1  0.492264  0.500000  0.487797  1
+  Mo  Mo14  1  0.967859  0.000000  0.512203  1
+  Mo  Mo15  1  0.501447  0.750000  0.500000  1
+  O  O16  1  0.229461  0.229932  0.276917  1
+  O  O17  1  0.742070  0.234794  0.282352  1
+  O  O18  1  0.276362  0.265206  0.717648  1
+  O  O19  1  0.276362  0.734794  0.248060  1
+  O  O20  1  0.749181  0.500000  0.255723  1
+  O  O21  1  0.254387  0.500000  0.737112  1
+  O  O22  1  0.228611  0.000000  0.262888  1
+  O  O23  1  0.743160  0.729932  0.263218  1
+  O  O24  1  0.229461  0.770068  0.736782  1
+  O  O25  1  0.743160  0.270068  0.723083  1
+  O  O26  1  0.749414  0.000000  0.246321  1
+  O  O27  1  0.742055  0.500000  0.753679  1
+  O  O28  1  0.742070  0.765206  0.751940  1
+  O  O29  1  0.760627  0.000000  0.744277  1

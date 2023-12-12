@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_ZnFe2(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55023802
+_cell_length_b   6.55023752
+_cell_length_c   9.04053149
+_cell_angle_alpha   102.22292926
+_cell_angle_beta   102.22293064
+_cell_angle_gamma   114.55625351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnFe2(PO5)2
+_chemical_formula_sum   'Zn2 Fe4 P4 O20'
+_cell_volume   324.62079180
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.494741  0.994741  0.500000  1
+  Zn  Zn1  1  0.244741  0.244741  0.000000  1
+  Fe  Fe2  1  0.872565  0.619932  0.251711  1
+  Fe  Fe3  1  0.368221  0.620854  0.748289  1
+  Fe  Fe4  1  0.870854  0.118221  0.248289  1
+  Fe  Fe5  1  0.869932  0.622565  0.751711  1
+  P  P6  1  0.035777  0.037338  0.583499  1
+  P  P7  1  0.702278  0.203839  0.916501  1
+  P  P8  1  0.453839  0.452278  0.416501  1
+  P  P9  1  0.287338  0.785777  0.083499  1
+  O  O10  1  0.585149  0.557753  0.306354  1
+  O  O11  1  0.665657  0.669094  0.845012  1
+  O  O12  1  0.307108  0.581790  0.971712  1
+  O  O13  1  0.807753  0.335149  0.806354  1
+  O  O14  1  0.214361  0.237135  0.301851  1
+  O  O15  1  0.429977  0.654575  0.527017  1
+  O  O16  1  0.070645  0.574081  0.654988  1
+  O  O17  1  0.824081  0.820645  0.154988  1
+  O  O18  1  0.919094  0.415657  0.345012  1
+  O  O19  1  0.162510  0.685285  0.198149  1
+  O  O20  1  0.251399  0.278796  0.693646  1
+  O  O21  1  0.487135  0.964361  0.801851  1
+  O  O22  1  0.935285  0.912510  0.698149  1
+  O  O23  1  0.152961  0.877560  0.972983  1
+  O  O24  1  0.127560  0.902961  0.472983  1
+  O  O25  1  0.904575  0.179977  0.027017  1
+  O  O26  1  0.831790  0.057108  0.471712  1
+  O  O27  1  0.610078  0.335397  0.028288  1
+  O  O28  1  0.528796  0.001399  0.193646  1
+  O  O29  1  0.585397  0.360078  0.528288  1

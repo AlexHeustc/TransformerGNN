@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Tm9(FeGe)10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35953549
+_cell_length_b   9.98585190
+_cell_length_c   9.98585190
+_cell_angle_alpha   83.00955853
+_cell_angle_beta   74.43351067
+_cell_angle_gamma   74.43351068
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm9(FeGe)10
+_chemical_formula_sum   'Tm9 Fe10 Ge10'
+_cell_volume   495.23895984
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.593020  0.406980  0.406980  1
+  Fe  Fe1  1  0.406980  0.593020  0.593020  1
+  Fe  Fe2  1  0.411385  0.202061  0.489261  1
+  Fe  Fe3  1  0.102708  0.797939  0.510739  1
+  Fe  Fe4  1  0.588615  0.510739  0.797939  1
+  Fe  Fe5  1  0.897292  0.489261  0.202061  1
+  Fe  Fe6  1  0.588615  0.797939  0.510739  1
+  Fe  Fe7  1  0.897292  0.202061  0.489261  1
+  Fe  Fe8  1  0.411385  0.489261  0.202061  1
+  Fe  Fe9  1  0.102708  0.510739  0.797939  1
+  Ge  Ge10  1  0.752292  0.000000  0.000000  1
+  Ge  Ge11  1  0.247708  0.000000  0.000000  1
+  Ge  Ge12  1  0.500000  0.671876  0.328124  1
+  Ge  Ge13  1  0.500000  0.328124  0.671876  1
+  Ge  Ge14  1  0.208277  0.291723  0.291723  1
+  Ge  Ge15  1  0.791723  0.708277  0.708277  1
+  Ge  Ge16  1  0.794886  0.992991  0.417237  1
+  Ge  Ge17  1  0.205114  0.007009  0.582763  1
+  Ge  Ge18  1  0.205114  0.582763  0.007009  1
+  Ge  Ge19  1  0.794886  0.417237  0.992991  1
+  Tm  Tm20  1  0.000000  0.500000  0.500000  1
+  Tm  Tm21  1  0.000000  0.779466  0.220534  1
+  Tm  Tm22  1  0.000000  0.220534  0.779466  1
+  Tm  Tm23  1  0.803245  0.196755  0.196755  1
+  Tm  Tm24  1  0.196755  0.803245  0.803245  1
+  Tm  Tm25  1  0.364834  0.988583  0.281748  1
+  Tm  Tm26  1  0.635166  0.011417  0.718252  1
+  Tm  Tm27  1  0.635166  0.718252  0.011417  1
+  Tm  Tm28  1  0.364834  0.281748  0.988583  1

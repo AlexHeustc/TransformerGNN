@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CaCrO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.11215068
+_cell_length_b   8.26931086
+_cell_length_c   8.50207821
+_cell_angle_alpha   83.38605836
+_cell_angle_beta   90.00107340
+_cell_angle_gamma   89.99078442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCrO2
+_chemical_formula_sum   'Ca4 Cr4 O8'
+_cell_volume   217.34769223
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.248128  0.064148  0.333613  1
+  Ca  Ca1  1  0.746739  0.916459  0.694313  1
+  Ca  Ca2  1  0.247863  0.804238  0.055155  1
+  Ca  Ca3  1  0.748572  0.172950  0.973426  1
+  Cr  Cr4  1  0.244628  0.275857  0.618889  1
+  Cr  Cr5  1  0.753164  0.434285  0.216160  1
+  Cr  Cr6  1  0.244824  0.543423  0.814331  1
+  Cr  Cr7  1  0.749837  0.709038  0.406176  1
+  O  O8  1  0.248762  0.815591  0.518496  1
+  O  O9  1  0.744455  0.387294  0.746761  1
+  O  O10  1  0.252170  0.591183  0.283111  1
+  O  O11  1  0.745321  0.170241  0.506624  1
+  O  O12  1  0.247390  0.028739  0.848629  1
+  O  O13  1  0.252689  0.298888  0.138482  1
+  O  O14  1  0.748307  0.947031  0.182098  1
+  O  O15  1  0.745427  0.679968  0.889357  1

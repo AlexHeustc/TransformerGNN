@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ba2SiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.89035680
+_cell_length_b   7.60217279
+_cell_length_c   10.38470700
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2SiO4
+_chemical_formula_sum   'Ba8 Si4 O16'
+_cell_volume   465.02209291
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.250000  0.993202  0.693683  1
+  Ba  Ba1  1  0.750000  0.506798  0.193683  1
+  Ba  Ba2  1  0.750000  0.338275  0.583760  1
+  Ba  Ba3  1  0.250000  0.161725  0.083760  1
+  Ba  Ba4  1  0.750000  0.838275  0.916240  1
+  Ba  Ba5  1  0.250000  0.661725  0.416240  1
+  Ba  Ba6  1  0.750000  0.006798  0.306317  1
+  Ba  Ba7  1  0.250000  0.493202  0.806317  1
+  Si  Si8  1  0.750000  0.771943  0.580025  1
+  Si  Si9  1  0.250000  0.228057  0.419975  1
+  Si  Si10  1  0.750000  0.271943  0.919975  1
+  Si  Si11  1  0.250000  0.728057  0.080025  1
+  O  O12  1  0.750000  0.988516  0.582506  1
+  O  O13  1  0.250000  0.011484  0.417494  1
+  O  O14  1  0.750000  0.192204  0.069561  1
+  O  O15  1  0.750000  0.488516  0.917494  1
+  O  O16  1  0.250000  0.807796  0.930439  1
+  O  O17  1  0.519790  0.194285  0.848822  1
+  O  O18  1  0.750000  0.692204  0.430439  1
+  O  O19  1  0.019790  0.805715  0.151178  1
+  O  O20  1  0.250000  0.307796  0.569561  1
+  O  O21  1  0.519790  0.694285  0.651178  1
+  O  O22  1  0.250000  0.511484  0.082506  1
+  O  O23  1  0.480210  0.805715  0.151178  1
+  O  O24  1  0.980210  0.194285  0.848822  1
+  O  O25  1  0.980210  0.694285  0.651178  1
+  O  O26  1  0.480210  0.305715  0.348822  1
+  O  O27  1  0.019790  0.305715  0.348822  1

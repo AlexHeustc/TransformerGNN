@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CaLaVFeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46571987
+_cell_length_b   16.69491842
+_cell_length_c   14.74765945
+_cell_angle_alpha   18.72146485
+_cell_angle_beta   56.07795255
+_cell_angle_gamma   60.11303429
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaLaVFeO6
+_chemical_formula_sum   'Ca3 La3 V3 Fe3 O18'
+_cell_volume   356.09810363
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.760560  0.086661  0.747334  1
+  Ca  Ca1  1  0.762128  0.421290  0.746039  1
+  Ca  Ca2  1  0.756735  0.752821  0.749002  1
+  La  La3  1  0.249561  0.246967  0.250056  1
+  La  La4  1  0.246864  0.581207  0.249982  1
+  La  La5  1  0.248549  0.914520  0.250159  1
+  V  V6  1  0.001025  0.000289  -0.000482  1
+  V  V7  1  0.502805  0.165786  0.500047  1
+  V  V8  1  0.501223  0.831796  0.501686  1
+  Fe  Fe9  1  0.003560  0.332627  -0.000505  1
+  Fe  Fe10  1  0.001600  0.666701  -0.000525  1
+  Fe  Fe11  1  0.502006  0.500248  0.499142  1
+  O  O12  1  0.218902  0.021712  0.302752  1
+  O  O13  1  0.687895  0.135500  0.201044  1
+  O  O14  1  0.222365  0.357864  0.297857  1
+  O  O15  1  0.780464  0.235005  0.266052  1
+  O  O16  1  0.217734  0.093623  0.740365  1
+  O  O17  1  0.687731  0.471116  0.197537  1
+  O  O18  1  0.313846  0.192128  0.800338  1
+  O  O19  1  0.199932  0.705797  0.284429  1
+  O  O20  1  0.219952  0.426975  0.739401  1
+  O  O21  1  0.783498  0.570910  0.260883  1
+  O  O22  1  0.800090  0.292630  0.719104  1
+  O  O23  1  0.694723  0.807985  0.194974  1
+  O  O24  1  0.321191  0.530396  0.796081  1
+  O  O25  1  0.781535  0.902892  0.262899  1
+  O  O26  1  0.220750  0.762077  0.736475  1
+  O  O27  1  0.778406  0.642597  0.703892  1
+  O  O28  1  0.321519  0.866373  0.792603  1
+  O  O29  1  0.780089  0.977892  0.700731  1

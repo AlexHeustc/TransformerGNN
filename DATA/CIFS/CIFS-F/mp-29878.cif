@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Re2PCl13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.18539341
+_cell_length_b   9.73153249
+_cell_length_c   11.17189989
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   98.32702163
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re2PCl13
+_chemical_formula_sum   'Re4 P2 Cl26'
+_cell_volume   988.10528422
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.738114  0.508980  0.250000  1
+  P  P1  1  0.261886  0.491020  0.750000  1
+  Cl  Cl2  1  0.191681  0.578518  0.607102  1
+  Cl  Cl3  1  0.808319  0.421482  0.107102  1
+  Cl  Cl4  1  0.562182  0.894333  0.750000  1
+  Cl  Cl5  1  0.437818  0.105667  0.250000  1
+  Cl  Cl6  1  0.849167  0.082716  0.906440  1
+  Cl  Cl7  1  0.150833  0.917284  0.406440  1
+  Cl  Cl8  1  0.150833  0.917284  0.093560  1
+  Cl  Cl9  1  0.849167  0.082716  0.593560  1
+  Cl  Cl10  1  0.797317  0.363531  0.750000  1
+  Cl  Cl11  1  0.202683  0.636469  0.250000  1
+  Cl  Cl12  1  0.520604  0.182185  0.898834  1
+  Cl  Cl13  1  0.479396  0.817815  0.398834  1
+  Cl  Cl14  1  0.479396  0.817815  0.101166  1
+  Cl  Cl15  1  0.520604  0.182185  0.601166  1
+  Cl  Cl16  1  0.084414  0.927932  0.750000  1
+  Cl  Cl17  1  0.915586  0.072068  0.250000  1
+  Cl  Cl18  1  0.809433  0.738380  0.897605  1
+  Cl  Cl19  1  0.190567  0.261620  0.397605  1
+  Cl  Cl20  1  0.190567  0.261620  0.102395  1
+  Cl  Cl21  1  0.809433  0.738380  0.602395  1
+  Cl  Cl22  1  0.188302  0.292594  0.750000  1
+  Cl  Cl23  1  0.811698  0.707406  0.250000  1
+  Cl  Cl24  1  0.477103  0.519564  0.750000  1
+  Cl  Cl25  1  0.522897  0.480436  0.250000  1
+  Cl  Cl26  1  0.191681  0.578518  0.892898  1
+  Cl  Cl27  1  0.808319  0.421482  0.392898  1
+  Re  Re28  1  0.170534  0.092190  0.250000  1
+  Re  Re29  1  0.829466  0.907810  0.750000  1
+  Re  Re30  1  0.319767  0.866154  0.250000  1
+  Re  Re31  1  0.680233  0.133846  0.750000  1

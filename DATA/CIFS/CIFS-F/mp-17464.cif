@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_SrGeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35544125
+_cell_length_b   7.35544124
+_cell_length_c   11.37107581
+_cell_angle_alpha   71.57708747
+_cell_angle_beta   71.57708749
+_cell_angle_gamma   60.13940742
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrGeO3
+_chemical_formula_sum   'Sr6 Ge6 O18'
+_cell_volume   496.68287859
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.651071  0.348929  0.250000  1
+  O  O1  1  0.348929  0.651071  0.750000  1
+  O  O2  1  0.112797  0.988568  0.100770  1
+  O  O3  1  0.011432  0.887203  0.399230  1
+  O  O4  1  0.887203  0.011432  0.899230  1
+  O  O5  1  0.988568  0.112797  0.600770  1
+  O  O6  1  0.417276  0.815995  0.251503  1
+  O  O7  1  0.184005  0.582724  0.248497  1
+  O  O8  1  0.582724  0.184005  0.748497  1
+  O  O9  1  0.815995  0.417276  0.751503  1
+  O  O10  1  0.823013  0.631274  0.105096  1
+  O  O11  1  0.368726  0.176987  0.394904  1
+  O  O12  1  0.531700  0.718825  0.904839  1
+  O  O13  1  0.281175  0.468300  0.595161  1
+  O  O14  1  0.468300  0.281175  0.095161  1
+  O  O15  1  0.718825  0.531700  0.404839  1
+  O  O16  1  0.631274  0.823013  0.605096  1
+  O  O17  1  0.176987  0.368726  0.894904  1
+  Ge  Ge18  1  0.157337  0.842663  0.250000  1
+  Ge  Ge19  1  0.842663  0.157337  0.750000  1
+  Ge  Ge20  1  0.676901  0.581803  0.253675  1
+  Ge  Ge21  1  0.418197  0.323099  0.246325  1
+  Ge  Ge22  1  0.323099  0.418197  0.746325  1
+  Ge  Ge23  1  0.581803  0.676901  0.753675  1
+  Sr  Sr24  1  0.000000  0.500000  0.500000  1
+  Sr  Sr25  1  0.500000  0.000000  0.000000  1
+  Sr  Sr26  1  0.844177  0.328524  0.000683  1
+  Sr  Sr27  1  0.671476  0.155823  0.499317  1
+  Sr  Sr28  1  0.155823  0.671476  0.999317  1
+  Sr  Sr29  1  0.328524  0.844177  0.500683  1

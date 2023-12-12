@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr2CuSi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11143595
+_cell_length_b   8.20647500
+_cell_length_c   8.20647500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CuSi2O7
+_chemical_formula_sum   'Sr4 Si4 Cu2 O14'
+_cell_volume   344.23595096
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.679605  0.693260  0.581478  1
+  O  O1  1  0.679605  0.306740  0.418522  1
+  O  O2  1  0.320395  0.418522  0.693260  1
+  O  O3  1  0.320395  0.581478  0.306740  1
+  O  O4  1  0.679605  0.918522  0.806740  1
+  O  O5  1  0.320395  0.806740  0.081478  1
+  O  O6  1  0.320395  0.193260  0.918522  1
+  O  O7  1  0.679605  0.081478  0.193260  1
+  O  O8  1  0.220503  0.864999  0.635001  1
+  O  O9  1  0.779497  0.635001  0.135001  1
+  O  O10  1  0.652542  0.000000  0.500000  1
+  O  O11  1  0.347458  0.500000  0.000000  1
+  O  O12  1  0.220503  0.135001  0.364999  1
+  O  O13  1  0.779497  0.364999  0.864999  1
+  Si  Si14  1  0.536529  0.863777  0.636223  1
+  Si  Si15  1  0.463471  0.636223  0.136223  1
+  Si  Si16  1  0.463471  0.363777  0.863777  1
+  Si  Si17  1  0.536529  0.136223  0.363777  1
+  Cu  Cu18  1  0.500000  0.500000  0.500000  1
+  Cu  Cu19  1  0.500000  0.000000  0.000000  1
+  Sr  Sr20  1  0.991154  0.666534  0.833466  1
+  Sr  Sr21  1  0.008846  0.833466  0.333466  1
+  Sr  Sr22  1  0.008846  0.166534  0.666534  1
+  Sr  Sr23  1  0.991154  0.333466  0.166534  1

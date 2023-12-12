@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MnZn2WO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32741636
+_cell_length_b   5.66467135
+_cell_length_c   7.74299566
+_cell_angle_alpha   94.96335487
+_cell_angle_beta   132.98901493
+_cell_angle_gamma   118.24571274
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnZn2WO6
+_chemical_formula_sum   'Mn1 Zn2 W1 O6'
+_cell_volume   116.31375138
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.996587  0.989040  0.497325  1
+  Zn  Zn1  1  0.995859  0.561110  0.206688  1
+  Zn  Zn2  1  0.005920  0.519763  0.740322  1
+  W  W3  1  0.000799  0.988012  0.998688  1
+  O  O4  1  0.722245  0.808529  0.098559  1
+  O  O5  1  0.280336  0.097796  0.910854  1
+  O  O6  1  0.333136  0.441751  0.244233  1
+  O  O7  1  0.385211  0.818682  0.628729  1
+  O  O8  1  0.578345  0.091717  0.378926  1
+  O  O9  1  0.705966  0.507893  0.805056  1

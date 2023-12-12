@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba2AlAg3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01682262
+_cell_length_b   4.01684557
+_cell_length_c   12.67977414
+_cell_angle_alpha   90.00087991
+_cell_angle_beta   90.00122978
+_cell_angle_gamma   89.97469467
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2AlAg3O8
+_chemical_formula_sum   'Ba2 Al1 Ag3 O8'
+_cell_volume   204.58757950
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.500011  0.499999  0.158305  1
+  Ba  Ba1  1  0.500005  0.499994  0.841739  1
+  Al  Al2  1  0.499963  0.500057  0.499971  1
+  Ag  Ag3  1  0.000005  0.000001  0.358143  1
+  Ag  Ag4  1  -0.000368  0.000160  -0.000030  1
+  Ag  Ag5  1  0.000000  0.999993  0.641816  1
+  O  O6  1  0.000022  0.500004  0.405560  1
+  O  O7  1  0.500004  0.999985  0.405551  1
+  O  O8  1  0.500385  0.000010  0.000020  1
+  O  O9  1  0.000007  -0.000001  0.166627  1
+  O  O10  1  -0.000001  0.499996  0.594438  1
+  O  O11  1  0.499991  0.999962  0.594444  1
+  O  O12  1  0.000004  -0.000002  0.833398  1
+  O  O13  1  -0.000028  0.499843  0.000020  1

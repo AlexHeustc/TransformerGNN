@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Na7AlH2C4(O3F)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.54311566
+_cell_length_b   6.81116798
+_cell_length_c   8.91758593
+_cell_angle_alpha   92.46372927
+_cell_angle_beta   97.34026487
+_cell_angle_gamma   119.19326472
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na7AlH2C4(O3F)4
+_chemical_formula_sum   'Na7 Al1 H2 C4 O12 F4'
+_cell_volume   341.54483440
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.000000  0.000000  0.000000  1
+  Na  Na1  1  0.500000  0.500000  0.000000  1
+  Na  Na2  1  0.500000  0.000000  0.000000  1
+  Na  Na3  1  0.275011  0.614875  0.641929  1
+  Na  Na4  1  0.724989  0.385125  0.358071  1
+  Na  Na5  1  0.223359  0.880523  0.355069  1
+  Na  Na6  1  0.776641  0.119477  0.644931  1
+  Al  Al7  1  0.000000  0.500000  0.000000  1
+  H  H8  1  0.775386  0.772226  0.490495  1
+  H  H9  1  0.224614  0.227774  0.509505  1
+  C  C10  1  0.713146  0.888906  0.298519  1
+  C  C11  1  0.286854  0.111094  0.701481  1
+  C  C12  1  0.797692  0.612963  0.714742  1
+  C  C13  1  0.202308  0.387037  0.285258  1
+  O  O14  1  0.649549  0.007098  0.373757  1
+  O  O15  1  0.350451  0.992902  0.626243  1
+  O  O16  1  0.802068  0.771266  0.378718  1
+  O  O17  1  0.197932  0.228734  0.621282  1
+  O  O18  1  0.703524  0.868663  0.155873  1
+  O  O19  1  0.296476  0.131337  0.844127  1
+  O  O20  1  0.719104  0.743503  0.661858  1
+  O  O21  1  0.280896  0.256497  0.338142  1
+  O  O22  1  0.824686  0.607613  0.863981  1
+  O  O23  1  0.175314  0.392387  0.136019  1
+  O  O24  1  0.847722  0.494745  0.626479  1
+  O  O25  1  0.152278  0.505255  0.373521  1
+  F  F26  1  0.247369  0.606271  0.891750  1
+  F  F27  1  0.752631  0.393729  0.108250  1
+  F  F28  1  0.151003  0.786130  0.105618  1
+  F  F29  1  0.848997  0.213870  0.894382  1

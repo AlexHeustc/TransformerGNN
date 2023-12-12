@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Co10Ge3O16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.33178829
+_cell_length_b   10.33178829
+_cell_length_c   10.33178830
+_cell_angle_alpha   33.87203620
+_cell_angle_beta   33.87203620
+_cell_angle_gamma   33.87203622
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co10Ge3O16
+_chemical_formula_sum   'Co10 Ge3 O16'
+_cell_volume   305.30611835
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.372498  0.878517  0.372499  1
+  O  O1  1  0.878516  0.372499  0.372499  1
+  O  O2  1  0.372498  0.372499  0.878517  1
+  O  O3  1  0.627502  0.121483  0.627501  1
+  O  O4  1  0.121484  0.627502  0.627501  1
+  O  O5  1  0.627502  0.627502  0.121483  1
+  O  O6  1  0.662097  0.111902  0.111904  1
+  O  O7  1  0.111903  0.111902  0.662098  1
+  O  O8  1  0.111904  0.662097  0.111903  1
+  O  O9  1  0.888097  0.888097  0.337903  1
+  O  O10  1  0.888097  0.337902  0.888098  1
+  O  O11  1  0.337902  0.888097  0.888098  1
+  O  O12  1  0.623336  0.623337  0.623338  1
+  O  O13  1  0.126862  0.126862  0.126861  1
+  O  O14  1  0.376662  0.376664  0.376664  1
+  O  O15  1  0.873138  0.873138  0.873138  1
+  Co  Co16  1  0.751119  0.751118  0.240986  1
+  Co  Co17  1  0.751118  0.240987  0.751118  1
+  Co  Co18  1  0.240987  0.751118  0.751119  1
+  Co  Co19  1  0.759014  0.248881  0.248882  1
+  Co  Co20  1  0.248881  0.248881  0.759015  1
+  Co  Co21  1  0.248882  0.759013  0.248882  1
+  Co  Co22  1  0.500000  0.499999  0.500000  1
+  Co  Co23  1  1.000000  0.500000  0.500000  1
+  Co  Co24  1  0.500000  0.500000  0.000001  1
+  Co  Co25  1  0.499999  0.000001  0.500000  1
+  Ge  Ge26  1  0.810792  0.810793  0.810793  1
+  Ge  Ge27  1  0.189208  0.189207  0.189207  1
+  Ge  Ge28  1  0.000000  0.000000  0.000000  1

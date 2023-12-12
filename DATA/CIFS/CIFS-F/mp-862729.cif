@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Sr(DySe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.58341580
+_cell_length_b   4.15641370
+_cell_length_c   15.02680951
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(DySe2)2
+_chemical_formula_sum   'Sr4 Dy8 Se16'
+_cell_volume   785.93041518
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.758733  0.249999  0.664366  1
+  Sr  Sr1  1  0.741267  0.750001  0.164366  1
+  Sr  Sr2  1  0.258732  0.249999  0.835634  1
+  Sr  Sr3  1  0.241268  0.750001  0.335634  1
+  Dy  Dy4  1  0.433426  0.249999  0.609579  1
+  Dy  Dy5  1  0.066573  0.750001  0.109579  1
+  Dy  Dy6  1  0.933426  0.249999  0.890421  1
+  Dy  Dy7  1  0.566573  0.750001  0.390421  1
+  Dy  Dy8  1  0.419924  0.249999  0.099127  1
+  Dy  Dy9  1  0.080076  0.750001  0.599127  1
+  Dy  Dy10  1  0.919924  0.249999  0.400873  1
+  Dy  Dy11  1  0.580075  0.750001  0.900873  1
+  Se  Se12  1  0.411828  0.249999  0.421059  1
+  Se  Se13  1  0.088173  0.750001  0.921059  1
+  Se  Se14  1  0.911828  0.249999  0.078941  1
+  Se  Se15  1  0.588173  0.750001  0.578941  1
+  Se  Se16  1  0.024092  0.249999  0.716316  1
+  Se  Se17  1  0.475909  0.750001  0.216316  1
+  Se  Se18  1  0.524092  0.249999  0.783684  1
+  Se  Se19  1  0.975909  0.750001  0.283684  1
+  Se  Se20  1  0.132158  0.249999  0.472401  1
+  Se  Se21  1  0.367842  0.750001  0.972401  1
+  Se  Se22  1  0.632159  0.249999  0.027599  1
+  Se  Se23  1  0.867842  0.750001  0.527599  1
+  Se  Se24  1  0.207383  0.249999  0.173701  1
+  Se  Se25  1  0.292617  0.750001  0.673700  1
+  Se  Se26  1  0.707383  0.249999  0.326299  1
+  Se  Se27  1  0.792618  0.750001  0.826299  1

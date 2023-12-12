@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Zn(FeS2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76556229
+_cell_length_b   6.79574328
+_cell_length_c   6.79574397
+_cell_angle_alpha   60.00000095
+_cell_angle_beta   59.85231896
+_cell_angle_gamma   59.85231384
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(FeS2)4
+_chemical_formula_sum   'Zn1 Fe4 S8'
+_cell_volume   220.43970004
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.500000  0.000000  0.000000  1
+  Fe  Fe1  1  0.000000  0.500000  0.500000  1
+  Fe  Fe2  1  0.500000  0.500000  0.000000  1
+  Fe  Fe3  1  0.500000  0.500000  0.500000  1
+  Fe  Fe4  1  0.500000  0.000000  0.500000  1
+  S  S5  1  0.265097  0.257045  0.257045  1
+  S  S6  1  0.265097  0.257045  0.720813  1
+  S  S7  1  0.265097  0.720813  0.257045  1
+  S  S8  1  0.721136  0.259621  0.259621  1
+  S  S9  1  0.278864  0.740379  0.740379  1
+  S  S10  1  0.734903  0.742955  0.279187  1
+  S  S11  1  0.734903  0.279187  0.742955  1
+  S  S12  1  0.734903  0.742955  0.742955  1

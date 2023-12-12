@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaLaCrCoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47474655
+_cell_length_b   5.52243432
+_cell_length_c   7.75430378
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.27448300
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaLaCrCoO6
+_chemical_formula_sum   'Ca2 La2 Cr2 Co2 O12'
+_cell_volume   234.44037375
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.490615  0.457539  0.750004  1
+  Ca  Ca1  1  0.990615  0.042461  0.250004  1
+  La  La2  1  0.006593  0.967210  0.749807  1
+  La  La3  1  0.506593  0.532790  0.249807  1
+  Cr  Cr4  1  0.500246  0.000299  0.499591  1
+  Cr  Cr5  1  0.000246  0.499701  0.999591  1
+  Co  Co6  1  0.500202  0.999580  0.000864  1
+  Co  Co7  1  0.000202  0.500420  0.500864  1
+  O  O8  1  0.071023  0.481803  0.253437  1
+  O  O9  1  0.219572  0.212236  0.962602  1
+  O  O10  1  0.212881  0.218772  0.539356  1
+  O  O11  1  0.293363  0.713810  0.957299  1
+  O  O12  1  0.285249  0.708223  0.540978  1
+  O  O13  1  0.420253  0.984912  0.246062  1
+  O  O14  1  0.571022  0.018197  0.753437  1
+  O  O15  1  0.719572  0.287764  0.462602  1
+  O  O16  1  0.712881  0.281228  0.039356  1
+  O  O17  1  0.793363  0.786190  0.457299  1
+  O  O18  1  0.785249  0.791777  0.040978  1
+  O  O19  1  0.920253  0.515088  0.746062  1

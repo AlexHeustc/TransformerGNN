@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_SrSi2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29395677
+_cell_length_b   5.38670002
+_cell_length_c   13.66936664
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.43207920
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrSi2O5
+_chemical_formula_sum   'Sr4 Si8 O20'
+_cell_volume   339.49956662
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.339260  0.678520  0.916087  1
+  Sr  Sr1  1  0.839260  0.678520  0.583913  1
+  Sr  Sr2  1  0.660740  0.321480  0.083913  1
+  Sr  Sr3  1  0.160740  0.321480  0.416087  1
+  Si  Si4  1  0.505750  0.011499  0.638549  1
+  Si  Si5  1  0.994250  0.988501  0.138549  1
+  Si  Si6  1  0.826156  0.652313  0.316397  1
+  Si  Si7  1  0.005750  0.011499  0.861451  1
+  Si  Si8  1  0.173844  0.347687  0.683603  1
+  Si  Si9  1  0.494250  0.988501  0.361451  1
+  Si  Si10  1  0.673844  0.347687  0.816397  1
+  Si  Si11  1  0.326156  0.652313  0.183603  1
+  O  O12  1  0.165013  0.330025  0.102625  1
+  O  O13  1  0.664695  0.820294  0.406174  1
+  O  O14  1  0.344401  0.179706  0.906174  1
+  O  O15  1  0.834987  0.669975  0.897375  1
+  O  O16  1  0.665013  0.330025  0.397375  1
+  O  O17  1  0.334987  0.669975  0.602625  1
+  O  O18  1  0.511765  0.023531  0.756927  1
+  O  O19  1  0.844401  0.179706  0.593826  1
+  O  O20  1  0.988235  0.976469  0.256927  1
+  O  O21  1  0.155599  0.820294  0.406174  1
+  O  O22  1  0.164695  0.820294  0.093826  1
+  O  O23  1  0.496538  0.493077  0.750000  1
+  O  O24  1  0.335305  0.179706  0.593826  1
+  O  O25  1  0.835305  0.179706  0.906174  1
+  O  O26  1  0.655599  0.820294  0.093826  1
+  O  O27  1  0.011765  0.023531  0.743073  1
+  O  O28  1  0.503462  0.506923  0.250000  1
+  O  O29  1  0.003462  0.506923  0.250000  1
+  O  O30  1  0.488235  0.976469  0.243073  1
+  O  O31  1  0.996538  0.493077  0.750000  1

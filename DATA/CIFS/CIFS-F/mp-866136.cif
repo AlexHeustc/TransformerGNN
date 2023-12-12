@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Zr6Al16Ru7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.74774110
+_cell_length_b   8.74784104
+_cell_length_c   8.74773699
+_cell_angle_alpha   60.00072369
+_cell_angle_beta   60.00001265
+_cell_angle_gamma   59.99994711
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr6Al16Ru7
+_chemical_formula_sum   'Zr6 Al16 Ru7'
+_cell_volume   473.34714936
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.703707  0.296299  0.296291  1
+  Zr  Zr1  1  0.296293  0.703701  0.703709  1
+  Zr  Zr2  1  0.296292  0.703701  0.296297  1
+  Zr  Zr3  1  0.296287  0.296299  0.703706  1
+  Zr  Zr4  1  0.703708  0.296299  0.703703  1
+  Zr  Zr5  1  0.703714  0.703701  0.296293  1
+  Al  Al6  1  0.336558  0.336530  0.336553  1
+  Al  Al7  1  0.336559  0.336527  0.990358  1
+  Al  Al8  1  0.990362  0.336538  0.336549  1
+  Al  Al9  1  0.336562  0.990351  0.336540  1
+  Al  Al10  1  0.663442  0.663470  0.663447  1
+  Al  Al11  1  0.663441  0.663473  0.009643  1
+  Al  Al12  1  0.663439  0.009648  0.663460  1
+  Al  Al13  1  0.009638  0.663463  0.663451  1
+  Al  Al14  1  0.119497  0.119472  0.119480  1
+  Al  Al15  1  0.119493  0.119472  0.641554  1
+  Al  Al16  1  0.641549  0.119470  0.119489  1
+  Al  Al17  1  0.119482  0.641561  0.119479  1
+  Al  Al18  1  0.880503  0.880529  0.880521  1
+  Al  Al19  1  0.880507  0.880528  0.358446  1
+  Al  Al20  1  0.880519  0.358440  0.880522  1
+  Al  Al21  1  0.358451  0.880530  0.880512  1
+  Ru  Ru22  1  0.499999  0.000001  -0.000000  1
+  Ru  Ru23  1  0.000001  0.500000  0.499999  1
+  Ru  Ru24  1  0.000000  0.500000  1.000000  1
+  Ru  Ru25  1  -0.000000  1.000000  0.500000  1
+  Ru  Ru26  1  0.500000  0.000001  0.500000  1
+  Ru  Ru27  1  0.500001  0.500000  0.000000  1
+  Ru  Ru28  1  0.000001  0.000000  0.000000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Eu2Ga3Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69031659
+_cell_length_b   5.69127308
+_cell_length_c   8.74034769
+_cell_angle_alpha   90.07209193
+_cell_angle_beta   89.99732260
+_cell_angle_gamma   120.00901081
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2Ga3Ir
+_chemical_formula_sum   'Eu4 Ga6 Ir2'
+_cell_volume   245.11241744
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.333780  0.667010  0.450294  1
+  Eu  Eu1  1  0.666196  0.332786  0.950272  1
+  Eu  Eu2  1  0.333806  0.667217  0.049634  1
+  Eu  Eu3  1  0.666244  0.332780  0.549821  1
+  Ga  Ga4  1  0.839928  0.680024  0.250465  1
+  Ga  Ga5  1  0.841406  0.159704  0.249781  1
+  Ga  Ga6  1  0.158550  0.840311  0.750195  1
+  Ga  Ga7  1  0.318442  0.159864  0.249742  1
+  Ga  Ga8  1  0.681611  0.840210  0.750249  1
+  Ga  Ga9  1  0.160004  0.319960  0.749561  1
+  Ir  Ir10  1  0.000034  0.000126  -0.000001  1
+  Ir  Ir11  1  0.000000  0.000007  0.499987  1

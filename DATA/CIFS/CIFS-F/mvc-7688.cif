@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaAlCuMoO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84232449
+_cell_length_b   3.83091437
+_cell_length_c   8.27454968
+_cell_angle_alpha   90.00374032
+_cell_angle_beta   89.98895429
+_cell_angle_gamma   90.00991872
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaAlCuMoO5
+_chemical_formula_sum   'Ba1 Al1 Cu1 Mo1 O5'
+_cell_volume   121.79819036
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.999995  0.000002  0.027515  1
+  Al  Al1  1  0.000018  0.000013  0.443012  1
+  Cu  Cu2  1  0.499979  0.500007  0.283533  1
+  Mo  Mo3  1  0.500006  0.499996  0.690198  1
+  O  O4  1  0.000041  0.499967  0.603605  1
+  O  O5  1  0.500071  0.999983  0.603263  1
+  O  O6  1  0.999966  0.500019  0.300866  1
+  O  O7  1  0.499911  0.000011  0.300852  1
+  O  O8  1  0.500008  0.499997  0.935073  1

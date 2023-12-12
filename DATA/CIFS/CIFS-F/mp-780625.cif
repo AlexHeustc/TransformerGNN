@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Tb5O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63138671
+_cell_length_b   5.65259974
+_cell_length_c   6.63138671
+_cell_angle_alpha   115.22667520
+_cell_angle_beta   100.46570010
+_cell_angle_gamma   64.77332480
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb5O9
+_chemical_formula_sum   'Tb5 O9'
+_cell_volume   203.42189267
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.998590  0.993021  0.033889  1
+  Tb  Tb1  1  0.201410  0.557722  0.366111  1
+  Tb  Tb2  1  0.433889  0.208389  0.801410  1
+  Tb  Tb3  1  0.766111  0.440868  0.598590  1
+  Tb  Tb4  1  0.600000  0.800000  0.200000  1
+  O  O5  1  0.100000  0.550000  0.700000  1
+  O  O6  1  0.314789  0.640773  0.099662  1
+  O  O7  1  0.700338  0.858890  0.914789  1
+  O  O8  1  0.499662  0.244438  0.485211  1
+  O  O9  1  0.745220  0.318820  0.883048  1
+  O  O10  1  0.454780  0.780993  0.516952  1
+  O  O11  1  0.283048  0.135960  0.054780  1
+  O  O12  1  0.885211  0.455900  0.300338  1
+  O  O13  1  0.916952  0.964228  0.345220  1

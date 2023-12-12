@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_K2Dy4Cu4S9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95073942
+_cell_length_b   7.16353582
+_cell_length_c   15.19729649
+_cell_angle_alpha   82.42093776
+_cell_angle_beta   82.40984021
+_cell_angle_gamma   74.03276998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Dy4Cu4S9
+_chemical_formula_sum   'K2 Dy4 Cu4 S9'
+_cell_volume   407.82010638
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.024328  0.709074  0.232063  1
+  K  K1  1  0.969973  0.283363  0.770764  1
+  Dy  Dy2  1  0.654793  0.743136  0.944900  1
+  Dy  Dy3  1  0.342031  0.253554  0.054791  1
+  Dy  Dy4  1  0.768006  0.861917  0.603922  1
+  Dy  Dy5  1  0.237109  0.139349  0.395194  1
+  Cu  Cu6  1  0.242227  0.735982  0.770826  1
+  Cu  Cu7  1  0.750700  0.261874  0.227735  1
+  Cu  Cu8  1  0.576807  0.321920  0.538872  1
+  Cu  Cu9  1  0.431114  0.680336  0.460662  1
+  S  S10  1  0.141428  0.150429  0.575301  1
+  S  S11  1  0.865603  0.850310  0.423572  1
+  S  S12  1  0.346460  0.079343  0.221639  1
+  S  S13  1  0.390868  0.592569  0.625938  1
+  S  S14  1  0.697167  0.495484  0.103164  1
+  S  S15  1  0.302341  0.502108  0.896169  1
+  S  S16  1  0.650778  0.920517  0.778021  1
+  S  S17  1  0.613622  0.409090  0.373087  1
+  S  S18  1  0.998733  0.997208  0.000409  1

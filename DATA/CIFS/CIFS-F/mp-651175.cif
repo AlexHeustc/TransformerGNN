@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CeSiNO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08374789
+_cell_length_b   7.07680834
+_cell_length_c   9.76623219
+_cell_angle_alpha   89.99095342
+_cell_angle_beta   90.01219090
+_cell_angle_gamma   120.00688207
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeSiNO2
+_chemical_formula_sum   'Ce6 Si6 N6 O12'
+_cell_volume   423.96311553
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.333248  0.666903  0.000031  1
+  Ce  Ce1  1  0.666638  0.333542  0.499888  1
+  Ce  Ce2  1  0.999944  0.000061  0.999874  1
+  Ce  Ce3  1  0.000154  0.000147  0.500118  1
+  Ce  Ce4  1  0.666835  0.333548  0.000129  1
+  Ce  Ce5  1  0.333706  0.666890  0.499994  1
+  Si  Si6  1  0.085711  0.666689  0.249918  1
+  Si  Si7  1  0.581912  0.914833  0.249842  1
+  Si  Si8  1  0.084719  0.418526  0.750114  1
+  Si  Si9  1  0.333656  0.418460  0.249765  1
+  Si  Si10  1  0.580799  0.666336  0.750136  1
+  Si  Si11  1  0.333085  0.914849  0.750241  1
+  N  N12  1  0.333857  0.894823  0.249308  1
+  N  N13  1  0.562042  0.666583  0.249689  1
+  N  N14  1  0.105561  0.438411  0.248773  1
+  N  N15  1  0.332614  0.438199  0.750180  1
+  N  N16  1  0.104594  0.666752  0.751340  1
+  N  N17  1  0.561031  0.894653  0.750685  1
+  O  O18  1  0.701146  0.666641  0.603149  1
+  O  O19  1  0.333928  0.298429  0.102639  1
+  O  O20  1  0.964962  0.298786  0.602880  1
+  O  O21  1  0.333226  0.034824  0.603029  1
+  O  O22  1  0.333043  0.297930  0.396842  1
+  O  O23  1  0.701906  0.035198  0.396889  1
+  O  O24  1  0.334046  0.035702  0.897285  1
+  O  O25  1  0.701728  0.035273  0.102703  1
+  O  O26  1  0.964290  0.297899  0.897109  1
+  O  O27  1  0.964922  0.666502  0.102911  1
+  O  O28  1  0.700629  0.665925  0.897419  1
+  O  O29  1  0.966068  0.666687  0.397121  1

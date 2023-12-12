@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K2SrNi(NO2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.57066189
+_cell_length_b   7.57066189
+_cell_length_c   7.57066189
+_cell_angle_alpha   59.99999997
+_cell_angle_beta   59.99999997
+_cell_angle_gamma   59.99999998
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SrNi(NO2)6
+_chemical_formula_sum   'K2 Sr1 Ni1 N6 O12'
+_cell_volume   306.82204103
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.801281  0.801281  0.198719  1
+  N  N1  1  0.198719  0.801281  0.801281  1
+  N  N2  1  0.801281  0.198719  0.801281  1
+  N  N3  1  0.198719  0.801281  0.198719  1
+  N  N4  1  0.801281  0.198719  0.198719  1
+  N  N5  1  0.198719  0.198719  0.801281  1
+  O  O6  1  0.840053  0.360965  0.159947  1
+  O  O7  1  0.639035  0.360965  0.840053  1
+  O  O8  1  0.159947  0.840053  0.360965  1
+  O  O9  1  0.639035  0.159947  0.360965  1
+  O  O10  1  0.840053  0.159947  0.639035  1
+  O  O11  1  0.360965  0.840053  0.639035  1
+  O  O12  1  0.360965  0.639035  0.159947  1
+  O  O13  1  0.840053  0.639035  0.360965  1
+  O  O14  1  0.639035  0.840053  0.159947  1
+  O  O15  1  0.159947  0.360965  0.639035  1
+  O  O16  1  0.159947  0.639035  0.840053  1
+  O  O17  1  0.360965  0.159947  0.840053  1
+  K  K18  1  0.750000  0.750000  0.750000  1
+  K  K19  1  0.250000  0.250000  0.250000  1
+  Ni  Ni20  1  0.000000  0.000000  0.000000  1
+  Sr  Sr21  1  0.500000  0.500000  0.500000  1

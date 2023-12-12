@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Ge11N11O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91482353
+_cell_length_b   5.91427990
+_cell_length_c   10.23072718
+_cell_angle_alpha   90.19350799
+_cell_angle_beta   72.87933036
+_cell_angle_gamma   119.91312387
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ge11N11O5
+_chemical_formula_sum   'Ge11 N11 O5'
+_cell_volume   291.98899655
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.623700  0.062929  0.310337  1
+  Ge  Ge1  1  0.626782  0.313704  0.060180  1
+  Ge  Ge2  1  0.004612  0.001738  0.993822  1
+  Ge  Ge3  1  0.622947  0.059160  0.816199  1
+  Ge  Ge4  1  0.619226  0.565344  0.306047  1
+  Ge  Ge5  1  0.127457  0.072751  0.305080  1
+  Ge  Ge6  1  0.244871  0.626623  0.126254  1
+  Ge  Ge7  1  0.626757  0.565918  0.813482  1
+  Ge  Ge8  1  0.618140  0.817524  0.568647  1
+  Ge  Ge9  1  0.003941  0.488815  0.506104  1
+  Ge  Ge10  1  0.129096  0.563646  0.814960  1
+  N  N11  1  0.863582  0.155978  0.436488  1
+  N  N12  1  0.850174  0.428281  0.191983  1
+  N  N13  1  0.379393  0.429799  0.189803  1
+  N  N14  1  0.866401  0.933591  0.197568  1
+  N  N15  1  0.870499  0.199584  0.930861  1
+  N  N16  1  0.869862  0.431901  0.704021  1
+  N  N17  1  0.400589  0.201710  0.930347  1
+  N  N18  1  0.406232  0.698139  0.437706  1
+  N  N19  1  0.871266  0.670224  0.930202  1
+  N  N20  1  0.377533  0.955454  0.192163  1
+  N  N21  1  0.380443  0.690223  0.929497  1
+  O  O22  1  0.394131  0.200645  0.406270  1
+  O  O23  1  0.867342  0.701431  0.438263  1
+  O  O24  1  0.826853  0.914189  0.697297  1
+  O  O25  1  0.396785  0.481825  0.696001  1
+  O  O26  1  0.390469  0.917363  0.699258  1

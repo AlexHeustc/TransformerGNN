@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_MnGa2Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11800464
+_cell_length_b   4.11940843
+_cell_length_c   4.11855111
+_cell_angle_alpha   60.00472611
+_cell_angle_beta   60.01195959
+_cell_angle_gamma   60.00929108
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnGa2Co
+_chemical_formula_sum   'Mn1 Ga2 Co1'
+_cell_volume   49.41245036
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.500006  0.500021  0.500033  1
+  Ga  Ga1  1  0.749931  0.749863  0.749893  1
+  Ga  Ga2  1  0.250077  0.250178  0.250075  1
+  Co  Co3  1  -0.000015  0.999938  -0.000001  1

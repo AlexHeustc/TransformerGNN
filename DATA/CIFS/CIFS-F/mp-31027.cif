@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Sc3(ReSi2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36574011
+_cell_length_b   10.18690958
+_cell_length_c   11.65996675
+_cell_angle_alpha   77.65954473
+_cell_angle_beta   76.69748654
+_cell_angle_gamma   74.73020795
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc3(ReSi2)2
+_chemical_formula_sum   'Sc12 Si16 Re8'
+_cell_volume   590.32802823
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.888115  0.250000  0.750000  1
+  Si  Si1  1  0.111885  0.750000  0.250000  1
+  Si  Si2  1  0.360556  0.250000  0.750000  1
+  Si  Si3  1  0.639444  0.750000  0.250000  1
+  Si  Si4  1  0.770195  0.106176  0.124998  1
+  Si  Si5  1  1.001369  0.393824  0.375002  1
+  Si  Si6  1  0.229805  0.893824  0.875002  1
+  Si  Si7  1  -0.001369  0.606176  0.624998  1
+  Si  Si8  1  0.951254  0.722903  0.927997  1
+  Si  Si9  1  0.602154  0.777097  0.572003  1
+  Si  Si10  1  0.048746  0.277097  0.072003  1
+  Si  Si11  1  0.397846  0.222903  0.427997  1
+  Si  Si12  1  0.847867  0.934962  0.610256  1
+  Si  Si13  1  0.393085  0.565038  0.889744  1
+  Si  Si14  1  0.152133  0.065038  0.389744  1
+  Si  Si15  1  0.606915  0.434962  0.110256  1
+  Sc  Sc16  1  0.519116  0.279749  0.953587  1
+  Sc  Sc17  1  0.697647  0.994168  0.842166  1
+  Sc  Sc18  1  0.752453  0.220251  0.546413  1
+  Sc  Sc19  1  0.302353  0.005832  0.157834  1
+  Sc  Sc20  1  0.964060  0.467482  0.861014  1
+  Sc  Sc21  1  0.292557  0.032518  0.638986  1
+  Sc  Sc22  1  0.035940  0.532518  0.138986  1
+  Sc  Sc23  1  0.707443  0.967482  0.361014  1
+  Sc  Sc24  1  0.480884  0.720251  0.046413  1
+  Sc  Sc25  1  0.247547  0.779749  0.453587  1
+  Sc  Sc26  1  0.466019  0.494168  0.342166  1
+  Sc  Sc27  1  0.533981  0.505832  0.657834  1
+  Re  Re28  1  0.173178  0.754675  0.717210  1
+  Re  Re29  1  0.354937  0.254675  0.217210  1
+  Re  Re30  1  0.826822  0.245325  0.282790  1
+  Re  Re31  1  0.645063  0.745325  0.782790  1
+  Re  Re32  1  0.087606  0.127680  0.923164  1
+  Re  Re33  1  0.138450  0.372320  0.576836  1
+  Re  Re34  1  0.912394  0.872320  0.076836  1
+  Re  Re35  1  0.861550  0.627680  0.423164  1

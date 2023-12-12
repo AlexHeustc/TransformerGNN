@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Cr21(MoC3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52508549
+_cell_length_b   7.52536952
+_cell_length_c   7.52420458
+_cell_angle_alpha   60.00196423
+_cell_angle_beta   59.99614694
+_cell_angle_gamma   60.00092587
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr21(MoC3)2
+_chemical_formula_sum   'Cr21 Mo2 C6'
+_cell_volume   301.28790825
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.615912  0.616081  0.615854  1
+  Cr  Cr1  1  0.000026  0.662042  0.337920  1
+  Cr  Cr2  1  0.337802  0.000026  0.999977  1
+  Cr  Cr3  1  0.337848  0.662159  0.999920  1
+  Cr  Cr4  1  0.000097  0.662055  0.999945  1
+  Cr  Cr5  1  0.662174  0.337923  0.999974  1
+  Cr  Cr6  1  0.615932  0.615971  0.152231  1
+  Cr  Cr7  1  0.000008  0.337859  0.662166  1
+  Cr  Cr8  1  0.152128  0.616092  0.615885  1
+  Cr  Cr9  1  -0.000013  0.337836  -0.000004  1
+  Cr  Cr10  1  0.383919  0.847948  0.384184  1
+  Cr  Cr11  1  0.000103  0.000023  0.999919  1
+  Cr  Cr12  1  0.661975  0.000040  0.338047  1
+  Cr  Cr13  1  0.337925  0.999957  0.662093  1
+  Cr  Cr14  1  0.000069  0.999960  0.661982  1
+  Cr  Cr15  1  0.662089  -0.000010  0.999985  1
+  Cr  Cr16  1  0.384038  0.383896  0.384208  1
+  Cr  Cr17  1  0.616055  0.152076  0.615842  1
+  Cr  Cr18  1  0.384056  0.384076  0.847762  1
+  Cr  Cr19  1  0.847886  0.383886  0.384157  1
+  Cr  Cr20  1  -0.000020  0.000085  0.337978  1
+  Mo  Mo21  1  0.249923  0.249567  0.250464  1
+  Mo  Mo22  1  0.750035  0.750417  0.749527  1
+  C  C23  1  0.275274  0.724844  0.724609  1
+  C  C24  1  0.724750  0.275161  0.275393  1
+  C  C25  1  0.275329  0.275244  0.724661  1
+  C  C26  1  0.275205  0.724801  0.275333  1
+  C  C27  1  0.724670  0.724744  0.275367  1
+  C  C28  1  0.724807  0.275240  0.724621  1

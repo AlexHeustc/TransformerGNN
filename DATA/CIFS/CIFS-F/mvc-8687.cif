@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CaSn2(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08070167
+_cell_length_b   7.08070171
+_cell_length_c   9.17235495
+_cell_angle_alpha   102.78358102
+_cell_angle_beta   102.78358262
+_cell_angle_gamma   115.26054886
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSn2(PO5)2
+_chemical_formula_sum   'Ca2 Sn4 P4 O20'
+_cell_volume   378.71237580
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.499978  -0.000022  0.500000  1
+  Ca  Ca1  1  0.249978  0.249978  1.000000  1
+  Sn  Sn2  1  0.874006  0.616684  0.253735  1
+  Sn  Sn3  1  0.362949  0.620270  0.746265  1
+  Sn  Sn4  1  0.870270  0.112949  0.246265  1
+  Sn  Sn5  1  0.866684  0.624006  0.753735  1
+  P  P6  1  0.039269  0.038655  0.587774  1
+  P  P7  1  0.701496  0.200881  0.912226  1
+  P  P8  1  0.450881  0.451496  0.412226  1
+  P  P9  1  0.288655  0.789269  0.087774  1
+  O  O10  1  0.570820  0.546120  0.301616  1
+  O  O11  1  0.660265  0.669327  0.843872  1
+  O  O12  1  0.310985  0.604908  0.975462  1
+  O  O13  1  0.796120  0.320820  0.801616  1
+  O  O14  1  0.224516  0.243909  0.296852  1
+  O  O15  1  0.421617  0.634220  0.520170  1
+  O  O16  1  0.066393  0.575455  0.656128  1
+  O  O17  1  0.825455  0.816393  0.156128  1
+  O  O18  1  0.919327  0.410265  0.343872  1
+  O  O19  1  0.177663  0.697057  0.203148  1
+  O  O20  1  0.244504  0.269205  0.698384  1
+  O  O21  1  0.493909  0.974516  0.796852  1
+  O  O22  1  0.947057  0.927663  0.703148  1
+  O  O23  1  0.151448  0.864051  0.979830  1
+  O  O24  1  0.114051  0.901448  0.479830  1
+  O  O25  1  0.884220  0.171617  0.020170  1
+  O  O26  1  0.854908  0.060985  0.475462  1
+  O  O27  1  0.629445  0.335523  0.024538  1
+  O  O28  1  0.519205  0.994504  0.198384  1
+  O  O29  1  0.585523  0.379445  0.524538  1

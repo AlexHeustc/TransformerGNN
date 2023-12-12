@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CaFe2(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.96592618
+_cell_length_b   6.96592585
+_cell_length_c   8.64451359
+_cell_angle_alpha   102.90557441
+_cell_angle_beta   102.90557511
+_cell_angle_gamma   116.46626265
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaFe2(PO5)2
+_chemical_formula_sum   'Ca2 Fe4 P4 O20'
+_cell_volume   340.04011571
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.496141  0.996141  0.500000  1
+  Ca  Ca1  1  0.246141  0.246141  1.000000  1
+  Fe  Fe2  1  0.870970  0.619430  0.250657  1
+  Fe  Fe3  1  0.368773  0.620311  0.749343  1
+  Fe  Fe4  1  0.870311  0.118773  0.249343  1
+  Fe  Fe5  1  0.869430  0.620970  0.750657  1
+  P  P6  1  0.037619  0.037456  0.584915  1
+  P  P7  1  0.702703  0.202542  0.915085  1
+  P  P8  1  0.452542  0.452703  0.415085  1
+  P  P9  1  0.287456  0.787619  0.084915  1
+  O  O10  1  0.572927  0.550955  0.297866  1
+  O  O11  1  0.671666  0.673254  0.855298  1
+  O  O12  1  0.312495  0.603058  0.966958  1
+  O  O13  1  0.800955  0.322927  0.797866  1
+  O  O14  1  0.215961  0.236078  0.297052  1
+  O  O15  1  0.425380  0.636711  0.531557  1
+  O  O16  1  0.066368  0.567956  0.644702  1
+  O  O17  1  0.817956  0.816368  0.144702  1
+  O  O18  1  0.923254  0.421666  0.355298  1
+  O  O19  1  0.168908  0.689027  0.202948  1
+  O  O20  1  0.253090  0.275061  0.702134  1
+  O  O21  1  0.486078  0.965961  0.797052  1
+  O  O22  1  0.939027  0.918908  0.702948  1
+  O  O23  1  0.143824  0.855154  0.968443  1
+  O  O24  1  0.105154  0.893824  0.468443  1
+  O  O25  1  0.886711  0.175380  0.031557  1
+  O  O26  1  0.853058  0.062495  0.466958  1
+  O  O27  1  0.636100  0.345538  0.033042  1
+  O  O28  1  0.525061  0.003090  0.202134  1
+  O  O29  1  0.595538  0.386100  0.533042  1

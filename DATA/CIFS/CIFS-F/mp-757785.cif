@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Bi12PbO19
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.90158491
+_cell_length_b   9.05788125
+_cell_length_c   9.05747498
+_cell_angle_alpha   109.81716304
+_cell_angle_beta   109.12191893
+_cell_angle_gamma   109.12496630
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi12PbO19
+_chemical_formula_sum   'Bi12 Pb1 O19'
+_cell_volume   564.57681909
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.832947  0.152156  0.356185  1
+  Bi  Bi1  1  0.492758  0.298153  0.170797  1
+  Bi  Bi2  1  0.856407  0.693422  0.194943  1
+  Bi  Bi3  1  0.296872  0.157892  0.472339  1
+  Bi  Bi4  1  0.680810  0.204032  0.847880  1
+  Bi  Bi5  1  0.824546  0.527644  0.685545  1
+  Bi  Bi6  1  0.163007  0.501512  0.306581  1
+  Bi  Bi7  1  0.321912  0.829171  0.127367  1
+  Bi  Bi8  1  0.661514  0.805096  0.498490  1
+  Bi  Bi9  1  0.476779  0.643816  0.795969  1
+  Bi  Bi10  1  0.139026  0.314475  0.842127  1
+  Bi  Bi11  1  0.194588  0.872644  0.701841  1
+  Pb  Pb12  1  0.959354  0.999931  -0.000017  1
+  O  O13  1  0.387916  0.999986  0.000007  1
+  O  O14  1  0.736221  0.361216  0.111108  1
+  O  O15  1  0.884983  0.237229  0.628094  1
+  O  O16  1  0.631936  0.264014  0.383736  1
+  O  O17  1  0.239302  0.220186  0.235297  1
+  O  O18  1  0.761113  0.644466  0.380646  1
+  O  O19  1  0.002252  0.371183  0.000269  1
+  O  O20  1  0.001939  0.999720  0.370881  1
+  O  O21  1  0.367954  0.119718  0.736006  1
+  O  O22  1  0.647772  0.390863  0.762794  1
+  O  O23  1  0.380449  0.619373  0.263771  1
+  O  O24  1  0.625076  0.888899  0.250072  1
+  O  O25  1  0.631093  0.629133  0.628853  1
+  O  O26  1  0.256873  0.371912  0.609132  1
+  O  O27  1  0.004048  0.764713  0.984891  1
+  O  O28  1  0.019161  0.015079  0.779754  1
+  O  O29  1  0.116651  0.736218  0.355584  1
+  O  O30  1  0.375028  0.749866  0.638791  1
+  O  O31  1  0.248174  0.616283  0.880267  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La5TlSe8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94353349
+_cell_length_b   7.94353412
+_cell_length_c   7.94353381
+_cell_angle_alpha   109.17338149
+_cell_angle_beta   110.06855195
+_cell_angle_gamma   109.17338121
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La5TlSe8
+_chemical_formula_sum   'La5 Tl1 Se8'
+_cell_volume   385.81928033
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.243636  0.629012  0.376435  1
+  La  La1  1  0.375000  0.250000  0.625000  1
+  La  La2  1  0.747423  0.870988  0.114624  1
+  La  La3  1  0.623565  0.367201  0.252577  1
+  La  La4  1  0.885376  0.132799  0.756364  1
+  Se  Se5  1  0.995114  0.854790  0.488370  1
+  Se  Se6  1  0.996489  0.334336  0.488179  1
+  Se  Se7  1  0.511821  0.008310  0.846157  1
+  Se  Se8  1  0.153843  0.165664  0.162153  1
+  Se  Se9  1  0.359676  0.493256  0.004886  1
+  Se  Se10  1  0.633580  0.645210  0.640324  1
+  Se  Se11  1  0.511630  0.006744  0.366420  1
+  Se  Se12  1  0.837847  0.491690  0.003511  1
+  Tl  Tl13  1  0.125000  0.750000  0.875000  1

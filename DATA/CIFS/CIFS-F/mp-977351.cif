@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ac2S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61775342
+_cell_length_b   7.61774591
+_cell_length_c   7.88324977
+_cell_angle_alpha   118.89202079
+_cell_angle_beta   61.10802088
+_cell_angle_gamma   119.99993429
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ac2S3
+_chemical_formula_sum   'Ac4 S6'
+_cell_volume   328.78933761
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.643468  0.356531  0.069594  1
+  Ac  Ac1  1  0.856531  0.143468  0.430405  1
+  Ac  Ac2  1  0.143469  0.856532  0.569593  1
+  Ac  Ac3  1  0.356531  0.643468  0.930406  1
+  S  S4  1  0.539134  0.750000  0.250000  1
+  S  S5  1  0.250000  0.039134  0.250000  1
+  S  S6  1  0.960868  0.460868  0.250000  1
+  S  S7  1  0.039133  0.539133  0.749999  1
+  S  S8  1  0.750000  0.960866  0.749999  1
+  S  S9  1  0.460866  0.250000  0.749999  1

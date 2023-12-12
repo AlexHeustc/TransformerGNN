@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li2Ce2Ge3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44983249
+_cell_length_b   6.88055812
+_cell_length_c   9.59382008
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   103.40963006
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ce2Ge3
+_chemical_formula_sum   'Li4 Ce4 Ge6'
+_cell_volume   285.72898336
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.691002  0.062427  0.382004  1
+  Li  Li1  1  0.308998  0.937573  0.617996  1
+  Li  Li2  1  0.308998  0.562427  0.617996  1
+  Li  Li3  1  0.691002  0.437573  0.382004  1
+  Ge  Ge4  1  0.220376  0.250000  0.440752  1
+  Ge  Ge5  1  0.779624  0.750000  0.559248  1
+  Ge  Ge6  1  0.563085  0.564796  0.126170  1
+  Ge  Ge7  1  0.436915  0.435204  0.873830  1
+  Ge  Ge8  1  0.436915  0.064796  0.873830  1
+  Ge  Ge9  1  0.563085  0.935204  0.126170  1
+  Ce  Ce10  1  0.156498  0.750000  0.312996  1
+  Ce  Ce11  1  0.843502  0.250000  0.687004  1
+  Ce  Ce12  1  0.949564  0.750000  0.899129  1
+  Ce  Ce13  1  0.050436  0.250000  0.100871  1

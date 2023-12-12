@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ca2HoF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.30468086
+_cell_length_b   4.30468047
+_cell_length_c   41.14432904
+_cell_angle_alpha   52.08821582
+_cell_angle_beta   52.08821896
+_cell_angle_gamma   50.68387840
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2HoF7
+_chemical_formula_sum   'Ca6 Ho3 F21'
+_cell_volume   432.55675974
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.005517  0.005517  0.002296  1
+  Ca  Ca1  1  0.952046  0.952046  0.088843  1
+  Ca  Ca2  1  0.044528  0.044528  0.211159  1
+  Ca  Ca3  1  0.139833  0.139833  0.333519  1
+  Ca  Ca4  1  0.084337  0.084337  0.454588  1
+  Ca  Ca5  1  0.018597  0.018597  0.876254  1
+  Ho  Ho6  1  0.976334  0.976334  0.549305  1
+  Ho  Ho7  1  0.977222  0.977222  0.658002  1
+  Ho  Ho8  1  0.979196  0.979196  0.766754  1
+  F  F9  1  0.610754  0.610754  0.094407  1
+  F  F10  1  0.649573  0.649573  0.164007  1
+  F  F11  1  0.699380  0.699380  0.221735  1
+  F  F12  1  0.743900  0.743900  0.286003  1
+  F  F13  1  0.339389  0.339389  0.469028  1
+  F  F14  1  0.795100  0.795100  0.343552  1
+  F  F15  1  0.831357  0.831357  0.407963  1
+  F  F16  1  0.330222  0.330222  0.585875  1
+  F  F17  1  0.533247  0.533247  0.504689  1
+  F  F18  1  0.754533  0.754533  0.531413  1
+  F  F19  1  0.346447  0.346447  0.694678  1
+  F  F20  1  0.575586  0.575586  0.611156  1
+  F  F21  1  0.376894  0.376894  0.804976  1
+  F  F22  1  0.786775  0.786775  0.636471  1
+  F  F23  1  0.580825  0.580825  0.720586  1
+  F  F24  1  0.800440  0.800440  0.743744  1
+  F  F25  1  0.245468  0.245468  0.934929  1
+  F  F26  1  0.598832  0.598832  0.831480  1
+  F  F27  1  0.702587  0.702587  0.882793  1
+  F  F28  1  0.295417  0.295417  0.010255  1
+  F  F29  1  0.460663  0.460663  0.050097  1

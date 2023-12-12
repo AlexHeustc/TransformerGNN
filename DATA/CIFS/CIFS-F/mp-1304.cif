@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Zr5Si4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16250067
+_cell_length_b   7.16250067
+_cell_length_c   13.07875590
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr5Si4
+_chemical_formula_sum   'Zr20 Si16'
+_cell_volume   670.95869520
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.050418  0.698986  0.437931  1
+  Si  Si1  1  0.949582  0.301014  0.937931  1
+  Si  Si2  1  0.698986  0.050418  0.562069  1
+  Si  Si3  1  0.198986  0.449582  0.187931  1
+  Si  Si4  1  0.801014  0.550418  0.687931  1
+  Si  Si5  1  0.449582  0.198986  0.812069  1
+  Si  Si6  1  0.550418  0.801014  0.312069  1
+  Si  Si7  1  0.301014  0.949582  0.062069  1
+  Si  Si8  1  0.852826  0.794991  0.822533  1
+  Si  Si9  1  0.147174  0.205009  0.322533  1
+  Si  Si10  1  0.794991  0.852826  0.177467  1
+  Si  Si11  1  0.294991  0.647174  0.572533  1
+  Si  Si12  1  0.705009  0.352826  0.072533  1
+  Si  Si13  1  0.647174  0.294991  0.427467  1
+  Si  Si14  1  0.352826  0.705009  0.927467  1
+  Si  Si15  1  0.205009  0.147174  0.677467  1
+  Zr  Zr16  1  0.354438  0.501029  0.376603  1
+  Zr  Zr17  1  0.854438  0.998971  0.373397  1
+  Zr  Zr18  1  0.001029  0.145562  0.126603  1
+  Zr  Zr19  1  0.998971  0.854438  0.626603  1
+  Zr  Zr20  1  0.645562  0.498971  0.876603  1
+  Zr  Zr21  1  0.501029  0.354438  0.623397  1
+  Zr  Zr22  1  0.498971  0.645562  0.123397  1
+  Zr  Zr23  1  0.145562  0.001029  0.873397  1
+  Zr  Zr24  1  0.998659  0.649786  0.035361  1
+  Zr  Zr25  1  0.001341  0.350214  0.535361  1
+  Zr  Zr26  1  0.649786  0.998659  0.964639  1
+  Zr  Zr27  1  0.149786  0.501341  0.785361  1
+  Zr  Zr28  1  0.850214  0.498659  0.285361  1
+  Zr  Zr29  1  0.501341  0.149786  0.214639  1
+  Zr  Zr30  1  0.498659  0.850214  0.714639  1
+  Zr  Zr31  1  0.350214  0.001341  0.464639  1
+  Zr  Zr32  1  0.675237  0.675237  0.500000  1
+  Zr  Zr33  1  0.824763  0.175237  0.750000  1
+  Zr  Zr34  1  0.175237  0.824763  0.250000  1
+  Zr  Zr35  1  0.324763  0.324763  0.000000  1

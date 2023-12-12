@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr2HoGaCu2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41002917
+_cell_length_b   5.50938411
+_cell_length_c   12.21091346
+_cell_angle_alpha   103.04013411
+_cell_angle_beta   102.80013312
+_cell_angle_gamma   89.99907210
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2HoGaCu2O7
+_chemical_formula_sum   'Sr4 Ho2 Ga2 Cu4 O14'
+_cell_volume   345.28173839
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.500569  0.499991  -0.000023  1
+  Ho  Ho1  1  0.000581  -0.000006  -0.000025  1
+  Sr  Sr2  1  0.348168  0.365185  0.697813  1
+  Sr  Sr3  1  0.650307  0.634862  0.302212  1
+  Sr  Sr4  1  0.848166  0.832683  0.697827  1
+  Sr  Sr5  1  0.150313  0.167366  0.302205  1
+  Cu  Cu6  1  0.929953  0.428181  0.857827  1
+  Cu  Cu7  1  0.071946  0.571816  0.142207  1
+  Cu  Cu8  1  0.429858  0.929585  0.857733  1
+  Cu  Cu9  1  0.571937  0.070191  0.142143  1
+  Ga  Ga10  1  0.712788  0.180909  0.500026  1
+  Ga  Ga11  1  0.212801  0.819099  0.500003  1
+  O  O12  1  0.860027  0.864863  0.500026  1
+  O  O13  1  0.359985  0.135179  0.499998  1
+  O  O14  1  0.187461  0.186411  0.873162  1
+  O  O15  1  0.314294  0.813698  0.126830  1
+  O  O16  1  0.687504  0.186791  0.873170  1
+  O  O17  1  0.814134  0.813315  0.126824  1
+  O  O18  1  0.689133  0.687967  0.878514  1
+  O  O19  1  0.810429  0.311883  0.121483  1
+  O  O20  1  0.189119  0.690578  0.878521  1
+  O  O21  1  0.310672  0.309333  0.121471  1
+  O  O22  1  0.352098  0.779729  0.647221  1
+  O  O23  1  0.704825  0.220319  0.352797  1
+  O  O24  1  0.852081  0.367589  0.647258  1
+  O  O25  1  0.204852  0.632482  0.352776  1

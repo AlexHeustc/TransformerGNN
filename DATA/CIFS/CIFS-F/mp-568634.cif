@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Yb3(Ga2Ge3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26972465
+_cell_length_b   10.85303764
+_cell_length_c   12.14685642
+_cell_angle_alpha   91.13543787
+_cell_angle_beta   100.12256288
+_cell_angle_gamma   89.99999909
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb3(Ga2Ge3)2
+_chemical_formula_sum   'Yb6 Ga8 Ge12'
+_cell_volume   554.00501758
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.644400  0.106414  0.288800  1
+  Yb  Yb1  1  0.176212  0.546798  0.352424  1
+  Yb  Yb2  1  0.523483  0.833852  0.046966  1
+  Yb  Yb3  1  0.823788  0.453202  0.647576  1
+  Yb  Yb4  1  0.355600  0.893586  0.711200  1
+  Yb  Yb5  1  0.476517  0.166148  0.953034  1
+  Ga  Ga6  1  0.421586  0.412238  0.843172  1
+  Ga  Ga7  1  0.578414  0.587762  0.156828  1
+  Ga  Ga8  1  0.759392  0.741897  0.518783  1
+  Ga  Ga9  1  0.934709  0.731081  0.869419  1
+  Ga  Ga10  1  0.240608  0.258103  0.481217  1
+  Ga  Ga11  1  0.136051  0.883475  0.272102  1
+  Ga  Ga12  1  0.863949  0.116525  0.727898  1
+  Ga  Ga13  1  0.065291  0.268919  0.130581  1
+  Ge  Ge14  1  0.709093  0.359850  0.418186  1
+  Ge  Ge15  1  0.023741  0.605072  0.047482  1
+  Ge  Ge16  1  0.652160  0.763038  0.304320  1
+  Ge  Ge17  1  0.225194  0.027161  0.450388  1
+  Ge  Ge18  1  0.948100  0.965013  0.896201  1
+  Ge  Ge19  1  0.604743  0.365072  0.209485  1
+  Ge  Ge20  1  0.976259  0.394928  0.952518  1
+  Ge  Ge21  1  0.051900  0.034987  0.103799  1
+  Ge  Ge22  1  0.774806  0.972839  0.549612  1
+  Ge  Ge23  1  0.395257  0.634928  0.790515  1
+  Ge  Ge24  1  0.347840  0.236962  0.695680  1
+  Ge  Ge25  1  0.290907  0.640150  0.581814  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Li4Fe2Co3Cu3O16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81016757
+_cell_length_b   5.75495973
+_cell_length_c   9.40385195
+_cell_angle_alpha   90.02483404
+_cell_angle_beta   88.39543852
+_cell_angle_gamma   119.70888867
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Fe2Co3Cu3O16
+_chemical_formula_sum   'Li4 Fe2 Co3 Cu3 O16'
+_cell_volume   272.96783707
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.334108  0.667195  0.892497  1
+  Li  Li1  1  0.997558  0.998837  0.997501  1
+  Li  Li2  1  0.001280  0.000479  0.494902  1
+  Li  Li3  1  0.673010  0.336440  0.393867  1
+  Fe  Fe4  1  0.332102  0.665997  0.492196  1
+  Fe  Fe5  1  0.660275  0.330153  0.992678  1
+  Co  Co6  1  0.660461  0.830275  0.212930  1
+  Co  Co7  1  0.831046  0.662134  0.713290  1
+  Co  Co8  1  0.831039  0.168940  0.713262  1
+  Cu  Cu9  1  0.168900  0.830324  0.214376  1
+  Cu  Cu10  1  0.168924  0.338552  0.214379  1
+  Cu  Cu11  1  0.337249  0.168655  0.714448  1
+  O  O12  1  0.150264  0.827641  0.601669  1
+  O  O13  1  0.041266  0.520683  0.341879  1
+  O  O14  1  0.345879  0.673118  0.109404  1
+  O  O15  1  0.985719  0.992731  0.305701  1
+  O  O16  1  0.987943  0.994105  0.808676  1
+  O  O17  1  0.150263  0.322550  0.601586  1
+  O  O18  1  0.496666  0.966440  0.338743  1
+  O  O19  1  0.496862  0.530343  0.338723  1
+  O  O20  1  0.319823  0.159747  0.096283  1
+  O  O21  1  0.682194  0.841062  0.609467  1
+  O  O22  1  0.533004  0.494232  0.835534  1
+  O  O23  1  0.532958  0.038945  0.835518  1
+  O  O24  1  0.677913  0.338944  0.609296  1
+  O  O25  1  0.820373  0.669258  0.101324  1
+  O  O26  1  0.962547  0.481340  0.826391  1
+  O  O27  1  0.820375  0.151181  0.101320  1

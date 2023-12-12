@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Eu2Fe2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50144961
+_cell_length_b   3.95709932
+_cell_length_c   3.96539143
+_cell_angle_alpha   89.99990898
+_cell_angle_beta   89.99450536
+_cell_angle_gamma   90.00302153
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2Fe2O5
+_chemical_formula_sum   'Eu2 Fe2 O5'
+_cell_volume   117.70860381
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.000017  0.999994  0.000007  1
+  Eu  Eu1  1  0.500066  -0.000000  0.999984  1
+  Fe  Fe2  1  0.240218  0.500005  0.499945  1
+  Fe  Fe3  1  0.759800  0.499995  0.500055  1
+  O  O4  1  0.211423  0.500050  0.999931  1
+  O  O5  1  0.788527  0.499949  0.000067  1
+  O  O6  1  0.500001  0.499996  0.500003  1
+  O  O7  1  0.210087  0.000009  0.499861  1
+  O  O8  1  0.789860  -0.000009  0.500138  1

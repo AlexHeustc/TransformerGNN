@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_NaLi2La3Ti6O18
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55830835
+_cell_length_b   16.62422437
+_cell_length_c   9.61366853
+_cell_angle_alpha   29.83759256
+_cell_angle_beta   54.72718330
+_cell_angle_gamma   59.93908692
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi2La3Ti6O18
+_chemical_formula_sum   'Na1 Li2 La3 Ti6 O18'
+_cell_volume   360.83874977
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.250000  0.999567  0.250649  1
+  Li  Li1  1  0.002894  0.833201  0.000638  1
+  Li  Li2  1  0.497106  0.833201  0.999756  1
+  La  La3  1  0.250000  0.326337  0.260493  1
+  La  La4  1  0.750000  0.340160  0.739760  1
+  La  La5  1  0.750000  0.665588  0.751618  1
+  Ti  Ti6  1  0.992909  0.998174  0.007208  1
+  Ti  Ti7  1  0.000777  0.326404  0.008011  1
+  Ti  Ti8  1  0.006423  0.673101  0.987878  1
+  Ti  Ti9  1  0.507091  0.998174  0.498270  1
+  Ti  Ti10  1  0.499223  0.326404  0.512776  1
+  Ti  Ti11  1  0.493577  0.673101  0.492822  1
+  O  O12  1  0.297966  0.187884  0.201181  1
+  O  O13  1  0.250000  0.011145  0.733282  1
+  O  O14  1  0.202034  0.187884  0.735170  1
+  O  O15  1  0.283747  0.505310  0.214669  1
+  O  O16  1  0.767968  0.167304  0.230247  1
+  O  O17  1  0.250000  0.347972  0.728041  1
+  O  O18  1  0.750000  0.325882  0.261177  1
+  O  O19  1  0.216253  0.505310  0.769403  1
+  O  O20  1  0.732032  0.167304  0.767842  1
+  O  O21  1  0.262748  0.839178  0.237539  1
+  O  O22  1  0.797264  0.484784  0.249875  1
+  O  O23  1  0.250000  0.680117  0.729825  1
+  O  O24  1  0.750000  0.654715  0.267928  1
+  O  O25  1  0.237252  0.839178  0.744927  1
+  O  O26  1  0.702736  0.484784  0.795774  1
+  O  O27  1  0.773301  0.819160  0.268626  1
+  O  O28  1  0.750000  0.979519  0.280722  1
+  O  O29  1  0.726699  0.819160  0.773894  1

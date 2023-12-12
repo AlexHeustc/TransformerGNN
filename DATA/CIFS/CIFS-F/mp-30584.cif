@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HoCu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.28181295
+_cell_length_b   5.41873317
+_cell_length_c   5.41873317
+_cell_angle_alpha   77.64586761
+_cell_angle_beta   66.72819199
+_cell_angle_gamma   66.72819199
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCu2
+_chemical_formula_sum   'Ho2 Cu4'
+_cell_volume   105.85022674
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.543387  0.706613  0.206613  1
+  Ho  Ho1  1  0.456613  0.293387  0.793387  1
+  Cu  Cu2  1  0.165935  0.282450  0.385679  1
+  Cu  Cu3  1  0.834065  0.717550  0.614321  1
+  Cu  Cu4  1  0.834065  0.114321  0.217550  1
+  Cu  Cu5  1  0.165935  0.885679  0.782450  1

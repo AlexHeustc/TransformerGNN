@@ -1,0 +1,59 @@
+# generated using pymatgen
+data_Li4FeOF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15439749
+_cell_length_b   5.15436288
+_cell_length_c   14.43377782
+_cell_angle_alpha   90.00142534
+_cell_angle_beta   90.00030425
+_cell_angle_gamma   59.99821298
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4FeOF5
+_chemical_formula_sum   'Li12 Fe3 O3 F15'
+_cell_volume   332.08994386
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.218852  0.236810  0.502038  1
+  Li  Li1  1  0.236791  0.544361  0.168690  1
+  Li  Li2  1  0.223984  0.880282  0.826538  1
+  Li  Li3  1  0.544322  0.218870  0.835373  1
+  Li  Li4  1  0.552735  0.574294  0.999037  1
+  Li  Li5  1  0.583713  0.513920  0.491965  1
+  Li  Li6  1  0.513871  0.902407  0.158621  1
+  Li  Li7  1  0.574279  0.872947  0.665709  1
+  Li  Li8  1  0.895770  0.223972  0.159852  1
+  Li  Li9  1  0.873003  0.552756  0.332368  1
+  Li  Li10  1  0.902389  0.583717  0.825302  1
+  Li  Li11  1  0.880292  0.895814  0.493175  1
+  Fe  Fe12  1  0.196362  0.916947  0.339792  1
+  Fe  Fe13  1  0.886670  0.196224  0.673184  1
+  Fe  Fe14  1  0.916880  0.886717  0.006442  1
+  O  O15  1  0.206322  0.864284  0.081118  1
+  O  O16  1  0.929502  0.206235  0.414415  1
+  O  O17  1  0.864297  0.929520  0.747744  1
+  F  F18  1  0.195722  0.217113  0.243046  1
+  F  F19  1  0.210628  0.208782  0.755655  1
+  F  F20  1  0.208821  0.580572  0.422311  1
+  F  F21  1  0.217092  0.587186  0.909723  1
+  F  F22  1  0.587182  0.195710  0.576382  1
+  F  F23  1  0.580540  0.210643  0.088986  1
+  F  F24  1  0.218336  0.928486  0.586793  1
+  F  F25  1  0.533346  0.605324  0.251174  1
+  F  F26  1  0.588847  0.555670  0.751104  1
+  F  F27  1  0.853142  0.218325  0.920136  1
+  F  F28  1  0.555721  0.855476  0.417764  1
+  F  F29  1  0.605289  0.861355  0.917855  1
+  F  F30  1  0.855480  0.588815  0.084436  1
+  F  F31  1  0.861350  0.533297  0.584525  1
+  F  F32  1  0.928489  0.853183  0.253450  1

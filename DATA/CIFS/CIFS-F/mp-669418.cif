@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2NiN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85391173
+_cell_length_b   7.71063150
+_cell_length_c   12.52465657
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2NiN2
+_chemical_formula_sum   'Sr8 Ni4 N8'
+_cell_volume   372.18386173
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.250000  0.616892  0.896551  1
+  Sr  Sr1  1  0.750000  0.373347  0.398969  1
+  Sr  Sr2  1  0.250000  0.126653  0.898969  1
+  Sr  Sr3  1  0.250000  0.626653  0.601031  1
+  Sr  Sr4  1  0.750000  0.383108  0.103449  1
+  Sr  Sr5  1  0.750000  0.873347  0.101031  1
+  Sr  Sr6  1  0.250000  0.116892  0.603449  1
+  Sr  Sr7  1  0.750000  0.883108  0.396551  1
+  Ni  Ni8  1  0.750000  0.371761  0.748185  1
+  Ni  Ni9  1  0.250000  0.628239  0.251815  1
+  Ni  Ni10  1  0.750000  0.871761  0.751815  1
+  Ni  Ni11  1  0.250000  0.128239  0.248185  1
+  N  N12  1  0.750000  0.867907  0.892228  1
+  N  N13  1  0.750000  0.375516  0.889313  1
+  N  N14  1  0.250000  0.624484  0.110687  1
+  N  N15  1  0.250000  0.132093  0.107772  1
+  N  N16  1  0.250000  0.124484  0.389313  1
+  N  N17  1  0.750000  0.875516  0.610687  1
+  N  N18  1  0.250000  0.632093  0.392228  1
+  N  N19  1  0.750000  0.367907  0.607772  1

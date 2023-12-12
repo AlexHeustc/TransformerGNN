@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Tb2Zr8O19
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66635746
+_cell_length_b   36.99094637
+_cell_length_c   35.31652811
+_cell_angle_alpha   5.17633837
+_cell_angle_beta   58.67464021
+_cell_angle_gamma   60.24028865
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Zr8O19
+_chemical_formula_sum   'Tb2 Zr8 O19'
+_cell_volume   354.60591663
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.045995  0.831744  0.959863  1
+  Tb  Tb1  1  0.963617  0.864280  0.043716  1
+  Zr  Zr2  1  0.973116  0.975496  0.029689  1
+  Zr  Zr3  1  0.980051  0.078845  0.025279  1
+  Zr  Zr4  1  0.985919  0.184119  0.018708  1
+  Zr  Zr5  1  0.992972  0.294110  0.007042  1
+  Zr  Zr6  1  0.006908  0.403763  0.995158  1
+  Zr  Zr7  1  0.018511  0.510400  0.986609  1
+  Zr  Zr8  1  0.023688  0.615573  0.979988  1
+  Zr  Zr9  1  0.033289  0.718547  0.975896  1
+  O  O10  1  0.265189  0.011009  0.235766  1
+  O  O11  1  0.243841  0.091224  0.259972  1
+  O  O12  1  0.245943  0.193134  0.258017  1
+  O  O13  1  0.299652  0.333043  0.207554  1
+  O  O14  1  0.239773  0.386023  0.266685  1
+  O  O15  1  0.324743  0.554064  0.181866  1
+  O  O16  1  0.755516  0.100006  0.749860  1
+  O  O17  1  0.181072  0.638940  0.325260  1
+  O  O18  1  0.764387  0.205368  0.742299  1
+  O  O19  1  0.268113  0.810115  0.236194  1
+  O  O20  1  0.684831  0.243811  0.819112  1
+  O  O21  1  0.192851  0.853842  0.306781  1
+  O  O22  1  0.766772  0.411672  0.734335  1
+  O  O23  1  0.715733  0.471902  0.784886  1
+  O  O24  1  0.756603  0.601554  0.747210  1
+  O  O25  1  0.776698  0.717024  0.728089  1
+  O  O26  1  0.740023  0.785925  0.766561  1
+  O  O27  1  0.815014  0.946662  0.690886  1
+  O  O28  1  0.745755  0.991857  0.759827  1

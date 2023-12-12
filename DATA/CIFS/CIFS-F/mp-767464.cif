@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_LiVCrP2(O4F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16698432
+_cell_length_b   10.69622311
+_cell_length_c   7.35418614
+_cell_angle_alpha   72.91271674
+_cell_angle_beta   71.11128648
+_cell_angle_gamma   98.06858934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiVCrP2(O4F)2
+_chemical_formula_sum   'Li2 V2 Cr2 P4 O16 F4'
+_cell_volume   354.90400872
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.256340  0.305183  0.823195  1
+  Li  Li1  1  0.743660  0.694817  0.176805  1
+  V  V2  1  0.000000  0.500000  0.000000  1
+  V  V3  1  0.000000  0.000000  0.000000  1
+  Cr  Cr4  1  0.000000  0.500000  0.500000  1
+  Cr  Cr5  1  0.000000  0.000000  0.500000  1
+  P  P6  1  0.316604  0.822700  0.244435  1
+  P  P7  1  0.323331  0.319058  0.241239  1
+  P  P8  1  0.676669  0.680942  0.758761  1
+  P  P9  1  0.683396  0.177300  0.755565  1
+  O  O10  1  0.117635  0.835801  0.122021  1
+  O  O11  1  0.151620  0.342177  0.099169  1
+  O  O12  1  0.256461  0.892498  0.398859  1
+  O  O13  1  0.314642  0.671460  0.334965  1
+  O  O14  1  0.251294  0.392355  0.395177  1
+  O  O15  1  0.304287  0.170584  0.339597  1
+  O  O16  1  0.634910  0.885511  0.086096  1
+  O  O17  1  0.645797  0.386778  0.091546  1
+  O  O18  1  0.354204  0.613222  0.908454  1
+  O  O19  1  0.365090  0.114489  0.913904  1
+  O  O20  1  0.695713  0.829416  0.660403  1
+  O  O21  1  0.748706  0.607645  0.604823  1
+  O  O22  1  0.685358  0.328540  0.665035  1
+  O  O23  1  0.743539  0.107502  0.601141  1
+  O  O24  1  0.848380  0.657823  0.900831  1
+  O  O25  1  0.882365  0.164199  0.877979  1
+  F  F26  1  0.113567  0.972950  0.740745  1
+  F  F27  1  0.122435  0.466768  0.735859  1
+  F  F28  1  0.877565  0.533232  0.264141  1
+  F  F29  1  0.886433  0.027050  0.259255  1

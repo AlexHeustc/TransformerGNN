@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_UGeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13923030
+_cell_length_b   5.13932794
+_cell_length_c   6.66544119
+_cell_angle_alpha   112.67876567
+_cell_angle_beta   112.67808735
+_cell_angle_gamma   90.00104715
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UGeO4
+_chemical_formula_sum   'U2 Ge2 O8'
+_cell_volume   147.57514753
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.300725  0.451874  0.087463  1
+  O  O1  1  0.635663  0.800772  0.587516  1
+  O  O2  1  0.951875  0.286722  0.587478  1
+  O  O3  1  0.786671  0.135595  0.087455  1
+  O  O4  1  0.213329  0.864405  0.912545  1
+  O  O5  1  0.048125  0.713278  0.412522  1
+  O  O6  1  0.364337  0.199228  0.412484  1
+  O  O7  1  0.699275  0.548126  0.912537  1
+  Ge  Ge8  1  0.875071  0.625032  0.750051  1
+  Ge  Ge9  1  0.124929  0.374968  0.249949  1
+  U  U10  1  0.375014  0.124985  0.749967  1
+  U  U11  1  0.624986  0.875015  0.250033  1

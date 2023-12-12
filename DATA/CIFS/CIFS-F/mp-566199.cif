@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_V4HgO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68135519
+_cell_length_b   9.82037957
+_cell_length_c   11.63435539
+_cell_angle_alpha   92.22986194
+_cell_angle_beta   99.10304079
+_cell_angle_gamma   90.00000151
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V4HgO10
+_chemical_formula_sum   'V8 Hg2 O20'
+_cell_volume   414.98881187
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.811906  0.465659  0.623813  1
+  V  V1  1  0.394746  0.058317  0.789490  1
+  V  V2  1  0.741855  0.766597  0.483709  1
+  V  V3  1  0.605254  0.941683  0.210510  1
+  V  V4  1  0.188094  0.534341  0.376187  1
+  V  V5  1  0.258145  0.233403  0.516291  1
+  V  V6  1  0.877146  0.802591  0.754290  1
+  V  V7  1  0.122854  0.197409  0.245710  1
+  Hg  Hg8  1  0.517502  0.626909  0.035005  1
+  Hg  Hg9  1  0.482498  0.373091  0.964995  1
+  O  O10  1  0.180739  0.333175  0.361478  1
+  O  O11  1  0.771156  0.283174  0.542313  1
+  O  O12  1  0.710431  0.540023  0.420863  1
+  O  O13  1  0.662002  0.839030  0.324004  1
+  O  O14  1  0.337998  0.160970  0.675996  1
+  O  O15  1  0.819261  0.666825  0.638522  1
+  O  O16  1  0.543421  0.840976  0.086841  1
+  O  O17  1  0.899652  1.000810  0.799305  1
+  O  O18  1  0.626399  0.144578  0.252800  1
+  O  O19  1  0.119351  0.570374  0.238702  1
+  O  O20  1  0.781582  0.908543  0.563163  1
+  O  O21  1  0.218418  0.091457  0.436837  1
+  O  O22  1  0.063430  0.283767  0.126859  1
+  O  O23  1  0.936570  0.716233  0.873141  1
+  O  O24  1  0.373601  0.855422  0.747200  1
+  O  O25  1  0.228844  0.716826  0.457687  1
+  O  O26  1  0.289569  0.459977  0.579137  1
+  O  O27  1  0.880649  0.429626  0.761298  1
+  O  O28  1  0.456579  0.159024  0.913159  1
+  O  O29  1  0.100348  -0.000810  0.200695  1

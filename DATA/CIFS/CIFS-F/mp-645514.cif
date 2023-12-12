@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_Bi12Rh3Br2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34538631
+_cell_length_b   9.28253205
+_cell_length_c   16.61956600
+_cell_angle_alpha   84.98396614
+_cell_angle_beta   77.23304050
+_cell_angle_gamma   66.69308281
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi12Rh3Br2
+_chemical_formula_sum   'Bi24 Rh6 Br4'
+_cell_volume   1014.98578850
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.182544  0.500041  0.643654  1
+  Bi  Bi1  1  0.257369  0.175058  0.973547  1
+  Bi  Bi2  1  0.317414  0.500041  0.856346  1
+  Bi  Bi3  1  0.682586  0.499959  0.143654  1
+  Bi  Bi4  1  0.905974  0.324942  0.526453  1
+  Bi  Bi5  1  0.826198  0.000041  0.356346  1
+  Bi  Bi6  1  0.517689  0.644583  0.643229  1
+  Bi  Bi7  1  0.482311  0.355417  0.356771  1
+  Bi  Bi8  1  0.839083  0.855417  0.643229  1
+  Bi  Bi9  1  0.432427  0.824942  0.473547  1
+  Bi  Bi10  1  0.694499  0.144583  0.143229  1
+  Bi  Bi11  1  0.094026  0.675058  0.473547  1
+  Bi  Bi12  1  0.826240  0.999959  0.856346  1
+  Bi  Bi13  1  0.230916  0.675058  0.026453  1
+  Bi  Bi14  1  0.837728  0.644583  0.856771  1
+  Bi  Bi15  1  0.173760  0.000041  0.143654  1
+  Bi  Bi16  1  0.173802  0.999959  0.643654  1
+  Bi  Bi17  1  0.567573  0.175058  0.526453  1
+  Bi  Bi18  1  0.769084  0.324942  0.973547  1
+  Bi  Bi19  1  0.817456  0.499959  0.356346  1
+  Bi  Bi20  1  0.160917  0.144583  0.356771  1
+  Bi  Bi21  1  0.742631  0.824942  0.026453  1
+  Bi  Bi22  1  0.305501  0.855417  0.856771  1
+  Bi  Bi23  1  0.162272  0.355417  0.143229  1
+  Rh  Rh24  1  0.000000  0.500000  0.000000  1
+  Rh  Rh25  1  0.875000  0.250000  0.250000  1
+  Rh  Rh26  1  0.000000  0.000000  0.500000  1
+  Rh  Rh27  1  0.000000  0.000000  0.000000  1
+  Rh  Rh28  1  0.500000  0.500000  0.500000  1
+  Rh  Rh29  1  0.125000  0.750000  0.750000  1
+  Br  Br30  1  0.833451  0.333098  0.750000  1
+  Br  Br31  1  0.416549  0.166902  0.750000  1
+  Br  Br32  1  0.583451  0.833098  0.250000  1
+  Br  Br33  1  0.166549  0.666902  0.250000  1

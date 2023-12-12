@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaLaZnRuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65760902
+_cell_length_b   5.65765486
+_cell_length_c   5.74005527
+_cell_angle_alpha   119.52619523
+_cell_angle_beta   119.52217902
+_cell_angle_gamma   89.99868158
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLaZnRuO6
+_chemical_formula_sum   'Ba1 La1 Zn1 Ru1 O6'
+_cell_volume   131.76632342
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.749992  0.250008  0.499990  1
+  La  La1  1  0.249999  0.749967  0.499999  1
+  Zn  Zn2  1  -0.000041  0.000007  -0.000015  1
+  Ru  Ru3  1  0.500171  0.499885  0.000116  1
+  O  O4  1  0.257390  0.257463  0.514789  1
+  O  O5  1  0.226339  0.329220  0.039998  1
+  O  O6  1  0.289152  0.773693  0.959974  1
+  O  O7  1  0.742604  0.742570  0.485139  1
+  O  O8  1  0.670715  0.186361  0.959955  1
+  O  O9  1  0.813678  0.710825  0.040056  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2ReNiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.58498200
+_cell_length_b   5.58498200
+_cell_length_c   5.64139325
+_cell_angle_alpha   119.66976596
+_cell_angle_beta   119.66976603
+_cell_angle_gamma   90.00000004
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2ReNiO6
+_chemical_formula_sum   'Sr2 Re1 Ni1 O6'
+_cell_volume   125.65897934
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.697485  0.785319  0.000000  1
+  O  O1  1  0.214681  0.697485  0.000000  1
+  O  O2  1  0.785319  0.302515  0.000000  1
+  O  O3  1  0.302515  0.214681  0.000000  1
+  O  O4  1  0.259009  0.259009  0.518018  1
+  O  O5  1  0.740991  0.740991  0.481982  1
+  Ni  Ni6  1  0.000000  0.000000  0.000000  1
+  Sr  Sr7  1  0.250000  0.750000  0.500000  1
+  Sr  Sr8  1  0.750000  0.250000  0.500000  1
+  Re  Re9  1  0.500000  0.500000  0.000000  1

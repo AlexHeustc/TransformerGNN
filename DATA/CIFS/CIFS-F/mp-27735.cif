@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_GaSbCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.93172437
+_cell_length_b   10.65693224
+_cell_length_c   13.65060030
+_cell_angle_alpha   102.07651507
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaSbCl6
+_chemical_formula_sum   'Ga4 Sb4 Cl24'
+_cell_volume   1128.31998513
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.663961  0.958164  0.094564  1
+  Cl  Cl1  1  0.163961  0.041836  0.405436  1
+  Cl  Cl2  1  0.336039  0.041836  0.905436  1
+  Cl  Cl3  1  0.836039  0.958164  0.594564  1
+  Cl  Cl4  1  0.813581  0.819764  0.295197  1
+  Cl  Cl5  1  0.313581  0.180236  0.204803  1
+  Cl  Cl6  1  0.186419  0.180236  0.704803  1
+  Cl  Cl7  1  0.686419  0.819764  0.795197  1
+  Cl  Cl8  1  0.415813  0.742640  0.205186  1
+  Cl  Cl9  1  0.915813  0.257360  0.294814  1
+  Cl  Cl10  1  0.584187  0.257360  0.794814  1
+  Cl  Cl11  1  0.084187  0.742640  0.705186  1
+  Cl  Cl12  1  0.380991  0.619980  0.940856  1
+  Cl  Cl13  1  0.880991  0.380020  0.559144  1
+  Cl  Cl14  1  0.619009  0.380020  0.059144  1
+  Cl  Cl15  1  0.119009  0.619980  0.440856  1
+  Cl  Cl16  1  0.896706  0.496417  0.875837  1
+  Cl  Cl17  1  0.396706  0.503583  0.624163  1
+  Cl  Cl18  1  0.103294  0.503583  0.124163  1
+  Cl  Cl19  1  0.603294  0.496417  0.375837  1
+  Cl  Cl20  1  0.053842  0.818888  0.069887  1
+  Cl  Cl21  1  0.553842  0.181112  0.430113  1
+  Cl  Cl22  1  0.946158  0.181112  0.930113  1
+  Cl  Cl23  1  0.446158  0.818888  0.569887  1
+  Ga  Ga24  1  0.763587  0.341046  0.921482  1
+  Ga  Ga25  1  0.263587  0.658954  0.578518  1
+  Ga  Ga26  1  0.236413  0.658954  0.078518  1
+  Ga  Ga27  1  0.736413  0.341046  0.421482  1
+  Sb  Sb28  1  0.232426  0.244434  0.373714  1
+  Sb  Sb29  1  0.732426  0.755566  0.126286  1
+  Sb  Sb30  1  0.767574  0.755566  0.626286  1
+  Sb  Sb31  1  0.267574  0.244434  0.873714  1

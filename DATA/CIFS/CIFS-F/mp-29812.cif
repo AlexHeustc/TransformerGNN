@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Ba2CoCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.18976821
+_cell_length_b   9.23340128
+_cell_length_c   12.91942347
+_cell_angle_alpha   90.13925747
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CoCl6
+_chemical_formula_sum   'Ba8 Co4 Cl24'
+_cell_volume   976.95637573
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.420794  0.825672  0.038720  1
+  Cl  Cl1  1  0.920794  0.674328  0.461280  1
+  Cl  Cl2  1  0.579206  0.174328  0.961280  1
+  Cl  Cl3  1  0.079206  0.325672  0.538720  1
+  Cl  Cl4  1  0.580483  0.801101  0.296948  1
+  Cl  Cl5  1  0.080483  0.698899  0.203052  1
+  Cl  Cl6  1  0.419517  0.198899  0.703052  1
+  Cl  Cl7  1  0.919517  0.301101  0.796948  1
+  Cl  Cl8  1  0.071641  0.679884  0.930074  1
+  Cl  Cl9  1  0.571641  0.820116  0.569926  1
+  Cl  Cl10  1  0.928359  0.320116  0.069926  1
+  Cl  Cl11  1  0.428359  0.179884  0.430074  1
+  Cl  Cl12  1  0.645672  0.445011  0.572708  1
+  Cl  Cl13  1  0.145672  0.054989  0.927292  1
+  Cl  Cl14  1  0.354328  0.554989  0.427292  1
+  Cl  Cl15  1  0.854328  0.945011  0.072708  1
+  Cl  Cl16  1  0.899018  0.080305  0.366418  1
+  Cl  Cl17  1  0.399018  0.419695  0.133582  1
+  Cl  Cl18  1  0.100982  0.919695  0.633582  1
+  Cl  Cl19  1  0.600982  0.580305  0.866418  1
+  Cl  Cl20  1  0.766689  0.943716  0.802794  1
+  Cl  Cl21  1  0.266689  0.556284  0.697206  1
+  Cl  Cl22  1  0.233311  0.056284  0.197206  1
+  Cl  Cl23  1  0.733311  0.443716  0.302794  1
+  Co  Co24  1  0.142911  0.867253  0.067748  1
+  Co  Co25  1  0.642911  0.632747  0.432252  1
+  Co  Co26  1  0.857089  0.132747  0.932252  1
+  Co  Co27  1  0.357089  0.367253  0.567748  1
+  Ba  Ba28  1  0.609505  0.138610  0.205015  1
+  Ba  Ba29  1  0.109505  0.361390  0.294985  1
+  Ba  Ba30  1  0.390495  0.861390  0.794985  1
+  Ba  Ba31  1  0.890495  0.638610  0.705015  1
+  Ba  Ba32  1  0.720113  0.622330  0.095514  1
+  Ba  Ba33  1  0.220113  0.877670  0.404486  1
+  Ba  Ba34  1  0.279887  0.377670  0.904486  1
+  Ba  Ba35  1  0.779887  0.122330  0.595514  1

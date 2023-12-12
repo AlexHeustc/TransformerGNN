@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2LaF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98858547
+_cell_length_b   4.08617227
+_cell_length_c   12.06479851
+_cell_angle_alpha   59.66168643
+_cell_angle_beta   60.69926196
+_cell_angle_gamma   59.58785072
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2LaF7
+_chemical_formula_sum   'Ca2 La1 F7'
+_cell_volume   138.95352306
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.965822  0.023356  0.334519  1
+  Ca  Ca1  1  0.028836  0.013237  0.648363  1
+  La  La2  1  0.059007  0.966444  -0.000088  1
+  F  F3  1  0.244525  0.256117  0.417213  1
+  F  F4  1  0.601726  0.511690  0.127473  1
+  F  F5  1  0.756081  0.741290  0.258237  1
+  F  F6  1  0.285584  0.253834  0.735757  1
+  F  F7  1  0.767581  0.760459  0.571839  1
+  F  F8  1  0.373988  0.292775  0.013634  1
+  F  F9  1  0.832472  0.768464  0.876434  1

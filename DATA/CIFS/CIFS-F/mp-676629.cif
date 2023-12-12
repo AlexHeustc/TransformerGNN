@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Sm2Th8O19
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96865808
+_cell_length_b   39.71082597
+_cell_length_c   37.88342438
+_cell_angle_alpha   5.20587569
+_cell_angle_beta   58.40841935
+_cell_angle_gamma   60.01627258
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2Th8O19
+_chemical_formula_sum   'Sm2 Th8 O19'
+_cell_volume   442.44660593
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.024835  0.819638  0.974515  1
+  Sm  Sm1  1  0.965727  0.875341  0.031092  1
+  Th  Th2  1  0.000359  -0.000158  0.000035  1
+  Th  Th3  1  0.000545  0.099109  0.000932  1
+  Th  Th4  1  0.003480  0.200143  0.999743  1
+  Th  Th5  1  0.003524  0.401688  0.998119  1
+  Th  Th6  1  0.003363  0.301457  0.998380  1
+  Th  Th7  1  0.002443  0.500659  0.999339  1
+  Th  Th8  1  0.994071  0.696647  0.003949  1
+  Th  Th9  1  0.999156  0.599682  0.000502  1
+  O  O10  1  0.253903  0.001669  0.248043  1
+  O  O11  1  0.253867  0.102129  0.247667  1
+  O  O12  1  0.253101  0.201273  0.248653  1
+  O  O13  1  0.253018  0.302093  0.247580  1
+  O  O14  1  0.237131  0.389895  0.262517  1
+  O  O15  1  0.265665  0.514250  0.231856  1
+  O  O16  1  0.714763  0.973652  0.782447  1
+  O  O17  1  0.746199  0.104621  0.745824  1
+  O  O18  1  0.226198  0.681123  0.273456  1
+  O  O19  1  0.777007  0.222269  0.722205  1
+  O  O20  1  0.259319  0.807153  0.240934  1
+  O  O21  1  0.739729  0.291544  0.760456  1
+  O  O22  1  0.248832  0.897203  0.253381  1
+  O  O23  1  0.755394  0.402023  0.747305  1
+  O  O24  1  0.752649  0.500090  0.749959  1
+  O  O25  1  0.753621  0.601611  0.748264  1
+  O  O26  1  0.753443  0.701566  0.748253  1
+  O  O27  1  0.748288  0.798777  0.751818  1
+  O  O28  1  0.756930  0.905887  0.742560  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sr2Mn3(BiO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.36450634
+_cell_length_b   4.38572414
+_cell_length_c   11.03888956
+_cell_angle_alpha   101.74395820
+_cell_angle_beta   101.36029180
+_cell_angle_gamma   89.99997073
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Mn3(BiO)2
+_chemical_formula_sum   'Sr2 Mn3 Bi2 O2'
+_cell_volume   202.64779221
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.577859  0.575147  0.152153  1
+  Bi  Bi1  1  0.839679  0.848991  0.682298  1
+  O  O2  1  0.501012  0.004657  0.999356  1
+  Mn  Mn3  1  0.000310  1.003044  0.998019  1
+  Sr  Sr4  1  0.425486  0.432127  0.848759  1
+  Mn  Mn5  1  0.748149  0.256420  0.501281  1
+  Bi  Bi6  1  0.157853  0.159350  0.318042  1
+  Mn  Mn7  1  0.247710  0.753886  0.499441  1
+  O  O8  1  0.000747  0.503584  0.998568  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_TbZr4O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37894122
+_cell_length_b   5.19435928
+_cell_length_c   6.37894122
+_cell_angle_alpha   114.02586581
+_cell_angle_beta   80.45801310
+_cell_angle_gamma   114.02586581
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbZr4O10
+_chemical_formula_sum   'Tb1 Zr4 O10'
+_cell_volume   176.32537762
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.200000  0.800000  0.400000  1
+  Zr  Zr1  1  0.397645  0.599938  0.802231  1
+  Zr  Zr2  1  0.002355  0.000062  0.997769  1
+  Zr  Zr3  1  0.797769  0.197707  0.597645  1
+  Zr  Zr4  1  0.602231  0.402293  0.202355  1
+  O  O5  1  0.093670  0.643289  0.709316  1
+  O  O6  1  0.093670  0.159699  0.709316  1
+  O  O7  1  0.700000  0.050000  0.900000  1
+  O  O8  1  0.306330  0.440301  0.090684  1
+  O  O9  1  0.700000  0.550000  0.900000  1
+  O  O10  1  0.509316  0.749617  0.506330  1
+  O  O11  1  0.509316  0.266028  0.506330  1
+  O  O12  1  0.306330  0.956711  0.090684  1
+  O  O13  1  0.890684  0.333972  0.293670  1
+  O  O14  1  0.890684  0.850383  0.293670  1

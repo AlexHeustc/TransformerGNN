@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_NaCa2Si3HO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11624102
+_cell_length_b   7.09031511
+_cell_length_c   8.08561806
+_cell_angle_alpha   102.41097900
+_cell_angle_beta   95.22027166
+_cell_angle_gamma   90.44883345
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCa2Si3HO9
+_chemical_formula_sum   'Na2 Ca4 Si6 H2 O18'
+_cell_volume   396.62730931
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.469206  0.361813  0.833643  1
+  H  H1  1  0.530794  0.638187  0.166357  1
+  O  O2  1  0.272080  0.909259  0.394565  1
+  O  O3  1  0.727920  0.090741  0.605435  1
+  O  O4  1  0.270859  0.532927  0.398312  1
+  O  O5  1  0.729141  0.467073  0.601688  1
+  O  O6  1  0.384754  0.189357  0.262879  1
+  O  O7  1  0.615246  0.810643  0.737121  1
+  O  O8  1  0.177004  0.895005  0.058949  1
+  O  O9  1  0.822996  0.104995  0.941051  1
+  O  O10  1  0.173212  0.386486  0.062329  1
+  O  O11  1  0.826788  0.613514  0.937671  1
+  O  O12  1  0.541462  0.843507  0.180604  1
+  O  O13  1  0.458538  0.156493  0.819396  1
+  O  O14  1  0.128411  0.786685  0.652041  1
+  O  O15  1  0.871589  0.213315  0.347959  1
+  O  O16  1  0.055038  0.296587  0.670196  1
+  O  O17  1  0.944962  0.703413  0.329804  1
+  O  O18  1  0.460278  0.505710  0.813493  1
+  O  O19  1  0.539722  0.494290  0.186507  1
+  Na  Na20  1  0.340208  0.254505  0.551290  1
+  Na  Na21  1  0.659792  0.745495  0.448710  1
+  Si  Si22  1  0.855788  0.265436  0.550534  1
+  Si  Si23  1  0.344333  0.951269  0.213717  1
+  Si  Si24  1  0.335928  0.400035  0.217880  1
+  Si  Si25  1  0.664072  0.599965  0.782120  1
+  Si  Si26  1  0.144212  0.734564  0.449466  1
+  Si  Si27  1  0.655667  0.048731  0.786283  1
+  Ca  Ca28  1  0.857857  0.405523  0.146170  1
+  Ca  Ca29  1  0.142143  0.594477  0.853830  1
+  Ca  Ca30  1  0.142902  0.083583  0.846156  1
+  Ca  Ca31  1  0.857098  0.916417  0.153844  1

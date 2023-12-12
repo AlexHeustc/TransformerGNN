@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Li9CrN5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79159772
+_cell_length_b   18.89164863
+_cell_length_c   8.98791426
+_cell_angle_alpha   18.04876001
+_cell_angle_beta   55.69399782
+_cell_angle_gamma   51.33745242
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li9CrN5
+_chemical_formula_sum   'Li18 Cr2 N10'
+_cell_volume   276.77644864
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.039840  0.141575  0.283222  1
+  Li  Li1  1  0.340197  0.025410  0.808360  1
+  Li  Li2  1  0.455426  0.322512  0.296299  1
+  Li  Li3  1  0.256806  0.238960  0.775869  1
+  Li  Li4  1  0.862131  0.031302  0.793644  1
+  Li  Li5  1  0.341225  0.547524  0.273964  1
+  Li  Li6  1  0.130546  0.474181  0.712132  1
+  Li  Li7  1  0.969454  0.325819  0.287868  1
+  Li  Li8  1  0.758775  0.252476  0.726036  1
+  Li  Li9  1  0.237869  0.768698  0.206356  1
+  Li  Li10  1  0.060160  0.658425  0.716778  1
+  Li  Li11  1  0.644574  0.477488  0.703701  1
+  Li  Li12  1  0.843194  0.561040  0.224131  1
+  Li  Li13  1  0.123084  0.955440  0.245784  1
+  Li  Li14  1  0.759803  0.774590  0.191640  1
+  Li  Li15  1  0.432369  0.846492  0.755680  1
+  Li  Li16  1  0.667631  0.953508  0.244320  1
+  Li  Li17  1  0.976916  0.844560  0.754216  1
+  Cr  Cr18  1  0.552978  0.152730  0.242675  1
+  Cr  Cr19  1  0.547022  0.647270  0.757325  1
+  N  N20  1  0.003601  0.995540  0.008921  1
+  N  N21  1  0.495559  0.951928  0.113874  1
+  N  N22  1  0.416879  0.196942  0.031256  1
+  N  N23  1  0.343785  0.357759  0.047236  1
+  N  N24  1  0.849288  0.211117  0.000756  1
+  N  N25  1  0.250712  0.588883  0.999244  1
+  N  N26  1  0.756215  0.442241  0.952764  1
+  N  N27  1  0.096399  0.804460  0.991079  1
+  N  N28  1  0.683121  0.603058  0.968744  1
+  N  N29  1  0.604441  0.848072  0.886126  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoNi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.56610164
+_cell_length_b   8.56610164
+_cell_length_c   8.56610163
+_cell_angle_alpha   33.50133816
+_cell_angle_beta   33.50133816
+_cell_angle_gamma   33.50133817
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoNi3
+_chemical_formula_sum   'Ho3 Ni9'
+_cell_volume   170.55415311
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.417268  0.417268  0.918960  1
+  Ni  Ni1  1  0.417268  0.918960  0.417268  1
+  Ni  Ni2  1  0.918960  0.417268  0.417268  1
+  Ni  Ni3  1  0.500000  0.500000  0.500000  1
+  Ni  Ni4  1  0.333085  0.333085  0.333085  1
+  Ni  Ni5  1  0.666915  0.666915  0.666915  1
+  Ni  Ni6  1  0.582732  0.081040  0.582732  1
+  Ni  Ni7  1  0.582732  0.582732  0.081040  1
+  Ni  Ni8  1  0.081040  0.582732  0.582732  1
+  Ho  Ho9  1  0.861062  0.861062  0.861062  1
+  Ho  Ho10  1  0.138938  0.138938  0.138938  1
+  Ho  Ho11  1  0.000000  0.000000  0.000000  1

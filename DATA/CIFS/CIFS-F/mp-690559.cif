@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_NaLa2Ti2MnO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53269773
+_cell_length_b   5.53269769
+_cell_length_c   16.58503967
+_cell_angle_alpha   60.31673474
+_cell_angle_beta   60.31673500
+_cell_angle_gamma   60.31358910
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLa2Ti2MnO9
+_chemical_formula_sum   'Na2 La4 Ti4 Mn2 O18'
+_cell_volume   361.54848356
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.249143  0.249429  0.084567  1
+  Na  Na1  1  0.250571  0.250857  0.415433  1
+  La  La2  1  0.251138  0.248862  0.750000  1
+  La  La3  1  0.750748  0.749252  0.250000  1
+  La  La4  1  0.755250  0.752882  0.581241  1
+  La  La5  1  0.747118  0.744750  0.918759  1
+  Ti  Ti6  1  0.001004  0.988400  0.002680  1
+  Ti  Ti7  1  0.004655  0.993607  0.333076  1
+  Ti  Ti8  1  0.506393  0.495345  0.166924  1
+  Ti  Ti9  1  0.511600  0.498996  0.497320  1
+  Mn  Mn10  1  0.001066  0.005832  0.664128  1
+  Mn  Mn11  1  0.494168  0.498934  0.835872  1
+  O  O12  1  0.186954  0.752692  0.104273  1
+  O  O13  1  0.309477  0.190523  0.250000  1
+  O  O14  1  0.246211  0.699214  0.268270  1
+  O  O15  1  0.745751  0.312971  0.063906  1
+  O  O16  1  0.187029  0.754249  0.436094  1
+  O  O17  1  0.690539  0.805589  0.084553  1
+  O  O18  1  0.324690  0.187996  0.586843  1
+  O  O19  1  0.800786  0.253789  0.231730  1
+  O  O20  1  0.249722  0.681919  0.603350  1
+  O  O21  1  0.747308  0.313046  0.395727  1
+  O  O22  1  0.188393  0.747788  0.770446  1
+  O  O23  1  0.694411  0.809461  0.415447  1
+  O  O24  1  0.312004  0.175310  0.913157  1
+  O  O25  1  0.798885  0.266107  0.562808  1
+  O  O26  1  0.233893  0.701115  0.937192  1
+  O  O27  1  0.752212  0.311607  0.729554  1
+  O  O28  1  0.690799  0.809201  0.750000  1
+  O  O29  1  0.818081  0.250278  0.896650  1

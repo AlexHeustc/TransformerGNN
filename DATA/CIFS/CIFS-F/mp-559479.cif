@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Co3C2(SeO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71067376
+_cell_length_b   5.71014600
+_cell_length_c   7.83455226
+_cell_angle_alpha   98.30744960
+_cell_angle_beta   110.30700576
+_cell_angle_gamma   109.01782055
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co3C2(SeO5)2
+_chemical_formula_sum   'Co3 C2 Se2 O10'
+_cell_volume   216.74993008
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.988833  0.191656  0.180461  1
+  Co  Co1  1  0.011169  0.808344  0.819541  1
+  Co  Co2  1  0.499991  0.500002  0.999993  1
+  C  C3  1  0.107022  0.457027  0.564102  1
+  Se  Se4  1  0.582734  0.159146  0.742012  1
+  C  C5  1  0.892980  0.542973  0.435899  1
+  Se  Se6  1  0.417266  0.840852  0.257989  1
+  O  O7  1  0.822449  0.696180  0.518502  1
+  O  O8  1  0.180604  0.941055  0.121650  1
+  O  O9  1  0.353836  0.117263  0.847616  1
+  O  O10  1  0.177553  0.303819  0.481500  1
+  O  O11  1  0.819397  0.058945  0.878352  1
+  O  O12  1  0.269783  0.506290  0.152609  1
+  O  O13  1  0.807512  0.449433  0.256895  1
+  O  O14  1  0.730215  0.493709  0.847389  1
+  O  O15  1  0.192491  0.550567  0.743105  1
+  O  O16  1  0.646163  0.882737  0.152384  1

@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_VAgTeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94779252
+_cell_length_b   6.90056374
+_cell_length_c   11.54341657
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   102.69380909
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VAgTeO5
+_chemical_formula_sum   'V4 Ag4 Te4 O20'
+_cell_volume   462.19790830
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.679297  0.411755  0.120695  1
+  V  V1  1  0.320703  0.588245  0.879305  1
+  V  V2  1  0.679297  0.911755  0.379305  1
+  V  V3  1  0.320703  0.088245  0.620695  1
+  Ag  Ag4  1  0.801771  0.309506  0.791498  1
+  Ag  Ag5  1  0.801771  0.809506  0.708502  1
+  Ag  Ag6  1  0.198229  0.690494  0.208502  1
+  Ag  Ag7  1  0.198229  0.190494  0.291498  1
+  Te  Te8  1  0.240513  0.097215  0.939457  1
+  Te  Te9  1  0.759487  0.402785  0.439457  1
+  Te  Te10  1  0.240513  0.597215  0.560543  1
+  Te  Te11  1  0.759487  0.902785  0.060543  1
+  O  O12  1  0.876301  0.987303  0.907907  1
+  O  O13  1  0.468603  0.968024  0.297264  1
+  O  O14  1  0.864065  0.325455  0.207638  1
+  O  O15  1  0.135935  0.674545  0.792362  1
+  O  O16  1  0.561479  0.720051  0.483787  1
+  O  O17  1  0.165341  0.858280  0.547591  1
+  O  O18  1  0.135935  0.174545  0.707638  1
+  O  O19  1  0.834659  0.141720  0.452409  1
+  O  O20  1  0.876301  0.487303  0.592093  1
+  O  O21  1  0.468603  0.468024  0.202736  1
+  O  O22  1  0.531397  0.031976  0.702736  1
+  O  O23  1  0.531397  0.531976  0.797264  1
+  O  O24  1  0.561479  0.220051  0.016213  1
+  O  O25  1  0.438521  0.279949  0.516213  1
+  O  O26  1  0.123699  0.012697  0.092093  1
+  O  O27  1  0.123699  0.512697  0.407907  1
+  O  O28  1  0.165341  0.358280  0.952409  1
+  O  O29  1  0.864065  0.825455  0.292362  1
+  O  O30  1  0.834659  0.641720  0.047591  1
+  O  O31  1  0.438521  0.779949  0.983787  1

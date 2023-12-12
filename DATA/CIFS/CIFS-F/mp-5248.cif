@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Na5SnAs3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.69895772
+_cell_length_b   8.63414354
+_cell_length_c   13.75238012
+_cell_angle_alpha   90.48385912
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5SnAs3
+_chemical_formula_sum   'Na20 Sn4 As12'
+_cell_volume   914.14182604
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.840129  0.424612  0.417412  1
+  Na  Na1  1  0.505331  0.334012  0.241465  1
+  Na  Na2  1  0.005331  0.165988  0.258535  1
+  Na  Na3  1  0.494669  0.665988  0.758535  1
+  Na  Na4  1  0.994669  0.834012  0.741465  1
+  Na  Na5  1  0.959113  0.822374  0.410989  1
+  Na  Na6  1  0.459113  0.677626  0.089011  1
+  Na  Na7  1  0.040887  0.177626  0.589011  1
+  Na  Na8  1  0.540887  0.322374  0.910989  1
+  Na  Na9  1  0.475595  0.666113  0.413782  1
+  Na  Na10  1  0.975595  0.833887  0.086218  1
+  Na  Na11  1  0.524405  0.333887  0.586218  1
+  Na  Na12  1  0.140867  0.570490  0.256795  1
+  Na  Na13  1  0.640867  0.929510  0.243205  1
+  Na  Na14  1  0.859133  0.429510  0.743205  1
+  Na  Na15  1  0.359133  0.070490  0.756795  1
+  Na  Na16  1  0.159871  0.575388  0.582588  1
+  Na  Na17  1  0.659871  0.924612  0.917412  1
+  Na  Na18  1  0.340129  0.075388  0.082588  1
+  Na  Na19  1  0.024405  0.166113  0.913782  1
+  As  As20  1  0.247892  0.398034  0.760914  1
+  As  As21  1  0.293949  0.901997  0.571323  1
+  As  As22  1  0.793949  0.598003  0.928677  1
+  As  As23  1  0.706051  0.098003  0.428677  1
+  As  As24  1  0.206051  0.401997  0.071323  1
+  As  As25  1  0.230692  0.356748  0.417098  1
+  As  As26  1  0.730692  0.143252  0.082902  1
+  As  As27  1  0.769308  0.643252  0.582902  1
+  As  As28  1  0.269308  0.856748  0.917098  1
+  As  As29  1  0.252108  0.898034  0.260914  1
+  As  As30  1  0.752108  0.601966  0.239086  1
+  As  As31  1  0.747892  0.101966  0.739086  1
+  Sn  Sn32  1  0.146976  0.570353  0.909855  1
+  Sn  Sn33  1  0.646976  0.929647  0.590145  1
+  Sn  Sn34  1  0.853024  0.429647  0.090145  1
+  Sn  Sn35  1  0.353024  0.070353  0.409855  1

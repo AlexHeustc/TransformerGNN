@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_YNi5Ge3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87165041
+_cell_length_b   6.80704551
+_cell_length_c   19.14346298
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YNi5Ge3
+_chemical_formula_sum   'Y4 Ni20 Ge12'
+_cell_volume   504.51640544
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.750000  0.857354  0.112875  1
+  Ni  Ni1  1  0.250000  0.883117  0.986044  1
+  Ni  Ni2  1  0.750000  0.116883  0.013956  1
+  Ni  Ni3  1  0.750000  0.383117  0.513956  1
+  Ni  Ni4  1  0.250000  0.366276  0.003932  1
+  Ni  Ni5  1  0.750000  0.633724  0.996068  1
+  Ni  Ni6  1  0.750000  0.866276  0.496068  1
+  Ni  Ni7  1  0.250000  0.133724  0.503932  1
+  Ni  Ni8  1  0.250000  0.689639  0.199929  1
+  Ni  Ni9  1  0.750000  0.310361  0.800071  1
+  Ni  Ni10  1  0.750000  0.189639  0.300071  1
+  Ni  Ni11  1  0.250000  0.810361  0.699929  1
+  Ni  Ni12  1  0.250000  0.073638  0.207676  1
+  Ni  Ni13  1  0.750000  0.926362  0.792324  1
+  Ni  Ni14  1  0.750000  0.573638  0.292324  1
+  Ni  Ni15  1  0.250000  0.142646  0.887125  1
+  Ni  Ni16  1  0.250000  0.357354  0.387125  1
+  Ni  Ni17  1  0.750000  0.642646  0.612875  1
+  Ni  Ni18  1  0.250000  0.426362  0.707676  1
+  Ni  Ni19  1  0.250000  0.616883  0.486044  1
+  Ge  Ge20  1  0.250000  0.409417  0.586455  1
+  Ge  Ge21  1  0.250000  0.383040  0.263271  1
+  Ge  Ge22  1  0.750000  0.616960  0.736729  1
+  Ge  Ge23  1  0.750000  0.883040  0.236729  1
+  Ge  Ge24  1  0.250000  0.649404  0.075560  1
+  Ge  Ge25  1  0.750000  0.350596  0.924440  1
+  Ge  Ge26  1  0.750000  0.149404  0.424440  1
+  Ge  Ge27  1  0.250000  0.850596  0.575560  1
+  Ge  Ge28  1  0.250000  0.116960  0.763271  1
+  Ge  Ge29  1  0.750000  0.909417  0.913545  1
+  Ge  Ge30  1  0.750000  0.590583  0.413545  1
+  Ge  Ge31  1  0.250000  0.090583  0.086455  1
+  Y  Y32  1  0.250000  0.621500  0.854797  1
+  Y  Y33  1  0.750000  0.378500  0.145203  1
+  Y  Y34  1  0.750000  0.121500  0.645203  1
+  Y  Y35  1  0.250000  0.878500  0.354797  1

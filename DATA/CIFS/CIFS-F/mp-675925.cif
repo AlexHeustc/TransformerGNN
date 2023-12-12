@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ce2PbS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55002583
+_cell_length_b   7.55002580
+_cell_length_c   7.55002546
+_cell_angle_alpha   109.53493144
+_cell_angle_beta   109.34387117
+_cell_angle_gamma   109.53492968
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2PbS4
+_chemical_formula_sum   'Ce4 Pb2 S8'
+_cell_volume   331.30028890
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.632264  0.382264  1
+  Ce  Ce1  1  0.750000  0.867736  0.117736  1
+  Ce  Ce2  1  0.617736  0.367736  0.250000  1
+  Ce  Ce3  1  0.882264  0.132264  0.750000  1
+  Pb  Pb4  1  0.125000  0.750000  0.875000  1
+  Pb  Pb5  1  0.375000  0.250000  0.625000  1
+  S  S6  1  0.986911  0.844920  0.489475  1
+  S  S7  1  0.141991  0.155080  0.144555  1
+  S  S8  1  0.358009  0.502564  0.013089  1
+  S  S9  1  0.644555  0.655080  0.641991  1
+  S  S10  1  0.513089  0.002564  0.858009  1
+  S  S11  1  0.510525  0.997436  0.355445  1
+  S  S12  1  0.855445  0.497436  0.010525  1
+  S  S13  1  0.989475  0.344920  0.486911  1

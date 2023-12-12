@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_InGeCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.82655120
+_cell_length_b   7.82655085
+_cell_length_c   7.82655117
+_cell_angle_alpha   60.53104488
+_cell_angle_beta   60.53104629
+_cell_angle_gamma   60.53104361
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InGeCl3
+_chemical_formula_sum   'In2 Ge2 Cl6'
+_cell_volume   343.06499704
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.289849  0.289849  0.289849  1
+  In  In1  1  0.789849  0.789849  0.789848  1
+  Ge  Ge2  1  0.986854  0.986854  0.986852  1
+  Ge  Ge3  1  0.486854  0.486854  0.486855  1
+  Cl  Cl4  1  0.193195  0.867631  0.690971  1
+  Cl  Cl5  1  0.867631  0.690972  0.193195  1
+  Cl  Cl6  1  0.690972  0.193194  0.867631  1
+  Cl  Cl7  1  0.190972  0.367630  0.693194  1
+  Cl  Cl8  1  0.693195  0.190973  0.367631  1
+  Cl  Cl9  1  0.367632  0.693194  0.190972  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_GdBO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.45280097
+_cell_length_b   10.45280096
+_cell_length_c   10.45280097
+_cell_angle_alpha   35.67601645
+_cell_angle_beta   35.67601646
+_cell_angle_gamma   35.67601646
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdBO3
+_chemical_formula_sum   'Gd6 B6 O18'
+_cell_volume   347.24365527
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.742618  0.500000  0.257382  1
+  B  B1  1  0.500000  0.257382  0.742618  1
+  B  B2  1  0.257382  0.742618  0.500000  1
+  B  B3  1  0.242630  0.000000  0.757370  1
+  B  B4  1  0.000000  0.757370  0.242630  1
+  B  B5  1  0.757370  0.242630  0.000000  1
+  O  O6  1  0.101376  0.811900  0.457227  1
+  O  O7  1  0.457227  0.101376  0.811900  1
+  O  O8  1  0.811900  0.457227  0.101376  1
+  O  O9  1  0.188100  0.898624  0.542773  1
+  O  O10  1  0.542773  0.188100  0.898624  1
+  O  O11  1  0.898624  0.542773  0.188100  1
+  O  O12  1  0.043059  0.688062  0.398382  1
+  O  O13  1  0.398382  0.043059  0.688062  1
+  O  O14  1  0.688062  0.398382  0.043059  1
+  O  O15  1  0.311938  0.956941  0.601618  1
+  O  O16  1  0.601618  0.311938  0.956941  1
+  O  O17  1  0.956941  0.601618  0.311938  1
+  O  O18  1  0.000000  0.223524  0.776476  1
+  O  O19  1  0.776476  0.000000  0.223524  1
+  O  O20  1  0.223524  0.776476  0.000000  1
+  O  O21  1  0.500000  0.723524  0.276476  1
+  O  O22  1  0.276476  0.500000  0.723524  1
+  O  O23  1  0.723524  0.276476  0.500000  1
+  Gd  Gd24  1  0.581826  0.918187  0.249981  1
+  Gd  Gd25  1  0.918187  0.249981  0.581826  1
+  Gd  Gd26  1  0.249981  0.581826  0.918187  1
+  Gd  Gd27  1  0.750019  0.081813  0.418174  1
+  Gd  Gd28  1  0.081813  0.418174  0.750019  1
+  Gd  Gd29  1  0.418174  0.750019  0.081813  1

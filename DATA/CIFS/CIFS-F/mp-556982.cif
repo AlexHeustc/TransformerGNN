@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CuSiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.83105141
+_cell_length_b   8.83541169
+_cell_length_c   8.83155815
+_cell_angle_alpha   111.68765766
+_cell_angle_beta   111.85595926
+_cell_angle_gamma   111.62742749
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuSiO3
+_chemical_formula_sum   'Cu6 Si6 O18'
+_cell_volume   481.17754566
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.954940  0.341521  0.534632  1
+  Si  Si1  1  0.785230  0.919333  0.177114  1
+  Cu  Cu2  1  0.466485  0.047065  0.659204  1
+  Cu  Cu3  1  0.044957  0.658477  0.465401  1
+  Si  Si4  1  0.822708  0.213476  0.080383  1
+  Si  Si5  1  0.919441  0.176593  0.786253  1
+  Cu  Cu6  1  0.533495  0.952802  0.340737  1
+  Si  Si7  1  0.177274  0.786557  0.919644  1
+  Si  Si8  1  0.214814  0.080689  0.822883  1
+  Cu  Cu9  1  0.339472  0.532760  0.950130  1
+  Cu  Cu10  1  0.660573  0.467311  0.049856  1
+  Si  Si11  1  0.080584  0.823416  0.213789  1
+  O  O12  1  0.937046  0.374038  0.322448  1
+  O  O13  1  0.950952  0.633652  0.214568  1
+  O  O14  1  0.733192  0.986508  0.025000  1
+  O  O15  1  0.049071  0.366413  0.785523  1
+  O  O16  1  0.366242  0.784076  0.050676  1
+  O  O17  1  0.266759  0.013516  0.975020  1
+  O  O18  1  0.987899  0.025813  0.734152  1
+  O  O19  1  0.784119  0.051217  0.366477  1
+  O  O20  1  0.677125  0.061028  0.625386  1
+  O  O21  1  0.374884  0.322252  0.936221  1
+  O  O22  1  0.322905  0.938924  0.374601  1
+  O  O23  1  0.025589  0.735398  0.986895  1
+  O  O24  1  0.012149  0.974220  0.265818  1
+  O  O25  1  0.215979  0.948761  0.633595  1
+  O  O26  1  0.625107  0.677750  0.063668  1
+  O  O27  1  0.633782  0.215948  0.949234  1
+  O  O28  1  0.062794  0.625929  0.677554  1
+  O  O29  1  0.974431  0.264559  0.013136  1

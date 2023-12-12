@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_EuY2O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97903725
+_cell_length_b   6.92448106
+_cell_length_c   6.97903725
+_cell_angle_alpha   59.73902452
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.26097548
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuY2O4
+_chemical_formula_sum   'Eu2 Y4 O8'
+_cell_volume   236.59227910
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.625000  0.750000  0.125000  1
+  Eu  Eu1  1  0.375000  0.250000  0.875000  1
+  Y  Y2  1  0.000000  0.500000  0.000000  1
+  Y  Y3  1  0.000000  0.000000  0.500000  1
+  Y  Y4  1  0.500000  0.000000  0.500000  1
+  Y  Y5  1  0.000000  0.500000  0.500000  1
+  O  O6  1  0.761885  0.025717  0.270385  1
+  O  O7  1  0.770385  0.474283  0.263831  1
+  O  O8  1  0.203898  0.474283  0.261885  1
+  O  O9  1  0.236169  0.974283  0.296102  1
+  O  O10  1  0.763831  0.025717  0.703898  1
+  O  O11  1  0.796102  0.525717  0.738115  1
+  O  O12  1  0.229615  0.525717  0.736169  1
+  O  O13  1  0.238115  0.974283  0.729615  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_MgSn2(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90734494
+_cell_length_b   6.90734452
+_cell_length_c   9.17722530
+_cell_angle_alpha   102.83098904
+_cell_angle_beta   102.83098898
+_cell_angle_gamma   114.19804327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgSn2(PO5)2
+_chemical_formula_sum   'Mg2 Sn4 P4 O20'
+_cell_volume   364.48215419
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.503421  0.003421  0.500000  1
+  Mg  Mg1  1  0.253421  0.253421  0.000000  1
+  Sn  Sn2  1  0.875197  0.618505  0.254861  1
+  Sn  Sn3  1  0.363645  0.620335  0.745139  1
+  Sn  Sn4  1  0.870335  0.113645  0.245139  1
+  Sn  Sn5  1  0.868505  0.625197  0.754861  1
+  P  P6  1  0.038379  0.039530  0.589042  1
+  P  P7  1  0.699336  0.200487  0.910958  1
+  P  P8  1  0.450487  0.449336  0.410958  1
+  P  P9  1  0.289530  0.788379  0.089042  1
+  O  O10  1  0.571104  0.545112  0.300826  1
+  O  O11  1  0.663211  0.672235  0.849853  1
+  O  O12  1  0.304517  0.590246  0.977949  1
+  O  O13  1  0.795112  0.321104  0.800826  1
+  O  O14  1  0.223364  0.243215  0.294387  1
+  O  O15  1  0.428939  0.645087  0.519345  1
+  O  O16  1  0.063358  0.572382  0.650147  1
+  O  O17  1  0.822382  0.813358  0.150147  1
+  O  O18  1  0.922235  0.413211  0.349853  1
+  O  O19  1  0.178977  0.698828  0.205613  1
+  O  O20  1  0.244288  0.270281  0.699174  1
+  O  O21  1  0.493215  0.973364  0.794387  1
+  O  O22  1  0.948828  0.928977  0.705613  1
+  O  O23  1  0.159595  0.875743  0.980655  1
+  O  O24  1  0.125743  0.909595  0.480655  1
+  O  O25  1  0.895087  0.178939  0.019345  1
+  O  O26  1  0.840246  0.054517  0.477949  1
+  O  O27  1  0.612295  0.326567  0.022051  1
+  O  O28  1  0.520281  0.994288  0.199174  1
+  O  O29  1  0.576567  0.362295  0.522051  1

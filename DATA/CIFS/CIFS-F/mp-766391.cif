@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ti(Sn2O5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79742174
+_cell_length_b   13.55407606
+_cell_length_c   5.76088212
+_cell_angle_alpha   101.33793483
+_cell_angle_beta   90.06671938
+_cell_angle_gamma   89.95622431
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(Sn2O5)2
+_chemical_formula_sum   'Ti2 Sn8 O20'
+_cell_volume   367.28845095
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.999523  0.398460  0.798730  1
+  Ti  Ti1  1  0.000477  0.001540  0.001270  1
+  Sn  Sn2  1  0.499760  0.399461  0.299194  1
+  Sn  Sn3  1  0.500240  0.000539  0.500806  1
+  Sn  Sn4  1  0.500000  0.200000  0.900000  1
+  Sn  Sn5  1  0.501694  0.597328  0.700758  1
+  Sn  Sn6  1  0.498306  0.802672  0.099242  1
+  Sn  Sn7  1  0.000363  0.801607  0.603453  1
+  Sn  Sn8  1  0.000000  0.200000  0.400000  1
+  Sn  Sn9  1  0.999637  0.598393  0.196547  1
+  O  O10  1  0.810490  0.266394  0.723354  1
+  O  O11  1  0.810056  0.868277  0.924904  1
+  O  O12  1  0.810085  0.057812  0.303930  1
+  O  O13  1  0.809734  0.456179  0.101349  1
+  O  O14  1  0.807007  0.660608  0.517045  1
+  O  O15  1  0.705461  0.061649  0.816975  1
+  O  O16  1  0.706074  0.458762  0.616256  1
+  O  O17  1  0.689912  0.861088  0.421297  1
+  O  O18  1  0.693837  0.661560  0.016724  1
+  O  O19  1  0.689650  0.259321  0.221274  1
+  O  O20  1  0.294539  0.338351  0.983025  1
+  O  O21  1  0.306163  0.738440  0.783276  1
+  O  O22  1  0.310350  0.140679  0.578726  1
+  O  O23  1  0.293926  0.941238  0.183744  1
+  O  O24  1  0.310089  0.538912  0.378703  1
+  O  O25  1  0.189510  0.133606  0.076646  1
+  O  O26  1  0.190266  0.943821  0.698651  1
+  O  O27  1  0.189944  0.531723  0.875096  1
+  O  O28  1  0.189915  0.342188  0.496070  1
+  O  O29  1  0.192993  0.739392  0.282955  1

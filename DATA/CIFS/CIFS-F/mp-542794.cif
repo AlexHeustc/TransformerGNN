@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Fe7S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65359738
+_cell_length_b   6.53084548
+_cell_length_c   10.94960994
+_cell_angle_alpha   96.17468107
+_cell_angle_beta   72.29928420
+_cell_angle_gamma   120.63250113
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe7S8
+_chemical_formula_sum   'Fe14 S16'
+_cell_volume   389.37010853
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.812790  0.709003  0.969527  1
+  Fe  Fe1  1  0.598113  0.714328  0.232314  1
+  Fe  Fe2  1  0.555189  0.255197  0.249559  1
+  Fe  Fe3  1  0.109949  0.776112  0.272405  1
+  Fe  Fe4  1  0.502682  0.791198  0.500394  1
+  Fe  Fe5  1  0.449916  0.755657  0.749909  1
+  Fe  Fe6  1  0.186325  0.289993  0.030564  1
+  Fe  Fe7  1  0.501149  0.213072  0.498486  1
+  Fe  Fe8  1  0.393561  0.275202  0.772400  1
+  Fe  Fe9  1  0.788700  0.291141  0.000700  1
+  Fe  Fe10  1  0.212293  0.712305  0.998982  1
+  Fe  Fe11  1  0.074307  0.791009  0.530183  1
+  Fe  Fe12  1  0.883188  0.214901  0.732129  1
+  Fe  Fe13  1  0.928126  0.209492  0.468963  1
+  S  S14  1  0.987288  0.085716  0.883771  1
+  S  S15  1  0.705664  0.070103  0.346331  1
+  S  S16  1  0.292062  0.417054  0.628283  1
+  S  S17  1  0.012151  0.912303  0.117073  1
+  S  S18  1  0.499058  0.586220  0.889742  1
+  S  S19  1  0.495782  0.917169  0.128897  1
+  S  S20  1  0.499920  0.412798  0.108574  1
+  S  S21  1  0.018737  0.570298  0.846056  1
+  S  S22  1  0.984232  0.432876  0.153606  1
+  S  S23  1  0.197966  0.086595  0.389096  1
+  S  S24  1  0.296214  0.933130  0.652876  1
+  S  S25  1  0.784108  0.412884  0.615656  1
+  S  S26  1  0.804030  0.912843  0.607734  1
+  S  S27  1  0.215954  0.585619  0.383327  1
+  S  S28  1  0.706983  0.582900  0.371153  1
+  S  S29  1  0.503563  0.082883  0.871309  1

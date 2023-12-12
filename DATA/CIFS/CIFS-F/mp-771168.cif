@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2SiBiCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.31155999
+_cell_length_b   6.95585446
+_cell_length_c   5.35767836
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.17710683
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SiBiCO7
+_chemical_formula_sum   'Na4 Si2 Bi2 C2 O14'
+_cell_volume   346.94282620
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.220746  0.007306  0.231296  1
+  Na  Na1  1  0.220746  0.492694  0.231296  1
+  Na  Na2  1  0.779254  0.507306  0.768704  1
+  Na  Na3  1  0.779254  0.992694  0.768704  1
+  Si  Si4  1  0.416333  0.250000  0.709621  1
+  Si  Si5  1  0.583667  0.750000  0.290379  1
+  Bi  Bi6  1  0.365926  0.750000  0.785331  1
+  Bi  Bi7  1  0.634074  0.250000  0.214669  1
+  C  C8  1  0.068295  0.750000  0.727998  1
+  C  C9  1  0.931705  0.250000  0.272002  1
+  O  O10  1  0.065973  0.250000  0.295511  1
+  O  O11  1  0.135248  0.750000  0.947958  1
+  O  O12  1  0.153310  0.750000  0.531144  1
+  O  O13  1  0.329697  0.064801  0.824512  1
+  O  O14  1  0.329697  0.435199  0.824512  1
+  O  O15  1  0.412206  0.750000  0.197910  1
+  O  O16  1  0.412018  0.250000  0.401015  1
+  O  O17  1  0.587982  0.750000  0.598985  1
+  O  O18  1  0.587794  0.250000  0.802090  1
+  O  O19  1  0.670303  0.564801  0.175488  1
+  O  O20  1  0.670303  0.935199  0.175488  1
+  O  O21  1  0.846690  0.250000  0.468856  1
+  O  O22  1  0.864752  0.250000  0.052042  1
+  O  O23  1  0.934027  0.750000  0.704489  1

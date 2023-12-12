@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Zr5Re24
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.49605714
+_cell_length_b   8.49605715
+_cell_length_c   8.49605715
+_cell_angle_alpha   109.47122064
+_cell_angle_beta   109.47122065
+_cell_angle_gamma   109.47122064
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr5Re24
+_chemical_formula_sum   'Zr5 Re24'
+_cell_volume   472.09606853
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.000000  0.000000  0.000000  1
+  Zr  Zr1  1  0.628699  0.628699  0.628699  1
+  Zr  Zr2  1  0.371301  0.000000  0.000000  1
+  Zr  Zr3  1  0.000000  0.371301  0.000000  1
+  Zr  Zr4  1  0.000000  0.000000  0.371301  1
+  Re  Re5  1  0.396278  0.396278  0.719419  1
+  Re  Re6  1  0.603722  0.323141  0.000000  1
+  Re  Re7  1  0.323141  0.603722  0.000000  1
+  Re  Re8  1  0.000000  0.323141  0.603722  1
+  Re  Re9  1  0.280581  0.676859  0.676859  1
+  Re  Re10  1  0.676859  0.280581  0.676859  1
+  Re  Re11  1  0.323141  0.000000  0.603722  1
+  Re  Re12  1  0.603722  0.000000  0.323141  1
+  Re  Re13  1  0.000000  0.603722  0.323141  1
+  Re  Re14  1  0.719419  0.396278  0.396278  1
+  Re  Re15  1  0.396278  0.719419  0.396278  1
+  Re  Re16  1  0.676859  0.676859  0.280581  1
+  Re  Re17  1  0.376750  0.376750  0.182743  1
+  Re  Re18  1  0.623250  0.805993  0.000000  1
+  Re  Re19  1  0.805993  0.623250  0.000000  1
+  Re  Re20  1  0.000000  0.805993  0.623250  1
+  Re  Re21  1  0.817257  0.194007  0.194007  1
+  Re  Re22  1  0.194007  0.817257  0.194007  1
+  Re  Re23  1  0.805993  0.000000  0.623250  1
+  Re  Re24  1  0.623250  0.000000  0.805993  1
+  Re  Re25  1  0.000000  0.623250  0.805993  1
+  Re  Re26  1  0.182743  0.376750  0.376750  1
+  Re  Re27  1  0.376750  0.182743  0.376750  1
+  Re  Re28  1  0.194007  0.194007  0.817257  1

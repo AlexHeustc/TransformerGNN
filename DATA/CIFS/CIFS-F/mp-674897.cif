@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_SrNd3AlCuO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   17.85642234
+_cell_length_b   13.38059851
+_cell_length_c   11.00229170
+_cell_angle_alpha   42.55675356
+_cell_angle_beta   41.52367001
+_cell_angle_gamma   14.91810779
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrNd3AlCuO8
+_chemical_formula_sum   'Sr2 Nd6 Al2 Cu2 O16'
+_cell_volume   447.29938656
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.736964  0.811061  0.264071  1
+  Sr  Sr1  1  0.009501  0.199306  0.706000  1
+  Nd  Nd2  1  0.720580  0.948190  0.521380  1
+  Nd  Nd3  1  0.618908  0.238455  0.722658  1
+  Nd  Nd4  1  0.130231  0.764683  0.265588  1
+  Nd  Nd5  1  0.041683  0.038527  0.462527  1
+  Nd  Nd6  1  0.247716  0.215879  0.809005  1
+  Nd  Nd7  1  0.567324  0.721996  0.184438  1
+  Al  Al8  1  0.477069  0.623189  0.105430  1
+  Al  Al9  1  0.243858  0.404181  0.897642  1
+  Cu  Cu10  1  0.064895  0.706467  0.111529  1
+  Cu  Cu11  1  0.558187  0.433738  0.894327  1
+  O  O12  1  0.536719  0.619878  0.886049  1
+  O  O13  1  0.797557  0.228561  0.414854  1
+  O  O14  1  0.540553  0.958046  0.850847  1
+  O  O15  1  0.939197  0.698090  0.921439  1
+  O  O16  1  0.660423  0.830561  0.564446  1
+  O  O17  1  0.279445  0.282015  0.107613  1
+  O  O18  1  0.283273  0.627964  0.962072  1
+  O  O19  1  0.171750  0.499812  0.325996  1
+  O  O20  1  0.672550  0.146435  0.124342  1
+  O  O21  1  0.572341  0.527302  0.649289  1
+  O  O22  1  0.737825  0.396121  0.090245  1
+  O  O23  1  0.419333  0.508835  0.327054  1
+  O  O24  1  0.125205  0.131621  0.407644  1
+  O  O25  1  0.099924  0.154391  0.121051  1
+  O  O26  1  0.959626  0.738521  0.601171  1
+  O  O27  1  0.287364  0.546175  0.701292  1

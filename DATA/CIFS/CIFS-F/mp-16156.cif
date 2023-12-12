@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_Sr(Ni5P3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42981706
+_cell_length_b   8.65425463
+_cell_length_c   8.72641622
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.80710726
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(Ni5P3)2
+_chemical_formula_sum   'Sr2 Ni20 P12'
+_cell_volume   450.83532383
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.355558  0.211117  0.750000  1
+  P  P1  1  0.144442  0.788883  0.250000  1
+  P  P2  1  0.591184  0.182369  0.371420  1
+  P  P3  1  0.408816  0.817631  0.628580  1
+  P  P4  1  0.908816  0.817631  0.871420  1
+  P  P5  1  0.091184  0.182369  0.128580  1
+  P  P6  1  0.708412  0.416825  0.073027  1
+  P  P7  1  0.291588  0.583175  0.926973  1
+  P  P8  1  0.791588  0.583175  0.573027  1
+  P  P9  1  0.208412  0.416825  0.426973  1
+  P  P10  1  0.644442  0.788883  0.250000  1
+  P  P11  1  0.855558  0.211117  0.750000  1
+  Ni  Ni12  1  0.793477  0.586955  0.290744  1
+  Ni  Ni13  1  0.706523  0.413045  0.790744  1
+  Ni  Ni14  1  0.586477  0.672955  0.750000  1
+  Ni  Ni15  1  0.293477  0.586955  0.209256  1
+  Ni  Ni16  1  0.413523  0.327045  0.250000  1
+  Ni  Ni17  1  0.086477  0.672955  0.750000  1
+  Ni  Ni18  1  0.043676  0.087352  0.880543  1
+  Ni  Ni19  1  0.956324  0.912648  0.119457  1
+  Ni  Ni20  1  0.456324  0.912648  0.380543  1
+  Ni  Ni21  1  0.543676  0.087352  0.619457  1
+  Ni  Ni22  1  0.126243  0.653013  0.470056  1
+  Ni  Ni23  1  0.473230  0.346987  0.529944  1
+  Ni  Ni24  1  0.373757  0.346987  0.970056  1
+  Ni  Ni25  1  0.026770  0.653013  0.029944  1
+  Ni  Ni26  1  0.873757  0.346987  0.529944  1
+  Ni  Ni27  1  0.526770  0.653013  0.470056  1
+  Ni  Ni28  1  0.626243  0.653013  0.029944  1
+  Ni  Ni29  1  0.973230  0.346987  0.970056  1
+  Ni  Ni30  1  0.913523  0.327045  0.250000  1
+  Ni  Ni31  1  0.206523  0.413045  0.709256  1
+  Sr  Sr32  1  0.000000  0.000000  0.500000  1
+  Sr  Sr33  1  0.500000  0.000000  0.000000  1

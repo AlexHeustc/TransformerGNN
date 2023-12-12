@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaGd2CoO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81015001
+_cell_length_b   5.89973705
+_cell_length_c   6.82146376
+_cell_angle_alpha   115.62661384
+_cell_angle_beta   106.21768780
+_cell_angle_gamma   89.99893977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaGd2CoO5
+_chemical_formula_sum   'Ba1 Gd2 Co1 O5'
+_cell_volume   131.45558666
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.350896  0.593294  0.701850  1
+  O  O1  1  0.649107  0.406717  0.298158  1
+  O  O2  1  0.649093  0.891479  0.298152  1
+  O  O3  1  0.350909  0.108517  0.701852  1
+  O  O4  1  -0.000002  0.499997  -0.000004  1
+  Co  Co5  1  0.500008  0.500009  0.000017  1
+  Ba  Ba6  1  0.999988  0.999989  0.999977  1
+  Gd  Gd7  1  0.796536  0.296535  0.593052  1
+  Gd  Gd8  1  0.203463  0.703464  0.406947  1

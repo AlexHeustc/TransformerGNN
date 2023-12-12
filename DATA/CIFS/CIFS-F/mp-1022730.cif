@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_YFe2Bi2(SeO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96134779
+_cell_length_b   3.96151211
+_cell_length_c   12.91987843
+_cell_angle_alpha   98.81870162
+_cell_angle_beta   98.81847171
+_cell_angle_gamma   89.99999850
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YFe2Bi2(SeO2)2
+_chemical_formula_sum   'Y1 Fe2 Bi2 Se2 O4'
+_cell_volume   197.92813732
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.999980  0.999959  0.999961  1
+  Fe  Fe1  1  0.250019  0.750258  0.500037  1
+  Fe  Fe2  1  0.750037  0.249884  0.500074  1
+  Bi  Bi3  1  0.401546  0.401586  0.803090  1
+  Bi  Bi4  1  0.598420  0.598355  0.196839  1
+  Se  Se5  1  0.815246  0.815094  0.630492  1
+  Se  Se6  1  0.184797  0.184985  0.369595  1
+  O  O7  1  0.554758  0.054663  0.109514  1
+  O  O8  1  0.945225  0.445282  0.890450  1
+  O  O9  1  0.054754  0.554655  0.109507  1
+  O  O10  1  0.445221  0.945279  0.890441  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2ZrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02438192
+_cell_length_b   6.95290929
+_cell_length_c   6.95290929
+_cell_angle_alpha   111.42522516
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2ZrO3
+_chemical_formula_sum   'Cs4 Zr2 O6'
+_cell_volume   271.11051419
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.750000  0.668587  0.668587  1
+  O  O1  1  0.250000  0.331413  0.331413  1
+  O  O2  1  0.500000  0.117855  0.882145  1
+  O  O3  1  0.000000  0.117855  0.882145  1
+  O  O4  1  0.500000  0.882145  0.117855  1
+  O  O5  1  0.000000  0.882145  0.117855  1
+  Zr  Zr6  1  0.250000  0.083148  0.083148  1
+  Zr  Zr7  1  0.750000  0.916852  0.916852  1
+  Cs  Cs8  1  0.250000  0.808679  0.483000  1
+  Cs  Cs9  1  0.750000  0.191321  0.517000  1
+  Cs  Cs10  1  0.750000  0.517000  0.191321  1
+  Cs  Cs11  1  0.250000  0.483000  0.808679  1

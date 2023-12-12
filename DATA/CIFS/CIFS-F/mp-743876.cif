@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Cr2CdH14(NO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03145676
+_cell_length_b   7.03145676
+_cell_length_c   7.67058438
+_cell_angle_alpha   72.69594241
+_cell_angle_beta   107.30405759
+_cell_angle_gamma   128.02211487
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2CdH14(NO2)4
+_chemical_formula_sum   'Cr2 Cd1 H14 N4 O8'
+_cell_volume   281.92772664
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.340970  0.659030  0.779584  1
+  Cr  Cr1  1  0.659030  0.340970  0.220416  1
+  Cd  Cd2  1  0.000000  0.000000  0.000000  1
+  H  H3  1  0.075815  0.924185  0.693415  1
+  H  H4  1  0.924185  0.075815  0.306584  1
+  H  H5  1  0.088948  0.179664  0.641298  1
+  H  H6  1  0.820336  0.911052  0.641298  1
+  H  H7  1  0.911052  0.820336  0.358702  1
+  H  H8  1  0.179664  0.088948  0.358702  1
+  H  H9  1  0.599379  0.400621  0.771476  1
+  H  H10  1  0.400621  0.599379  0.228524  1
+  H  H11  1  0.646656  0.353344  0.591398  1
+  H  H12  1  0.353344  0.646656  0.408602  1
+  H  H13  1  0.855414  0.413170  0.790717  1
+  H  H14  1  0.586830  0.144586  0.790717  1
+  H  H15  1  0.144586  0.586830  0.209283  1
+  H  H16  1  0.413170  0.855414  0.209283  1
+  N  N17  1  0.997290  0.002710  0.706892  1
+  N  N18  1  0.002710  0.997290  0.293108  1
+  N  N19  1  0.671418  0.328582  0.735410  1
+  N  N20  1  0.328582  0.671418  0.264590  1
+  O  O21  1  0.135610  0.419147  0.911710  1
+  O  O22  1  0.580853  0.864390  0.911710  1
+  O  O23  1  0.864390  0.580853  0.088290  1
+  O  O24  1  0.419147  0.135610  0.088290  1
+  O  O25  1  0.431351  0.568649  0.661785  1
+  O  O26  1  0.568649  0.431351  0.338215  1
+  O  O27  1  0.211631  0.788369  0.632747  1
+  O  O28  1  0.788369  0.211631  0.367253  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ce4DyO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.82780503
+_cell_length_b   10.31377168
+_cell_length_c   5.52936418
+_cell_angle_alpha   105.61762431
+_cell_angle_beta   90.08105987
+_cell_angle_gamma   79.30245588
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4DyO9
+_chemical_formula_sum   'Ce4 Dy1 O9'
+_cell_volume   206.30903469
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.796752  0.398443  0.204366  1
+  Ce  Ce1  1  0.604000  0.789474  0.407172  1
+  Ce  Ce2  1  0.390241  0.212479  0.619980  1
+  Ce  Ce3  1  0.193627  0.605419  0.809492  1
+  Dy  Dy4  1  0.998241  0.000874  0.953168  1
+  O  O5  1  0.693471  0.607156  0.065579  1
+  O  O6  1  0.080604  0.831405  0.163736  1
+  O  O7  1  0.913210  0.164069  0.338274  1
+  O  O8  1  0.698140  0.598034  0.558559  1
+  O  O9  1  0.102037  0.793521  0.641634  1
+  O  O10  1  0.299207  0.393893  0.454332  1
+  O  O11  1  0.497767  0.001463  0.749701  1
+  O  O12  1  0.892815  0.209558  0.855274  1
+  O  O13  1  0.292549  0.405779  0.958489  1

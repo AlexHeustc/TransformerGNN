@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CaCr2(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86859727
+_cell_length_b   6.86859684
+_cell_length_c   8.76764956
+_cell_angle_alpha   102.61607057
+_cell_angle_beta   102.61606856
+_cell_angle_gamma   116.25640403
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCr2(PO5)2
+_chemical_formula_sum   'Ca2 Cr4 P4 O20'
+_cell_volume   337.73418418
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.496254  0.996254  0.500000  1
+  Ca  Ca1  1  0.246254  0.246254  1.000000  1
+  Cr  Cr2  1  0.871695  0.619285  0.250908  1
+  Cr  Cr3  1  0.368376  0.620786  0.749092  1
+  Cr  Cr4  1  0.870786  0.118376  0.249092  1
+  Cr  Cr5  1  0.869285  0.621695  0.750908  1
+  P  P6  1  0.037178  0.036972  0.584045  1
+  P  P7  1  0.703133  0.202927  0.915955  1
+  P  P8  1  0.452927  0.453133  0.415955  1
+  P  P9  1  0.286972  0.787178  0.084045  1
+  O  O10  1  0.575849  0.553227  0.300394  1
+  O  O11  1  0.657395  0.660234  0.827853  1
+  O  O12  1  0.320770  0.606455  0.969196  1
+  O  O13  1  0.803227  0.325849  0.800394  1
+  O  O14  1  0.215910  0.235903  0.299020  1
+  O  O15  1  0.415756  0.632981  0.528649  1
+  O  O16  1  0.079542  0.582381  0.672147  1
+  O  O17  1  0.832381  0.829542  0.172147  1
+  O  O18  1  0.910234  0.407395  0.327853  1
+  O  O19  1  0.166890  0.686883  0.200980  1
+  O  O20  1  0.252833  0.275456  0.699606  1
+  O  O21  1  0.485903  0.965910  0.799020  1
+  O  O22  1  0.936883  0.916890  0.700980  1
+  O  O23  1  0.137107  0.854332  0.971351  1
+  O  O24  1  0.104332  0.887107  0.471351  1
+  O  O25  1  0.882981  0.165756  0.028649  1
+  O  O26  1  0.856455  0.070770  0.469196  1
+  O  O27  1  0.637260  0.351574  0.030804  1
+  O  O28  1  0.525456  0.002833  0.199606  1
+  O  O29  1  0.601574  0.387260  0.530804  1

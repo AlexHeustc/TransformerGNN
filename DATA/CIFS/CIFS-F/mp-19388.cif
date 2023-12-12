@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_BaNi2(AsO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.54862689
+_cell_length_b   8.54862689
+_cell_length_c   8.54862690
+_cell_angle_alpha   34.15913653
+_cell_angle_beta   34.15913650
+_cell_angle_gamma   34.15913659
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNi2(AsO4)2
+_chemical_formula_sum   'Ba1 Ni2 As2 O8'
+_cell_volume   175.61216747
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.876887  0.215470  0.559416  1
+  O  O1  1  0.215470  0.559416  0.876888  1
+  O  O2  1  0.559415  0.876888  0.215471  1
+  O  O3  1  0.123112  0.784530  0.440586  1
+  O  O4  1  0.784529  0.440585  0.123113  1
+  O  O5  1  0.357392  0.357394  0.357393  1
+  O  O6  1  0.440584  0.123112  0.784531  1
+  O  O7  1  0.642607  0.642606  0.642607  1
+  Ni  Ni8  1  0.831316  0.831317  0.831316  1
+  Ni  Ni9  1  0.168683  0.168683  0.168684  1
+  As  As10  1  0.427592  0.427592  0.427592  1
+  As  As11  1  0.572407  0.572409  0.572409  1
+  Ba  Ba12  1  0.000000  0.000000  0.000000  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sr3CuPtO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76044261
+_cell_length_b   6.83323565
+_cell_length_c   6.83323565
+_cell_angle_alpha   92.12221795
+_cell_angle_beta   90.79931620
+_cell_angle_gamma   90.79931625
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3CuPtO6
+_chemical_formula_sum   'Sr6 Cu2 Pt2 O12'
+_cell_volume   315.38581796
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.463313  0.282022  0.606861  1
+  O  O1  1  0.036687  0.393139  0.717978  1
+  O  O2  1  0.536687  0.717978  0.393139  1
+  O  O3  1  0.963313  0.606861  0.282022  1
+  O  O4  1  0.431032  0.077962  0.217903  1
+  O  O5  1  0.068968  0.782097  0.922038  1
+  O  O6  1  0.568968  0.922038  0.782097  1
+  O  O7  1  0.931032  0.217903  0.077962  1
+  O  O8  1  0.785152  0.104001  0.478193  1
+  O  O9  1  0.714848  0.521807  0.895999  1
+  O  O10  1  0.285152  0.478193  0.104001  1
+  O  O11  1  0.214848  0.895999  0.521807  1
+  Cu  Cu12  1  0.250000  0.693858  0.306142  1
+  Cu  Cu13  1  0.750000  0.306142  0.693858  1
+  Sr  Sr14  1  0.250000  0.098089  0.901911  1
+  Sr  Sr15  1  0.750000  0.901911  0.098089  1
+  Sr  Sr16  1  0.877206  0.759473  0.610174  1
+  Sr  Sr17  1  0.622794  0.389826  0.240527  1
+  Sr  Sr18  1  0.122794  0.240527  0.389826  1
+  Sr  Sr19  1  0.377206  0.610174  0.759473  1
+  Pt  Pt20  1  0.500000  0.000000  0.500000  1
+  Pt  Pt21  1  0.000000  0.500000  0.000000  1

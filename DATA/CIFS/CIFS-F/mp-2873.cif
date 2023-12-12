@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ce(CrB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.07270369
+_cell_length_b   5.51042183
+_cell_length_c   5.51042183
+_cell_angle_alpha   72.75702852
+_cell_angle_beta   73.81090142
+_cell_angle_gamma   73.81090138
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(CrB3)2
+_chemical_formula_sum   'Ce1 Cr2 B6'
+_cell_volume   83.59498723
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.696362  0.540970  0.066307  1
+  B  B1  1  0.303638  0.459030  0.933693  1
+  B  B2  1  0.303638  0.933693  0.459030  1
+  B  B3  1  0.500000  0.357596  0.642405  1
+  B  B4  1  0.500000  0.642405  0.357596  1
+  B  B5  1  0.696362  0.066307  0.540970  1
+  Cr  Cr6  1  0.845584  0.654416  0.654416  1
+  Cr  Cr7  1  0.154416  0.345585  0.345585  1
+  Ce  Ce8  1  0.000000  0.000000  0.000000  1

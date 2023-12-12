@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Na6Ge2S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.99292661
+_cell_length_b   6.99292644
+_cell_length_c   15.23368795
+_cell_angle_alpha   99.71713441
+_cell_angle_beta   99.71713418
+_cell_angle_gamma   97.91917423
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na6Ge2S7
+_chemical_formula_sum   'Na12 Ge4 S14'
+_cell_volume   713.04370144
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.261987  0.924629  0.639782  1
+  Ge  Ge1  1  0.575371  0.238013  0.860218  1
+  Ge  Ge2  1  0.738013  0.075371  0.360218  1
+  Ge  Ge3  1  0.424629  0.761987  0.139782  1
+  S  S4  1  0.539212  0.960788  0.750000  1
+  S  S5  1  0.460788  0.039212  0.250000  1
+  S  S6  1  0.742642  0.492591  0.820093  1
+  S  S7  1  0.007409  0.757358  0.679907  1
+  S  S8  1  0.257358  0.507409  0.179907  1
+  S  S9  1  0.992591  0.242642  0.320093  1
+  S  S10  1  0.294663  0.308840  0.894147  1
+  S  S11  1  0.191160  0.205337  0.605853  1
+  S  S12  1  0.705337  0.691160  0.105853  1
+  S  S13  1  0.808840  0.794663  0.394147  1
+  S  S14  1  0.760368  0.134493  0.971726  1
+  S  S15  1  0.365507  0.739632  0.528274  1
+  S  S16  1  0.239632  0.865507  0.028274  1
+  S  S17  1  0.634493  0.260368  0.471726  1
+  Na  Na18  1  0.000000  0.500000  0.500000  1
+  Na  Na19  1  0.000000  0.500000  0.000000  1
+  Na  Na20  1  0.078523  0.421477  0.750000  1
+  Na  Na21  1  0.921477  0.578523  0.250000  1
+  Na  Na22  1  0.007114  0.950864  0.861202  1
+  Na  Na23  1  0.549136  0.492886  0.638798  1
+  Na  Na24  1  0.992886  0.049136  0.138798  1
+  Na  Na25  1  0.450864  0.507114  0.361202  1
+  Na  Na26  1  0.530798  0.739278  0.925967  1
+  Na  Na27  1  0.760722  0.969202  0.574033  1
+  Na  Na28  1  0.469202  0.260722  0.074033  1
+  Na  Na29  1  0.239278  0.030798  0.425967  1

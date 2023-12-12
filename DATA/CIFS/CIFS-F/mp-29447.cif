@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Bi3BrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84069091
+_cell_length_b   5.81917154
+_cell_length_c   19.30941536
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi3BrO4
+_chemical_formula_sum   'Bi12 Br4 O16'
+_cell_volume   656.28806782
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.068070  0.927682  0.436014  1
+  O  O1  1  0.068070  0.572318  0.563986  1
+  O  O2  1  0.431930  0.927682  0.063986  1
+  O  O3  1  0.431930  0.572318  0.936014  1
+  O  O4  1  0.931930  0.072318  0.563986  1
+  O  O5  1  0.931930  0.427682  0.436014  1
+  O  O6  1  0.568070  0.072318  0.936014  1
+  O  O7  1  0.568070  0.427682  0.063986  1
+  O  O8  1  0.542694  0.016166  0.412091  1
+  O  O9  1  0.042694  0.516166  0.087909  1
+  O  O10  1  0.957306  0.016166  0.087909  1
+  O  O11  1  0.957306  0.483834  0.912091  1
+  O  O12  1  0.457306  0.983834  0.587909  1
+  O  O13  1  0.457306  0.516166  0.412091  1
+  O  O14  1  0.042694  0.983834  0.912091  1
+  O  O15  1  0.542694  0.483834  0.587909  1
+  Br  Br16  1  0.250000  0.271107  0.250000  1
+  Br  Br17  1  0.750000  0.728893  0.750000  1
+  Br  Br18  1  0.250000  0.228893  0.750000  1
+  Br  Br19  1  0.750000  0.771107  0.250000  1
+  Bi  Bi20  1  0.298178  0.700212  0.640709  1
+  Bi  Bi21  1  0.701822  0.200212  0.640709  1
+  Bi  Bi22  1  0.798178  0.299788  0.140709  1
+  Bi  Bi23  1  0.798178  0.200212  0.859291  1
+  Bi  Bi24  1  0.701822  0.299788  0.359291  1
+  Bi  Bi25  1  0.298178  0.799788  0.359291  1
+  Bi  Bi26  1  0.201822  0.700212  0.859291  1
+  Bi  Bi27  1  0.201822  0.799788  0.140709  1
+  Bi  Bi28  1  0.201312  0.250000  0.500000  1
+  Bi  Bi29  1  0.298688  0.250000  0.000000  1
+  Bi  Bi30  1  0.798688  0.750000  0.500000  1
+  Bi  Bi31  1  0.701312  0.750000  0.000000  1

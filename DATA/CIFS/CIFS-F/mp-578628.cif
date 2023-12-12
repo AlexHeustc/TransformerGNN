@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Sr2YCu3(PbO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36017890
+_cell_length_b   5.33629263
+_cell_length_c   15.48541918
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.04146017
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2YCu3(PbO4)2
+_chemical_formula_sum   'Sr4 Y2 Cu6 Pb4 O16'
+_cell_volume   442.93681065
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.250760  0.004282  0.221243  1
+  Sr  Sr1  1  0.749675  0.504171  0.221234  1
+  Sr  Sr2  1  0.250325  0.004171  0.778766  1
+  Sr  Sr3  1  0.749240  0.504282  0.778757  1
+  Y  Y4  1  0.249983  0.000211  -0.000019  1
+  Y  Y5  1  0.750017  0.500211  1.000019  1
+  Cu  Cu6  1  0.249995  0.500773  0.104101  1
+  Cu  Cu7  1  0.750527  0.000723  0.104339  1
+  Cu  Cu8  1  0.750005  0.000773  0.895899  1
+  Cu  Cu9  1  0.249473  0.500723  0.895661  1
+  Cu  Cu10  1  0.273901  0.025256  0.499954  1
+  Cu  Cu11  1  0.726099  0.525256  0.500046  1
+  Pb  Pb12  1  0.251144  0.503889  0.610685  1
+  Pb  Pb13  1  0.251677  0.503988  0.389463  1
+  Pb  Pb14  1  0.748856  0.003889  0.389315  1
+  Pb  Pb15  1  0.748323  0.003988  0.610537  1
+  O  O16  1  -0.000006  0.750413  0.092526  1
+  O  O17  1  0.243045  0.506362  0.249645  1
+  O  O18  1  0.704506  0.539373  0.618814  1
+  O  O19  1  0.295494  0.039373  0.381186  1
+  O  O20  1  0.294179  0.038976  0.618730  1
+  O  O21  1  0.705821  0.538976  0.381270  1
+  O  O22  1  0.500383  0.750504  0.093242  1
+  O  O23  1  0.499907  0.250452  0.093254  1
+  O  O24  1  0.756955  0.006362  0.750355  1
+  O  O25  1  1.000006  0.250413  0.907474  1
+  O  O26  1  0.000510  0.250482  0.092579  1
+  O  O27  1  0.499617  0.250504  0.906758  1
+  O  O28  1  0.756967  0.006146  0.249554  1
+  O  O29  1  0.243033  0.506146  0.750446  1
+  O  O30  1  0.999490  0.750482  0.907421  1
+  O  O31  1  0.500093  0.750452  0.906746  1

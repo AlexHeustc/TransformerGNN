@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cd2As3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.41419914
+_cell_length_b   6.41419913
+_cell_length_c   8.18121419
+_cell_angle_alpha   97.35636393
+_cell_angle_beta   97.35636397
+_cell_angle_gamma   97.69523623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2As3Br
+_chemical_formula_sum   'Cd4 As6 Br2'
+_cell_volume   327.18501675
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.140756  0.836781  0.501882  1
+  Cd  Cd1  1  0.658720  0.364667  0.417016  1
+  Cd  Cd2  1  0.364667  0.658720  0.917016  1
+  Cd  Cd3  1  0.836781  0.140756  0.001882  1
+  As  As4  1  0.833774  0.927893  0.682153  1
+  As  As5  1  0.927893  0.833774  0.182153  1
+  As  As6  1  0.961834  0.543694  0.961126  1
+  As  As7  1  0.579088  0.674741  0.238319  1
+  As  As8  1  0.674741  0.579088  0.738319  1
+  As  As9  1  0.543694  0.961834  0.461126  1
+  Br  Br10  1  0.389759  0.112292  0.960503  1
+  Br  Br11  1  0.112292  0.389759  0.460503  1

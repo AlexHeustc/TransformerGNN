@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La2CoIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51452106
+_cell_length_b   5.66410340
+_cell_length_c   7.84991324
+_cell_angle_alpha   89.99940768
+_cell_angle_beta   89.86994559
+_cell_angle_gamma   89.99867930
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2CoIrO6
+_chemical_formula_sum   'La4 Co2 Ir2 O12'
+_cell_volume   245.18997576
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.012539  0.943225  0.750641  1
+  La  La1  1  0.512525  0.556750  0.250666  1
+  La  La2  1  0.987461  0.056781  0.249361  1
+  La  La3  1  0.487479  0.443245  0.749332  1
+  Co  Co4  1  0.000004  0.499999  0.000006  1
+  Co  Co5  1  0.499997  0.999994  0.500006  1
+  Ir  Ir6  1  0.500008  0.000009  0.999990  1
+  Ir  Ir7  1  0.000019  0.499988  0.500010  1
+  O  O8  1  0.794233  0.802528  0.453520  1
+  O  O9  1  0.294145  0.697463  0.953501  1
+  O  O10  1  0.205756  0.197492  0.546473  1
+  O  O11  1  0.910179  0.518830  0.757211  1
+  O  O12  1  0.806235  0.790747  0.047057  1
+  O  O13  1  0.193770  0.209255  0.952945  1
+  O  O14  1  0.410219  0.981187  0.257226  1
+  O  O15  1  0.089821  0.481173  0.242780  1
+  O  O16  1  0.705851  0.302529  0.046501  1
+  O  O17  1  0.589772  0.018808  0.742784  1
+  O  O18  1  0.306179  0.709149  0.547040  1
+  O  O19  1  0.693810  0.290851  0.452951  1

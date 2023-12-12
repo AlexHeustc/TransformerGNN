@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ba2Mg2Tl2Co3O10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90370143
+_cell_length_b   3.86781318
+_cell_length_c   18.04157536
+_cell_angle_alpha   95.37148608
+_cell_angle_beta   95.71431663
+_cell_angle_gamma   90.37261942
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Mg2Tl2Co3O10
+_chemical_formula_sum   'Ba2 Mg2 Tl2 Co3 O10'
+_cell_volume   269.82754959
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.108320  0.149575  0.277955  1
+  Ba  Ba1  1  0.813576  0.823410  0.720431  1
+  Mg  Mg2  1  0.900384  0.908733  0.909022  1
+  Mg  Mg3  1  0.006781  0.049731  0.088128  1
+  Tl  Tl4  1  0.620151  0.719316  0.434574  1
+  Tl  Tl5  1  0.179767  0.271231  0.564533  1
+  Co  Co6  1  0.377083  0.366686  0.841685  1
+  Co  Co7  1  0.561387  0.589801  0.157375  1
+  Co  Co8  1  0.366280  0.560306  0.999773  1
+  O  O9  1  0.384491  0.863443  0.839690  1
+  O  O10  1  0.301396  0.312703  0.683168  1
+  O  O11  1  0.881195  0.362930  0.845791  1
+  O  O12  1  0.822823  0.764396  0.553359  1
+  O  O13  1  0.845077  0.628580  0.004366  1
+  O  O14  1  0.065575  0.591072  0.160994  1
+  O  O15  1  0.631309  0.667462  0.316282  1
+  O  O16  1  0.567933  0.088880  0.152708  1
+  O  O17  1  0.275126  0.221426  0.445761  1
+  O  O18  1  0.292432  0.078279  0.995370  1

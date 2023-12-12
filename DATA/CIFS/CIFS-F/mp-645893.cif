@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Ce6In14Pt11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48042827
+_cell_length_b   11.66532805
+_cell_length_c   13.99144057
+_cell_angle_alpha   72.02790045
+_cell_angle_beta   80.78228906
+_cell_angle_gamma   78.92959664
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce6In14Pt11
+_chemical_formula_sum   'Ce6 In14 Pt11'
+_cell_volume   678.64488204
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.371955  0.459593  0.802703  1
+  Ce  Ce1  1  0.633841  0.548684  0.190444  1
+  Ce  Ce2  1  0.881898  0.876499  0.361292  1
+  Ce  Ce3  1  0.121463  0.118551  0.642529  1
+  Ce  Ce4  1  0.860565  0.648144  0.632234  1
+  Ce  Ce5  1  0.140886  0.349340  0.370137  1
+  In  In6  1  0.382856  0.211333  0.023066  1
+  In  In7  1  0.617838  0.789964  0.974690  1
+  In  In8  1  0.771459  0.213759  0.243238  1
+  In  In9  1  0.512158  0.179366  0.798537  1
+  In  In10  1  0.539697  0.357251  0.566851  1
+  In  In11  1  0.064130  0.974048  0.899679  1
+  In  In12  1  0.464722  0.642096  0.432966  1
+  In  In13  1  0.485341  0.825314  0.202192  1
+  In  In14  1  0.797379  0.402806  0.003388  1
+  In  In15  1  0.229484  0.785303  0.758054  1
+  In  In16  1  0.739563  0.941879  0.582564  1
+  In  In17  1  0.937844  0.026379  0.101396  1
+  In  In18  1  0.207898  0.595709  0.995844  1
+  In  In19  1  0.265320  0.053683  0.418296  1
+  Pt  Pt20  1  0.323374  0.811650  0.543593  1
+  Pt  Pt21  1  0.637725  0.945087  0.780134  1
+  Pt  Pt22  1  0.938018  0.223192  0.901489  1
+  Pt  Pt23  1  0.237226  0.370731  0.149593  1
+  Pt  Pt24  1  0.977241  0.355521  0.697532  1
+  Pt  Pt25  1  0.679605  0.184651  0.458514  1
+  Pt  Pt26  1  0.060513  0.778731  0.097005  1
+  Pt  Pt27  1  0.033572  0.646089  0.300221  1
+  Pt  Pt28  1  0.765527  0.627681  0.851245  1
+  Pt  Pt29  1  0.001299  0.500652  0.499095  1
+  Pt  Pt30  1  0.365046  0.058307  0.219235  1

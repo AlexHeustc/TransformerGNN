@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Na6Cd16Au7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.78623554
+_cell_length_b   9.78624741
+_cell_length_c   9.78623871
+_cell_angle_alpha   59.99967422
+_cell_angle_beta   59.99968947
+_cell_angle_gamma   59.99969802
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na6Cd16Au7
+_chemical_formula_sum   'Na6 Cd16 Au7'
+_cell_volume   662.71924616
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.792277  0.207724  0.207724  1
+  Na  Na1  1  0.207718  0.792275  0.792283  1
+  Na  Na2  1  0.207719  0.792281  0.207717  1
+  Na  Na3  1  0.207719  0.207719  0.792279  1
+  Na  Na4  1  0.792285  0.207718  0.792282  1
+  Na  Na5  1  0.792288  0.792280  0.207716  1
+  Cd  Cd6  1  0.858109  0.380630  0.380630  1
+  Cd  Cd7  1  0.380630  0.858110  0.380630  1
+  Cd  Cd8  1  0.380630  0.380630  0.380630  1
+  Cd  Cd9  1  0.380630  0.380630  0.858110  1
+  Cd  Cd10  1  0.619369  0.141890  0.619370  1
+  Cd  Cd11  1  0.141890  0.619370  0.619370  1
+  Cd  Cd12  1  0.619370  0.619370  0.619370  1
+  Cd  Cd13  1  0.619370  0.619370  0.141890  1
+  Cd  Cd14  1  0.161599  0.161599  0.515202  1
+  Cd  Cd15  1  0.161599  0.161599  0.161599  1
+  Cd  Cd16  1  0.161599  0.515202  0.161599  1
+  Cd  Cd17  1  0.515202  0.161599  0.161599  1
+  Cd  Cd18  1  0.838400  0.838401  0.484798  1
+  Cd  Cd19  1  0.838400  0.838401  0.838401  1
+  Cd  Cd20  1  0.484797  0.838401  0.838401  1
+  Cd  Cd21  1  0.838400  0.484798  0.838401  1
+  Au  Au22  1  0.500000  0.500000  0.500000  1
+  Au  Au23  1  1.000000  0.000000  0.499999  1
+  Au  Au24  1  0.500000  0.500000  1.000000  1
+  Au  Au25  1  0.499999  0.000000  1.000000  1
+  Au  Au26  1  1.000000  0.500000  -0.000000  1
+  Au  Au27  1  1.000000  0.500000  0.500000  1
+  Au  Au28  1  0.500000  -0.000000  0.500000  1

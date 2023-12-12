@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ce8Gd2O19
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86068640
+_cell_length_b   38.64093352
+_cell_length_c   36.86491184
+_cell_angle_alpha   5.20770019
+_cell_angle_beta   58.38953559
+_cell_angle_gamma   59.99675487
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce8Gd2O19
+_chemical_formula_sum   'Ce8 Gd2 O19'
+_cell_volume   407.64593642
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.997797  0.202360  0.997606  1
+  Ce  Ce1  1  0.998693  0.304110  0.995774  1
+  Ce  Ce2  1  0.002149  0.401736  0.998165  1
+  Ce  Ce3  1  0.006004  0.499892  0.000028  1
+  Ce  Ce4  1  0.001785  0.598975  0.000885  1
+  Ce  Ce5  1  0.997886  0.699173  0.000644  1
+  Ce  Ce6  1  0.999336  0.801521  0.998246  1
+  Ce  Ce7  1  0.999291  0.904180  0.995518  1
+  Gd  Gd8  1  0.026909  0.026462  0.967193  1
+  Gd  Gd9  1  0.965907  0.075228  0.030806  1
+  O  O10  1  0.248538  0.101863  0.248009  1
+  O  O11  1  0.253806  0.199411  0.250864  1
+  O  O12  1  0.256120  0.300293  0.249442  1
+  O  O13  1  0.248820  0.398732  0.251092  1
+  O  O14  1  0.248040  0.499335  0.250394  1
+  O  O15  1  0.244224  0.598819  0.252354  1
+  O  O16  1  0.758904  0.110433  0.737838  1
+  O  O17  1  0.266735  0.718899  0.226612  1
+  O  O18  1  0.718605  0.180524  0.774657  1
+  O  O19  1  0.751340  0.296372  0.753521  1
+  O  O20  1  0.224694  0.882968  0.271355  1
+  O  O21  1  0.773756  0.422218  0.722253  1
+  O  O22  1  0.256416  0.011174  0.237281  1
+  O  O23  1  0.741788  0.499452  0.751957  1
+  O  O24  1  0.748939  0.602289  0.747555  1
+  O  O25  1  0.757111  0.701894  0.747767  1
+  O  O26  1  0.754264  0.798949  0.751104  1
+  O  O27  1  0.748291  0.898683  0.751175  1
+  O  O28  1  0.746873  0.997878  0.752156  1

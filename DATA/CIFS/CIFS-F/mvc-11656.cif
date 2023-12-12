@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Mg(CoO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86201771
+_cell_length_b   5.86201745
+_cell_length_c   5.86201804
+_cell_angle_alpha   57.28277111
+_cell_angle_beta   57.28277149
+_cell_angle_gamma   57.28277462
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg(CoO2)4
+_chemical_formula_sum   'Mg1 Co4 O8'
+_cell_volume   133.52662120
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.500000  0.500001  0.499999  1
+  Co  Co1  1  0.500001  0.999999  0.500001  1
+  Co  Co2  1  0.999999  0.500000  0.500001  1
+  Co  Co3  1  0.500000  0.500000  0.000000  1
+  Co  Co4  1  0.000000  0.000000  0.000000  1
+  O  O5  1  0.761836  0.271899  0.761836  1
+  O  O6  1  0.238163  0.238164  0.728101  1
+  O  O7  1  0.238163  0.728102  0.238163  1
+  O  O8  1  0.728100  0.238164  0.238164  1
+  O  O9  1  0.270587  0.270588  0.270587  1
+  O  O10  1  0.729413  0.729413  0.729413  1
+  O  O11  1  0.271900  0.761837  0.761836  1
+  O  O12  1  0.761837  0.761837  0.271899  1

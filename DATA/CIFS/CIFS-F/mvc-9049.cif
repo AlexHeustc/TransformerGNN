@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_ZnMo2(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.03804679
+_cell_length_b   7.03804646
+_cell_length_c   8.84943533
+_cell_angle_alpha   103.18430481
+_cell_angle_beta   103.18430745
+_cell_angle_gamma   115.24103459
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnMo2(PO5)2
+_chemical_formula_sum   'Zn2 Mo4 P4 O20'
+_cell_volume   358.73635655
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.512549  0.012549  0.500000  1
+  Zn  Zn1  1  0.262549  0.262549  0.000000  1
+  Mo  Mo2  1  0.872776  0.620120  0.252602  1
+  Mo  Mo3  1  0.367518  0.620173  0.747398  1
+  Mo  Mo4  1  0.870173  0.117518  0.247398  1
+  Mo  Mo5  1  0.870120  0.622776  0.752602  1
+  P  P6  1  0.038876  0.040988  0.593373  1
+  P  P7  1  0.695502  0.197614  0.906627  1
+  P  P8  1  0.447614  0.445502  0.406627  1
+  P  P9  1  0.290988  0.788876  0.093373  1
+  O  O10  1  0.566735  0.537698  0.292341  1
+  O  O11  1  0.662059  0.664632  0.840929  1
+  O  O12  1  0.305630  0.591898  0.977693  1
+  O  O13  1  0.787698  0.316735  0.792341  1
+  O  O14  1  0.216296  0.240399  0.288125  1
+  O  O15  1  0.432101  0.640250  0.522143  1
+  O  O16  1  0.071130  0.573704  0.659071  1
+  O  O17  1  0.823704  0.821130  0.159071  1
+  O  O18  1  0.914632  0.412059  0.340929  1
+  O  O19  1  0.178171  0.702274  0.211875  1
+  O  O20  1  0.245356  0.274394  0.707659  1
+  O  O21  1  0.490399  0.966296  0.788125  1
+  O  O22  1  0.952274  0.928171  0.711875  1
+  O  O23  1  0.159959  0.868107  0.977857  1
+  O  O24  1  0.118107  0.909959  0.477857  1
+  O  O25  1  0.890250  0.182101  0.022143  1
+  O  O26  1  0.841898  0.055630  0.477693  1
+  O  O27  1  0.614206  0.327937  0.022307  1
+  O  O28  1  0.524394  0.995356  0.207659  1
+  O  O29  1  0.577937  0.364206  0.522307  1

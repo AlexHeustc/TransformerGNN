@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr2Er2Al3Si5N11O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.20588776
+_cell_length_b   6.20588785
+_cell_length_c   10.31540689
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999951
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Er2Al3Si5N11O3
+_chemical_formula_sum   'Sr2 Er2 Al3 Si5 N11 O3'
+_cell_volume   344.05259430
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.333333  0.666667  0.132213  1
+  Sr  Sr1  1  0.666667  0.333333  0.647884  1
+  Er  Er2  1  0.333333  0.666667  0.638344  1
+  Er  Er3  1  0.666667  0.333333  0.342809  1
+  Al  Al4  1  0.160842  0.839158  0.434140  1
+  Al  Al5  1  0.160842  0.321683  0.434140  1
+  Al  Al6  1  0.678317  0.839158  0.434140  1
+  Si  Si7  1  0.000000  0.000000  0.709913  1
+  Si  Si8  1  0.000000  0.000000  0.210387  1
+  Si  Si9  1  0.340727  0.170363  0.935484  1
+  Si  Si10  1  0.829637  0.659273  0.935484  1
+  Si  Si11  1  0.829637  0.170363  0.935484  1
+  N  N12  1  0.149445  0.850555  0.258852  1
+  N  N13  1  0.000000  0.000000  0.533503  1
+  N  N14  1  0.000000  0.000000  0.017266  1
+  N  N15  1  0.149445  0.298890  0.258852  1
+  N  N16  1  0.294143  0.147071  0.777920  1
+  N  N17  1  0.491355  0.508645  0.492390  1
+  N  N18  1  0.701110  0.850555  0.258852  1
+  N  N19  1  0.491355  0.982710  0.492390  1
+  N  N20  1  0.852929  0.705857  0.777920  1
+  N  N21  1  0.017290  0.508645  0.492390  1
+  N  N22  1  0.852929  0.147071  0.777920  1
+  O  O23  1  0.946349  0.473174  -0.014233  1
+  O  O24  1  0.526825  0.053651  -0.014233  1
+  O  O25  1  0.526825  0.473174  -0.014233  1

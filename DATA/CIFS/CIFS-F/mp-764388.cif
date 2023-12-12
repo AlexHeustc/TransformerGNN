@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li8Co3NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33016763
+_cell_length_b   5.37879742
+_cell_length_c   7.02039327
+_cell_angle_alpha   89.85261357
+_cell_angle_beta   90.17020836
+_cell_angle_gamma   90.00137418
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li8Co3NiO8
+_chemical_formula_sum   'Li8 Co3 Ni1 O8'
+_cell_volume   201.27236203
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.810244  0.967327  0.406139  1
+  Li  Li1  1  0.652359  0.716667  0.742403  1
+  Li  Li2  1  0.149767  0.783744  0.248257  1
+  Li  Li3  1  0.313829  0.533313  0.908215  1
+  Li  Li4  1  0.815507  0.448957  0.094577  1
+  Li  Li5  1  0.657994  0.218993  0.758716  1
+  Li  Li6  1  0.155773  0.277681  0.258114  1
+  Li  Li7  1  0.318073  0.051454  0.594381  1
+  Co  Co8  1  0.052998  0.948727  0.887408  1
+  Co  Co9  1  0.550191  0.550360  0.387845  1
+  Co  Co10  1  0.051030  0.453458  0.611514  1
+  Ni  Ni11  1  0.548599  0.041168  0.109130  1
+  O  O12  1  0.433157  0.943118  0.856116  1
+  O  O13  1  0.450323  0.911293  0.365991  1
+  O  O14  1  0.950196  0.589410  0.863604  1
+  O  O15  1  0.931055  0.557159  0.360572  1
+  O  O16  1  0.431632  0.440000  0.639565  1
+  O  O17  1  0.452337  0.404108  0.139821  1
+  O  O18  1  0.952406  0.092852  0.636776  1
+  O  O19  1  0.928710  0.060486  0.136690  1

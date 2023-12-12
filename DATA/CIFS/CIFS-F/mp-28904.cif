@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Na2Te4O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00735357
+_cell_length_b   7.49488740
+_cell_length_c   10.77485352
+_cell_angle_alpha   70.43873146
+_cell_angle_beta   91.05942390
+_cell_angle_gamma   70.48415507
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Te4O9
+_chemical_formula_sum   'Na4 Te8 O18'
+_cell_volume   497.15126733
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.040461  0.156215  0.859604  1
+  O  O1  1  0.959539  0.843785  0.140396  1
+  O  O2  1  0.964971  0.875291  0.402576  1
+  O  O3  1  0.035029  0.124709  0.597424  1
+  O  O4  1  0.281836  0.144350  0.092268  1
+  O  O5  1  0.718164  0.855650  0.907732  1
+  O  O6  1  0.660132  0.332336  0.664938  1
+  O  O7  1  0.339868  0.667664  0.335062  1
+  O  O8  1  0.939167  0.493606  0.115471  1
+  O  O9  1  0.060833  0.506394  0.884529  1
+  O  O10  1  0.359575  0.143965  0.353751  1
+  O  O11  1  0.640425  0.856035  0.646249  1
+  O  O12  1  0.333159  0.503103  0.116395  1
+  O  O13  1  0.666841  0.496897  0.883605  1
+  O  O14  1  0.340237  0.659634  0.697977  1
+  O  O15  1  0.659763  0.340366  0.302023  1
+  O  O16  1  0.717798  0.682634  0.335473  1
+  O  O17  1  0.282202  0.317366  0.664527  1
+  Na  Na18  1  0.017217  0.179005  0.365847  1
+  Na  Na19  1  0.982783  0.820995  0.634153  1
+  Na  Na20  1  0.520404  0.219043  0.514343  1
+  Na  Na21  1  0.479596  0.780957  0.485657  1
+  Te  Te22  1  0.976844  0.322938  0.671107  1
+  Te  Te23  1  0.023156  0.677062  0.328893  1
+  Te  Te24  1  0.475161  0.210483  0.198670  1
+  Te  Te25  1  0.524839  0.789517  0.801330  1
+  Te  Te26  1  0.540531  0.629747  0.218503  1
+  Te  Te27  1  0.459469  0.370253  0.781497  1
+  Te  Te28  1  0.992040  0.286896  0.005762  1
+  Te  Te29  1  0.007960  0.713104  0.994238  1

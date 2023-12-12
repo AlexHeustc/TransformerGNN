@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_U6Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11104424
+_cell_length_b   7.71678935
+_cell_length_c   7.70413220
+_cell_angle_alpha   83.57665873
+_cell_angle_beta   70.75397344
+_cell_angle_gamma   70.76341161
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U6Ni
+_chemical_formula_sum   'U12 Ni2'
+_cell_volume   270.85632634
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.100936  0.674155  0.112378  1
+  U  U1  1  0.588064  0.499576  0.312288  1
+  U  U2  1  0.899096  0.690992  0.499358  1
+  U  U3  1  0.896139  0.323733  0.886645  1
+  U  U4  1  0.398530  0.503327  0.687925  1
+  U  U5  1  0.778423  0.111497  0.323949  1
+  U  U6  1  0.212421  0.885163  0.676300  1
+  U  U7  1  0.389829  0.891259  0.325119  1
+  U  U8  1  0.278190  0.324148  0.113399  1
+  U  U9  1  0.603857  0.108501  0.673981  1
+  U  U10  1  0.087349  0.312499  0.500588  1
+  U  U11  1  0.713820  0.673888  0.886865  1
+  Ni  Ni12  1  0.248508  0.997115  0.999821  1
+  Ni  Ni13  1  0.746329  0.000325  0.999050  1

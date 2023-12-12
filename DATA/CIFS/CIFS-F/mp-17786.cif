@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ba(SmTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.56134321
+_cell_length_b   13.93043312
+_cell_length_c   16.55769083
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(SmTe2)2
+_chemical_formula_sum   'Ba4 Sm8 Te16'
+_cell_volume   1052.10028875
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.250000  0.973869  0.716352  1
+  Te  Te1  1  0.750000  0.026131  0.283648  1
+  Te  Te2  1  0.250000  0.473869  0.783648  1
+  Te  Te3  1  0.750000  0.526131  0.216352  1
+  Te  Te4  1  0.250000  0.869855  0.471109  1
+  Te  Te5  1  0.750000  0.130145  0.528891  1
+  Te  Te6  1  0.250000  0.369855  0.028891  1
+  Te  Te7  1  0.750000  0.630145  0.971109  1
+  Te  Te8  1  0.250000  0.794218  0.166642  1
+  Te  Te9  1  0.750000  0.205782  0.833358  1
+  Te  Te10  1  0.250000  0.294218  0.333358  1
+  Te  Te11  1  0.750000  0.705782  0.666642  1
+  Te  Te12  1  0.750000  0.910429  0.921664  1
+  Te  Te13  1  0.250000  0.089571  0.078336  1
+  Te  Te14  1  0.750000  0.410429  0.578336  1
+  Te  Te15  1  0.250000  0.589571  0.421664  1
+  Ba  Ba16  1  0.750000  0.760424  0.331791  1
+  Ba  Ba17  1  0.250000  0.239576  0.668209  1
+  Ba  Ba18  1  0.750000  0.260424  0.168209  1
+  Ba  Ba19  1  0.250000  0.739576  0.831791  1
+  Sm  Sm20  1  0.250000  0.580397  0.096999  1
+  Sm  Sm21  1  0.750000  0.419603  0.903001  1
+  Sm  Sm22  1  0.250000  0.080397  0.403001  1
+  Sm  Sm23  1  0.750000  0.919603  0.596999  1
+  Sm  Sm24  1  0.750000  0.437356  0.391106  1
+  Sm  Sm25  1  0.250000  0.562644  0.608894  1
+  Sm  Sm26  1  0.750000  0.937356  0.108894  1
+  Sm  Sm27  1  0.250000  0.062644  0.891106  1

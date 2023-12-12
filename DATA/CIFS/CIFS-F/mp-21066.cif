@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaMnP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66707874
+_cell_length_b   6.07465902
+_cell_length_c   6.99418303
+_cell_angle_alpha   89.96239140
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaMnP
+_chemical_formula_sum   'Ta4 Mn4 P4'
+_cell_volume   155.80415661
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.750000  0.977438  0.821844  1
+  Ta  Ta1  1  0.250000  0.522552  0.322080  1
+  Ta  Ta2  1  0.250000  0.022548  0.178106  1
+  Ta  Ta3  1  0.750000  0.477453  0.677956  1
+  Mn  Mn4  1  0.750000  0.348195  0.059865  1
+  Mn  Mn5  1  0.250000  0.651834  0.940182  1
+  Mn  Mn6  1  0.750000  0.848072  0.440156  1
+  Mn  Mn7  1  0.250000  0.151933  0.559777  1
+  P  P8  1  0.250000  0.780953  0.622463  1
+  P  P9  1  0.750000  0.219009  0.377547  1
+  P  P10  1  0.250000  0.280817  0.877390  1
+  P  P11  1  0.750000  0.719195  0.122635  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_RbBaSiHO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08299471
+_cell_length_b   8.21619982
+_cell_length_c   6.18100674
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   121.60098942
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbBaSiHO4
+_chemical_formula_sum   'Rb2 Ba2 Si2 H2 O8'
+_cell_volume   263.11367250
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.346912  0.768374  0.626889  1
+  Rb  Rb1  1  0.653088  0.268374  0.373111  1
+  Ba  Ba2  1  0.995151  0.516481  0.985805  1
+  Ba  Ba3  1  0.004849  0.016481  0.014195  1
+  Si  Si4  1  0.681965  0.754483  0.299662  1
+  Si  Si5  1  0.318035  0.254483  0.700338  1
+  H  H6  1  0.946954  0.988494  0.483560  1
+  H  H7  1  0.053046  0.488494  0.516440  1
+  O  O8  1  0.366708  0.764165  0.151858  1
+  O  O9  1  0.633292  0.264165  0.848142  1
+  O  O10  1  0.790922  0.760116  0.106415  1
+  O  O11  1  0.209078  0.260116  0.893585  1
+  O  O12  1  0.807533  0.601714  0.500365  1
+  O  O13  1  0.192467  0.101714  0.499635  1
+  O  O14  1  0.801571  0.929172  0.484822  1
+  O  O15  1  0.198429  0.429172  0.515178  1

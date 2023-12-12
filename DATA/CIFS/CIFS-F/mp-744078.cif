@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_La5Re3NiO16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68695613
+_cell_length_b   5.67777889
+_cell_length_c   10.21036520
+_cell_angle_alpha   86.50068712
+_cell_angle_beta   93.53968531
+_cell_angle_gamma   89.36499640
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La5Re3NiO16
+_chemical_formula_sum   'La5 Re3 Ni1 O16'
+_cell_volume   328.40637446
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.026249  0.485957  0.196820  1
+  La  La1  1  0.973751  0.514043  0.803180  1
+  La  La2  1  0.507311  0.965744  0.204954  1
+  La  La3  1  0.492689  0.034256  0.795046  1
+  La  La4  1  0.000000  0.000000  0.500000  1
+  Re  Re5  1  0.444546  0.556420  0.605793  1
+  Re  Re6  1  0.555454  0.443580  0.394207  1
+  Re  Re7  1  0.000000  0.000000  0.000000  1
+  Ni  Ni8  1  0.500000  0.500000  0.000000  1
+  O  O9  1  0.303860  0.689648  0.434845  1
+  O  O10  1  0.696140  0.310352  0.565155  1
+  O  O11  1  0.218795  0.777172  0.676257  1
+  O  O12  1  0.781205  0.222828  0.323743  1
+  O  O13  1  0.549295  0.454741  0.803057  1
+  O  O14  1  0.450705  0.545259  0.196943  1
+  O  O15  1  0.922280  0.070602  0.817591  1
+  O  O16  1  0.077720  0.929398  0.182409  1
+  O  O17  1  0.231450  0.296168  0.637534  1
+  O  O18  1  0.768550  0.703832  0.362466  1
+  O  O19  1  0.696564  0.777602  0.634622  1
+  O  O20  1  0.303436  0.222398  0.365378  1
+  O  O21  1  0.812120  0.696802  -0.000012  1
+  O  O22  1  0.187880  0.303198  0.000012  1
+  O  O23  1  0.712049  0.182816  0.037322  1
+  O  O24  1  0.287951  0.817184  0.962678  1

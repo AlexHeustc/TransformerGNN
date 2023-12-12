@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Li5Mn4P4O16F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28003310
+_cell_length_b   8.32109493
+_cell_length_c   8.32109493
+_cell_angle_alpha   95.77711414
+_cell_angle_beta   108.49777735
+_cell_angle_gamma   71.50222265
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5Mn4P4O16F
+_chemical_formula_sum   'Li5 Mn4 P4 O16 F1'
+_cell_volume   328.79260362
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.500000  0.000000  0.000000  1
+  Li  Li1  1  0.989147  0.454769  0.329308  1
+  Li  Li2  1  0.556084  0.329308  0.545231  1
+  Li  Li3  1  0.340161  0.670692  0.454769  1
+  Li  Li4  1  0.114608  0.545231  0.670692  1
+  Mn  Mn5  1  0.118724  0.047845  0.283926  1
+  Mn  Mn6  1  0.165201  0.716074  0.047845  1
+  Mn  Mn7  1  0.833431  0.283926  0.952155  1
+  Mn  Mn8  1  0.882644  0.952155  0.716074  1
+  P  P9  1  0.439670  0.345375  0.164831  1
+  P  P10  1  0.214955  0.164831  0.654625  1
+  P  P11  1  0.725161  0.835169  0.345375  1
+  P  P12  1  0.620214  0.654625  0.835169  1
+  O  O13  1  0.301377  0.199942  0.129046  1
+  O  O14  1  0.768938  0.272736  0.204207  1
+  O  O15  1  0.668752  0.994899  0.456524  1
+  O  O16  1  0.787771  0.543476  0.994899  1
+  O  O17  1  0.374127  0.449274  0.319529  1
+  O  O18  1  0.176598  0.319529  0.550726  1
+  O  O19  1  0.498682  0.129046  0.800058  1
+  O  O20  1  0.958324  0.204207  0.727264  1
+  O  O21  1  0.435268  0.795793  0.272736  1
+  O  O22  1  0.827669  0.870954  0.199942  1
+  O  O23  1  0.945401  0.680471  0.449274  1
+  O  O24  1  0.503872  0.550726  0.680471  1
+  O  O25  1  0.336348  0.456524  0.005101  1
+  O  O26  1  0.207128  0.005101  0.543476  1
+  O  O27  1  0.837468  0.727264  0.795793  1
+  O  O28  1  0.372273  0.800058  0.870954  1
+  F  F29  1  0.000000  0.000000  0.000000  1

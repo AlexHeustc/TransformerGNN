@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_U3(Si3Pd10)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.76396033
+_cell_length_b   8.76424866
+_cell_length_c   8.76189193
+_cell_angle_alpha   59.99464963
+_cell_angle_beta   60.00839277
+_cell_angle_gamma   59.98451230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U3(Si3Pd10)2
+_chemical_formula_sum   'U3 Si6 Pd20'
+_cell_volume   475.83578484
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.250022  0.249877  0.250108  1
+  U  U1  1  0.750021  0.749962  0.750018  1
+  U  U2  1  0.999985  0.000008  0.000003  1
+  Si  Si3  1  0.267025  0.267037  0.732967  1
+  Si  Si4  1  0.733016  0.266987  0.266981  1
+  Si  Si5  1  0.732969  0.732983  0.267021  1
+  Si  Si6  1  0.733035  0.266965  0.733034  1
+  Si  Si7  1  0.266975  0.733026  0.733011  1
+  Si  Si8  1  0.266957  0.733041  0.266964  1
+  Pd  Pd9  1  0.653744  0.000109  0.000116  1
+  Pd  Pd10  1  0.850792  0.383084  0.383069  1
+  Pd  Pd11  1  0.653788  0.346020  0.000088  1
+  Pd  Pd12  1  0.000098  0.000098  0.346037  1
+  Pd  Pd13  1  0.346020  0.000128  0.653783  1
+  Pd  Pd14  1  0.149871  0.616717  0.616700  1
+  Pd  Pd15  1  0.000123  0.346031  0.653771  1
+  Pd  Pd16  1  0.383079  0.383081  0.850738  1
+  Pd  Pd17  1  0.000088  0.653765  0.346021  1
+  Pd  Pd18  1  0.383060  0.383087  0.383098  1
+  Pd  Pd19  1  0.000087  0.653781  0.000126  1
+  Pd  Pd20  1  0.000131  0.346016  0.000056  1
+  Pd  Pd21  1  0.616713  0.616722  0.616725  1
+  Pd  Pd22  1  0.616705  0.616728  0.149838  1
+  Pd  Pd23  1  0.616715  0.149861  0.616712  1
+  Pd  Pd24  1  0.653766  0.000087  0.346017  1
+  Pd  Pd25  1  0.346037  0.000115  0.000069  1
+  Pd  Pd26  1  0.383077  0.850784  0.383063  1
+  Pd  Pd27  1  0.346010  0.653793  0.000098  1
+  Pd  Pd28  1  0.000090  0.000105  0.653767  1

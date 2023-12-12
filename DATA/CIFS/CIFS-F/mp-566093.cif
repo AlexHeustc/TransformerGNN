@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_MnSO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04532073
+_cell_length_b   8.04532063
+_cell_length_c   8.04532048
+_cell_angle_alpha   109.26174876
+_cell_angle_beta   109.26174847
+_cell_angle_gamma   109.26175429
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnSO3
+_chemical_formula_sum   'Mn6 S6 O18'
+_cell_volume   403.95330283
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.681377  0.365386  0.185964  1
+  Mn  Mn1  1  0.634614  0.814036  0.318623  1
+  Mn  Mn2  1  0.814036  0.318623  0.634614  1
+  Mn  Mn3  1  0.365386  0.185964  0.681377  1
+  Mn  Mn4  1  0.185964  0.681377  0.365386  1
+  Mn  Mn5  1  0.318623  0.634614  0.814036  1
+  S  S6  1  0.024563  0.210412  0.352397  1
+  S  S7  1  0.789588  0.647603  0.975437  1
+  S  S8  1  0.352397  0.024563  0.210412  1
+  S  S9  1  0.975437  0.789588  0.647603  1
+  S  S10  1  0.647603  0.975437  0.789588  1
+  S  S11  1  0.210412  0.352397  0.024563  1
+  O  O12  1  0.340867  0.555097  0.229564  1
+  O  O13  1  0.132378  0.879715  0.585717  1
+  O  O14  1  0.414283  0.867622  0.120285  1
+  O  O15  1  0.688670  0.019531  0.628359  1
+  O  O16  1  0.311330  0.980469  0.371641  1
+  O  O17  1  0.019531  0.628359  0.688670  1
+  O  O18  1  0.980469  0.371641  0.311330  1
+  O  O19  1  0.444903  0.770436  0.659133  1
+  O  O20  1  0.659133  0.444903  0.770436  1
+  O  O21  1  0.585717  0.132378  0.879715  1
+  O  O22  1  0.229564  0.340867  0.555097  1
+  O  O23  1  0.555097  0.229564  0.340867  1
+  O  O24  1  0.879715  0.585717  0.132378  1
+  O  O25  1  0.120285  0.414283  0.867622  1
+  O  O26  1  0.867622  0.120285  0.414283  1
+  O  O27  1  0.371641  0.311330  0.980469  1
+  O  O28  1  0.770436  0.659133  0.444903  1
+  O  O29  1  0.628359  0.688670  0.019531  1

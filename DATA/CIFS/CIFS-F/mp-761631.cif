@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ti2Fe4O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51593313
+_cell_length_b   5.14511159
+_cell_length_c   11.67301748
+_cell_angle_alpha   102.81818247
+_cell_angle_beta   82.08696695
+_cell_angle_gamma   91.13795523
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Fe4O9
+_chemical_formula_sum   'Ti4 Fe8 O18'
+_cell_volume   319.93007389
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.334296  0.950626  0.902990  1
+  Ti  Ti1  1  0.010061  0.293118  0.573208  1
+  Ti  Ti2  1  0.989939  0.706882  0.426792  1
+  Ti  Ti3  1  0.665704  0.049374  0.097010  1
+  Fe  Fe4  1  0.841911  0.453483  0.903517  1
+  Fe  Fe5  1  0.332388  0.382068  0.763637  1
+  Fe  Fe6  1  0.816597  0.885342  0.763708  1
+  Fe  Fe7  1  0.489040  0.211291  0.432030  1
+  Fe  Fe8  1  0.510960  0.788709  0.567970  1
+  Fe  Fe9  1  0.183403  0.114658  0.236292  1
+  Fe  Fe10  1  0.667612  0.617932  0.236363  1
+  Fe  Fe11  1  0.158089  0.546517  0.096483  1
+  O  O12  1  0.576704  0.211351  0.832589  1
+  O  O13  1  0.683370  0.839808  0.940930  1
+  O  O14  1  0.972870  0.515803  0.726131  1
+  O  O15  1  0.092007  0.095068  0.833481  1
+  O  O16  1  0.190755  0.629466  0.930481  1
+  O  O17  1  0.486043  0.714901  0.738225  1
+  O  O18  1  0.335938  0.164747  0.604419  1
+  O  O19  1  0.769997  0.440780  0.501862  1
+  O  O20  1  0.858771  0.968429  0.602317  1
+  O  O21  1  0.141229  0.031571  0.397683  1
+  O  O22  1  0.230003  0.559220  0.498138  1
+  O  O23  1  0.664062  0.835253  0.395581  1
+  O  O24  1  0.513957  0.285099  0.261775  1
+  O  O25  1  0.809245  0.370534  0.069519  1
+  O  O26  1  0.907993  0.904932  0.166519  1
+  O  O27  1  0.027130  0.484197  0.273869  1
+  O  O28  1  0.316630  0.160192  0.059070  1
+  O  O29  1  0.423296  0.788649  0.167411  1

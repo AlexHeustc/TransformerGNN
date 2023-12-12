@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_ZnGaNO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52985930
+_cell_length_b   6.53030097
+_cell_length_c   10.57084073
+_cell_angle_alpha   89.87203718
+_cell_angle_beta   90.01401821
+_cell_angle_gamma   119.84910442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnGaNO
+_chemical_formula_sum   'Zn8 Ga8 N8 O8'
+_cell_volume   390.96171515
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.843707  0.671117  0.738308  1
+  Zn  Zn1  1  0.833118  0.167195  0.737914  1
+  Zn  Zn2  1  0.661132  0.838523  0.489633  1
+  Zn  Zn3  1  0.328502  0.156712  0.735442  1
+  Zn  Zn4  1  0.654616  0.827216  0.001174  1
+  Zn  Zn5  1  0.168171  0.333610  0.489037  1
+  Zn  Zn6  1  0.839809  0.661352  0.253156  1
+  Zn  Zn7  1  0.660612  0.322102  0.493665  1
+  Ga  Ga8  1  0.669603  0.334159  0.007950  1
+  Ga  Ga9  1  0.326144  0.670231  0.747443  1
+  Ga  Ga10  1  0.171420  0.346112  0.005086  1
+  Ga  Ga11  1  0.323728  0.665167  0.256063  1
+  Ga  Ga12  1  0.332525  0.163028  0.254704  1
+  Ga  Ga13  1  0.835788  0.175016  0.258508  1
+  Ga  Ga14  1  0.171746  0.825221  0.006050  1
+  Ga  Ga15  1  0.177468  0.838390  0.496844  1
+  N  N16  1  0.171518  0.828093  0.683049  1
+  N  N17  1  0.835885  0.167695  0.436389  1
+  N  N18  1  0.327665  0.668784  0.434942  1
+  N  N19  1  0.660296  0.323295  0.186138  1
+  N  N20  1  0.175416  0.839071  0.184526  1
+  N  N21  1  0.327383  0.157443  0.435508  1
+  N  N22  1  0.323658  0.661572  0.933653  1
+  N  N23  1  0.167072  0.332973  0.185988  1
+  O  O24  1  0.665434  0.335220  0.696549  1
+  O  O25  1  0.840797  0.179733  0.943302  1
+  O  O26  1  0.846008  0.673331  0.444398  1
+  O  O27  1  0.174821  0.346407  0.698733  1
+  O  O28  1  0.333706  0.168210  0.945553  1
+  O  O29  1  0.660718  0.839122  0.191642  1
+  O  O30  1  0.839205  0.659526  0.945804  1
+  O  O31  1  0.652329  0.824371  0.698834  1

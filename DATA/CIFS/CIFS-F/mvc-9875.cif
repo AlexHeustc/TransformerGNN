@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaZnCrSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50495341
+_cell_length_b   5.69818642
+_cell_length_c   7.98583181
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.92054233
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaZnCrSbO6
+_chemical_formula_sum   'La2 Zn2 Cr2 Sb2 O12'
+_cell_volume   250.50133369
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.013139  0.947727  0.749947  1
+  La  La1  1  0.513139  0.552273  0.249947  1
+  Zn  Zn2  1  0.494583  0.488944  0.750195  1
+  Zn  Zn3  1  0.994583  0.011056  0.250195  1
+  Cr  Cr4  1  0.500871  0.009645  0.500034  1
+  Cr  Cr5  1  0.000871  0.490355  0.000034  1
+  Sb  Sb6  1  0.500459  0.015617  0.999372  1
+  Sb  Sb7  1  0.000459  0.484383  0.499372  1
+  O  O8  1  0.095254  0.441204  0.249609  1
+  O  O9  1  0.200007  0.204714  0.944033  1
+  O  O10  1  0.201818  0.203021  0.558342  1
+  O  O11  1  0.311740  0.684227  0.934993  1
+  O  O12  1  0.319165  0.688504  0.561285  1
+  O  O13  1  0.362958  0.968819  0.252191  1
+  O  O14  1  0.595254  0.058796  0.749609  1
+  O  O15  1  0.700007  0.295286  0.444033  1
+  O  O16  1  0.701818  0.296979  0.058342  1
+  O  O17  1  0.811740  0.815773  0.434993  1
+  O  O18  1  0.819165  0.811496  0.061285  1
+  O  O19  1  0.862958  0.531181  0.752191  1

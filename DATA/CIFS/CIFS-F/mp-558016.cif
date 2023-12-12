@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CaMgAsO4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66172093
+_cell_length_b   5.66172067
+_cell_length_c   7.20674312
+_cell_angle_alpha   103.86068257
+_cell_angle_beta   103.86068193
+_cell_angle_gamma   106.19156152
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMgAsO4F
+_chemical_formula_sum   'Ca2 Mg2 As2 O8 F2'
+_cell_volume   203.42988004
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.835392  0.670243  0.757568  1
+  Ca  Ca1  1  0.170243  0.335392  0.257568  1
+  Mg  Mg2  1  0.502979  0.004651  0.999528  1
+  Mg  Mg3  1  0.504651  0.002979  0.499528  1
+  As  As4  1  0.823836  0.681887  0.250621  1
+  As  As5  1  0.181887  0.323837  0.750621  1
+  O  O6  1  0.243786  0.622053  0.921885  1
+  O  O7  1  0.602920  0.674550  0.379730  1
+  O  O8  1  0.830842  0.902798  0.120812  1
+  O  O9  1  0.764648  0.385930  0.077199  1
+  O  O10  1  0.174550  0.102920  0.879730  1
+  O  O11  1  0.402798  0.330842  0.620812  1
+  O  O12  1  0.122053  0.743786  0.421885  1
+  O  O13  1  0.885930  0.264648  0.577199  1
+  F  F14  1  0.422920  0.087566  0.250456  1
+  F  F15  1  0.587566  0.922920  0.750456  1

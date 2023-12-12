@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_Mn2Cu5P4(HO9)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.98285317
+_cell_length_b   7.63339970
+_cell_length_c   5.42870997
+_cell_angle_alpha   101.85769272
+_cell_angle_beta   95.60999730
+_cell_angle_gamma   108.49260295
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Cu5P4(HO9)2
+_chemical_formula_sum   'Mn2 Cu5 P4 H2 O18'
+_cell_volume   340.12563515
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.980205  0.289312  0.548028  1
+  Mn  Mn1  1  0.019795  0.710688  0.451972  1
+  Cu  Cu2  1  0.000000  0.000000  0.000000  1
+  Cu  Cu3  1  0.496512  0.894568  0.727857  1
+  Cu  Cu4  1  0.503488  0.105432  0.272143  1
+  Cu  Cu5  1  0.617815  0.530012  0.760362  1
+  Cu  Cu6  1  0.382185  0.469988  0.239638  1
+  P  P7  1  0.197062  0.712043  0.001690  1
+  P  P8  1  0.802938  0.287957  0.998310  1
+  P  P9  1  0.263980  0.155956  0.659749  1
+  P  P10  1  0.736020  0.844044  0.340251  1
+  H  H11  1  0.346368  0.557119  0.666182  1
+  H  H12  1  0.653632  0.442881  0.333818  1
+  O  O13  1  0.445374  0.619233  0.606779  1
+  O  O14  1  0.554626  0.380767  0.393221  1
+  O  O15  1  0.779608  0.414769  0.821230  1
+  O  O16  1  0.220392  0.585231  0.178770  1
+  O  O17  1  0.370864  0.051498  0.531956  1
+  O  O18  1  0.629136  0.948502  0.468044  1
+  O  O19  1  0.921228  0.194550  0.882257  1
+  O  O20  1  0.078772  0.805450  0.117743  1
+  O  O21  1  0.122141  0.593103  0.723155  1
+  O  O22  1  0.877859  0.406897  0.276845  1
+  O  O23  1  0.804030  0.751091  0.530952  1
+  O  O24  1  0.195970  0.248909  0.469048  1
+  O  O25  1  0.643158  0.131909  0.007070  1
+  O  O26  1  0.356842  0.868091  0.992930  1
+  O  O27  1  0.124771  0.994683  0.720727  1
+  O  O28  1  0.875229  0.005317  0.279273  1
+  O  O29  1  0.362418  0.308307  0.903352  1
+  O  O30  1  0.637582  0.691693  0.096648  1

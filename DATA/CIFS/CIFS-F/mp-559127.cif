@@ -1,0 +1,57 @@
+# generated using pymatgen
+data_K2Zn2Si8O19
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16451584
+_cell_length_b   7.45424109
+_cell_length_c   12.57837806
+_cell_angle_alpha   106.12676379
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   110.26817194
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Zn2Si8O19
+_chemical_formula_sum   'K2 Zn2 Si8 O19'
+_cell_volume   433.88375158
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.344697  0.753918  0.351303  1
+  K  K1  1  0.590779  0.246082  0.648697  1
+  Zn  Zn2  1  0.304189  0.600928  0.588695  1
+  Zn  Zn3  1  0.703261  0.399072  0.411305  1
+  Si  Si4  1  0.146698  0.004692  0.167343  1
+  Si  Si5  1  0.068939  0.145995  0.424629  1
+  Si  Si6  1  0.528895  0.748166  0.073277  1
+  Si  Si7  1  0.922944  0.854005  0.575371  1
+  Si  Si8  1  0.204637  0.592029  0.840519  1
+  Si  Si9  1  0.142006  0.995308  0.832657  1
+  Si  Si10  1  0.780728  0.251834  0.926723  1
+  Si  Si11  1  0.612608  0.407971  0.159481  1
+  O  O12  1  0.453578  0.650310  0.939575  1
+  O  O13  1  0.803267  0.349690  0.060425  1
+  O  O14  1  0.122170  0.026738  0.299107  1
+  O  O15  1  0.777933  0.489191  0.281078  1
+  O  O16  1  0.095432  0.973262  0.700893  1
+  O  O17  1  0.094179  0.000000  0.500000  1
+  O  O18  1  0.323946  0.214706  0.145446  1
+  O  O19  1  0.301327  0.844338  0.125941  1
+  O  O20  1  0.838693  0.919386  0.100613  1
+  O  O21  1  0.456989  0.155662  0.874059  1
+  O  O22  1  0.768700  0.165956  0.428428  1
+  O  O23  1  0.511780  0.582221  0.136561  1
+  O  O24  1  0.327431  0.362531  0.466482  1
+  O  O25  1  0.109240  0.785294  0.854554  1
+  O  O26  1  0.919307  0.080614  0.899387  1
+  O  O27  1  0.602744  0.834044  0.571572  1
+  O  O28  1  0.288741  0.510809  0.718922  1
+  O  O29  1  0.964901  0.637469  0.533518  1
+  O  O30  1  0.929560  0.417779  0.863439  1

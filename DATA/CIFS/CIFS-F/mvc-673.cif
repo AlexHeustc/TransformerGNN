@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AlCr(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03609539
+_cell_length_b   6.97433574
+_cell_length_c   6.32638919
+_cell_angle_alpha   108.85303263
+_cell_angle_beta   119.62770404
+_cell_angle_gamma   97.65566204
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCr(WO4)2
+_chemical_formula_sum   'Al1 Cr1 W2 O8'
+_cell_volume   170.80492759
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.651067  0.576164  0.104301  1
+  Cr  Cr1  1  0.122190  0.230010  0.095023  1
+  W  W2  1  0.906651  0.389047  0.609308  1
+  W  W3  1  0.335863  0.079961  0.584294  1
+  O  O4  1  0.280104  0.623737  0.910721  1
+  O  O5  1  0.616243  0.473693  0.323232  1
+  O  O6  1  0.143173  0.195493  0.778055  1
+  O  O7  1  0.510933  0.106092  0.383133  1
+  O  O8  1  0.639779  0.009837  0.822320  1
+  O  O9  1  0.001069  0.816364  0.328812  1
+  O  O10  1  0.081902  0.268137  0.403670  1
+  O  O11  1  0.707025  0.409964  0.853228  1

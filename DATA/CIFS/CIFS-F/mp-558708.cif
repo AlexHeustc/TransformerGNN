@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Nd2Cu(GeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21112332
+_cell_length_b   8.53561066
+_cell_length_c   9.17785386
+_cell_angle_alpha   117.40085393
+_cell_angle_beta   106.02027678
+_cell_angle_gamma   90.97992687
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2Cu(GeO4)2
+_chemical_formula_sum   'Nd4 Cu2 Ge4 O16'
+_cell_volume   343.35291697
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.408962  0.118808  0.757577  1
+  Nd  Nd1  1  0.662049  0.863313  0.241480  1
+  Nd  Nd2  1  0.420241  0.621890  0.758497  1
+  Nd  Nd3  1  0.651225  0.361226  0.242406  1
+  Cu  Cu4  1  0.814297  0.822741  0.586241  1
+  Cu  Cu5  1  0.228058  0.236560  0.413763  1
+  Ge  Ge6  1  0.989008  1.000450  0.000047  1
+  Ge  Ge7  1  0.227339  0.694168  0.420842  1
+  Ge  Ge8  1  0.084695  0.495653  0.999973  1
+  Ge  Ge9  1  0.806463  0.273304  0.579138  1
+  O  O10  1  0.579282  0.406893  0.517844  1
+  O  O11  1  0.287642  0.664763  1.000015  1
+  O  O12  1  0.288082  0.331714  -0.000015  1
+  O  O13  1  0.783317  0.830868  -0.000000  1
+  O  O14  1  0.849229  0.162230  0.347101  1
+  O  O15  1  0.777745  0.404477  0.815765  1
+  O  O16  1  0.102709  0.912742  0.813434  1
+  O  O17  1  0.174703  0.321953  0.655136  1
+  O  O18  1  0.773154  0.161256  1.000048  1
+  O  O19  1  0.502137  0.815110  0.652882  1
+  O  O20  1  0.961985  0.588704  0.184206  1
+  O  O21  1  0.080416  0.538940  0.466461  1
+  O  O22  1  0.519574  0.666786  0.344845  1
+  O  O23  1  0.289398  0.099374  0.186620  1
+  O  O24  1  0.614018  0.072432  0.533531  1
+  O  O25  1  0.061473  0.889042  0.482162  1

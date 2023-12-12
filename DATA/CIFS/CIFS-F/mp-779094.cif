@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Fe10O11F9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73555037
+_cell_length_b   4.75059885
+_cell_length_c   15.37415887
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   92.34701288
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe10O11F9
+_chemical_formula_sum   'Fe10 O11 F9'
+_cell_volume   345.57770378
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.000786  0.985279  0.997011  1
+  Fe  Fe1  1  0.000786  0.985279  0.202989  1
+  Fe  Fe2  1  0.042832  0.998288  0.399414  1
+  Fe  Fe3  1  0.044512  0.989275  0.600000  1
+  Fe  Fe4  1  0.042832  0.998288  0.800586  1
+  Fe  Fe5  1  0.502043  0.490511  0.100000  1
+  Fe  Fe6  1  0.462052  0.497552  0.497128  1
+  Fe  Fe7  1  0.464849  0.511426  0.291258  1
+  Fe  Fe8  1  0.462052  0.497552  0.702872  1
+  Fe  Fe9  1  0.464849  0.511426  0.908742  1
+  O  O10  1  0.189866  0.810523  0.296936  1
+  O  O11  1  0.201544  0.809017  0.498576  1
+  O  O12  1  0.201544  0.809017  0.701424  1
+  O  O13  1  0.189866  0.810523  0.903064  1
+  O  O14  1  0.301277  0.297580  0.008116  1
+  O  O15  1  0.301277  0.297580  0.191884  1
+  O  O16  1  0.309643  0.316171  0.394601  1
+  O  O17  1  0.308905  0.311595  0.600000  1
+  O  O18  1  0.309643  0.316171  0.805399  1
+  O  O19  1  0.690422  0.687591  0.006675  1
+  O  O20  1  0.690422  0.687591  0.193325  1
+  F  F21  1  0.186608  0.799001  0.100000  1
+  F  F22  1  0.700325  0.705500  0.396610  1
+  F  F23  1  0.702104  0.701682  0.600000  1
+  F  F24  1  0.700325  0.705500  0.803390  1
+  F  F25  1  0.809433  0.179778  0.100000  1
+  F  F26  1  0.807767  0.198828  0.497670  1
+  F  F27  1  0.801836  0.196322  0.298630  1
+  F  F28  1  0.801836  0.196322  0.901370  1
+  F  F29  1  0.807767  0.198828  0.702330  1

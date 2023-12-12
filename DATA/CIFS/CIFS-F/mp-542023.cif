@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sc2FeB2Rh5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.08426017
+_cell_length_b   9.32826805
+_cell_length_c   9.32826805
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2FeB2Rh5
+_chemical_formula_sum   'Sc4 Fe2 B4 Rh10'
+_cell_volume   268.38178667
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.500000  0.215849  0.070655  1
+  Rh  Rh1  1  0.500000  0.929345  0.215849  1
+  Rh  Rh2  1  0.500000  0.070655  0.784151  1
+  Rh  Rh3  1  0.500000  0.784151  0.929345  1
+  Rh  Rh4  1  0.500000  0.715849  0.429345  1
+  Rh  Rh5  1  0.500000  0.284151  0.570655  1
+  Rh  Rh6  1  0.500000  0.570655  0.715849  1
+  Rh  Rh7  1  0.500000  0.429345  0.284151  1
+  Rh  Rh8  1  0.500000  0.000000  0.500000  1
+  Rh  Rh9  1  0.500000  0.500000  0.000000  1
+  Sc  Sc10  1  0.000000  0.324766  0.824766  1
+  Sc  Sc11  1  0.000000  0.175234  0.324766  1
+  Sc  Sc12  1  0.000000  0.824766  0.675234  1
+  Sc  Sc13  1  0.000000  0.675234  0.175234  1
+  B  B14  1  0.000000  0.124306  0.624306  1
+  B  B15  1  0.000000  0.375694  0.124306  1
+  B  B16  1  0.000000  0.624306  0.875694  1
+  B  B17  1  0.000000  0.875694  0.375694  1
+  Fe  Fe18  1  0.000000  0.000000  0.000000  1
+  Fe  Fe19  1  0.000000  0.500000  0.500000  1

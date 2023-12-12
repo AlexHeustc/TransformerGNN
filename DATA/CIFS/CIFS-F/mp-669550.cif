@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Ce3Mn(Al3Cu)8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.44730607
+_cell_length_b   8.44852402
+_cell_length_c   8.44879386
+_cell_angle_alpha   90.01593415
+_cell_angle_beta   90.00025419
+_cell_angle_gamma   89.99714459
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3Mn(Al3Cu)8
+_chemical_formula_sum   'Ce3 Mn1 Al24 Cu8'
+_cell_volume   602.96731423
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.000014  0.999987  0.499999  1
+  Ce  Ce1  1  0.500002  0.999992  0.000001  1
+  Ce  Ce2  1  0.000008  0.499999  0.000003  1
+  Mn  Mn3  1  0.499806  0.500146  0.499989  1
+  Al  Al4  1  -0.000000  0.336400  0.336390  1
+  Al  Al5  1  0.271080  0.271122  0.500008  1
+  Al  Al6  1  0.663573  0.336353  -0.000000  1
+  Al  Al7  1  0.663560  0.663623  0.000001  1
+  Al  Al8  1  0.336439  0.663637  0.000006  1
+  Al  Al9  1  0.000008  0.336373  0.663638  1
+  Al  Al10  1  0.663587  0.999997  0.663640  1
+  Al  Al11  1  0.663587  0.000001  0.336361  1
+  Al  Al12  1  0.728924  0.271124  0.500011  1
+  Al  Al13  1  0.336449  0.336369  0.999994  1
+  Al  Al14  1  0.271095  0.499994  0.728690  1
+  Al  Al15  1  0.000002  0.663592  0.663609  1
+  Al  Al16  1  0.500005  0.271025  0.271199  1
+  Al  Al17  1  0.336425  0.999992  0.336360  1
+  Al  Al18  1  0.500008  0.728975  0.728805  1
+  Al  Al19  1  0.500012  0.728973  0.271192  1
+  Al  Al20  1  0.000004  0.663618  0.336363  1
+  Al  Al21  1  0.728920  0.499994  0.728693  1
+  Al  Al22  1  0.271088  0.499995  0.271305  1
+  Al  Al23  1  0.500008  0.271024  0.728805  1
+  Al  Al24  1  0.271082  0.728877  0.499992  1
+  Al  Al25  1  0.336424  -0.000001  0.663638  1
+  Al  Al26  1  0.728929  0.728874  0.499989  1
+  Al  Al27  1  0.728913  0.499996  0.271312  1
+  Cu  Cu28  1  0.845394  0.845390  0.845400  1
+  Cu  Cu29  1  0.845380  0.154565  0.845421  1
+  Cu  Cu30  1  0.154631  0.154565  0.845428  1
+  Cu  Cu31  1  0.845373  0.845412  0.154583  1
+  Cu  Cu32  1  0.845407  0.154585  0.154595  1
+  Cu  Cu33  1  0.154614  0.845387  0.845391  1
+  Cu  Cu34  1  0.154623  0.154612  0.154615  1
+  Cu  Cu35  1  0.154625  0.845433  0.154573  1

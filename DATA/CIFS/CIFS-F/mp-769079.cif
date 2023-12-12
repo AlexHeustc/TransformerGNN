@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_ScGaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79015836
+_cell_length_b   5.79013655
+_cell_length_c   11.57084411
+_cell_angle_alpha   89.99941613
+_cell_angle_beta   90.00122085
+_cell_angle_gamma   119.99925598
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScGaO3
+_chemical_formula_sum   'Sc6 Ga6 O18'
+_cell_volume   335.95273232
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.333319  0.666676  0.236765  1
+  Sc  Sc1  1  -0.000004  0.000013  0.275687  1
+  Sc  Sc2  1  0.999983  0.999988  0.775689  1
+  Sc  Sc3  1  0.333319  0.666654  0.736762  1
+  Sc  Sc4  1  0.666648  0.333313  0.736763  1
+  Sc  Sc5  1  0.666662  0.333347  0.236770  1
+  Ga  Ga6  1  0.999992  0.665885  0.502946  1
+  Ga  Ga7  1  -0.000002  0.334116  0.002944  1
+  Ga  Ga8  1  0.334095  0.334096  0.502948  1
+  Ga  Ga9  1  0.665892  0.665901  0.002948  1
+  Ga  Ga10  1  0.334114  0.000011  0.002942  1
+  Ga  Ga11  1  0.665881  0.999988  0.502948  1
+  O  O12  1  0.999980  0.696194  0.670894  1
+  O  O13  1  0.999995  0.635810  0.337909  1
+  O  O14  1  0.999993  0.364192  0.837901  1
+  O  O15  1  0.999999  0.303805  0.170901  1
+  O  O16  1  0.333338  0.666678  0.028004  1
+  O  O17  1  0.000004  0.999999  0.474340  1
+  O  O18  1  0.000004  0.000014  0.974322  1
+  O  O19  1  0.333318  0.666648  0.528000  1
+  O  O20  1  0.303790  0.303783  0.670894  1
+  O  O21  1  0.364191  0.364213  0.337909  1
+  O  O22  1  0.303791  0.000007  0.170901  1
+  O  O23  1  0.635788  0.635789  0.837907  1
+  O  O24  1  0.696199  0.696219  0.170901  1
+  O  O25  1  0.364193  0.999991  0.837900  1
+  O  O26  1  0.666659  0.333328  0.527999  1
+  O  O27  1  0.666665  0.333342  0.028003  1
+  O  O28  1  0.635798  0.000009  0.337907  1
+  O  O29  1  0.696195  0.999992  0.670896  1

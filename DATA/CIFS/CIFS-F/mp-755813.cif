@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sc6N2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02730304
+_cell_length_b   4.42237801
+_cell_length_c   5.47239963
+_cell_angle_alpha   66.16763632
+_cell_angle_beta   97.76575051
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc6N2O5
+_chemical_formula_sum   'Sc6 N2 O5'
+_cell_volume   153.85981441
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.283891  0.564722  0.870556  1
+  Sc  Sc1  1  0.138515  0.291851  0.416298  1
+  Sc  Sc2  1  0.577137  0.145861  0.708276  1
+  Sc  Sc3  1  0.422863  0.854139  0.291724  1
+  Sc  Sc4  1  0.861485  0.708149  0.583702  1
+  Sc  Sc5  1  0.716109  0.435278  0.129444  1
+  N  N6  1  0.425483  0.357603  0.284794  1
+  N  N7  1  0.574517  0.642397  0.715206  1
+  O  O8  1  0.296454  0.077688  0.844625  1
+  O  O9  1  0.000000  0.500000  0.000000  1
+  O  O10  1  0.145435  0.773019  0.453962  1
+  O  O11  1  0.854565  0.226981  0.546038  1
+  O  O12  1  0.703546  0.922312  0.155375  1

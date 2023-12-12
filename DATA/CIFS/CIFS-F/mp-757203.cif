@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_NaPH4SO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47281055
+_cell_length_b   6.84533310
+_cell_length_c   8.82088015
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   95.42208450
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPH4SO8
+_chemical_formula_sum   'Na2 P2 H8 S2 O16'
+_cell_volume   328.97989782
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.013033  0.139584  0.445727  1
+  Na  Na1  1  0.986967  0.639584  0.554273  1
+  P  P2  1  0.118466  0.880451  0.878323  1
+  P  P3  1  0.881534  0.380451  0.121677  1
+  H  H4  1  0.086977  0.496127  0.931478  1
+  H  H5  1  0.154035  0.580166  0.249161  1
+  H  H6  1  0.428221  0.085977  0.861188  1
+  H  H7  1  0.451691  0.610127  0.778090  1
+  H  H8  1  0.548309  0.110127  0.221910  1
+  H  H9  1  0.571779  0.585977  0.138812  1
+  H  H10  1  0.845965  0.080166  0.750839  1
+  H  H11  1  0.913023  0.996127  0.068522  1
+  S  S12  1  0.458622  0.863960  0.361354  1
+  S  S13  1  0.541378  0.363960  0.638646  1
+  O  O14  1  0.051821  0.371939  0.989788  1
+  O  O15  1  0.013899  0.487928  0.265689  1
+  O  O16  1  0.175551  0.672684  0.831859  1
+  O  O17  1  0.284641  0.365966  0.577673  1
+  O  O18  1  0.354971  0.996400  0.935615  1
+  O  O19  1  0.279712  0.860708  0.474473  1
+  O  O20  1  0.403214  0.065614  0.277216  1
+  O  O21  1  0.404628  0.705491  0.247249  1
+  O  O22  1  0.595372  0.205491  0.752751  1
+  O  O23  1  0.596786  0.565614  0.722784  1
+  O  O24  1  0.720288  0.360708  0.525527  1
+  O  O25  1  0.645029  0.496400  0.064385  1
+  O  O26  1  0.715359  0.865966  0.422327  1
+  O  O27  1  0.824449  0.172684  0.168141  1
+  O  O28  1  0.986101  0.987928  0.734311  1
+  O  O29  1  0.948179  0.871939  0.010212  1

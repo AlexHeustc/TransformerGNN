@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CrIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94956366
+_cell_length_b   5.13048451
+_cell_length_c   7.14467836
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.08595882
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrIrO6
+_chemical_formula_sum   'Cr2 Ir2 O12'
+_cell_volume   181.42932645
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  -0.000000  0.500000  0.000000  1
+  Cr  Cr1  1  0.500000  0.000000  0.500000  1
+  Ir  Ir2  1  0.000000  0.500000  0.500000  1
+  Ir  Ir3  1  0.500000  0.000000  0.000000  1
+  O  O4  1  0.108375  0.477883  0.754749  1
+  O  O5  1  0.183504  0.201672  0.054067  1
+  O  O6  1  0.193603  0.190700  0.445539  1
+  O  O7  1  0.306397  0.690700  0.054461  1
+  O  O8  1  0.316496  0.701672  0.445933  1
+  O  O9  1  0.391625  0.977883  0.745251  1
+  O  O10  1  0.608375  0.022117  0.254749  1
+  O  O11  1  0.683504  0.298328  0.554067  1
+  O  O12  1  0.693603  0.309300  0.945539  1
+  O  O13  1  0.816496  0.798328  0.945933  1
+  O  O14  1  0.806397  0.809300  0.554461  1
+  O  O15  1  0.891625  0.522117  0.245251  1

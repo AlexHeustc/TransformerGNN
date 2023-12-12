@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Na2MnF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33626279
+_cell_length_b   7.85078149
+_cell_length_c   11.02766014
+_cell_angle_alpha   108.67285788
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2MnF5
+_chemical_formula_sum   'Na8 Mn4 F20'
+_cell_volume   437.67269788
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  0.742546  0.507739  0.627069  1
+  F  F1  1  0.242546  0.492261  0.872931  1
+  F  F2  1  0.257454  0.492261  0.372931  1
+  F  F3  1  0.757454  0.507739  0.127069  1
+  F  F4  1  0.720375  0.379484  0.365418  1
+  F  F5  1  0.220375  0.620516  0.134582  1
+  F  F6  1  0.279625  0.620516  0.634582  1
+  F  F7  1  0.779625  0.379484  0.865418  1
+  F  F8  1  0.669120  0.749095  0.496405  1
+  F  F9  1  0.169120  0.250905  0.003595  1
+  F  F10  1  0.330880  0.250905  0.503595  1
+  F  F11  1  0.830880  0.749095  0.996405  1
+  F  F12  1  0.851344  0.953991  0.834238  1
+  F  F13  1  0.351344  0.046009  0.665762  1
+  F  F14  1  0.148656  0.046009  0.165762  1
+  F  F15  1  0.648656  0.953991  0.334238  1
+  F  F16  1  0.698479  0.108637  0.073823  1
+  F  F17  1  0.198479  0.891363  0.426177  1
+  F  F18  1  0.301521  0.891363  0.926177  1
+  F  F19  1  0.801521  0.108637  0.573823  1
+  Na  Na20  1  0.944251  0.654160  0.319938  1
+  Na  Na21  1  0.444251  0.345840  0.180062  1
+  Na  Na22  1  0.055749  0.345840  0.680062  1
+  Na  Na23  1  0.555749  0.654160  0.819938  1
+  Na  Na24  1  0.489636  0.851432  0.131814  1
+  Na  Na25  1  0.989636  0.148568  0.368186  1
+  Na  Na26  1  0.510364  0.148568  0.868186  1
+  Na  Na27  1  0.010364  0.851432  0.631814  1
+  Mn  Mn28  1  0.500000  0.500000  0.500000  1
+  Mn  Mn29  1  0.000000  0.500000  0.000000  1
+  Mn  Mn30  1  0.500000  0.000000  0.500000  1
+  Mn  Mn31  1  0.000000  0.000000  0.000000  1

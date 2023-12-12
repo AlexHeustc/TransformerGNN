@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2CuWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62792052
+_cell_length_b   5.62791787
+_cell_length_c   5.98130290
+_cell_angle_alpha   118.06030138
+_cell_angle_beta   118.06023390
+_cell_angle_gamma   90.00822051
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CuWO6
+_chemical_formula_sum   'Ba2 Cu1 W1 O6'
+_cell_volume   141.43887064
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.250006  0.749995  0.499996  1
+  Ba  Ba1  1  0.749996  0.250003  0.499995  1
+  Cu  Cu2  1  0.999932  0.999942  0.999923  1
+  W  W3  1  0.499960  0.499964  -0.000019  1
+  O  O4  1  0.253099  0.746921  0.000011  1
+  O  O5  1  0.746921  0.746918  0.999985  1
+  O  O6  1  0.281743  0.281742  0.563542  1
+  O  O7  1  0.746920  0.253096  0.000011  1
+  O  O8  1  0.718325  0.718321  0.436519  1
+  O  O9  1  0.253098  0.253097  0.000036  1

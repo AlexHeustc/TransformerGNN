@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_BaLaFe2Cu2O11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.22091475
+_cell_length_b   5.40960641
+_cell_length_c   5.39324142
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   61.27266823
+_cell_angle_gamma   61.17733010
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLaFe2Cu2O11
+_chemical_formula_sum   'Ba1 La1 Fe2 Cu2 O11'
+_cell_volume   239.80266590
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.247998  0.252002  0.752002  1
+  La  La1  1  0.240242  0.759758  0.259758  1
+  Fe  Fe2  1  0.956698  0.543302  0.543302  1
+  Fe  Fe3  1  0.496207  0.503793  0.503793  1
+  Cu  Cu4  1  0.984465  0.015535  0.015535  1
+  Cu  Cu5  1  0.512739  0.987261  0.987261  1
+  O  O6  1  0.012564  0.223046  0.242990  1
+  O  O7  1  0.012564  0.223046  0.731883  1
+  O  O8  1  0.266426  0.233574  0.233574  1
+  O  O9  1  0.498113  0.270510  0.249840  1
+  O  O10  1  0.262719  0.737281  0.737281  1
+  O  O11  1  0.498113  0.733264  0.249840  1
+  O  O12  1  0.498113  0.270510  0.753935  1
+  O  O13  1  0.498113  0.733264  0.753935  1
+  O  O14  1  0.737801  0.762199  0.762199  1
+  O  O15  1  0.012564  0.751827  0.242990  1
+  O  O16  1  0.012564  0.751827  0.731883  1

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ba4NbP4(O9F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37755513
+_cell_length_b   7.52319500
+_cell_length_c   8.66763689
+_cell_angle_alpha   86.95501983
+_cell_angle_beta   89.30228931
+_cell_angle_gamma   90.76901556
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4NbP4(O9F)2
+_chemical_formula_sum   'Ba4 Nb1 P4 O18 F2'
+_cell_volume   480.31548210
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.330206  0.846180  0.690223  1
+  Ba  Ba1  1  0.307840  0.639398  0.219996  1
+  Ba  Ba2  1  0.692160  0.360602  0.780004  1
+  Ba  Ba3  1  0.669794  0.153820  0.309777  1
+  Nb  Nb4  1  0.000000  0.000000  0.000000  1
+  P  P5  1  0.217176  0.358318  0.812270  1
+  P  P6  1  0.186035  0.133965  0.335745  1
+  P  P7  1  0.813965  0.866035  0.664255  1
+  P  P8  1  0.782824  0.641682  0.187730  1
+  O  O9  1  0.079083  0.448725  0.694757  1
+  O  O10  1  0.033691  0.072558  0.221025  1
+  O  O11  1  0.073346  0.260698  0.924019  1
+  O  O12  1  0.080615  0.191613  0.479149  1
+  O  O13  1  0.243100  0.920407  0.992160  1
+  O  O14  1  0.321331  0.507380  0.890161  1
+  O  O15  1  0.309513  0.977208  0.382114  1
+  O  O16  1  0.345969  0.224793  0.744036  1
+  O  O17  1  0.301181  0.284911  0.258466  1
+  O  O18  1  0.698819  0.715089  0.741534  1
+  O  O19  1  0.654031  0.775207  0.255964  1
+  O  O20  1  0.690487  0.022792  0.617886  1
+  O  O21  1  0.678669  0.492620  0.109839  1
+  O  O22  1  0.756900  0.079593  0.007840  1
+  O  O23  1  0.919385  0.808387  0.520851  1
+  O  O24  1  0.926654  0.739302  0.075981  1
+  O  O25  1  0.966309  0.927442  0.778975  1
+  O  O26  1  0.920917  0.551275  0.305243  1
+  F  F27  1  0.308370  0.584886  0.517540  1
+  F  F28  1  0.691630  0.415114  0.482460  1

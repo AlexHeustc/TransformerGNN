@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Nd3Ti3(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94610844
+_cell_length_b   9.93311780
+_cell_length_c   13.61287836
+_cell_angle_alpha   111.05437735
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd3Ti3(SeO4)2
+_chemical_formula_sum   'Nd6 Ti6 Se4 O16'
+_cell_volume   497.96390056
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.750000  0.875514  0.753215  1
+  O  O1  1  0.250000  0.124486  0.246785  1
+  O  O2  1  0.250000  0.635636  0.757812  1
+  O  O3  1  0.750000  0.364364  0.242188  1
+  O  O4  1  0.250000  0.583060  0.969947  1
+  O  O5  1  0.750000  0.416940  0.030053  1
+  O  O6  1  0.750000  0.024841  0.585673  1
+  O  O7  1  0.250000  0.975159  0.414327  1
+  O  O8  1  0.750000  0.753379  0.927931  1
+  O  O9  1  0.250000  0.246621  0.072069  1
+  O  O10  1  0.750000  0.904189  0.261567  1
+  O  O11  1  0.750000  0.072975  0.073418  1
+  O  O12  1  0.750000  0.140088  0.891716  1
+  O  O13  1  0.250000  0.859912  0.108284  1
+  O  O14  1  0.250000  0.095811  0.738433  1
+  O  O15  1  0.250000  0.927025  0.926582  1
+  Ti  Ti16  1  0.250000  0.044167  0.088089  1
+  Ti  Ti17  1  0.250000  0.953604  0.268191  1
+  Ti  Ti18  1  0.750000  0.286982  0.100762  1
+  Ti  Ti19  1  0.250000  0.713018  0.899238  1
+  Ti  Ti20  1  0.750000  0.955833  0.911911  1
+  Ti  Ti21  1  0.750000  0.046396  0.731809  1
+  Se  Se22  1  0.750000  0.321470  0.483121  1
+  Se  Se23  1  0.750000  0.362132  0.752442  1
+  Se  Se24  1  0.250000  0.637868  0.247558  1
+  Se  Se25  1  0.250000  0.678530  0.516879  1
+  Nd  Nd26  1  0.250000  0.169069  0.585024  1
+  Nd  Nd27  1  0.750000  0.830931  0.414976  1
+  Nd  Nd28  1  0.250000  0.320595  0.911328  1
+  Nd  Nd29  1  0.750000  0.679405  0.088672  1
+  Nd  Nd30  1  0.750000  0.611973  0.662189  1
+  Nd  Nd31  1  0.250000  0.388027  0.337811  1

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Nb2Cr4Si5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.85865215
+_cell_length_b   7.51148568
+_cell_length_c   9.07680746
+_cell_angle_alpha   114.44560937
+_cell_angle_beta   105.52394240
+_cell_angle_gamma   89.99999996
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2Cr4Si5
+_chemical_formula_sum   'Nb4 Cr8 Si10'
+_cell_volume   288.24070453
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.750019  0.000000  0.000000  1
+  Si  Si1  1  0.249981  0.000000  0.000000  1
+  Si  Si2  1  0.435171  0.357886  0.870341  1
+  Si  Si3  1  0.564829  0.642114  0.129659  1
+  Si  Si4  1  0.211707  0.003838  0.423413  1
+  Si  Si5  1  0.788293  0.996162  0.576587  1
+  Si  Si6  1  0.288306  0.580416  0.576613  1
+  Si  Si7  1  0.711694  0.419584  0.423387  1
+  Si  Si8  1  0.935180  0.512459  0.870360  1
+  Si  Si9  1  0.064820  0.487541  0.129640  1
+  Cr  Cr10  1  0.057693  0.307706  0.615388  1
+  Cr  Cr11  1  0.442305  0.692294  0.384612  1
+  Cr  Cr12  1  0.060752  0.805436  0.121505  1
+  Cr  Cr13  1  0.939248  0.194564  0.878495  1
+  Cr  Cr14  1  0.439256  0.683940  0.878512  1
+  Cr  Cr15  1  0.560744  0.316060  0.121488  1
+  Cr  Cr16  1  0.942307  0.692294  0.384612  1
+  Cr  Cr17  1  0.557695  0.307706  0.615388  1
+  Nb  Nb18  1  0.358685  0.978669  0.717370  1
+  Nb  Nb19  1  0.641315  0.021331  0.282630  1
+  Nb  Nb20  1  0.141313  0.261299  0.282625  1
+  Nb  Nb21  1  0.858687  0.738701  0.717375  1

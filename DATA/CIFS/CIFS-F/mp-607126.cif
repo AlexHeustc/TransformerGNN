@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Nd(In2Au)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71055827
+_cell_length_b   7.53938915
+_cell_length_c   18.93338954
+_cell_angle_alpha   90.05456673
+_cell_angle_beta   90.05833722
+_cell_angle_gamma   89.96252646
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd(In2Au)2
+_chemical_formula_sum   'Nd4 In16 Au8'
+_cell_volume   672.41345735
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.750153  0.473826  0.642160  1
+  Nd  Nd1  1  0.250331  0.973439  0.857866  1
+  Nd  Nd2  1  0.750235  0.025834  0.141912  1
+  Nd  Nd3  1  0.250372  0.525702  0.357913  1
+  In  In4  1  0.249720  0.736174  0.188123  1
+  In  In5  1  0.249945  0.988547  0.432123  1
+  In  In6  1  0.249207  0.511546  0.932009  1
+  In  In7  1  0.250122  0.326315  0.184995  1
+  In  In8  1  0.249944  0.173688  0.684915  1
+  In  In9  1  0.249534  0.764249  0.688088  1
+  In  In10  1  0.249814  0.645120  0.535569  1
+  In  In11  1  0.749623  0.488635  0.068067  1
+  In  In12  1  0.750337  0.673415  0.814837  1
+  In  In13  1  0.249894  0.855153  0.035595  1
+  In  In14  1  0.749982  0.355041  0.464604  1
+  In  In15  1  0.750070  0.144723  0.964374  1
+  In  In16  1  0.750259  0.264340  0.811786  1
+  In  In17  1  0.750247  0.011499  0.568101  1
+  In  In18  1  0.750046  0.826804  0.315007  1
+  In  In19  1  0.750489  0.235725  0.311794  1
+  Au  Au20  1  0.250129  0.465689  0.781377  1
+  Au  Au21  1  0.750054  0.534644  0.218639  1
+  Au  Au22  1  0.249985  0.034649  0.281493  1
+  Au  Au23  1  0.250233  0.256068  0.539223  1
+  Au  Au24  1  0.250362  0.243817  0.039232  1
+  Au  Au25  1  0.749504  0.743838  0.460805  1
+  Au  Au26  1  0.749509  0.756041  0.960783  1
+  Au  Au27  1  0.749900  0.965482  0.718610  1

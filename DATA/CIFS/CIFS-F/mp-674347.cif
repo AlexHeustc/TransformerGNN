@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Yb4MgGe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.28089243
+_cell_length_b   7.84637426
+_cell_length_c   15.23374651
+_cell_angle_alpha   90.00004670
+_cell_angle_beta   90.00070524
+_cell_angle_gamma   90.00040166
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb4MgGe4
+_chemical_formula_sum   'Yb16 Mg4 Ge16'
+_cell_volume   870.28271685
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.322889  0.824968  0.871132  1
+  Yb  Yb1  1  0.475815  0.326772  0.903832  1
+  Yb  Yb2  1  0.524174  0.673351  0.403884  1
+  Yb  Yb3  1  0.677152  0.175021  0.371241  1
+  Yb  Yb4  1  0.822899  0.675090  0.628814  1
+  Yb  Yb5  1  0.822907  0.675055  0.871142  1
+  Yb  Yb6  1  0.975834  0.173349  0.596114  1
+  Yb  Yb7  1  0.975793  0.173278  0.903829  1
+  Yb  Yb8  1  0.024209  0.826703  0.096165  1
+  Yb  Yb9  1  0.024163  0.826627  0.403892  1
+  Yb  Yb10  1  0.177132  0.324972  0.128801  1
+  Yb  Yb11  1  0.177137  0.324934  0.371242  1
+  Yb  Yb12  1  0.322865  0.824934  0.628823  1
+  Yb  Yb13  1  0.475854  0.326704  0.596109  1
+  Yb  Yb14  1  0.524212  0.673283  0.096176  1
+  Yb  Yb15  1  0.677135  0.174989  0.128807  1
+  Mg  Mg16  1  0.146614  0.470064  0.749930  1
+  Mg  Mg17  1  0.353378  0.970076  0.250088  1
+  Mg  Mg18  1  0.646596  0.029952  0.749909  1
+  Mg  Mg19  1  0.853385  0.529868  0.250065  1
+  Ge  Ge20  1  0.012895  0.912117  0.749979  1
+  Ge  Ge21  1  0.347979  0.040365  0.032322  1
+  Ge  Ge22  1  0.512915  0.587941  0.749976  1
+  Ge  Ge23  1  0.652023  0.959738  0.532495  1
+  Ge  Ge24  1  0.765041  0.364999  0.749971  1
+  Ge  Ge25  1  0.847986  0.459658  0.032344  1
+  Ge  Ge26  1  0.847942  0.459746  0.467600  1
+  Ge  Ge27  1  0.152047  0.540278  0.532480  1
+  Ge  Ge28  1  0.152003  0.540367  -0.032426  1
+  Ge  Ge29  1  0.234947  0.634975  0.250031  1
+  Ge  Ge30  1  0.265050  0.135034  0.749971  1
+  Ge  Ge31  1  0.347931  0.040255  0.467610  1
+  Ge  Ge32  1  0.651986  0.959627  -0.032424  1
+  Ge  Ge33  1  0.734951  0.864965  0.250030  1
+  Ge  Ge34  1  -0.012912  0.087996  0.250023  1
+  Ge  Ge35  1  0.487071  0.411951  0.250024  1

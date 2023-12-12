@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ca(SbO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.24269745
+_cell_length_b   8.29782458
+_cell_length_c   8.32347854
+_cell_angle_alpha   70.59474125
+_cell_angle_beta   78.76423593
+_cell_angle_gamma   78.73076417
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca(SbO2)4
+_chemical_formula_sum   'Ca1 Sb4 O8'
+_cell_volume   205.11349081
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.415258  0.110526  0.058904  1
+  Sb  Sb1  1  0.600299  0.143737  0.656070  1
+  Sb  Sb2  1  0.121439  0.498109  0.259133  1
+  Sb  Sb3  1  0.839555  0.494519  0.826458  1
+  Sb  Sb4  1  0.361028  0.828538  0.450040  1
+  O  O5  1  0.882062  0.650990  0.585009  1
+  O  O6  1  0.443162  0.355445  0.758269  1
+  O  O7  1  0.522596  0.636023  0.318954  1
+  O  O8  1  0.109512  0.303283  0.477920  1
+  O  O9  1  0.041758  0.077338  0.839266  1
+  O  O10  1  0.810615  0.322915  0.055773  1
+  O  O11  1  0.899827  0.934611  0.265721  1
+  O  O12  1  0.250371  0.620073  0.879129  1

@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Cs3HgCl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.17696337
+_cell_length_b   10.94765723
+_cell_length_c   13.95134307
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3HgCl5
+_chemical_formula_sum   'Cs12 Hg4 Cl20'
+_cell_volume   1401.63911215
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.160811  0.750000  0.235787  1
+  Cl  Cl1  1  0.660811  0.750000  0.264213  1
+  Cl  Cl2  1  0.839189  0.250000  0.764213  1
+  Cl  Cl3  1  0.339189  0.250000  0.735787  1
+  Cl  Cl4  1  0.814996  0.449599  0.068374  1
+  Cl  Cl5  1  0.314996  0.050401  0.431626  1
+  Cl  Cl6  1  0.185004  0.949599  0.931626  1
+  Cl  Cl7  1  0.685004  0.550401  0.568374  1
+  Cl  Cl8  1  0.185004  0.550401  0.931626  1
+  Cl  Cl9  1  0.685004  0.949599  0.568374  1
+  Cl  Cl10  1  0.814996  0.050401  0.068374  1
+  Cl  Cl11  1  0.314996  0.449599  0.431626  1
+  Cl  Cl12  1  0.372907  0.750000  0.709551  1
+  Cl  Cl13  1  0.872907  0.750000  0.790449  1
+  Cl  Cl14  1  0.627093  0.250000  0.290449  1
+  Cl  Cl15  1  0.127093  0.250000  0.209551  1
+  Cl  Cl16  1  0.966809  0.250000  0.486304  1
+  Cl  Cl17  1  0.466809  0.250000  0.013696  1
+  Cl  Cl18  1  0.033191  0.750000  0.513696  1
+  Cl  Cl19  1  0.533191  0.750000  0.986304  1
+  Cs  Cs20  1  0.589421  0.026715  0.833844  1
+  Cs  Cs21  1  0.089421  0.473285  0.666156  1
+  Cs  Cs22  1  0.410579  0.526715  0.166156  1
+  Cs  Cs23  1  0.910579  0.973285  0.333844  1
+  Cs  Cs24  1  0.410579  0.973285  0.166156  1
+  Cs  Cs25  1  0.910579  0.526715  0.333844  1
+  Cs  Cs26  1  0.589421  0.473285  0.833844  1
+  Cs  Cs27  1  0.089421  0.026715  0.666156  1
+  Cs  Cs28  1  0.409683  0.750000  0.451921  1
+  Cs  Cs29  1  0.909683  0.750000  0.048079  1
+  Cs  Cs30  1  0.590317  0.250000  0.548079  1
+  Cs  Cs31  1  0.090317  0.250000  0.951921  1
+  Hg  Hg32  1  0.297389  0.750000  0.882617  1
+  Hg  Hg33  1  0.797389  0.750000  0.617383  1
+  Hg  Hg34  1  0.702611  0.250000  0.117383  1
+  Hg  Hg35  1  0.202611  0.250000  0.382617  1

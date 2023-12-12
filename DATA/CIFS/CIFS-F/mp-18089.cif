@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Sr2HoCu3(PbO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42179144
+_cell_length_b   5.45457978
+_cell_length_c   15.93012670
+_cell_angle_alpha   90.04961347
+_cell_angle_beta   90.49311268
+_cell_angle_gamma   90.00589237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2HoCu3(PbO4)2
+_chemical_formula_sum   'Sr4 Ho2 Cu6 Pb4 O16'
+_cell_volume   471.09347163
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.247986  0.749529  0.908418  1
+  O  O1  1  0.752014  0.250472  0.091582  1
+  O  O2  1  0.748027  0.249566  0.910365  1
+  O  O3  1  0.251973  0.750434  0.089635  1
+  O  O4  1  0.248149  0.249504  0.910302  1
+  O  O5  1  0.751851  0.750496  0.089698  1
+  O  O6  1  0.748126  0.749509  0.908485  1
+  O  O7  1  0.251874  0.250491  0.091515  1
+  O  O8  1  0.453070  0.558338  0.614609  1
+  O  O9  1  0.546930  0.441662  0.385391  1
+  O  O10  1  0.507004  0.991087  0.250662  1
+  O  O11  1  0.046679  0.061394  0.385535  1
+  O  O12  1  0.992533  0.488230  0.749240  1
+  O  O13  1  0.007467  0.511770  0.250760  1
+  O  O14  1  0.492996  0.008913  0.749338  1
+  O  O15  1  0.953321  0.938606  0.614465  1
+  Cu  Cu16  1  0.500000  0.500000  0.500000  1
+  Cu  Cu17  1  0.002232  0.500869  0.103041  1
+  Cu  Cu18  1  0.497791  0.999738  0.896937  1
+  Cu  Cu19  1  0.502209  0.000262  0.103063  1
+  Cu  Cu20  1  0.000000  0.000000  0.500000  1
+  Cu  Cu21  1  0.997768  0.499131  0.896959  1
+  Sr  Sr22  1  0.005767  0.000707  0.220414  1
+  Sr  Sr23  1  0.994233  0.999293  0.779586  1
+  Sr  Sr24  1  0.494277  0.498430  0.779595  1
+  Sr  Sr25  1  0.505723  0.501570  0.220405  1
+  Ho  Ho26  1  0.000000  0.000000  0.000000  1
+  Ho  Ho27  1  0.500000  0.500000  0.000000  1
+  Pb  Pb28  1  0.995935  0.495121  0.388314  1
+  Pb  Pb29  1  0.004065  0.504879  0.611686  1
+  Pb  Pb30  1  0.504338  0.992268  0.611784  1
+  Pb  Pb31  1  0.495662  0.007732  0.388216  1

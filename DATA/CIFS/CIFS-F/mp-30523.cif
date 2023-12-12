@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ta3As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15123612
+_cell_length_b   7.82953895
+_cell_length_c   14.65032053
+_cell_angle_alpha   90.56978031
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.20576406
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta3As
+_chemical_formula_sum   'Ta24 As8'
+_cell_volume   557.95681512
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.500576  0.520298  0.701918  1
+  Ta  Ta1  1  0.297071  0.097673  0.008566  1
+  Ta  Ta2  1  0.515399  0.491922  0.909166  1
+  Ta  Ta3  1  0.499424  0.479702  0.298082  1
+  Ta  Ta4  1  0.097471  0.682378  0.994023  1
+  Ta  Ta5  1  0.560218  0.129979  0.831210  1
+  Ta  Ta6  1  0.088373  0.151718  0.678793  1
+  Ta  Ta7  1  0.415093  0.317622  0.505977  1
+  Ta  Ta8  1  0.980277  0.479702  0.798082  1
+  Ta  Ta9  1  0.063345  0.151718  0.178793  1
+  Ta  Ta10  1  0.702929  0.902327  0.991434  1
+  Ta  Ta11  1  0.936655  0.848282  0.821207  1
+  Ta  Ta12  1  0.430239  0.870021  0.668790  1
+  Ta  Ta13  1  0.976523  0.491922  0.409166  1
+  Ta  Ta14  1  0.800602  0.097673  0.508566  1
+  Ta  Ta15  1  0.584907  0.682378  0.494023  1
+  Ta  Ta16  1  0.569761  0.129979  0.331210  1
+  Ta  Ta17  1  0.484601  0.508078  0.090834  1
+  Ta  Ta18  1  0.023477  0.508078  0.590834  1
+  Ta  Ta19  1  0.199398  0.902327  0.491434  1
+  Ta  Ta20  1  0.019723  0.520298  0.201918  1
+  Ta  Ta21  1  0.439782  0.870021  0.168790  1
+  Ta  Ta22  1  0.902529  0.317622  0.005977  1
+  Ta  Ta23  1  0.911627  0.848282  0.321207  1
+  As  As24  1  0.368589  0.768148  0.340726  1
+  As  As25  1  0.399560  0.768148  0.840726  1
+  As  As26  1  0.631411  0.231852  0.659274  1
+  As  As27  1  0.101446  0.195674  0.361853  1
+  As  As28  1  0.094228  0.195674  0.861853  1
+  As  As29  1  0.898554  0.804326  0.638147  1
+  As  As30  1  0.905772  0.804326  0.138147  1
+  As  As31  1  0.600440  0.231852  0.159274  1

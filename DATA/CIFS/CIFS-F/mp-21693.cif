@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Ce5Sn4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.34729290
+_cell_length_b   8.45925169
+_cell_length_c   15.96394725
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce5Sn4
+_chemical_formula_sum   'Ce20 Sn16'
+_cell_volume   1127.24387371
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.781956  0.467828  0.458691  1
+  Sn  Sn1  1  0.281956  0.032172  0.041309  1
+  Sn  Sn2  1  0.718044  0.967828  0.541309  1
+  Sn  Sn3  1  0.218044  0.532172  0.958691  1
+  Sn  Sn4  1  0.218044  0.532172  0.541309  1
+  Sn  Sn5  1  0.718044  0.967828  0.958691  1
+  Sn  Sn6  1  0.281956  0.032172  0.458691  1
+  Sn  Sn7  1  0.781956  0.467828  0.041309  1
+  Sn  Sn8  1  0.931637  0.095017  0.250000  1
+  Sn  Sn9  1  0.431637  0.404983  0.250000  1
+  Sn  Sn10  1  0.568363  0.595017  0.750000  1
+  Sn  Sn11  1  0.068363  0.904983  0.750000  1
+  Sn  Sn12  1  0.177033  0.648643  0.250000  1
+  Sn  Sn13  1  0.677033  0.851357  0.250000  1
+  Sn  Sn14  1  0.322967  0.148643  0.750000  1
+  Sn  Sn15  1  0.822967  0.351357  0.750000  1
+  Ce  Ce16  1  0.123534  0.337086  0.122309  1
+  Ce  Ce17  1  0.623534  0.162914  0.377691  1
+  Ce  Ce18  1  0.376466  0.837086  0.877691  1
+  Ce  Ce19  1  0.876466  0.662914  0.622309  1
+  Ce  Ce20  1  0.123534  0.337086  0.377691  1
+  Ce  Ce21  1  0.623534  0.162914  0.122309  1
+  Ce  Ce22  1  0.376466  0.837086  0.622309  1
+  Ce  Ce23  1  0.876466  0.662914  0.877691  1
+  Ce  Ce24  1  0.015057  0.200131  0.594563  1
+  Ce  Ce25  1  0.515057  0.299869  0.905437  1
+  Ce  Ce26  1  0.484943  0.700131  0.405437  1
+  Ce  Ce27  1  0.984943  0.799869  0.094563  1
+  Ce  Ce28  1  0.984943  0.799869  0.405437  1
+  Ce  Ce29  1  0.484943  0.700131  0.094563  1
+  Ce  Ce30  1  0.515057  0.299869  0.594563  1
+  Ce  Ce31  1  0.015057  0.200131  0.905437  1
+  Ce  Ce32  1  0.306612  0.011634  0.250000  1
+  Ce  Ce33  1  0.806612  0.488366  0.250000  1
+  Ce  Ce34  1  0.193388  0.511634  0.750000  1
+  Ce  Ce35  1  0.693388  0.988366  0.750000  1

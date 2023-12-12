@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Lu2Sb2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50030904
+_cell_length_b   7.50030904
+_cell_length_c   10.49929395
+_cell_angle_alpha   45.57909139
+_cell_angle_beta   134.42090861
+_cell_angle_gamma   118.88978846
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Sb2O7
+_chemical_formula_sum   'Lu4 Sb4 O14'
+_cell_volume   301.25962522
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.740440  0.740440  0.000000  1
+  Lu  Lu1  1  0.779213  0.194902  0.542155  1
+  Lu  Lu2  1  0.740440  0.740440  0.500000  1
+  Lu  Lu3  1  0.194902  0.779213  0.457845  1
+  Sb  Sb4  1  0.262521  0.262521  0.000000  1
+  Sb  Sb5  1  0.227234  0.744463  0.991386  1
+  Sb  Sb6  1  0.262521  0.262521  0.500000  1
+  Sb  Sb7  1  0.744463  0.227234  0.008614  1
+  O  O8  1  0.939428  0.017006  0.087997  1
+  O  O9  1  0.939428  0.017006  0.334426  1
+  O  O10  1  0.499304  0.989616  0.373160  1
+  O  O11  1  0.419022  0.563089  0.041310  1
+  O  O12  1  0.496683  0.971432  0.012625  1
+  O  O13  1  0.419022  0.563089  0.314623  1
+  O  O14  1  0.499304  0.989616  0.636528  1
+  O  O15  1  0.989616  0.499304  0.363472  1
+  O  O16  1  0.563089  0.419022  0.685377  1
+  O  O17  1  0.971432  0.496683  0.987375  1
+  O  O18  1  0.563089  0.419022  0.958689  1
+  O  O19  1  0.989616  0.499304  0.626840  1
+  O  O20  1  0.017006  0.939428  0.665574  1
+  O  O21  1  0.017006  0.939428  0.912003  1

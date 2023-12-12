@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Li7Ti7O16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93556493
+_cell_length_b   5.93556503
+_cell_length_c   11.95365756
+_cell_angle_alpha   60.22811883
+_cell_angle_beta   60.22811993
+_cell_angle_gamma   59.99999493
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7Ti7O16
+_chemical_formula_sum   'Li7 Ti7 O16'
+_cell_volume   298.81253168
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  -0.000557  -0.000557  0.016961  1
+  Li  Li1  1  0.467191  -0.000557  0.016961  1
+  Li  Li2  1  0.496793  0.496793  0.004810  1
+  Li  Li3  1  0.132082  0.132082  0.551876  1
+  Li  Li4  1  -0.000557  0.467191  0.016961  1
+  Li  Li5  1  0.877745  0.877745  0.433383  1
+  Li  Li6  1  0.966619  0.966619  0.800072  1
+  O  O7  1  0.251066  0.251066  0.139339  1
+  O  O8  1  0.260479  0.260479  0.359281  1
+  O  O9  1  0.251066  0.719191  0.139339  1
+  O  O10  1  0.719191  0.251066  0.139339  1
+  O  O11  1  0.287592  0.732333  0.373871  1
+  O  O12  1  0.255956  0.255956  0.637522  1
+  O  O13  1  0.741262  0.741262  0.138107  1
+  O  O14  1  0.732333  0.287592  0.373871  1
+  O  O15  1  0.252325  0.252325  0.871513  1
+  O  O16  1  0.255956  0.713044  0.637522  1
+  O  O17  1  0.713044  0.255956  0.637522  1
+  O  O18  1  0.732333  0.732333  0.373871  1
+  O  O19  1  0.270881  0.745525  0.869034  1
+  O  O20  1  0.735326  0.735326  0.647011  1
+  O  O21  1  0.745525  0.270881  0.869034  1
+  O  O22  1  0.745525  0.745525  0.869034  1
+  Ti  Ti23  1  0.496021  0.008084  0.249937  1
+  Ti  Ti24  1  0.496021  0.496021  0.249937  1
+  Ti  Ti25  1  0.499124  0.988505  0.756624  1
+  Ti  Ti26  1  0.498946  0.498946  0.501581  1
+  Ti  Ti27  1  0.008084  0.496021  0.249937  1
+  Ti  Ti28  1  0.499124  0.499124  0.756624  1
+  Ti  Ti29  1  0.988505  0.499124  0.756624  1

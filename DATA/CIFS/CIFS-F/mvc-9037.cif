@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaZnFeCuO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43436493
+_cell_length_b   5.23596556
+_cell_length_c   7.89844263
+_cell_angle_alpha   92.10370223
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaZnFeCuO6
+_chemical_formula_sum   'La2 Zn2 Fe2 Cu2 O12'
+_cell_volume   224.59198075
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.035784  0.986487  0.253964  1
+  La  La1  1  0.464216  0.486487  0.753964  1
+  Zn  Zn2  1  0.544965  0.528766  0.248452  1
+  Zn  Zn3  1  0.955035  0.028766  0.748452  1
+  Fe  Fe4  1  0.504554  0.004735  0.004620  1
+  Fe  Fe5  1  0.995446  0.504735  0.504620  1
+  Cu  Cu6  1  0.501357  0.993761  0.502837  1
+  Cu  Cu7  1  0.998643  0.493761  0.002837  1
+  O  O8  1  0.019503  0.644480  0.735258  1
+  O  O9  1  0.199790  0.200834  0.935736  1
+  O  O10  1  0.207817  0.188812  0.556719  1
+  O  O11  1  0.292183  0.688812  0.056719  1
+  O  O12  1  0.300210  0.700834  0.435736  1
+  O  O13  1  0.480497  0.144480  0.235257  1
+  O  O14  1  0.543237  0.929033  0.764249  1
+  O  O15  1  0.738591  0.254070  0.561303  1
+  O  O16  1  0.746226  0.269021  0.936861  1
+  O  O17  1  0.753774  0.769021  0.436861  1
+  O  O18  1  0.761409  0.754070  0.061303  1
+  O  O19  1  0.956763  0.429033  0.264249  1

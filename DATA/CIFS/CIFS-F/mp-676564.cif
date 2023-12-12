@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_NdTh9O20
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94995686
+_cell_length_b   19.90255845
+_cell_length_c   10.52982320
+_cell_angle_alpha   19.07149456
+_cell_angle_beta   55.46563594
+_cell_angle_gamma   59.95118324
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdTh9O20
+_chemical_formula_sum   'Nd1 Th9 O20'
+_cell_volume   444.64065645
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.500000  0.800000  0.000000  1
+  Th  Th1  1  0.001952  0.999689  0.998831  1
+  Th  Th2  1  0.998157  0.197866  0.004915  1
+  Th  Th3  1  0.500239  0.999324  0.999742  1
+  Th  Th4  1  0.001843  0.402134  0.995085  1
+  Th  Th5  1  0.500002  0.200413  0.000428  1
+  Th  Th6  1  0.998048  0.600311  0.001169  1
+  Th  Th7  1  0.499998  0.399587  0.999572  1
+  Th  Th8  1  0.000000  0.800000  0.000000  1
+  Th  Th9  1  0.499761  0.600676  0.000258  1
+  O  O10  1  0.124209  0.150946  0.248714  1
+  O  O11  1  0.124133  0.350569  0.249328  1
+  O  O12  1  0.627821  0.155693  0.237434  1
+  O  O13  1  0.372819  0.054208  0.745834  1
+  O  O14  1  0.124475  0.548720  0.252619  1
+  O  O15  1  0.625826  0.350433  0.249044  1
+  O  O16  1  0.118406  0.749131  0.254408  1
+  O  O17  1  0.374174  0.249567  0.750956  1
+  O  O18  1  0.875525  0.051280  0.747381  1
+  O  O19  1  0.627181  0.545792  0.254166  1
+  O  O20  1  0.372179  0.444307  0.762566  1
+  O  O21  1  0.124556  0.949475  0.250855  1
+  O  O22  1  0.627204  0.749199  0.254265  1
+  O  O23  1  0.875867  0.249431  0.750672  1
+  O  O24  1  0.374127  0.650079  0.750517  1
+  O  O25  1  0.875791  0.449054  0.751286  1
+  O  O26  1  0.625873  0.949921  0.249483  1
+  O  O27  1  0.372796  0.850801  0.745735  1
+  O  O28  1  0.875444  0.650525  0.749145  1
+  O  O29  1  0.881594  0.850869  0.745592  1

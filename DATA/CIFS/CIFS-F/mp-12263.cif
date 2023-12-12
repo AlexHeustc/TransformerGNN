@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiAuF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01090392
+_cell_length_b   6.41597404
+_cell_length_c   6.41517468
+_cell_angle_alpha   59.99587211
+_cell_angle_beta   70.02589416
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAuF4
+_chemical_formula_sum   'Li2 Au2 F8'
+_cell_volume   164.12502972
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.749992  0.668273  0.500001  1
+  Li  Li1  1  0.249993  0.331725  0.500001  1
+  Au  Au2  1  -0.000269  0.500117  0.000067  1
+  Au  Au3  1  0.499731  -0.000185  0.000067  1
+  F  F4  1  0.837718  0.727657  0.752104  1
+  F  F5  1  0.337718  0.020240  0.752104  1
+  F  F6  1  0.821209  0.285758  0.720876  1
+  F  F7  1  0.321207  0.493366  0.720876  1
+  F  F8  1  0.178975  0.714372  0.279003  1
+  F  F9  1  0.678976  0.506625  0.279003  1
+  F  F10  1  0.162376  0.272272  0.247947  1
+  F  F11  1  0.662377  0.979783  0.247946  1

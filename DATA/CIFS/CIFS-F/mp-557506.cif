@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na3Ca2BiO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94067043
+_cell_length_b   5.94066983
+_cell_length_c   10.64853600
+_cell_angle_alpha   100.49725131
+_cell_angle_beta   100.49722914
+_cell_angle_gamma   110.28606814
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Ca2BiO6
+_chemical_formula_sum   'Na6 Ca4 Bi2 O12'
+_cell_volume   334.10441100
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.961732  0.711733  0.423467  1
+  Na  Na1  1  0.288267  0.038269  0.076534  1
+  Na  Na2  1  0.038268  0.288267  0.576533  1
+  Na  Na3  1  0.711733  0.961731  0.923466  1
+  Na  Na4  1  0.875001  0.124999  0.250000  1
+  Na  Na5  1  0.124999  0.875001  0.750000  1
+  Ca  Ca6  1  0.455535  0.205533  0.411075  1
+  Ca  Ca7  1  0.205533  0.455536  0.911075  1
+  Ca  Ca8  1  0.794467  0.544464  0.088925  1
+  Ca  Ca9  1  0.544465  0.794467  0.588925  1
+  Bi  Bi10  1  0.625002  0.374998  0.750000  1
+  Bi  Bi11  1  0.374998  0.625002  0.250000  1
+  O  O12  1  0.327559  0.067855  0.595166  1
+  O  O13  1  0.932145  0.672441  0.904834  1
+  O  O14  1  0.472698  0.232405  0.904846  1
+  O  O15  1  0.067855  0.327559  0.095166  1
+  O  O16  1  0.152106  0.847894  0.250000  1
+  O  O17  1  0.232406  0.472698  0.404846  1
+  O  O18  1  0.847894  0.152106  0.750000  1
+  O  O19  1  0.402106  0.597894  0.750000  1
+  O  O20  1  0.527302  0.767595  0.095154  1
+  O  O21  1  0.672441  0.932145  0.404834  1
+  O  O22  1  0.767594  0.527302  0.595154  1
+  O  O23  1  0.597894  0.402106  0.250000  1

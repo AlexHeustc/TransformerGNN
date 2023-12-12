@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_NaLi2NiPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04504878
+_cell_length_b   6.53520024
+_cell_length_c   8.48418403
+_cell_angle_alpha   89.99951762
+_cell_angle_beta   85.60787251
+_cell_angle_gamma   89.99977785
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi2NiPCO7
+_chemical_formula_sum   'Na2 Li4 Ni2 P2 C2 O14'
+_cell_volume   278.90549610
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.261309  0.025895  0.268972  1
+  Na  Na1  1  0.738681  0.525890  0.731029  1
+  Li  Li2  1  0.768765  0.273504  0.108327  1
+  Li  Li3  1  0.224787  0.532940  0.240445  1
+  Li  Li4  1  0.775223  0.032941  0.759556  1
+  Li  Li5  1  0.231244  0.773516  0.891673  1
+  Ni  Ni6  1  0.782708  0.748389  0.340558  1
+  Ni  Ni7  1  0.217289  0.248391  0.659436  1
+  P  P8  1  0.724477  0.250393  0.415501  1
+  P  P9  1  0.275513  0.750384  0.584493  1
+  C  C10  1  0.706695  0.761838  0.045977  1
+  C  C11  1  0.293318  0.261831  0.954026  1
+  O  O12  1  0.362695  0.295023  0.094964  1
+  O  O13  1  0.954798  0.745820  0.076618  1
+  O  O14  1  0.524261  0.745119  0.162632  1
+  O  O15  1  0.797413  0.064773  0.304979  1
+  O  O16  1  0.827183  0.435171  0.311388  1
+  O  O17  1  0.149649  0.740718  0.424654  1
+  O  O18  1  0.418921  0.261758  0.447376  1
+  O  O19  1  0.581068  0.761738  0.552617  1
+  O  O20  1  0.850341  0.240722  0.575343  1
+  O  O21  1  0.172814  0.935168  0.688602  1
+  O  O22  1  0.202573  0.564768  0.695024  1
+  O  O23  1  0.475744  0.245120  0.837363  1
+  O  O24  1  0.045214  0.245792  0.923392  1
+  O  O25  1  0.637326  0.795024  0.905033  1

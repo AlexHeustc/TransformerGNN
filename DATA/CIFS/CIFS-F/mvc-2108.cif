@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlCr4(CuO4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35628131
+_cell_length_b   6.35618963
+_cell_length_c   6.35612301
+_cell_angle_alpha   109.48796172
+_cell_angle_beta   109.44025924
+_cell_angle_gamma   109.48084360
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCr4(CuO4)3
+_chemical_formula_sum   'Al1 Cr4 Cu3 O12'
+_cell_volume   197.69465596
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.000038  0.000021  0.999960  1
+  Cr  Cr1  1  0.500009  0.000002  0.000004  1
+  Cr  Cr2  1  0.000001  0.999996  0.499995  1
+  Cr  Cr3  1  0.000011  0.500005  0.000013  1
+  Cr  Cr4  1  0.499998  0.500007  0.500005  1
+  Cu  Cu5  1  0.500001  0.000001  0.500004  1
+  Cu  Cu6  1  0.499993  0.499995  0.999995  1
+  Cu  Cu7  1  0.000001  0.500001  0.499999  1
+  O  O8  1  0.835810  0.302912  0.138736  1
+  O  O9  1  0.164188  0.697097  0.861267  1
+  O  O10  1  0.835746  0.697014  0.532765  1
+  O  O11  1  0.303006  0.467389  0.164375  1
+  O  O12  1  0.467602  0.164382  0.303205  1
+  O  O13  1  0.138819  0.835706  0.303122  1
+  O  O14  1  0.697091  0.861377  0.164296  1
+  O  O15  1  0.532383  0.835611  0.696787  1
+  O  O16  1  0.164249  0.302989  0.467247  1
+  O  O17  1  0.696976  0.532597  0.835615  1
+  O  O18  1  0.861189  0.164290  0.696895  1
+  O  O19  1  0.302892  0.138610  0.835713  1

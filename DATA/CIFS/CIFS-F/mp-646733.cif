@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_SmInPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.62046077
+_cell_length_b   8.63346357
+_cell_length_c   3.82525886
+_cell_angle_alpha   90.04501721
+_cell_angle_beta   90.30319252
+_cell_angle_gamma   120.22094202
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmInPt
+_chemical_formula_sum   'Sm3 In3 Pt3'
+_cell_volume   245.99498542
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.999918  0.626628  0.998843  1
+  Sm  Sm1  1  0.625440  0.999884  0.999778  1
+  Sm  Sm2  1  0.374396  0.374402  0.001157  1
+  In  In3  1  0.000110  0.252095  0.499846  1
+  In  In4  1  0.747485  0.748144  0.499742  1
+  In  In5  1  0.252498  0.000119  0.500532  1
+  Pt  Pt6  1  0.000227  -0.000019  0.000068  1
+  Pt  Pt7  1  0.666633  0.332943  0.999657  1
+  Pt  Pt8  1  0.333294  0.665804  0.000378  1

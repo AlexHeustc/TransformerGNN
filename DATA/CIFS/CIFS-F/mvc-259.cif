@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr2YGaNi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53057313
+_cell_length_b   5.62944180
+_cell_length_c   11.88872076
+_cell_angle_alpha   103.71179233
+_cell_angle_beta   103.47156795
+_cell_angle_gamma   90.00305967
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2YGaNi2O7
+_chemical_formula_sum   'Sr4 Y2 Ga2 Ni4 O14'
+_cell_volume   349.10189734
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.145137  0.167700  0.296646  1
+  Sr  Sr1  1  0.848464  0.832292  0.703035  1
+  Sr  Sr2  1  0.646021  0.629187  0.296513  1
+  Sr  Sr3  1  0.349706  0.370630  0.703107  1
+  Y  Y4  1  0.503062  0.499886  -0.000116  1
+  Y  Y5  1  0.002800  0.000120  -0.000070  1
+  Ga  Ga6  1  0.207711  0.825889  0.499257  1
+  Ga  Ga7  1  0.708188  0.173690  0.500219  1
+  Ni  Ni8  1  0.419562  0.919061  0.835099  1
+  Ni  Ni9  1  0.083507  0.583395  0.162858  1
+  Ni  Ni10  1  0.920656  0.416532  0.836799  1
+  Ni  Ni11  1  0.584325  0.080822  0.164782  1
+  O  O12  1  0.815487  0.313314  0.126690  1
+  O  O13  1  0.865369  0.872597  0.500035  1
+  O  O14  1  0.315898  0.312874  0.125869  1
+  O  O15  1  0.849459  0.370742  0.650078  1
+  O  O16  1  0.684657  0.184841  0.867189  1
+  O  O17  1  0.184283  0.180602  0.865928  1
+  O  O18  1  0.365167  0.127068  0.499566  1
+  O  O19  1  0.189819  0.687602  0.874094  1
+  O  O20  1  0.688443  0.686375  0.873081  1
+  O  O21  1  0.351879  0.775251  0.648010  1
+  O  O22  1  0.199235  0.629136  0.349522  1
+  O  O23  1  0.704048  0.224503  0.351712  1
+  O  O24  1  0.816722  0.814662  0.132554  1
+  O  O25  1  0.317646  0.820014  0.134106  1

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ba3La3Mn2(WO6)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.26996375
+_cell_length_b   14.26996375
+_cell_length_c   14.26996365
+_cell_angle_alpha   23.56844383
+_cell_angle_beta   23.56844383
+_cell_angle_gamma   23.56844548
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3La3Mn2(WO6)3
+_chemical_formula_sum   'Ba3 La3 Mn2 W3 O18'
+_cell_volume   407.99868821
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.083659  0.083659  0.083659  1
+  Ba  Ba1  1  0.809973  0.809973  0.809973  1
+  Ba  Ba2  1  0.914563  0.914563  0.914563  1
+  La  La3  1  0.179646  0.179646  0.179646  1
+  La  La4  1  0.360409  0.360409  0.360409  1
+  La  La5  1  0.633798  0.633798  0.633798  1
+  Mn  Mn6  1  0.275591  0.275591  0.275591  1
+  Mn  Mn7  1  0.723406  0.723406  0.723406  1
+  W  W8  1  0.000360  0.000360  0.000360  1
+  W  W9  1  0.446892  0.446892  0.446892  1
+  W  W10  1  0.552600  0.552600  0.552600  1
+  O  O11  1  0.145318  0.145318  0.636544  1
+  O  O12  1  0.145318  0.636544  0.145318  1
+  O  O13  1  0.636544  0.145318  0.145318  1
+  O  O14  1  0.112420  0.570500  0.570500  1
+  O  O15  1  0.570500  0.570500  0.112420  1
+  O  O16  1  0.570500  0.112420  0.570500  1
+  O  O17  1  0.307536  0.800739  0.307536  1
+  O  O18  1  0.307536  0.307536  0.800739  1
+  O  O19  1  0.800739  0.307536  0.307536  1
+  O  O20  1  0.204839  0.692127  0.692127  1
+  O  O21  1  0.692127  0.692127  0.204839  1
+  O  O22  1  0.692127  0.204839  0.692127  1
+  O  O23  1  0.434547  0.885216  0.434547  1
+  O  O24  1  0.434547  0.434547  0.885216  1
+  O  O25  1  0.885216  0.434547  0.434547  1
+  O  O26  1  0.358040  0.860624  0.860624  1
+  O  O27  1  0.860624  0.358040  0.860624  1
+  O  O28  1  0.860624  0.860624  0.358040  1

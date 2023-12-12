@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TbCeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.77316219
+_cell_length_b   7.72637813
+_cell_length_c   10.85360761
+_cell_angle_alpha   45.40926264
+_cell_angle_beta   90.03680199
+_cell_angle_gamma   59.76617546
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCeO4
+_chemical_formula_sum   'Tb4 Ce4 O16'
+_cell_volume   327.96919493
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.244758  0.005075  0.619089  1
+  Tb  Tb1  1  0.244242  0.493881  0.623494  1
+  Tb  Tb2  1  0.739290  0.511901  0.114141  1
+  Tb  Tb3  1  0.738973  0.001783  0.621328  1
+  Ce  Ce4  1  0.243108  0.501612  0.120044  1
+  Ce  Ce5  1  0.241517  0.005536  0.119089  1
+  Ce  Ce6  1  0.740076  0.001973  0.120317  1
+  Ce  Ce7  1  0.740727  0.507493  0.617623  1
+  O  O8  1  0.982154  0.512130  0.489809  1
+  O  O9  1  0.991734  0.002034  0.244873  1
+  O  O10  1  0.992421  0.512150  0.239956  1
+  O  O11  1  0.989981  0.005186  0.994289  1
+  O  O12  1  0.990282  0.006606  0.493101  1
+  O  O13  1  0.989897  0.004828  0.745348  1
+  O  O14  1  0.991291  0.497998  0.746692  1
+  O  O15  1  0.491916  0.002899  0.491218  1
+  O  O16  1  0.490785  0.497294  0.997180  1
+  O  O17  1  0.489978  0.005812  0.742905  1
+  O  O18  1  0.495903  0.499465  0.745624  1
+  O  O19  1  0.492626  0.000922  0.000409  1
+  O  O20  1  0.490411  0.004386  0.244538  1
+  O  O21  1  0.487453  0.507758  0.242792  1
+  O  O22  1  0.489587  0.515355  0.487481  1
+  O  O23  1  0.999813  0.495907  0.998203  1

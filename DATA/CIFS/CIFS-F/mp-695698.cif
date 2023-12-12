@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ca2TiAlSi2O9F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43629486
+_cell_length_b   10.88464214
+_cell_length_c   7.07749608
+_cell_angle_alpha   104.42004635
+_cell_angle_beta   104.37941070
+_cell_angle_gamma   105.80403173
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2TiAlSi2O9F
+_chemical_formula_sum   'Ca4 Ti2 Al2 Si4 O18 F2'
+_cell_volume   367.11740337
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.161776  0.915568  0.748634  1
+  Ca  Ca1  1  0.169463  0.418497  0.751607  1
+  Ca  Ca2  1  0.838224  0.584432  0.251366  1
+  Ca  Ca3  1  0.830537  0.081503  0.248393  1
+  Ti  Ti4  1  0.500000  0.250000  0.500000  1
+  Ti  Ti5  1  0.500000  0.250000  0.000000  1
+  Al  Al6  1  0.500000  0.750000  0.500000  1
+  Al  Al7  1  0.500000  0.750000  0.000000  1
+  Si  Si8  1  0.181626  0.901866  0.245989  1
+  Si  Si9  1  0.189106  0.413665  0.254550  1
+  Si  Si10  1  0.818374  0.598134  0.754011  1
+  Si  Si11  1  0.810894  0.086335  0.745450  1
+  O  O12  1  0.130591  0.632921  0.906438  1
+  O  O13  1  0.197814  0.800361  0.385743  1
+  O  O14  1  0.115090  0.122325  0.911194  1
+  O  O15  1  0.259559  0.567460  0.412187  1
+  O  O16  1  0.392367  0.898667  0.111659  1
+  O  O17  1  0.184951  0.305773  0.382187  1
+  O  O18  1  0.607633  0.601333  0.888341  1
+  O  O19  1  0.740441  0.932540  0.587813  1
+  O  O20  1  0.426859  0.283724  0.749486  1
+  O  O21  1  0.253184  0.056165  0.406107  1
+  O  O22  1  0.398400  0.410836  0.121519  1
+  O  O23  1  0.802186  0.699639  0.614257  1
+  O  O24  1  0.601600  0.089164  0.878481  1
+  O  O25  1  0.746816  0.443835  0.593893  1
+  O  O26  1  0.869409  0.867079  0.093562  1
+  O  O27  1  0.573141  0.216276  0.250514  1
+  O  O28  1  0.815049  0.194227  0.617813  1
+  O  O29  1  0.884910  0.377675  0.088806  1
+  F  F30  1  0.434119  0.785740  0.750660  1
+  F  F31  1  0.565881  0.714260  0.249340  1

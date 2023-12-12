@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Sm2Zr8O19
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67038181
+_cell_length_b   37.15198704
+_cell_length_c   35.47404756
+_cell_angle_alpha   5.16974854
+_cell_angle_beta   58.83413690
+_cell_angle_gamma   60.38643061
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2Zr8O19
+_chemical_formula_sum   'Sm2 Zr8 O19'
+_cell_volume   358.50093315
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.046797  0.840872  0.949508  1
+  Sm  Sm1  1  0.956172  0.861657  0.047711  1
+  Zr  Zr2  1  0.962903  0.966718  0.041290  1
+  Zr  Zr3  1  0.971547  0.074344  0.031817  1
+  Zr  Zr4  1  0.981694  0.182315  0.021854  1
+  Zr  Zr5  1  0.992353  0.292976  0.008892  1
+  Zr  Zr6  1  0.007278  0.404761  0.994237  1
+  Zr  Zr7  1  0.019983  0.517995  0.978217  1
+  Zr  Zr8  1  0.030704  0.625378  0.968571  1
+  Zr  Zr9  1  0.039006  0.734992  0.956831  1
+  O  O10  1  0.265513  0.010757  0.236591  1
+  O  O11  1  0.239212  0.090400  0.262143  1
+  O  O12  1  0.253658  0.203431  0.246122  1
+  O  O13  1  0.299230  0.340367  0.199965  1
+  O  O14  1  0.247547  0.402099  0.247913  1
+  O  O15  1  0.330503  0.567902  0.165679  1
+  O  O16  1  0.752787  0.101783  0.748286  1
+  O  O17  1  0.166694  0.630094  0.337194  1
+  O  O18  1  0.259189  0.804456  0.244320  1
+  O  O19  1  0.746321  0.193238  0.758236  1
+  O  O20  1  0.675765  0.238133  0.827275  1
+  O  O21  1  0.188249  0.848551  0.314097  1
+  O  O22  1  0.764397  0.409046  0.738426  1
+  O  O23  1  0.710128  0.466769  0.791623  1
+  O  O24  1  0.760987  0.607797  0.740373  1
+  O  O25  1  0.771388  0.717333  0.728688  1
+  O  O26  1  0.748746  0.799910  0.750429  1
+  O  O27  1  0.816476  0.956676  0.679563  1
+  O  O28  1  0.760526  0.012526  0.735125  1

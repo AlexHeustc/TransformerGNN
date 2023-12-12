@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_EuSi2(NO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.13279919
+_cell_length_b   7.31752867
+_cell_length_c   7.33304176
+_cell_angle_alpha   88.77459686
+_cell_angle_beta   84.75340946
+_cell_angle_gamma   76.03203613
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuSi2(NO)2
+_chemical_formula_sum   'Eu4 Si8 N8 O8'
+_cell_volume   369.87051686
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.150591  0.109225  0.557634  1
+  Eu  Eu1  1  0.160812  0.120214  0.065868  1
+  Eu  Eu2  1  0.638829  0.229048  0.316772  1
+  Eu  Eu3  1  0.626288  0.218242  0.810133  1
+  Si  Si4  1  0.060791  0.770220  0.833337  1
+  Si  Si5  1  0.856842  0.567258  0.582463  1
+  Si  Si6  1  0.773630  0.570877  0.994141  1
+  Si  Si7  1  0.976497  0.767212  0.247856  1
+  Si  Si8  1  0.365187  0.565416  0.082910  1
+  Si  Si9  1  0.470973  0.775634  0.741414  1
+  Si  Si10  1  0.558192  0.776367  0.332241  1
+  Si  Si11  1  0.276068  0.561296  0.495263  1
+  N  N12  1  0.425112  0.608346  0.302542  1
+  N  N13  1  0.043068  0.603630  0.423370  1
+  N  N14  1  0.540381  0.617047  0.919413  1
+  N  N15  1  0.144621  0.720222  0.052472  1
+  N  N16  1  0.261364  0.726562  0.668534  1
+  N  N17  1  0.763690  0.728726  0.174409  1
+  N  N18  1  0.917913  0.615639  0.800834  1
+  N  N19  1  0.641604  0.734159  0.551103  1
+  O  O20  1  0.409942  0.995508  0.806046  1
+  O  O21  1  0.377230  0.340523  0.071268  1
+  O  O22  1  0.828701  0.350415  0.056938  1
+  O  O23  1  0.361954  0.346179  0.562967  1
+  O  O24  1  0.426353  0.990269  0.315249  1
+  O  O25  1  0.958711  0.994939  0.825610  1
+  O  O26  1  0.829446  0.352181  0.568574  1
+  O  O27  1  0.957340  0.984104  0.313849  1

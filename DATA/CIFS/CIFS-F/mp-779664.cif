@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_AgGeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15847473
+_cell_length_b   9.30865234
+_cell_length_c   3.17038319
+_cell_angle_alpha   89.95566032
+_cell_angle_beta   90.38535712
+_cell_angle_gamma   90.40350622
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgGeO3
+_chemical_formula_sum   'Ag2 Ge2 O6'
+_cell_volume   152.22962107
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.998954  0.001717  0.991832  1
+  Ag  Ag1  1  0.992231  0.502236  0.984290  1
+  Ge  Ge2  1  0.404750  0.752175  0.489163  1
+  Ge  Ge3  1  0.588368  0.250163  0.482193  1
+  O  O4  1  0.209519  0.594595  0.486721  1
+  O  O5  1  0.217492  0.911435  0.493264  1
+  O  O6  1  0.408559  0.247762  0.980075  1
+  O  O7  1  0.585460  0.751885  0.991049  1
+  O  O8  1  0.770498  0.412574  0.481429  1
+  O  O9  1  0.782749  0.093696  0.488958  1

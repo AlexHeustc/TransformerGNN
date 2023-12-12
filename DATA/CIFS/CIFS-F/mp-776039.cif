@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaMnBO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21677178
+_cell_length_b   9.06315702
+_cell_length_c   5.91703316
+_cell_angle_alpha   90.14891430
+_cell_angle_beta   94.67131991
+_cell_angle_gamma   29.70766732
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaMnBO3
+_chemical_formula_sum   'Na2 Mn2 B2 O6'
+_cell_volume   136.86032670
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.991030  0.672110  0.749001  1
+  Na  Na1  1  0.997411  0.340382  0.250454  1
+  Mn  Mn2  1  0.996124  0.003954  0.498285  1
+  Mn  Mn3  1  0.987608  0.006697  0.997739  1
+  B  B4  1  0.992982  0.337764  0.748587  1
+  B  B5  1  0.988873  0.673531  0.247434  1
+  O  O6  1  0.000670  0.180725  0.752441  1
+  O  O7  1  0.982474  0.829957  0.248147  1
+  O  O8  1  0.427808  0.197312  0.701537  1
+  O  O9  1  0.551119  0.634039  0.790930  1
+  O  O10  1  0.428072  0.379075  0.201005  1
+  O  O11  1  0.554959  0.812667  0.293359  1

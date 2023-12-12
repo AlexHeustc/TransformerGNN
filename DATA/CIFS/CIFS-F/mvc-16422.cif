@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CaTa2Bi2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95475695
+_cell_length_b   3.93784216
+_cell_length_c   14.85761303
+_cell_angle_alpha   111.28096561
+_cell_angle_beta   109.37637066
+_cell_angle_gamma   90.02396774
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTa2Bi2O9
+_chemical_formula_sum   'Ca1 Ta2 Bi2 O9'
+_cell_volume   201.46068272
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.500000  0.500000  -0.000000  1
+  Ta  Ta1  1  0.790933  0.778211  0.839836  1
+  Ta  Ta2  1  0.209067  0.221789  0.160164  1
+  Bi  Bi3  1  0.164618  0.144872  0.400970  1
+  Bi  Bi4  1  0.835382  0.855128  0.599030  1
+  O  O5  1  0.624423  0.584413  0.691847  1
+  O  O6  1  0.375577  0.415587  0.308153  1
+  O  O7  1  0.819666  0.307293  0.857545  1
+  O  O8  1  0.255151  0.746834  0.502325  1
+  O  O9  1  0.744849  0.253166  0.497675  1
+  O  O10  1  0.319929  0.814658  0.858197  1
+  O  O11  1  0.180334  0.692707  0.142455  1
+  O  O12  1  0.680071  0.185342  0.141803  1
+  O  O13  1  -0.000000  0.000000  -0.000000  1

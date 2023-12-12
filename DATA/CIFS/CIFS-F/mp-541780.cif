@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_CoH2SeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.83399964
+_cell_length_b   5.70340182
+_cell_length_c   13.61449739
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   92.16397914
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoH2SeO4
+_chemical_formula_sum   'Co4 H8 Se4 O16'
+_cell_volume   375.08730920
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.316923  0.616259  0.734052  1
+  Co  Co1  1  0.183077  0.883741  0.234052  1
+  Co  Co2  1  0.683077  0.383741  0.265948  1
+  Co  Co3  1  0.816923  0.116259  0.765948  1
+  Se  Se4  1  0.234966  0.112875  0.605003  1
+  Se  Se5  1  0.265034  0.387125  0.105003  1
+  Se  Se6  1  0.765034  0.887125  0.394997  1
+  Se  Se7  1  0.734966  0.612875  0.894997  1
+  O  O8  1  0.101757  0.330915  0.682816  1
+  O  O9  1  0.398243  0.169085  0.182816  1
+  O  O10  1  0.898243  0.669085  0.317184  1
+  O  O11  1  0.601757  0.830915  0.817184  1
+  O  O12  1  0.592731  0.382647  0.821315  1
+  O  O13  1  0.907269  0.117353  0.321315  1
+  O  O14  1  0.407269  0.617353  0.178685  1
+  O  O15  1  0.092731  0.882647  0.678685  1
+  O  O16  1  0.078469  0.626630  0.870429  1
+  O  O17  1  0.421531  0.873370  0.370429  1
+  O  O18  1  0.921531  0.373370  0.129571  1
+  O  O19  1  0.578469  0.126630  0.629571  1
+  O  O20  1  0.604310  0.615836  0.610718  1
+  O  O21  1  0.895690  0.884164  0.110718  1
+  O  O22  1  0.395690  0.384164  0.389282  1
+  O  O23  1  0.104310  0.115836  0.889282  1
+  H  H24  1  0.771199  0.711749  0.628698  1
+  H  H25  1  0.728801  0.788251  0.128698  1
+  H  H26  1  0.228801  0.288251  0.371302  1
+  H  H27  1  0.271199  0.211749  0.871302  1
+  H  H28  1  0.662013  0.451651  0.608367  1
+  H  H29  1  0.837987  0.048349  0.108367  1
+  H  H30  1  0.337987  0.548349  0.391633  1
+  H  H31  1  0.162013  0.951651  0.891633  1

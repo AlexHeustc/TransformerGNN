@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YbIn4Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40481467
+_cell_length_b   7.41762541
+_cell_length_c   8.63826298
+_cell_angle_alpha   89.92067844
+_cell_angle_beta   104.69770261
+_cell_angle_gamma   89.98980331
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbIn4Ni
+_chemical_formula_sum   'Yb2 In8 Ni2'
+_cell_volume   273.00446820
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.878663  0.253134  0.746492  1
+  Yb  Yb1  1  0.126471  0.752615  0.255628  1
+  In  In2  1  0.067942  0.247719  0.142186  1
+  In  In3  1  0.681846  0.455181  0.370640  1
+  In  In4  1  0.932754  0.751952  0.857107  1
+  In  In5  1  0.684795  0.050048  0.372571  1
+  In  In6  1  0.313494  0.550046  0.626590  1
+  In  In7  1  0.502021  0.001535  0.997735  1
+  In  In8  1  0.498944  0.503557  0.999159  1
+  In  In9  1  0.313511  0.955649  0.627617  1
+  Ni  Ni10  1  0.226722  0.253397  0.457154  1
+  Ni  Ni11  1  0.769095  0.751989  0.541779  1

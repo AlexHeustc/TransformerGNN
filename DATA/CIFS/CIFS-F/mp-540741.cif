@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Fe4Bi2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00713923
+_cell_length_b   7.95093754
+_cell_length_c   8.45114325
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe4Bi2O9
+_chemical_formula_sum   'Fe8 Bi4 O18'
+_cell_volume   403.64678981
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.000000  0.171836  0.168376  1
+  Bi  Bi1  1  0.000000  0.828164  0.831624  1
+  Bi  Bi2  1  0.000000  0.671836  0.331624  1
+  Bi  Bi3  1  0.000000  0.328164  0.668376  1
+  Fe  Fe4  1  0.500000  0.349375  0.331600  1
+  Fe  Fe5  1  0.500000  0.650625  0.668400  1
+  Fe  Fe6  1  0.500000  0.849375  0.168400  1
+  Fe  Fe7  1  0.500000  0.150625  0.831600  1
+  Fe  Fe8  1  0.252702  0.000000  0.500000  1
+  Fe  Fe9  1  0.747298  0.500000  0.000000  1
+  Fe  Fe10  1  0.747298  0.000000  0.500000  1
+  Fe  Fe11  1  0.252702  0.500000  0.000000  1
+  O  O12  1  0.000000  0.145001  0.428210  1
+  O  O13  1  0.000000  0.854999  0.571790  1
+  O  O14  1  0.000000  0.645001  0.071790  1
+  O  O15  1  0.000000  0.354999  0.928210  1
+  O  O16  1  0.240396  0.371239  0.201013  1
+  O  O17  1  0.240396  0.628761  0.798987  1
+  O  O18  1  0.759604  0.871239  0.298987  1
+  O  O19  1  0.759604  0.128761  0.701013  1
+  O  O20  1  0.759604  0.628761  0.798987  1
+  O  O21  1  0.759604  0.371239  0.201013  1
+  O  O22  1  0.240396  0.128761  0.701013  1
+  O  O23  1  0.240396  0.871239  0.298987  1
+  O  O24  1  0.500000  0.127974  0.410491  1
+  O  O25  1  0.500000  0.872026  0.589509  1
+  O  O26  1  0.500000  0.627974  0.089509  1
+  O  O27  1  0.500000  0.372026  0.910491  1
+  O  O28  1  0.500000  0.000000  0.000000  1
+  O  O29  1  0.500000  0.500000  0.500000  1

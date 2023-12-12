@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ce5AgS8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.40118125
+_cell_length_b   7.40118144
+_cell_length_c   7.40118111
+_cell_angle_alpha   109.77703247
+_cell_angle_beta   109.77703294
+_cell_angle_gamma   108.86131383
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce5AgS8
+_chemical_formula_sum   'Ce5 Ag1 S8'
+_cell_volume   312.06449705
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.110887  0.742045  0.867947  1
+  Ce  Ce1  1  0.257955  0.625901  0.368842  1
+  Ce  Ce2  1  0.374099  0.242941  0.632053  1
+  Ce  Ce3  1  0.625000  0.375000  0.250000  1
+  Ce  Ce4  1  0.757059  0.889113  0.131158  1
+  Ag  Ag5  1  0.875000  0.125000  0.750000  1
+  S  S6  1  0.991473  0.848308  0.496352  1
+  S  S7  1  0.151692  0.148044  0.143165  1
+  S  S8  1  0.370546  0.517747  0.010548  1
+  S  S9  1  0.482253  0.992802  0.852800  1
+  S  S10  1  0.640002  0.629454  0.647200  1
+  S  S11  1  0.504879  0.008527  0.356835  1
+  S  S12  1  0.851956  0.495121  0.003648  1
+  S  S13  1  0.007198  0.359998  0.489452  1

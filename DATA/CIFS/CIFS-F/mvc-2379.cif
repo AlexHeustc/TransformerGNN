@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Mg2Ta2CuO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17926760
+_cell_length_b   6.06145843
+_cell_length_c   10.08542047
+_cell_angle_alpha   108.15385528
+_cell_angle_beta   92.57526800
+_cell_angle_gamma   89.58450815
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Ta2CuO8
+_chemical_formula_sum   'Mg4 Ta4 Cu2 O16'
+_cell_volume   300.54904684
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.753691  0.416789  0.545187  1
+  Mg  Mg1  1  0.744003  0.871986  0.452212  1
+  Mg  Mg2  1  0.242947  0.585260  0.453756  1
+  Mg  Mg3  1  0.252620  0.129612  0.546500  1
+  Ta  Ta4  1  0.727916  0.277799  0.232284  1
+  Ta  Ta5  1  0.766670  0.046650  0.765956  1
+  Ta  Ta6  1  0.268782  0.724290  0.766396  1
+  Ta  Ta7  1  0.230058  0.954517  0.232561  1
+  Cu  Cu8  1  0.750276  0.646566  0.999564  1
+  Cu  Cu9  1  0.249623  0.354570  0.998256  1
+  O  O10  1  0.057296  0.181268  0.146544  1
+  O  O11  1  0.436416  0.044274  0.853256  1
+  O  O12  1  0.939001  0.819270  0.852400  1
+  O  O13  1  0.559894  0.958857  0.145708  1
+  O  O14  1  0.559661  0.420389  0.114005  1
+  O  O15  1  0.935709  0.310167  0.884865  1
+  O  O16  1  0.440548  0.582773  0.883879  1
+  O  O17  1  0.064381  0.688979  0.112892  1
+  O  O18  1  0.446325  0.289541  0.372577  1
+  O  O19  1  0.049981  0.916091  0.625192  1
+  O  O20  1  0.370389  0.837230  0.382269  1
+  O  O21  1  0.126990  0.455663  0.616697  1
+  O  O22  1  0.626516  0.164522  0.616454  1
+  O  O23  1  0.869924  0.545951  0.382259  1
+  O  O24  1  0.946862  0.084851  0.373476  1
+  O  O25  1  0.550370  0.712858  0.626176  1

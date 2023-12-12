@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_H8PtO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59987630
+_cell_length_b   5.71872696
+_cell_length_c   7.34780402
+_cell_angle_alpha   86.87694747
+_cell_angle_beta   91.32170330
+_cell_angle_gamma   99.85958895
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H8PtO6
+_chemical_formula_sum   'H16 Pt2 O12'
+_cell_volume   231.46499129
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.019395  0.026414  0.522686  1
+  H  H1  1  0.143533  0.156355  0.719001  1
+  H  H2  1  0.099112  0.152651  0.998534  1
+  H  H3  1  0.859389  0.819827  0.296374  1
+  H  H4  1  0.892599  0.842866  0.992963  1
+  H  H5  1  0.527126  0.435049  0.510925  1
+  H  H6  1  0.457764  0.561263  0.004371  1
+  H  H7  1  0.402757  0.759562  0.441034  1
+  H  H8  1  0.767928  0.409996  0.901720  1
+  H  H9  1  0.112642  0.609298  0.815493  1
+  H  H10  1  0.642902  0.852039  0.705339  1
+  H  H11  1  0.618192  0.154205  0.633679  1
+  H  H12  1  0.164663  0.530913  0.155400  1
+  H  H13  1  0.876561  0.387249  0.153056  1
+  H  H14  1  0.516832  0.160281  0.346657  1
+  H  H15  1  0.241868  0.015186  0.291535  1
+  Pt  Pt16  1  0.000717  0.490150  0.500238  1
+  Pt  Pt17  1  0.508126  0.009312  0.003335  1
+  O  O18  1  0.116869  0.179226  0.576026  1
+  O  O19  1  0.207371  0.123310  0.902858  1
+  O  O20  1  0.911840  0.808872  0.429205  1
+  O  O21  1  0.809559  0.892498  0.096153  1
+  O  O22  1  0.641164  0.312430  0.496341  1
+  O  O23  1  0.332147  0.665841  0.004711  1
+  O  O24  1  0.356555  0.623145  0.526494  1
+  O  O25  1  0.672420  0.354317  0.016464  1
+  O  O26  1  0.949138  0.570656  0.755655  1
+  O  O27  1  0.621573  0.007179  0.746903  1
+  O  O28  1  0.039535  0.411009  0.230834  1
+  O  O29  1  0.416128  0.021679  0.271762  1

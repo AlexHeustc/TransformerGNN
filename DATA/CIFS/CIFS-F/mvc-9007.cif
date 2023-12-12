@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LaTaFeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63624917
+_cell_length_b   5.56999531
+_cell_length_c   7.88399154
+_cell_angle_alpha   90.35547680
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaTaFeO6
+_chemical_formula_sum   'La2 Ta2 Fe2 O12'
+_cell_volume   247.50433221
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.043245  0.990865  0.251507  1
+  La  La1  1  0.456755  0.490865  0.751507  1
+  Ta  Ta2  1  0.518341  0.995001  0.503955  1
+  Ta  Ta3  1  0.981659  0.495001  0.003955  1
+  Fe  Fe4  1  0.509000  0.999321  0.998551  1
+  Fe  Fe5  1  0.991000  0.499321  0.498551  1
+  O  O6  1  0.019907  0.537290  0.751570  1
+  O  O7  1  0.232079  0.236483  0.977359  1
+  O  O8  1  0.238726  0.233296  0.521199  1
+  O  O9  1  0.261274  0.733296  0.021199  1
+  O  O10  1  0.267921  0.736483  0.477359  1
+  O  O11  1  0.480093  0.037290  0.251570  1
+  O  O12  1  0.508327  0.924935  0.748181  1
+  O  O13  1  0.713405  0.284696  0.537130  1
+  O  O14  1  0.712342  0.287716  0.960737  1
+  O  O15  1  0.787658  0.787716  0.460737  1
+  O  O16  1  0.786595  0.784696  0.037130  1
+  O  O17  1  0.991673  0.424935  0.248181  1

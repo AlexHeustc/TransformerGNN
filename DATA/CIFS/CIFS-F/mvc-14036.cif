@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sr2CoCuSO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89527441
+_cell_length_b   3.90093358
+_cell_length_c   16.01504541
+_cell_angle_alpha   89.96382825
+_cell_angle_beta   89.92292323
+_cell_angle_gamma   89.84377614
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CoCuSO3
+_chemical_formula_sum   'Sr4 Co2 Cu2 S2 O6'
+_cell_volume   243.35075342
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.750054  0.750152  0.190481  1
+  Sr  Sr1  1  0.250669  0.250729  0.809279  1
+  Sr  Sr2  1  0.749547  0.749814  0.413903  1
+  Sr  Sr3  1  0.245999  0.244705  0.589740  1
+  Co  Co4  1  0.248651  0.250399  0.316002  1
+  Co  Co5  1  0.749793  0.749513  0.691368  1
+  Cu  Cu6  1  0.750167  0.250018  0.999836  1
+  Cu  Cu7  1  0.249927  0.750074  0.999538  1
+  S  S8  1  0.249939  0.250019  0.087201  1
+  S  S9  1  0.750345  0.750258  0.913332  1
+  O  O10  1  0.750103  0.249804  0.288446  1
+  O  O11  1  0.250213  0.749917  0.289079  1
+  O  O12  1  0.251531  0.750416  0.710988  1
+  O  O13  1  0.750496  0.251686  0.710397  1
+  O  O14  1  0.250620  0.249454  0.428477  1
+  O  O15  1  0.751947  0.753043  0.561933  1

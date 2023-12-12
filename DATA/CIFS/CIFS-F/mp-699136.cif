@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaAlH2CO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86333073
+_cell_length_b   6.86333073
+_cell_length_c   6.86333073
+_cell_angle_alpha   120.77003683
+_cell_angle_beta   79.99030543
+_cell_angle_gamma   131.46949571
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAlH2CO5
+_chemical_formula_sum   'Na2 Al2 H4 C2 O10'
+_cell_volume   201.19928521
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.995861  0.997405  0.493266  1
+  Na  Na1  1  0.004139  0.497405  0.001544  1
+  Al  Al2  1  0.500000  0.490364  0.990364  1
+  Al  Al3  1  0.000000  0.990364  0.990364  1
+  H  H4  1  0.283515  0.940241  0.723756  1
+  H  H5  1  0.716485  0.440241  0.656725  1
+  H  H6  1  0.715520  0.039767  0.255287  1
+  H  H7  1  0.284480  0.539767  0.324246  1
+  C  C8  1  0.503524  0.740458  0.743982  1
+  C  C9  1  0.496476  0.240458  0.236934  1
+  O  O10  1  0.617367  0.238052  0.355418  1
+  O  O11  1  0.382633  0.738052  0.620685  1
+  O  O12  1  0.767861  0.943514  0.807626  1
+  O  O13  1  0.232139  0.039765  0.175653  1
+  O  O14  1  0.635888  0.443514  0.175653  1
+  O  O15  1  0.364112  0.539765  0.807626  1
+  O  O16  1  0.226436  0.423575  0.150011  1
+  O  O17  1  0.773564  0.923575  0.197139  1
+  O  O18  1  0.773633  0.556861  0.830494  1
+  O  O19  1  0.226367  0.056861  0.783228  1

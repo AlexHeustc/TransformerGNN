@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_VInO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10027296
+_cell_length_b   7.10027328
+_cell_length_c   7.17550769
+_cell_angle_alpha   79.05024090
+_cell_angle_beta   79.05024040
+_cell_angle_gamma   84.99313361
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VInO4
+_chemical_formula_sum   'V4 In4 O16'
+_cell_volume   348.20115286
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.186680  0.813320  0.500000  1
+  In  In1  1  0.813320  0.186680  0.500000  1
+  In  In2  1  0.789912  0.789912  0.870094  1
+  In  In3  1  0.210088  0.210088  0.129906  1
+  V  V4  1  0.253018  0.746982  1.000000  1
+  V  V5  1  0.746982  0.253018  0.000000  1
+  V  V6  1  0.274687  0.274687  0.592507  1
+  V  V7  1  0.725314  0.725314  0.407493  1
+  O  O8  1  0.141340  0.141340  0.459457  1
+  O  O9  1  0.858660  0.858660  0.540543  1
+  O  O10  1  0.791555  0.791555  0.163658  1
+  O  O11  1  0.208445  0.208445  0.836342  1
+  O  O12  1  0.783004  0.484366  0.893182  1
+  O  O13  1  0.515634  0.216996  0.106817  1
+  O  O14  1  0.216996  0.515634  0.106817  1
+  O  O15  1  0.484366  0.783004  0.893182  1
+  O  O16  1  0.202999  0.892217  0.187659  1
+  O  O17  1  0.107783  0.797001  0.812341  1
+  O  O18  1  0.797001  0.107783  0.812341  1
+  O  O19  1  0.892217  0.202999  0.187659  1
+  O  O20  1  0.489279  0.787889  0.476744  1
+  O  O21  1  0.212111  0.510721  0.523256  1
+  O  O22  1  0.510721  0.212111  0.523256  1
+  O  O23  1  0.787889  0.489279  0.476744  1

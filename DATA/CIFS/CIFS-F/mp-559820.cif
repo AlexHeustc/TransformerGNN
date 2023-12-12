@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LaSClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82492869
+_cell_length_b   8.22704131
+_cell_length_c   8.64233829
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   112.40691988
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSClO4
+_chemical_formula_sum   'La4 S4 Cl4 O16'
+_cell_volume   448.62138859
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.110196  0.692487  0.731303  1
+  La  La1  1  0.610196  0.807513  0.231303  1
+  La  La2  1  0.389804  0.192487  0.768697  1
+  La  La3  1  0.889804  0.307513  0.268697  1
+  S  S4  1  0.209696  0.918206  0.433951  1
+  S  S5  1  0.709696  0.581794  0.933951  1
+  S  S6  1  0.290304  0.418206  0.066049  1
+  S  S7  1  0.790304  0.081794  0.566049  1
+  Cl  Cl8  1  0.757238  0.036026  0.031097  1
+  Cl  Cl9  1  0.257238  0.463974  0.531097  1
+  Cl  Cl10  1  0.242762  0.963974  0.968903  1
+  Cl  Cl11  1  0.742762  0.536026  0.468903  1
+  O  O12  1  0.137233  0.349056  0.129494  1
+  O  O13  1  0.699618  0.087986  0.375773  1
+  O  O14  1  0.833261  0.908681  0.614917  1
+  O  O15  1  0.637233  0.150944  0.629494  1
+  O  O16  1  0.986733  0.181377  0.620056  1
+  O  O17  1  0.013267  0.818623  0.379944  1
+  O  O18  1  0.333261  0.591319  0.114917  1
+  O  O19  1  0.862767  0.650944  0.870506  1
+  O  O20  1  0.800382  0.587986  0.124227  1
+  O  O21  1  0.513267  0.681377  0.879944  1
+  O  O22  1  0.199618  0.412014  0.875773  1
+  O  O23  1  0.362767  0.849056  0.370506  1
+  O  O24  1  0.166739  0.091319  0.385083  1
+  O  O25  1  0.486733  0.318623  0.120056  1
+  O  O26  1  0.300382  0.912014  0.624227  1
+  O  O27  1  0.666739  0.408681  0.885083  1

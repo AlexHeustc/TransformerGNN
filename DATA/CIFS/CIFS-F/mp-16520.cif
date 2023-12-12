@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NpAl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.42214332
+_cell_length_b   6.14395920
+_cell_length_c   7.88104545
+_cell_angle_alpha   112.94164556
+_cell_angle_beta   106.29336917
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NpAl4
+_chemical_formula_sum   'Np2 Al8'
+_cell_volume   187.81351694
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.500000  0.500000  0.000000  1
+  Al  Al1  1  0.500000  0.000000  0.000000  1
+  Al  Al2  1  0.113453  0.863453  0.226906  1
+  Al  Al3  1  0.886547  0.136547  0.773094  1
+  Al  Al4  1  0.698963  0.718620  0.397925  1
+  Al  Al5  1  0.301037  0.281380  0.602075  1
+  Al  Al6  1  0.301037  0.820695  0.602075  1
+  Al  Al7  1  0.698963  0.179305  0.397925  1
+  Np  Np8  1  0.891125  0.641125  0.782251  1
+  Np  Np9  1  0.108875  0.358875  0.217749  1

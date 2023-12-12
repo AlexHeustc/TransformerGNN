@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Li6Sb2S7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.13421820
+_cell_length_b   7.57843369
+_cell_length_c   6.49862808
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   79.54046192
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6Sb2S7
+_chemical_formula_sum   'Li12 Sb4 S14'
+_cell_volume   587.67307237
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.145445  0.792810  0.629026  1
+  Li  Li1  1  0.138455  0.227480  0.634373  1
+  Li  Li2  1  0.148515  0.517547  0.097251  1
+  Li  Li3  1  0.361545  0.727480  0.865627  1
+  Li  Li4  1  0.354555  0.292810  0.870974  1
+  Li  Li5  1  0.351485  0.017547  0.402749  1
+  Li  Li6  1  0.648515  0.982453  0.597251  1
+  Li  Li7  1  0.645445  0.707190  0.129026  1
+  Li  Li8  1  0.638455  0.272520  0.134373  1
+  Li  Li9  1  0.851485  0.482453  0.902749  1
+  Li  Li10  1  0.861545  0.772520  0.365627  1
+  Li  Li11  1  0.854555  0.207190  0.370974  1
+  Sb  Sb12  1  0.127892  0.002730  0.120474  1
+  Sb  Sb13  1  0.372108  0.502730  0.379526  1
+  Sb  Sb14  1  0.627892  0.497270  0.620474  1
+  Sb  Sb15  1  0.872108  0.997270  0.879526  1
+  S  S16  1  0.000000  0.000000  0.500000  1
+  S  S17  1  0.004724  0.759999  0.003849  1
+  S  S18  1  0.262056  0.012059  0.783443  1
+  S  S19  1  0.237944  0.512059  0.716557  1
+  S  S20  1  0.242330  0.267093  0.253372  1
+  S  S21  1  0.257670  0.767093  0.246628  1
+  S  S22  1  0.495276  0.259999  0.496151  1
+  S  S23  1  0.504724  0.740001  0.503849  1
+  S  S24  1  0.500000  0.500000  0.000000  1
+  S  S25  1  0.742330  0.232907  0.753372  1
+  S  S26  1  0.757670  0.732907  0.746628  1
+  S  S27  1  0.762056  0.487941  0.283443  1
+  S  S28  1  0.737944  0.987941  0.216557  1
+  S  S29  1  0.995276  0.240001  0.996151  1

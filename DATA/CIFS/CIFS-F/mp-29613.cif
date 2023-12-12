@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_CsEu2I5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.20404204
+_cell_length_b   10.31771726
+_cell_length_c   14.46814101
+_cell_angle_alpha   90.54007284
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsEu2I5
+_chemical_formula_sum   'Cs4 Eu8 I20'
+_cell_volume   1373.90168255
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  I  I0  1  0.841618  0.210808  0.683507  1
+  I  I1  1  0.341618  0.789192  0.816493  1
+  I  I2  1  0.158382  0.789192  0.316493  1
+  I  I3  1  0.658382  0.210808  0.183507  1
+  I  I4  1  0.813501  0.781384  0.714498  1
+  I  I5  1  0.313501  0.218616  0.785502  1
+  I  I6  1  0.186499  0.218616  0.285502  1
+  I  I7  1  0.686499  0.781384  0.214498  1
+  I  I8  1  0.673538  0.464754  0.925263  1
+  I  I9  1  0.173538  0.535246  0.574737  1
+  I  I10  1  0.326462  0.535246  0.074737  1
+  I  I11  1  0.826462  0.464754  0.425263  1
+  I  I12  1  0.838978  0.041813  0.400869  1
+  I  I13  1  0.338978  0.958187  0.099131  1
+  I  I14  1  0.161022  0.958187  0.599131  1
+  I  I15  1  0.661022  0.041813  0.900869  1
+  I  I16  1  0.951823  0.795509  0.996635  1
+  I  I17  1  0.451823  0.204491  0.503365  1
+  I  I18  1  0.048177  0.204491  0.003365  1
+  I  I19  1  0.548177  0.795509  0.496635  1
+  Cs  Cs20  1  0.943143  0.492505  0.167296  1
+  Cs  Cs21  1  0.443143  0.507495  0.332704  1
+  Cs  Cs22  1  0.056857  0.507495  0.832704  1
+  Cs  Cs23  1  0.556857  0.492505  0.667296  1
+  Eu  Eu24  1  0.526206  0.996457  0.681141  1
+  Eu  Eu25  1  0.026206  0.003543  0.818859  1
+  Eu  Eu26  1  0.473794  0.003543  0.318859  1
+  Eu  Eu27  1  0.973794  0.996457  0.181141  1
+  Eu  Eu28  1  0.571815  0.756294  0.993722  1
+  Eu  Eu29  1  0.071815  0.243706  0.506278  1
+  Eu  Eu30  1  0.428185  0.243706  0.006278  1
+  Eu  Eu31  1  0.928185  0.756294  0.493722  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na2TbO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99281756
+_cell_length_b   5.91818876
+_cell_length_c   8.92674564
+_cell_angle_alpha   70.29417462
+_cell_angle_beta   71.60506613
+_cell_angle_gamma   58.84994859
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2TbO3
+_chemical_formula_sum   'Na6 Tb3 O9'
+_cell_volume   251.13996383
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.444444  0.777778  0.666667  1
+  Tb  Tb1  1  0.899421  0.531156  0.333636  1
+  Tb  Tb2  1  0.989468  0.024399  0.999697  1
+  Na  Na3  1  0.228416  0.879433  0.332708  1
+  Na  Na4  1  0.118390  0.452359  0.665947  1
+  Na  Na5  1  0.770499  0.103196  0.667387  1
+  Na  Na6  1  0.552635  0.228313  0.332919  1
+  Na  Na7  1  0.660473  0.676123  0.000626  1
+  Na  Na8  1  0.336254  0.327242  0.000415  1
+  O  O9  1  0.808217  0.804847  0.503834  1
+  O  O10  1  0.080672  0.750709  0.829499  1
+  O  O11  1  0.713193  0.396298  0.837178  1
+  O  O12  1  0.525287  0.516559  0.498111  1
+  O  O13  1  0.363602  0.038997  0.835223  1
+  O  O14  1  0.661630  0.920344  0.160426  1
+  O  O15  1  0.175696  0.159258  0.496155  1
+  O  O16  1  0.227258  0.635212  0.172907  1
+  O  O17  1  0.944444  0.277778  0.166667  1

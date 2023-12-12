@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_CsNaGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.62040152
+_cell_length_b   9.85665442
+_cell_length_c   13.10776246
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   106.57271496
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNaGe2
+_chemical_formula_sum   'Cs8 Na8 Ge16'
+_cell_volume   1067.47793674
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.549933  0.099670  0.603824  1
+  Na  Na1  1  0.365104  0.535622  0.315950  1
+  Na  Na2  1  0.134896  0.035622  0.184050  1
+  Na  Na3  1  0.049933  0.400330  0.103824  1
+  Na  Na4  1  0.450067  0.900330  0.396176  1
+  Na  Na5  1  0.950067  0.599670  0.896176  1
+  Na  Na6  1  0.634896  0.464378  0.684050  1
+  Na  Na7  1  0.865104  0.964378  0.815950  1
+  Ge  Ge8  1  0.295456  0.597783  0.058813  1
+  Ge  Ge9  1  0.823830  0.164830  0.012139  1
+  Ge  Ge10  1  0.323830  0.335170  0.512139  1
+  Ge  Ge11  1  0.676170  0.664830  0.487861  1
+  Ge  Ge12  1  0.889546  0.689656  0.671065  1
+  Ge  Ge13  1  0.610454  0.189656  0.828935  1
+  Ge  Ge14  1  0.110454  0.310344  0.328935  1
+  Ge  Ge15  1  0.389546  0.810344  0.171065  1
+  Ge  Ge16  1  0.590267  0.776829  0.645561  1
+  Ge  Ge17  1  0.704544  0.402217  0.941187  1
+  Ge  Ge18  1  0.795456  0.902217  0.558813  1
+  Ge  Ge19  1  0.090267  0.723171  0.145561  1
+  Ge  Ge20  1  0.409733  0.223171  0.354439  1
+  Ge  Ge21  1  0.909733  0.276829  0.854439  1
+  Ge  Ge22  1  0.176170  0.835170  0.987861  1
+  Ge  Ge23  1  0.204544  0.097783  0.441187  1
+  Cs  Cs24  1  0.229970  0.981575  0.721709  1
+  Cs  Cs25  1  0.270030  0.481575  0.778291  1
+  Cs  Cs26  1  0.770030  0.018425  0.278291  1
+  Cs  Cs27  1  0.729970  0.518425  0.221709  1
+  Cs  Cs28  1  0.380387  0.204028  0.034265  1
+  Cs  Cs29  1  0.119613  0.704028  0.465735  1
+  Cs  Cs30  1  0.619613  0.795972  0.965735  1
+  Cs  Cs31  1  0.880387  0.295972  0.534265  1

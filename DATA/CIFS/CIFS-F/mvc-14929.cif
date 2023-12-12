@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_CaLa2Ti2Mn2O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42091432
+_cell_length_b   5.43912742
+_cell_length_c   7.71526476
+_cell_angle_alpha   89.81892990
+_cell_angle_beta   90.05525829
+_cell_angle_gamma   90.44267866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaLa2Ti2Mn2O12
+_chemical_formula_sum   'Ca1 La2 Ti2 Mn2 O12'
+_cell_volume   227.47689225
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.498193  0.530747  0.250431  1
+  La  La1  1  0.006317  0.027870  0.249720  1
+  La  La2  1  0.506915  0.478339  0.750347  1
+  Ti  Ti3  1  0.000698  0.511228  0.986855  1
+  Ti  Ti4  1  0.505561  0.997522  0.515410  1
+  Mn  Mn5  1  0.001816  0.503662  0.498448  1
+  Mn  Mn6  1  0.502782  0.003026  0.000691  1
+  O  O7  1  0.051803  0.512421  0.747277  1
+  O  O8  1  0.232609  0.772876  0.039166  1
+  O  O9  1  0.227729  0.768265  0.459496  1
+  O  O10  1  0.284764  0.279938  0.032326  1
+  O  O11  1  0.276193  0.284577  0.466881  1
+  O  O12  1  0.449834  0.000619  0.752939  1
+  O  O13  1  0.557124  0.995690  0.245630  1
+  O  O14  1  0.715635  0.711371  0.516525  1
+  O  O15  1  0.711624  0.717996  0.983066  1
+  O  O16  1  0.770366  0.231375  0.524046  1
+  O  O17  1  0.768869  0.229773  0.975695  1
+  O  O18  1  0.941260  0.490565  0.254011  1

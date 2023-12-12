@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Np3In
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58069945
+_cell_length_b   4.58298367
+_cell_length_c   4.57949769
+_cell_angle_alpha   90.01800781
+_cell_angle_beta   89.97850846
+_cell_angle_gamma   90.00579324
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Np3In
+_chemical_formula_sum   'Np3 In1'
+_cell_volume   96.13862294
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.999986  0.500020  0.500005  1
+  Np  Np1  1  0.500015  0.999981  0.500000  1
+  Np  Np2  1  0.499999  0.499995  0.999984  1
+  In  In3  1  0.000000  0.000003  0.000011  1

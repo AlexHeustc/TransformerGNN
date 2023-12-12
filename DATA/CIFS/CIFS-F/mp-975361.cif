@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_RbErO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49115817
+_cell_length_b   4.49429643
+_cell_length_c   4.49727465
+_cell_angle_alpha   89.99778210
+_cell_angle_beta   89.99895395
+_cell_angle_gamma   89.99868005
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbErO3
+_chemical_formula_sum   'Rb1 Er1 O3'
+_cell_volume   90.77567244
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.000011  -0.000040  0.000019  1
+  Er  Er1  1  0.499970  0.500047  0.499929  1
+  O  O2  1  0.499988  0.500000  0.000005  1
+  O  O3  1  0.500023  -0.000009  0.500011  1
+  O  O4  1  0.000008  0.500001  0.500036  1

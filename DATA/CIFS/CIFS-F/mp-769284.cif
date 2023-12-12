@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Dy2SeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84942816
+_cell_length_b   3.85179169
+_cell_length_c   6.83841074
+_cell_angle_alpha   89.95550066
+_cell_angle_beta   90.02453285
+_cell_angle_gamma   120.02729768
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2SeO2
+_chemical_formula_sum   'Dy2 Se1 O2'
+_cell_volume   87.78598105
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.330918  0.669233  0.290004  1
+  Dy  Dy1  1  0.666135  0.335223  0.708130  1
+  Se  Se2  1  0.997698  0.003209  0.998889  1
+  O  O3  1  0.333576  0.669217  0.624657  1
+  O  O4  1  0.665507  0.336686  0.373295  1

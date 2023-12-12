@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_CaSnS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67596966
+_cell_length_b   5.67596966
+_cell_length_c   4.10337005
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   100.00990198
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSnS3
+_chemical_formula_sum   'Ca1 Sn1 S3'
+_cell_volume   130.18442627
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.859411  0.140589  0.000000  1
+  Sn  Sn1  1  0.503468  0.496532  0.500000  1
+  S  S2  1  0.074308  0.925692  0.500000  1
+  S  S3  1  0.050138  0.466526  0.500000  1
+  S  S4  1  0.533474  0.949862  0.500000  1

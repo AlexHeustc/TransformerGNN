@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_V6Si7Ni16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81216868
+_cell_length_b   7.81201063
+_cell_length_c   7.81194130
+_cell_angle_alpha   60.00218962
+_cell_angle_beta   60.00517640
+_cell_angle_gamma   60.00224098
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V6Si7Ni16
+_chemical_formula_sum   'V6 Si7 Ni16'
+_cell_volume   337.13973447
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.190774  0.809234  0.190772  1
+  V  V1  1  0.190780  0.809229  0.809220  1
+  V  V2  1  0.809219  0.809232  0.190779  1
+  V  V3  1  0.809224  0.190778  0.190768  1
+  V  V4  1  0.190770  0.190783  0.809225  1
+  V  V5  1  0.809228  0.190777  0.809233  1
+  Si  Si6  1  0.000001  0.499992  -0.000003  1
+  Si  Si7  1  0.500003  0.500002  0.500002  1
+  Si  Si8  1  0.500002  0.000011  0.000001  1
+  Si  Si9  1  0.500007  0.000009  0.499984  1
+  Si  Si10  1  0.999995  0.000001  0.499998  1
+  Si  Si11  1  -0.000001  0.499997  0.500007  1
+  Si  Si12  1  0.500010  0.499978  0.000006  1
+  Ni  Ni13  1  0.834118  0.497641  0.834119  1
+  Ni  Ni14  1  0.382469  0.382467  0.852590  1
+  Ni  Ni15  1  0.617530  0.147410  0.617528  1
+  Ni  Ni16  1  0.834116  0.834119  0.834118  1
+  Ni  Ni17  1  0.834110  0.834119  0.497648  1
+  Ni  Ni18  1  0.852591  0.382469  0.382467  1
+  Ni  Ni19  1  0.382474  0.382463  0.382472  1
+  Ni  Ni20  1  0.165884  0.502346  0.165885  1
+  Ni  Ni21  1  0.147410  0.617523  0.617537  1
+  Ni  Ni22  1  0.617537  0.617524  0.147410  1
+  Ni  Ni23  1  0.617534  0.617529  0.617528  1
+  Ni  Ni24  1  0.502344  0.165886  0.165886  1
+  Ni  Ni25  1  0.382474  0.852592  0.382468  1
+  Ni  Ni26  1  0.165882  0.165882  0.502359  1
+  Ni  Ni27  1  0.497639  0.834125  0.834114  1
+  Ni  Ni28  1  0.165880  0.165882  0.165879  1

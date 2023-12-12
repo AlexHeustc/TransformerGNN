@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AlFe(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08683346
+_cell_length_b   5.73033199
+_cell_length_c   6.12314112
+_cell_angle_alpha   102.89665843
+_cell_angle_beta   122.18277300
+_cell_angle_gamma   91.79683237
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlFe(WO4)2
+_chemical_formula_sum   'Al1 Fe1 W2 O8'
+_cell_volume   144.78865501
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.634910  0.661093  0.045284  1
+  Fe  Fe1  1  0.113697  0.213610  0.099226  1
+  W  W2  1  0.863009  0.412614  0.590859  1
+  W  W3  1  0.355077  0.047235  0.607447  1
+  O  O4  1  0.219516  0.658396  0.868638  1
+  O  O5  1  0.603004  0.529665  0.302859  1
+  O  O6  1  0.155172  0.165126  0.792770  1
+  O  O7  1  0.533595  0.086195  0.405431  1
+  O  O8  1  0.655288  0.909120  0.866771  1
+  O  O9  1  0.042730  0.797011  0.336759  1
+  O  O10  1  0.106675  0.297644  0.424162  1
+  O  O11  1  0.713327  0.400787  0.855891  1

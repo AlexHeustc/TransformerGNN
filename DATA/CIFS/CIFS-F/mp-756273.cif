@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Lu(HO)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16735707
+_cell_length_b   10.11121608
+_cell_length_c   5.29683412
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   84.31540114
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu(HO)3
+_chemical_formula_sum   'Lu4 H12 O12'
+_cell_volume   328.68344382
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.037825  0.329733  0.009320  1
+  Lu  Lu1  1  0.462175  0.829733  0.990680  1
+  Lu  Lu2  1  0.537825  0.170267  0.009320  1
+  Lu  Lu3  1  0.962175  0.670267  0.990680  1
+  H  H4  1  0.189813  0.806604  0.590310  1
+  H  H5  1  0.194871  0.026074  0.240154  1
+  H  H6  1  0.273222  0.612550  0.310350  1
+  H  H7  1  0.226778  0.112550  0.689650  1
+  H  H8  1  0.305129  0.526074  0.759846  1
+  H  H9  1  0.310187  0.306604  0.409690  1
+  H  H10  1  0.689813  0.693396  0.590310  1
+  H  H11  1  0.694871  0.473926  0.240154  1
+  H  H12  1  0.773222  0.887450  0.310350  1
+  H  H13  1  0.726778  0.387450  0.689650  1
+  H  H14  1  0.805129  0.973926  0.759846  1
+  H  H15  1  0.810187  0.193396  0.409690  1
+  O  O16  1  0.150303  0.506246  0.791222  1
+  O  O17  1  0.172154  0.818903  0.774419  1
+  O  O18  1  0.255588  0.194253  0.776986  1
+  O  O19  1  0.244412  0.694253  0.223014  1
+  O  O20  1  0.327846  0.318903  0.225581  1
+  O  O21  1  0.349697  0.006246  0.208778  1
+  O  O22  1  0.650303  0.993754  0.791222  1
+  O  O23  1  0.672154  0.681097  0.774419  1
+  O  O24  1  0.755588  0.305747  0.776986  1
+  O  O25  1  0.744412  0.805747  0.223014  1
+  O  O26  1  0.827846  0.181097  0.225581  1
+  O  O27  1  0.849697  0.493754  0.208778  1

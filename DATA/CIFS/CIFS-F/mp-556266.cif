@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HoCu(WO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08321185
+_cell_length_b   6.00948586
+_cell_length_c   10.01010289
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.75260474
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoCu(WO4)2
+_chemical_formula_sum   'Ho2 Cu2 W4 O16'
+_cell_volume   305.43070362
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.405894  0.357865  0.136628  1
+  O  O1  1  0.094106  0.357865  0.363372  1
+  O  O2  1  0.594106  0.642135  0.863372  1
+  O  O3  1  0.905894  0.642135  0.636628  1
+  O  O4  1  0.448246  0.910788  0.610308  1
+  O  O5  1  0.051754  0.910788  0.889692  1
+  O  O6  1  0.551754  0.089212  0.389692  1
+  O  O7  1  0.948246  0.089212  0.110308  1
+  O  O8  1  0.894295  0.635055  0.111610  1
+  O  O9  1  0.605705  0.635055  0.388390  1
+  O  O10  1  0.105705  0.364945  0.888390  1
+  O  O11  1  0.394295  0.364945  0.611610  1
+  O  O12  1  0.936506  0.114426  0.597154  1
+  O  O13  1  0.563494  0.114426  0.902846  1
+  O  O14  1  0.063494  0.885574  0.402846  1
+  O  O15  1  0.436506  0.885574  0.097154  1
+  Cu  Cu16  1  0.250000  0.718435  0.750000  1
+  Cu  Cu17  1  0.750000  0.281565  0.250000  1
+  Ho  Ho18  1  0.750000  0.336611  0.750000  1
+  Ho  Ho19  1  0.250000  0.663389  0.250000  1
+  W  W20  1  0.248979  0.167709  0.010961  1
+  W  W21  1  0.751021  0.832291  0.989039  1
+  W  W22  1  0.251021  0.167709  0.489039  1
+  W  W23  1  0.748979  0.832291  0.510961  1

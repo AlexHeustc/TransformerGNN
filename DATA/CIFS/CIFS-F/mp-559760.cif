@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScIO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89111085
+_cell_length_b   7.26309953
+_cell_length_c   10.25431046
+_cell_angle_alpha   93.16807183
+_cell_angle_beta   100.90715575
+_cell_angle_gamma   90.00288169
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScIO
+_chemical_formula_sum   'Sc4 I4 O4'
+_cell_volume   284.11598232
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.296844  0.382913  0.594028  1
+  Sc  Sc1  1  0.701559  0.118105  0.402699  1
+  Sc  Sc2  1  0.703156  0.617087  0.405972  1
+  Sc  Sc3  1  0.298441  0.881895  0.597301  1
+  I  I4  1  0.106683  0.351834  0.213474  1
+  I  I5  1  0.410655  0.154627  0.822237  1
+  I  I6  1  0.589345  0.845373  0.177763  1
+  I  I7  1  0.893317  0.648166  0.786526  1
+  O  O8  1  0.244997  0.628083  0.489908  1
+  O  O9  1  0.755184  0.879837  0.510431  1
+  O  O10  1  0.755003  0.371917  0.510092  1
+  O  O11  1  0.244816  0.120163  0.489569  1

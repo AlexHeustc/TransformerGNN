@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaHo2F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07755445
+_cell_length_b   4.55328311
+_cell_length_c   12.06488829
+_cell_angle_alpha   54.04258326
+_cell_angle_beta   56.70785539
+_cell_angle_gamma   55.72541006
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHo2F7
+_chemical_formula_sum   'Na1 Ho2 F7'
+_cell_volume   141.63277821
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.026010  -0.005224  -0.008165  1
+  Ho  Ho1  1  -0.075698  0.065771  0.323287  1
+  Ho  Ho2  1  -0.041209  -0.004879  0.660948  1
+  F  F3  1  0.269506  0.237073  0.097818  1
+  F  F4  1  0.313094  0.954517  0.430186  1
+  F  F5  1  0.281776  0.456089  0.438061  1
+  F  F6  1  0.945597  0.674721  0.244916  1
+  F  F7  1  0.259211  0.321718  0.719474  1
+  F  F8  1  0.641793  0.770779  0.625962  1
+  F  F9  1  0.801921  0.779435  0.884180  1

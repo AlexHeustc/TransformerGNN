@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_BaCa2(SiO3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76417039
+_cell_length_b   6.86518403
+_cell_length_c   9.75628965
+_cell_angle_alpha   83.18795599
+_cell_angle_beta   69.40094945
+_cell_angle_gamma   77.73695980
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCa2(SiO3)3
+_chemical_formula_sum   'Ba2 Ca4 Si6 O18'
+_cell_volume   413.93580387
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.394142  0.770978  0.123666  1
+  O  O1  1  0.605858  0.229022  0.876334  1
+  O  O2  1  0.757705  0.492186  0.089357  1
+  O  O3  1  0.242295  0.507814  0.910643  1
+  O  O4  1  0.366577  0.388366  0.231431  1
+  O  O5  1  0.633423  0.611634  0.768569  1
+  O  O6  1  0.506970  0.636968  0.353903  1
+  O  O7  1  0.493030  0.363032  0.646097  1
+  O  O8  1  0.379875  0.854180  0.584931  1
+  O  O9  1  0.620125  0.145820  0.415069  1
+  O  O10  1  0.107332  0.627563  0.555805  1
+  O  O11  1  0.892668  0.372437  0.444195  1
+  O  O12  1  0.029284  0.233750  0.735812  1
+  O  O13  1  0.970716  0.766250  0.264188  1
+  O  O14  1  0.897120  0.900311  0.874097  1
+  O  O15  1  0.102880  0.099689  0.125903  1
+  O  O16  1  0.796014  0.046743  0.627813  1
+  O  O17  1  0.203986  0.953257  0.372187  1
+  Si  Si18  1  0.512874  0.559588  0.194490  1
+  Si  Si19  1  0.487126  0.440412  0.805510  1
+  Si  Si20  1  0.289829  0.763702  0.480208  1
+  Si  Si21  1  0.710171  0.236298  0.519792  1
+  Si  Si22  1  0.153587  0.902475  0.224276  1
+  Si  Si23  1  0.846413  0.097525  0.775724  1
+  Ca  Ca24  1  0.234162  0.283858  0.488519  1
+  Ca  Ca25  1  0.765838  0.716142  0.511481  1
+  Ca  Ca26  1  0.945816  0.563254  0.828013  1
+  Ca  Ca27  1  0.054184  0.436746  0.171987  1
+  Ba  Ba28  1  0.680787  0.051782  0.152162  1
+  Ba  Ba29  1  0.319213  0.948218  0.847838  1

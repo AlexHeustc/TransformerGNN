@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HoZn(NiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11871542
+_cell_length_b   5.39029300
+_cell_length_c   7.43469060
+_cell_angle_alpha   89.98989196
+_cell_angle_beta   89.99680431
+_cell_angle_gamma   89.99735346
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoZn(NiO3)2
+_chemical_formula_sum   'Ho2 Zn2 Ni4 O12'
+_cell_volume   205.13333958
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.018270  0.926590  0.750016  1
+  Ho  Ho1  1  0.518142  0.573378  0.250032  1
+  Zn  Zn2  1  0.475959  0.441575  0.749971  1
+  Zn  Zn3  1  0.975853  0.058468  0.250021  1
+  Ni  Ni4  1  0.998023  0.493122  0.000135  1
+  Ni  Ni5  1  0.998024  0.493116  0.499833  1
+  Ni  Ni6  1  0.498053  0.006860  0.500143  1
+  Ni  Ni7  1  0.498030  0.006872  0.999833  1
+  O  O8  1  0.106858  0.440687  0.250002  1
+  O  O9  1  0.208240  0.212229  0.930905  1
+  O  O10  1  0.208210  0.212224  0.569054  1
+  O  O11  1  0.311932  0.690918  0.940645  1
+  O  O12  1  0.311642  0.690726  0.559296  1
+  O  O13  1  0.362976  0.967216  0.249723  1
+  O  O14  1  0.606983  0.059324  0.750267  1
+  O  O15  1  0.708336  0.287769  0.430994  1
+  O  O16  1  0.708002  0.287727  0.069094  1
+  O  O17  1  0.811745  0.809260  0.059369  1
+  O  O18  1  0.811682  0.809122  0.440661  1
+  O  O19  1  0.863038  0.532818  0.750009  1

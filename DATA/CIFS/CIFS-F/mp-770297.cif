@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Li4Cr3NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.12237117
+_cell_length_b   7.80230268
+_cell_length_c   7.82466042
+_cell_angle_alpha   81.72443237
+_cell_angle_beta   70.73353897
+_cell_angle_gamma   83.69291392
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Cr3NiO8
+_chemical_formula_sum   'Li8 Cr6 Ni2 O16'
+_cell_volume   291.48273208
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.998568  0.002661  0.002427  1
+  Li  Li1  1  0.000159  0.243667  0.251848  1
+  Li  Li2  1  0.997441  0.622636  0.129022  1
+  Li  Li3  1  0.002583  0.127572  0.621008  1
+  Li  Li4  1  0.000001  0.506283  0.497990  1
+  Li  Li5  1  0.000190  0.874929  0.374765  1
+  Li  Li6  1  0.999916  0.374948  0.875105  1
+  Li  Li7  1  0.001325  0.747282  0.747840  1
+  Cr  Cr8  1  0.498405  0.437402  0.188995  1
+  Cr  Cr9  1  0.497081  0.813153  0.067615  1
+  Cr  Cr10  1  0.501631  0.312731  0.561057  1
+  Cr  Cr11  1  0.498445  0.186489  0.939026  1
+  Cr  Cr12  1  0.501657  0.563528  0.811203  1
+  Cr  Cr13  1  0.502987  0.936644  0.682225  1
+  Ni  Ni14  1  0.499756  0.064162  0.311923  1
+  Ni  Ni15  1  0.500143  0.685870  0.437853  1
+  O  O16  1  0.264296  0.028557  0.146209  1
+  O  O17  1  0.727484  0.221236  0.093812  1
+  O  O18  1  0.274865  0.404783  0.025896  1
+  O  O19  1  0.734717  0.094481  0.480007  1
+  O  O20  1  0.271718  0.282928  0.404272  1
+  O  O21  1  0.264961  0.655141  0.270317  1
+  O  O22  1  0.728195  0.467148  0.345638  1
+  O  O23  1  0.275932  0.154369  0.774823  1
+  O  O24  1  0.272910  0.529004  0.655826  1
+  O  O25  1  0.722019  0.844372  0.219217  1
+  O  O26  1  0.725194  0.345262  0.724080  1
+  O  O27  1  0.277897  0.905393  0.531619  1
+  O  O28  1  0.735475  0.721813  0.603863  1
+  O  O29  1  0.279754  0.781373  0.899788  1
+  O  O30  1  0.724304  0.595401  0.975026  1
+  O  O31  1  0.719992  0.968784  0.849703  1

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Er2Zr8O19
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65973256
+_cell_length_b   36.83022016
+_cell_length_c   35.14855346
+_cell_angle_alpha   5.18722740
+_cell_angle_beta   58.68440385
+_cell_angle_gamma   60.26319630
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2Zr8O19
+_chemical_formula_sum   'Er2 Zr8 O19'
+_cell_volume   351.32232297
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.036678  0.032886  0.959739  1
+  Er  Er1  1  0.965956  0.075353  0.031253  1
+  Zr  Zr2  1  0.987606  0.190649  0.012006  1
+  Zr  Zr3  1  0.989038  0.292199  0.010178  1
+  Zr  Zr4  1  0.989745  0.393145  0.008656  1
+  Zr  Zr5  1  0.994595  0.497555  0.003068  1
+  Zr  Zr6  1  0.002043  0.603236  0.995824  1
+  Zr  Zr7  1  0.010999  0.708906  0.988728  1
+  Zr  Zr8  1  0.014389  0.814854  0.982092  1
+  Zr  Zr9  1  0.015856  0.915454  0.981185  1
+  O  O10  1  0.279949  0.025896  0.218208  1
+  O  O11  1  0.204390  0.064461  0.294704  1
+  O  O12  1  0.267486  0.215815  0.230385  1
+  O  O13  1  0.242590  0.296500  0.254438  1
+  O  O14  1  0.240533  0.394397  0.256983  1
+  O  O15  1  0.291448  0.534844  0.206686  1
+  O  O16  1  0.733292  0.987321  0.766018  1
+  O  O17  1  0.227271  0.584265  0.270297  1
+  O  O18  1  0.803337  0.144610  0.694714  1
+  O  O19  1  0.306979  0.750606  0.187755  1
+  O  O20  1  0.726138  0.185856  0.768588  1
+  O  O21  1  0.191528  0.856437  0.305013  1
+  O  O22  1  0.750752  0.304697  0.745046  1
+  O  O23  1  0.776446  0.424878  0.719599  1
+  O  O24  1  0.697785  0.459173  0.801520  1
+  O  O25  1  0.776691  0.622592  0.722101  1
+  O  O26  1  0.720054  0.677468  0.778237  1
+  O  O27  1  0.754286  0.805230  0.743396  1
+  O  O28  1  0.769916  0.916851  0.728768  1

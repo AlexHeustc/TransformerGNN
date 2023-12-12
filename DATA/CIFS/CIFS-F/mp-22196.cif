@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Dy2Cu(GeO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97278265
+_cell_length_b   7.29126765
+_cell_length_c   8.02441317
+_cell_angle_alpha   66.30545839
+_cell_angle_beta   86.94185282
+_cell_angle_gamma   77.00788307
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Cu(GeO3)4
+_chemical_formula_sum   'Dy2 Cu1 Ge4 O12'
+_cell_volume   259.37822910
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.958186  0.229683  0.548918  1
+  Dy  Dy1  1  0.041814  0.770317  0.451082  1
+  Cu  Cu2  1  0.000000  0.000000  0.000000  1
+  Ge  Ge3  1  0.420442  0.383672  0.795145  1
+  Ge  Ge4  1  0.579558  0.616328  0.204855  1
+  Ge  Ge5  1  0.543771  0.832037  0.778923  1
+  Ge  Ge6  1  0.456229  0.167963  0.221077  1
+  O  O7  1  0.224876  0.064994  0.387574  1
+  O  O8  1  0.579746  0.345060  0.285765  1
+  O  O9  1  0.420254  0.654940  0.714235  1
+  O  O10  1  0.262066  0.303785  0.008828  1
+  O  O11  1  0.786178  0.573513  0.392146  1
+  O  O12  1  0.251972  0.773711  0.194709  1
+  O  O13  1  0.248788  0.007353  0.796746  1
+  O  O14  1  0.751212  0.992647  0.203254  1
+  O  O15  1  0.737934  0.696215  0.991172  1
+  O  O16  1  0.748028  0.226289  0.805291  1
+  O  O17  1  0.775124  0.935006  0.612426  1
+  O  O18  1  0.213822  0.426487  0.607854  1

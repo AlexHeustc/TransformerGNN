@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Li4Cr2Ni3Sb3O16
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.05075559
+_cell_length_b   6.04760095
+_cell_length_c   9.62392673
+_cell_angle_alpha   89.99765032
+_cell_angle_beta   91.32519480
+_cell_angle_gamma   119.97910155
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4Cr2Ni3Sb3O16
+_chemical_formula_sum   'Li4 Cr2 Ni3 Sb3 O16'
+_cell_volume   304.93868447
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.332298  0.666193  0.879692  1
+  Li  Li1  1  0.961035  0.980526  0.983993  1
+  Li  Li2  1  0.977339  0.988676  0.506218  1
+  Li  Li3  1  0.656525  0.328278  0.404136  1
+  Cr  Cr4  1  0.349182  0.674555  0.495128  1
+  Cr  Cr5  1  0.691906  0.345970  0.974670  1
+  Ni  Ni6  1  0.663340  0.831681  0.215226  1
+  Ni  Ni7  1  0.832958  0.660632  0.712364  1
+  Ni  Ni8  1  0.833050  0.172414  0.712344  1
+  Sb  Sb9  1  0.170169  0.832285  0.214738  1
+  Sb  Sb10  1  0.170176  0.337911  0.214733  1
+  Sb  Sb11  1  0.343232  0.171588  0.713737  1
+  O  O12  1  0.180797  0.846481  0.596594  1
+  O  O13  1  0.031720  0.515888  0.339047  1
+  O  O14  1  0.325101  0.662545  0.101456  1
+  O  O15  1  0.008131  0.004103  0.317752  1
+  O  O16  1  0.003627  0.001699  0.801842  1
+  O  O17  1  0.180731  0.334286  0.596612  1
+  O  O18  1  0.471702  0.961331  0.341486  1
+  O  O19  1  0.471707  0.510368  0.341471  1
+  O  O20  1  0.320450  0.160216  0.103176  1
+  O  O21  1  0.666502  0.833169  0.598580  1
+  O  O22  1  0.513093  0.473338  0.847792  1
+  O  O23  1  0.513230  0.039837  0.847776  1
+  O  O24  1  0.664449  0.332362  0.606164  1
+  O  O25  1  0.852634  0.679508  0.099503  1
+  O  O26  1  0.962267  0.481267  0.842116  1
+  O  O27  1  0.852645  0.173189  0.099493  1

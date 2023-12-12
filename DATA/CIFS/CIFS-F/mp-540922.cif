@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_CrTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.19386843
+_cell_length_b   10.71147937
+_cell_length_c   11.47779959
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   105.06074465
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrTe3
+_chemical_formula_sum   'Cr8 Te24'
+_cell_volume   972.78579908
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.359112  0.567117  0.906470  1
+  Te  Te1  1  0.140888  0.932883  0.406470  1
+  Te  Te2  1  0.640888  0.432883  0.093530  1
+  Te  Te3  1  0.859112  0.067116  0.593530  1
+  Te  Te4  1  0.982800  0.235288  0.324469  1
+  Te  Te5  1  0.517200  0.264712  0.824469  1
+  Te  Te6  1  0.017200  0.764712  0.675531  1
+  Te  Te7  1  0.482800  0.735288  0.175531  1
+  Te  Te8  1  0.178465  0.430487  0.172224  1
+  Te  Te9  1  0.321535  0.069513  0.672224  1
+  Te  Te10  1  0.821535  0.569513  0.827776  1
+  Te  Te11  1  0.678465  0.930487  0.327776  1
+  Te  Te12  1  0.199085  0.399773  0.618273  1
+  Te  Te13  1  0.300915  0.100227  0.118273  1
+  Te  Te14  1  0.800915  0.600227  0.381727  1
+  Te  Te15  1  0.699085  0.899773  0.881727  1
+  Te  Te16  1  0.300305  0.597357  0.445968  1
+  Te  Te17  1  0.199695  0.902643  0.945968  1
+  Te  Te18  1  0.699695  0.402643  0.554032  1
+  Te  Te19  1  0.800305  0.097357  0.054032  1
+  Te  Te20  1  0.532740  0.729899  0.618298  1
+  Te  Te21  1  0.967260  0.770101  0.118298  1
+  Te  Te22  1  0.467260  0.270101  0.381702  1
+  Te  Te23  1  0.032740  0.229899  0.881702  1
+  Cr  Cr24  1  0.672244  0.674389  0.000380  1
+  Cr  Cr25  1  0.827756  0.825611  0.500380  1
+  Cr  Cr26  1  0.327756  0.325611  0.999620  1
+  Cr  Cr27  1  0.172244  0.174389  0.499620  1
+  Cr  Cr28  1  0.485470  0.507261  0.283762  1
+  Cr  Cr29  1  0.014530  0.992739  0.783762  1
+  Cr  Cr30  1  0.514530  0.492739  0.716238  1
+  Cr  Cr31  1  0.985470  0.007261  0.216238  1

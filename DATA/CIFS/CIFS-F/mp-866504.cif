@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CaSnS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02587661
+_cell_length_b   8.89425000
+_cell_length_c   13.60404042
+_cell_angle_alpha   116.14663705
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSnS3
+_chemical_formula_sum   'Ca6 Sn6 S18'
+_cell_volume   763.12218602
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.226515  0.039263  0.595885  1
+  Ca  Ca1  1  0.726515  0.960737  0.404115  1
+  Ca  Ca2  1  0.334613  0.001768  0.150681  1
+  Ca  Ca3  1  0.834613  0.998232  0.849319  1
+  Ca  Ca4  1  0.812959  0.711324  0.072483  1
+  Ca  Ca5  1  0.312959  0.288676  0.927517  1
+  Sn  Sn6  1  0.272572  0.617730  0.301521  1
+  Sn  Sn7  1  0.772572  0.382270  0.698479  1
+  Sn  Sn8  1  0.252307  0.452792  0.533300  1
+  Sn  Sn9  1  0.752307  0.547208  0.466700  1
+  Sn  Sn10  1  0.362471  0.679406  0.802053  1
+  Sn  Sn11  1  0.862471  0.320594  0.197947  1
+  S  S12  1  0.247857  0.340681  0.310582  1
+  S  S13  1  0.747857  0.659319  0.689418  1
+  S  S14  1  0.989866  0.242844  0.526710  1
+  S  S15  1  0.489866  0.757156  0.473290  1
+  S  S16  1  0.504274  0.242270  0.558895  1
+  S  S17  1  0.004274  0.757730  0.441105  1
+  S  S18  1  0.018063  0.932785  0.251339  1
+  S  S19  1  0.518063  0.067215  0.748661  1
+  S  S20  1  0.484268  0.762573  0.221050  1
+  S  S21  1  0.984268  0.237427  0.778950  1
+  S  S22  1  0.084347  0.490820  0.114490  1
+  S  S23  1  0.584347  0.509180  0.885510  1
+  S  S24  1  0.072043  0.838404  0.958791  1
+  S  S25  1  0.572043  0.161596  0.041209  1
+  S  S26  1  0.581731  0.891708  0.969950  1
+  S  S27  1  0.081731  0.108292  0.030050  1
+  S  S28  1  0.276014  0.944551  0.766546  1
+  S  S29  1  0.776014  0.055449  0.233454  1

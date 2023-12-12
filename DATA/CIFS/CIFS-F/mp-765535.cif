@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KLiCoO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71003912
+_cell_length_b   3.38881309
+_cell_length_c   7.49960493
+_cell_angle_alpha   103.20743964
+_cell_angle_beta   85.13982983
+_cell_angle_gamma   72.76713644
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLiCoO2
+_chemical_formula_sum   'K2 Li2 Co2 O4'
+_cell_volume   133.11343484
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.293577  0.537467  0.372868  1
+  K  K1  1  0.706157  0.453904  0.627930  1
+  Li  Li2  1  0.370858  0.286280  0.945253  1
+  Li  Li3  1  0.627350  0.714844  0.055619  1
+  Co  Co4  1  0.095938  0.861163  0.821711  1
+  Co  Co5  1  0.902382  0.140231  0.179581  1
+  O  O6  1  0.222423  0.235290  0.696919  1
+  O  O7  1  0.259901  0.901781  0.064573  1
+  O  O8  1  0.738222  0.099071  0.936319  1
+  O  O9  1  0.775214  0.766048  0.304153  1

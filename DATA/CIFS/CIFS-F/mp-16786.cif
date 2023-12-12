@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Sr2EuNb(CuO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51403575
+_cell_length_b   5.51403575
+_cell_length_c   12.47769617
+_cell_angle_alpha   102.76517103
+_cell_angle_beta   102.76517102
+_cell_angle_gamma   90.00000003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2EuNb(CuO4)2
+_chemical_formula_sum   'Sr4 Eu2 Nb2 Cu4 O16'
+_cell_volume   360.38175742
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.819382  0.680618  0.000000  1
+  O  O1  1  0.319382  0.819382  0.000000  1
+  O  O2  1  0.680618  0.180618  0.000000  1
+  O  O3  1  0.180618  0.319382  0.000000  1
+  O  O4  1  0.932644  0.935968  0.368611  1
+  O  O5  1  0.067356  0.064032  0.631389  1
+  O  O6  1  0.564032  0.567356  0.631389  1
+  O  O7  1  0.064032  0.564032  0.631389  1
+  O  O8  1  0.567356  0.067356  0.631389  1
+  O  O9  1  0.432644  0.932644  0.368611  1
+  O  O10  1  0.935968  0.435968  0.368611  1
+  O  O11  1  0.435968  0.432644  0.368611  1
+  O  O12  1  0.083682  0.083682  0.167363  1
+  O  O13  1  0.416318  0.416318  0.832637  1
+  O  O14  1  0.916318  0.916318  0.832637  1
+  O  O15  1  0.583682  0.583682  0.167363  1
+  Cu  Cu16  1  0.678445  0.678445  0.356890  1
+  Cu  Cu17  1  0.821555  0.821555  0.643110  1
+  Cu  Cu18  1  0.321555  0.321555  0.643110  1
+  Cu  Cu19  1  0.178445  0.178445  0.356890  1
+  Sr  Sr20  1  0.100018  0.600018  0.200036  1
+  Sr  Sr21  1  0.899982  0.399982  0.799964  1
+  Sr  Sr22  1  0.600018  0.100018  0.200036  1
+  Sr  Sr23  1  0.399982  0.899982  0.799964  1
+  Nb  Nb24  1  0.500000  0.500000  0.000000  1
+  Nb  Nb25  1  0.000000  0.000000  0.000000  1
+  Eu  Eu26  1  0.750000  0.250000  0.500000  1
+  Eu  Eu27  1  0.250000  0.750000  0.500000  1

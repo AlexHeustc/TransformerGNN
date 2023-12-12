@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Co2RuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.11004671
+_cell_length_b   6.14215843
+_cell_length_c   10.36587966
+_cell_angle_alpha   107.30083322
+_cell_angle_beta   87.54346285
+_cell_angle_gamma   59.82477950
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2RuO4
+_chemical_formula_sum   'Co8 Ru4 O16'
+_cell_volume   312.24884699
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.619743  0.722723  0.122035  1
+  Co  Co1  1  0.061127  0.877402  0.313406  1
+  Co  Co2  1  0.007712  0.970407  0.003643  1
+  Co  Co3  1  0.561533  0.374629  0.312199  1
+  Co  Co4  1  0.118818  0.775649  0.621463  1
+  Co  Co5  1  0.504993  0.024499  0.504462  1
+  Co  Co6  1  0.564323  0.376562  0.811039  1
+  Co  Co7  1  0.060409  0.377490  0.812556  1
+  Ru  Ru8  1  0.314636  0.342183  0.061643  1
+  Ru  Ru9  1  0.061348  0.375882  0.312409  1
+  Ru  Ru10  1  0.812258  0.402690  0.560806  1
+  Ru  Ru11  1  0.561645  0.879676  0.814949  1
+  O  O12  1  0.946918  0.606632  0.191225  1
+  O  O13  1  0.418830  0.584713  0.183449  1
+  O  O14  1  0.438316  0.123882  0.191020  1
+  O  O15  1  0.171504  0.616805  0.419337  1
+  O  O16  1  0.952177  0.133406  0.205650  1
+  O  O17  1  0.684334  0.625113  0.431984  1
+  O  O18  1  0.178177  0.144578  0.434492  1
+  O  O19  1  0.699325  0.165361  0.440879  1
+  O  O20  1  0.447233  0.641096  0.690954  1
+  O  O21  1  0.935199  0.629476  0.690939  1
+  O  O22  1  0.924652  0.174785  0.681272  1
+  O  O23  1  0.675556  0.629990  0.919924  1
+  O  O24  1  0.446679  0.124761  0.706797  1
+  O  O25  1  0.206600  0.570064  0.942724  1
+  O  O26  1  0.682658  0.113500  0.933591  1
+  O  O27  1  0.185150  0.122944  0.934891  1

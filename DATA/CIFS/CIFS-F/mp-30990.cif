@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_K6Si2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53329896
+_cell_length_b   8.98621964
+_cell_length_c   9.06405218
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.49959512
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K6Si2O7
+_chemical_formula_sum   'K12 Si4 O14'
+_cell_volume   531.96516139
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.500000  0.000000  0.000000  1
+  O  O1  1  0.953800  0.581341  0.213265  1
+  O  O2  1  0.546200  0.081341  0.286735  1
+  O  O3  1  0.046200  0.418659  0.786735  1
+  O  O4  1  0.000000  0.500000  0.500000  1
+  O  O5  1  0.799130  0.842291  0.872895  1
+  O  O6  1  0.700870  0.342291  0.627105  1
+  O  O7  1  0.200870  0.157709  0.127105  1
+  O  O8  1  0.299130  0.657709  0.372895  1
+  O  O9  1  0.430069  0.715349  0.934599  1
+  O  O10  1  0.069931  0.215349  0.565401  1
+  O  O11  1  0.569931  0.284651  0.065401  1
+  O  O12  1  0.930069  0.784651  0.434599  1
+  O  O13  1  0.453800  0.918659  0.713265  1
+  Si  Si14  1  0.451554  0.135524  0.125722  1
+  Si  Si15  1  0.951554  0.364476  0.625722  1
+  Si  Si16  1  0.548446  0.864476  0.874278  1
+  Si  Si17  1  0.048446  0.635524  0.374278  1
+  K  K18  1  0.752185  0.026730  0.543815  1
+  K  K19  1  0.252185  0.473270  0.043815  1
+  K  K20  1  0.247815  0.973270  0.456185  1
+  K  K21  1  0.114839  0.851091  0.085268  1
+  K  K22  1  0.385161  0.351091  0.414732  1
+  K  K23  1  0.885161  0.148909  0.914732  1
+  K  K24  1  0.614839  0.648909  0.585268  1
+  K  K25  1  0.618588  0.781620  0.223636  1
+  K  K26  1  0.881412  0.281620  0.276364  1
+  K  K27  1  0.381412  0.218380  0.776364  1
+  K  K28  1  0.118588  0.718380  0.723636  1
+  K  K29  1  0.747815  0.526730  0.956185  1

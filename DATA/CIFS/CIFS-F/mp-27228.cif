@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Tl6Si2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.93271449
+_cell_length_b   9.93271449
+_cell_length_c   8.11057773
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl6Si2O7
+_chemical_formula_sum   'Tl12 Si4 O14'
+_cell_volume   692.97621192
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.848935  0.447867  0.884407  1
+  O  O1  1  0.552133  0.401068  0.884407  1
+  O  O2  1  0.598932  0.151065  0.884407  1
+  O  O3  1  0.401068  0.848935  0.115593  1
+  O  O4  1  0.666667  0.333333  0.623097  1
+  O  O5  1  0.333333  0.666667  0.376903  1
+  O  O6  1  0.598364  0.151315  0.361093  1
+  O  O7  1  0.552951  0.401636  0.361093  1
+  O  O8  1  0.848685  0.447049  0.361093  1
+  O  O9  1  0.401636  0.848685  0.638907  1
+  O  O10  1  0.447049  0.598364  0.638907  1
+  O  O11  1  0.151315  0.552951  0.638907  1
+  O  O12  1  0.151065  0.552133  0.115593  1
+  O  O13  1  0.447867  0.598932  0.115593  1
+  Si  Si14  1  0.333333  0.666667  0.170459  1
+  Si  Si15  1  0.666667  0.333333  0.416990  1
+  Si  Si16  1  0.333333  0.666667  0.583010  1
+  Si  Si17  1  0.666667  0.333333  0.829541  1
+  Tl  Tl18  1  0.036651  0.354535  0.369764  1
+  Tl  Tl19  1  0.317884  0.963349  0.369764  1
+  Tl  Tl20  1  0.645465  0.682116  0.369764  1
+  Tl  Tl21  1  0.963349  0.645465  0.630236  1
+  Tl  Tl22  1  0.682116  0.036651  0.630236  1
+  Tl  Tl23  1  0.354535  0.317884  0.630236  1
+  Tl  Tl24  1  0.051560  0.363579  0.878120  1
+  Tl  Tl25  1  0.312019  0.948440  0.878120  1
+  Tl  Tl26  1  0.636421  0.687981  0.878120  1
+  Tl  Tl27  1  0.948440  0.636421  0.121880  1
+  Tl  Tl28  1  0.687981  0.051560  0.121880  1
+  Tl  Tl29  1  0.363579  0.312019  0.121880  1

@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_CaTiGeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77137991
+_cell_length_b   7.27788887
+_cell_length_c   8.96593773
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   114.30346595
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTiGeO5
+_chemical_formula_sum   'Ca4 Ti4 Ge4 O20'
+_cell_volume   402.69574581
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.853244  0.107140  0.458717  1
+  O  O1  1  0.146756  0.392860  0.958717  1
+  O  O2  1  0.146756  0.892860  0.541283  1
+  O  O3  1  0.853244  0.607140  0.041283  1
+  O  O4  1  0.645696  0.894967  0.039897  1
+  O  O5  1  0.354304  0.605033  0.539897  1
+  O  O6  1  0.354304  0.105033  0.960103  1
+  O  O7  1  0.645696  0.394967  0.460103  1
+  O  O8  1  0.057214  0.580153  0.305942  1
+  O  O9  1  0.942786  0.919847  0.805942  1
+  O  O10  1  0.942786  0.419847  0.694058  1
+  O  O11  1  0.057214  0.080153  0.194058  1
+  O  O12  1  0.751018  0.749750  0.316945  1
+  O  O13  1  0.248982  0.750250  0.816945  1
+  O  O14  1  0.248982  0.250250  0.683055  1
+  O  O15  1  0.751018  0.249750  0.183055  1
+  O  O16  1  0.439689  0.916002  0.306063  1
+  O  O17  1  0.560311  0.583998  0.806063  1
+  O  O18  1  0.560311  0.083998  0.693937  1
+  O  O19  1  0.439689  0.416002  0.193937  1
+  Ca  Ca20  1  0.250151  0.243635  0.424904  1
+  Ca  Ca21  1  0.749849  0.256365  0.924904  1
+  Ca  Ca22  1  0.749849  0.756365  0.575096  1
+  Ca  Ca23  1  0.250151  0.743635  0.075096  1
+  Ti  Ti24  1  0.749012  0.014259  0.245935  1
+  Ti  Ti25  1  0.250988  0.485741  0.745935  1
+  Ti  Ti26  1  0.250988  0.985741  0.754065  1
+  Ti  Ti27  1  0.749012  0.514259  0.254065  1
+  Ge  Ge28  1  0.248554  0.747684  0.431622  1
+  Ge  Ge29  1  0.751446  0.752316  0.931622  1
+  Ge  Ge30  1  0.751446  0.252316  0.568378  1
+  Ge  Ge31  1  0.248554  0.247684  0.068378  1

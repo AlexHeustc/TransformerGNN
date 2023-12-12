@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Cu18S11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87070304
+_cell_length_b   3.85277433
+_cell_length_c   43.22128664
+_cell_angle_alpha   60.08250662
+_cell_angle_beta   58.93517954
+_cell_angle_gamma   59.61841491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu18S11
+_chemical_formula_sum   'Cu18 S11'
+_cell_volume   450.96662012
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.709286  0.705543  0.080752  1
+  Cu  Cu1  1  0.708690  0.795337  0.152520  1
+  Cu  Cu2  1  0.714783  0.456220  0.217079  1
+  Cu  Cu3  1  0.803273  0.690961  0.256492  1
+  Cu  Cu4  1  0.734278  0.719924  0.335949  1
+  Cu  Cu5  1  0.583168  0.577910  0.402372  1
+  Cu  Cu6  1  0.764085  0.763625  0.439030  1
+  Cu  Cu7  1  0.752912  0.748387  0.524411  1
+  Cu  Cu8  1  0.270221  0.274858  0.652740  1
+  Cu  Cu9  1  0.261859  0.268238  0.745135  1
+  Cu  Cu10  1  0.789624  0.783078  0.604327  1
+  Cu  Cu11  1  0.780551  0.777379  0.696657  1
+  Cu  Cu12  1  0.260244  0.266678  0.837269  1
+  Cu  Cu13  1  0.269846  0.265538  0.931331  1
+  Cu  Cu14  1  0.773315  0.766288  0.791115  1
+  Cu  Cu15  1  0.780104  0.765800  0.885654  1
+  Cu  Cu16  1  0.471369  0.473767  0.965981  1
+  Cu  Cu17  1  0.679484  0.691251  0.999519  1
+  S  S18  1  0.996837  0.007245  0.003903  1
+  S  S19  1  0.005648  0.004287  0.089935  1
+  S  S20  1  0.975418  0.008024  0.183919  1
+  S  S21  1  0.009663  0.001718  0.368410  1
+  S  S22  1  0.044521  0.969989  0.273926  1
+  S  S23  1  0.019391  0.020030  0.458161  1
+  S  S24  1  0.025181  0.024453  0.630566  1
+  S  S25  1  0.020815  0.020608  0.541270  1
+  S  S26  1  0.018018  0.020057  0.722709  1
+  S  S27  1  0.039523  0.038283  0.902426  1
+  S  S28  1  0.021894  0.022523  0.812988  1

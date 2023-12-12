@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_AlSBr3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55275305
+_cell_length_b   10.12965471
+_cell_length_c   10.84219617
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   111.11247768
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSBr3N
+_chemical_formula_sum   'Al4 S4 Br12 N4'
+_cell_volume   773.82132728
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.616308  0.342060  0.623428  1
+  Al  Al1  1  0.383692  0.657940  0.376572  1
+  Al  Al2  1  0.883692  0.157940  0.123427  1
+  Al  Al3  1  0.116308  0.842060  0.876572  1
+  S  S4  1  0.470839  0.108810  0.028004  1
+  S  S5  1  0.529161  0.891190  0.971996  1
+  S  S6  1  0.029161  0.391190  0.528004  1
+  S  S7  1  0.970839  0.608810  0.471996  1
+  Br  Br8  1  0.622928  0.708933  0.521013  1
+  Br  Br9  1  0.122928  0.208933  0.978987  1
+  Br  Br10  1  0.716467  0.152697  0.654139  1
+  Br  Br11  1  0.377072  0.291067  0.478987  1
+  Br  Br12  1  0.877072  0.791067  0.021013  1
+  Br  Br13  1  0.420678  0.554003  0.197729  1
+  Br  Br14  1  0.783533  0.347303  0.154139  1
+  Br  Br15  1  0.079322  0.945997  0.697729  1
+  Br  Br16  1  0.283533  0.847303  0.345861  1
+  Br  Br17  1  0.216467  0.652697  0.845861  1
+  Br  Br18  1  0.579322  0.445997  0.802271  1
+  Br  Br19  1  0.920678  0.054003  0.302271  1
+  N  N20  1  0.144811  0.545962  0.458294  1
+  N  N21  1  0.644811  0.045962  0.041706  1
+  N  N22  1  0.355189  0.954038  0.958294  1
+  N  N23  1  0.855189  0.454038  0.541706  1

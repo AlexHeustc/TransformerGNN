@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaTlO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.64919341
+_cell_length_b   6.14336691
+_cell_length_c   12.80177825
+_cell_angle_alpha   90.05316931
+_cell_angle_beta   90.00036393
+_cell_angle_gamma   90.00110027
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTlO
+_chemical_formula_sum   'Na4 Tl4 O4'
+_cell_volume   286.99441738
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.999985  0.664521  0.590314  1
+  Na  Na1  1  0.999983  0.671450  0.916595  1
+  Na  Na2  1  0.500028  0.833448  0.075786  1
+  Na  Na3  1  0.500045  0.161883  0.911748  1
+  Tl  Tl4  1  -0.000001  0.334503  0.389827  1
+  Tl  Tl5  1  0.000023  0.333478  0.095575  1
+  Tl  Tl6  1  0.500015  0.828609  0.392813  1
+  Tl  Tl7  1  0.500005  0.169747  0.622944  1
+  O  O8  1  0.000027  0.007054  0.994242  1
+  O  O9  1  0.000037  0.996717  0.510886  1
+  O  O10  1  0.499982  0.500066  0.980914  1
+  O  O11  1  0.499972  0.498425  0.518358  1

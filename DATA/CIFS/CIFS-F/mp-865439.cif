@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Th3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40434275
+_cell_length_b   6.40440491
+_cell_length_c   6.93432623
+_cell_angle_alpha   117.54146859
+_cell_angle_beta   62.46016294
+_cell_angle_gamma   120.07619220
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th3O2
+_chemical_formula_sum   'Th6 O4'
+_cell_volume   208.14030326
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.582867  0.749903  0.249989  1
+  Th  Th1  1  0.917187  0.417192  0.249999  1
+  Th  Th2  1  0.249886  0.082865  0.250026  1
+  Th  Th3  1  0.750099  0.917136  0.749987  1
+  Th  Th4  1  0.082815  0.582812  0.750008  1
+  Th  Th5  1  0.417136  0.250106  0.750023  1
+  O  O6  1  0.661600  0.338651  0.015715  1
+  O  O7  1  0.838656  0.161594  0.484269  1
+  O  O8  1  0.161344  0.838392  0.515720  1
+  O  O9  1  0.338409  0.661351  0.984267  1

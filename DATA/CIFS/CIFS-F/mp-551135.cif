@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaCuB2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11280061
+_cell_length_b   5.66387670
+_cell_length_c   5.66387415
+_cell_angle_alpha   109.56953757
+_cell_angle_beta   93.72937535
+_cell_angle_gamma   93.72932762
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCuB2O5
+_chemical_formula_sum   'Ba1 Cu1 B2 O5'
+_cell_volume   123.52194623
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.500002  0.761765  0.238236  1
+  B  B1  1  0.404649  0.870803  0.486118  1
+  O  O2  1  0.533040  0.332488  0.234981  1
+  Cu  Cu3  1  0.499990  0.407375  0.592627  1
+  B  B4  1  0.595356  0.513883  0.129196  1
+  O  O5  1  0.466961  0.765019  0.667511  1
+  O  O6  1  0.245848  0.083338  0.538965  1
+  Ba  Ba7  1  1.000001  0.997495  0.002505  1
+  O  O8  1  0.754152  0.461034  0.916661  1

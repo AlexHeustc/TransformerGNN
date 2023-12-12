@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ce3(CuGe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35770446
+_cell_length_b   6.66708809
+_cell_length_c   8.12048546
+_cell_angle_alpha   114.21583648
+_cell_angle_beta   105.56405468
+_cell_angle_gamma   90.00000004
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3(CuGe)4
+_chemical_formula_sum   'Ce3 Cu4 Ge4'
+_cell_volume   205.64354055
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.666596  0.854017  0.333191  1
+  Cu  Cu1  1  0.333404  0.145983  0.666809  1
+  Cu  Cu2  1  0.666565  0.479148  0.333130  1
+  Cu  Cu3  1  0.333435  0.520852  0.666870  1
+  Ge  Ge4  1  0.783553  0.283539  0.567106  1
+  Ge  Ge5  1  0.500015  0.809425  0.000030  1
+  Ge  Ge6  1  0.499985  0.190575  0.999970  1
+  Ge  Ge7  1  0.216447  0.716461  0.432894  1
+  Ce  Ce8  1  0.000000  0.500000  0.000000  1
+  Ce  Ce9  1  0.867924  0.867931  0.735849  1
+  Ce  Ce10  1  0.132076  0.132069  0.264151  1

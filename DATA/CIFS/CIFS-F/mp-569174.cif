@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Li2MgSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.98581628
+_cell_length_b   8.98581627
+_cell_length_c   8.98581582
+_cell_angle_alpha   59.99999821
+_cell_angle_beta   59.99999823
+_cell_angle_gamma   60.00000083
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2MgSi
+_chemical_formula_sum   'Li16 Mg8 Si8'
+_cell_volume   513.04749988
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.874377  0.874377  0.874377  1
+  Li  Li1  1  0.874377  0.874377  0.376870  1
+  Li  Li2  1  0.250000  0.250000  0.250000  1
+  Li  Li3  1  0.874377  0.376870  0.874377  1
+  Li  Li4  1  0.125623  0.125623  0.623130  1
+  Li  Li5  1  0.219035  0.780965  0.219035  1
+  Li  Li6  1  0.125623  0.125623  0.125623  1
+  Li  Li7  1  0.780965  0.780965  0.219035  1
+  Li  Li8  1  0.219035  0.219035  0.780965  1
+  Li  Li9  1  0.125623  0.623130  0.125623  1
+  Li  Li10  1  0.219035  0.780965  0.780965  1
+  Li  Li11  1  0.780965  0.219035  0.219035  1
+  Li  Li12  1  0.750000  0.750000  0.750000  1
+  Li  Li13  1  0.780965  0.219035  0.780965  1
+  Li  Li14  1  0.623130  0.125623  0.125623  1
+  Li  Li15  1  0.376870  0.874377  0.874377  1
+  Mg  Mg16  1  0.374266  0.374266  0.374266  1
+  Mg  Mg17  1  0.122797  0.625734  0.625734  1
+  Mg  Mg18  1  0.625734  0.122797  0.625734  1
+  Mg  Mg19  1  0.625734  0.625734  0.625734  1
+  Mg  Mg20  1  0.374266  0.877203  0.374266  1
+  Mg  Mg21  1  0.374266  0.374266  0.877203  1
+  Mg  Mg22  1  0.877203  0.374266  0.374266  1
+  Mg  Mg23  1  0.625734  0.625734  0.122797  1
+  Si  Si24  1  0.500000  0.000000  0.500000  1
+  Si  Si25  1  0.500000  0.500000  -0.000000  1
+  Si  Si26  1  0.500000  0.500000  0.500000  1
+  Si  Si27  1  0.000000  -0.000000  0.000000  1
+  Si  Si28  1  0.500000  -0.000000  -0.000000  1
+  Si  Si29  1  -0.000000  0.500000  0.500000  1
+  Si  Si30  1  -0.000000  0.000000  0.500000  1
+  Si  Si31  1  0.000000  0.500000  0.000000  1

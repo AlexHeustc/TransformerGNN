@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_PBr2N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78485304
+_cell_length_b   11.91923787
+_cell_length_c   11.91923787
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PBr2N
+_chemical_formula_sum   'P8 Br16 N8'
+_cell_volume   963.91207171
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.198843  0.087994  0.292698  1
+  P  P1  1  0.698843  0.707302  0.587994  1
+  P  P2  1  0.301157  0.207302  0.087994  1
+  P  P3  1  0.801157  0.912006  0.707302  1
+  P  P4  1  0.801157  0.587994  0.792698  1
+  P  P5  1  0.301157  0.292698  0.412006  1
+  P  P6  1  0.698843  0.792698  0.912006  1
+  P  P7  1  0.198843  0.412006  0.207302  1
+  Br  Br8  1  0.893275  0.058659  0.348829  1
+  Br  Br9  1  0.163538  0.193517  0.920687  1
+  Br  Br10  1  0.106725  0.941341  0.651171  1
+  Br  Br11  1  0.836462  0.693517  0.420687  1
+  Br  Br12  1  0.393275  0.651171  0.558659  1
+  Br  Br13  1  0.106725  0.558659  0.848829  1
+  Br  Br14  1  0.606725  0.151171  0.058659  1
+  Br  Br15  1  0.836462  0.806483  0.079313  1
+  Br  Br16  1  0.336462  0.579313  0.193517  1
+  Br  Br17  1  0.663538  0.079313  0.693517  1
+  Br  Br18  1  0.663538  0.420687  0.806483  1
+  Br  Br19  1  0.336462  0.920687  0.306483  1
+  Br  Br20  1  0.606725  0.348829  0.441341  1
+  Br  Br21  1  0.163538  0.306483  0.579313  1
+  Br  Br22  1  0.893275  0.441341  0.151171  1
+  Br  Br23  1  0.393275  0.848829  0.941341  1
+  N  N24  1  0.818916  0.622029  0.664283  1
+  N  N25  1  0.681084  0.835717  0.622029  1
+  N  N26  1  0.318916  0.335717  0.122029  1
+  N  N27  1  0.818916  0.877971  0.835717  1
+  N  N28  1  0.181084  0.122029  0.164283  1
+  N  N29  1  0.318916  0.164283  0.377971  1
+  N  N30  1  0.181084  0.377971  0.335717  1
+  N  N31  1  0.681084  0.664283  0.877971  1

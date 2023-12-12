@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Gd2MnGa6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.17538623
+_cell_length_b   6.18775441
+_cell_length_c   6.17952446
+_cell_angle_alpha   59.93662956
+_cell_angle_beta   59.91604080
+_cell_angle_gamma   59.98105296
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2MnGa6
+_chemical_formula_sum   'Gd2 Mn1 Ga6'
+_cell_volume   166.75953475
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.250061  0.249511  0.250088  1
+  Gd  Gd1  1  0.749965  0.750378  0.749747  1
+  Mn  Mn2  1  0.500191  0.499957  0.499998  1
+  Ga  Ga3  1  0.778314  0.221499  0.778487  1
+  Ga  Ga4  1  0.221577  0.778388  0.778156  1
+  Ga  Ga5  1  0.221819  0.221862  0.778184  1
+  Ga  Ga6  1  0.778129  0.221671  0.221782  1
+  Ga  Ga7  1  0.778354  0.778392  0.221544  1
+  Ga  Ga8  1  0.221590  0.778342  0.222014  1

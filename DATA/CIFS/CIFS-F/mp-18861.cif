@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaNd2Mn2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97304550
+_cell_length_b   3.97302233
+_cell_length_c   10.67802052
+_cell_angle_alpha   100.71927882
+_cell_angle_beta   100.71931043
+_cell_angle_gamma   90.00004070
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNd2Mn2O7
+_chemical_formula_sum   'Ba1 Nd2 Mn2 O7'
+_cell_volume   162.61693465
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.391069  0.891059  0.782285  1
+  O  O1  1  0.108941  0.608929  0.217714  1
+  O  O2  1  0.608930  0.108941  0.217714  1
+  O  O3  1  0.891059  0.391070  0.782285  1
+  O  O4  1  0.206739  0.206742  0.413252  1
+  O  O5  1  0.999997  0.999997  0.999994  1
+  O  O6  1  0.793266  0.793264  0.586753  1
+  Mn  Mn7  1  0.100430  0.100429  0.200778  1
+  Mn  Mn8  1  0.899572  0.899572  0.799227  1
+  Ba  Ba9  1  0.500000  0.500000  0.999999  1
+  Nd  Nd10  1  0.682004  0.682002  0.364177  1
+  Nd  Nd11  1  0.317996  0.317998  0.635826  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La3Al11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44621602
+_cell_length_b   8.59152856
+_cell_length_c   8.59152855
+_cell_angle_alpha   72.18536549
+_cell_angle_beta   75.00375037
+_cell_angle_gamma   75.00375034
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Al11
+_chemical_formula_sum   'La3 Al11'
+_cell_volume   296.00541619
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.000000  0.500000  0.500000  1
+  Al  Al1  1  0.500000  0.714487  0.285513  1
+  Al  Al2  1  0.500000  0.285513  0.714487  1
+  Al  Al3  1  0.334924  0.033042  0.297110  1
+  Al  Al4  1  0.665076  0.966958  0.702890  1
+  Al  Al5  1  0.665076  0.702890  0.966958  1
+  Al  Al6  1  0.334924  0.297110  0.033042  1
+  Al  Al7  1  0.137989  0.135799  0.588223  1
+  Al  Al8  1  0.862011  0.864201  0.411777  1
+  Al  Al9  1  0.862011  0.411777  0.864201  1
+  Al  Al10  1  0.137989  0.588223  0.135799  1
+  La  La11  1  0.000000  0.000000  0.000000  1
+  La  La12  1  0.316225  0.683775  0.683775  1
+  La  La13  1  0.683775  0.316225  0.316225  1

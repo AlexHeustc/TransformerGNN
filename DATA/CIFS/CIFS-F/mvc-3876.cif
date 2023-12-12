@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlSnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31744289
+_cell_length_b   5.21653243
+_cell_length_c   9.27559494
+_cell_angle_alpha   89.98797800
+_cell_angle_beta   84.03644858
+_cell_angle_gamma   89.99546658
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSnO3
+_chemical_formula_sum   'Al4 Sn4 O12'
+_cell_volume   255.89971870
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.950789  0.031009  0.744800  1
+  Al  Al1  1  0.450790  0.468913  0.244717  1
+  Al  Al2  1  0.549353  0.531033  0.755336  1
+  Al  Al3  1  0.049045  0.968932  0.255138  1
+  Sn  Sn4  1  0.000025  0.500026  0.499988  1
+  Sn  Sn5  1  0.499990  -0.000015  0.499998  1
+  Sn  Sn6  1  0.500045  0.000028  0.000012  1
+  Sn  Sn7  1  0.000027  0.499965  0.000012  1
+  O  O8  1  0.577650  0.328311  0.392300  1
+  O  O9  1  0.155128  0.114878  0.588660  1
+  O  O10  1  0.921913  0.828235  0.107694  1
+  O  O11  1  0.344879  0.615037  0.911386  1
+  O  O12  1  0.422072  0.671615  0.607750  1
+  O  O13  1  0.844846  0.885225  0.411376  1
+  O  O14  1  0.078304  0.171680  0.892265  1
+  O  O15  1  0.655161  0.385038  0.088593  1
+  O  O16  1  0.162143  0.294062  0.208410  1
+  O  O17  1  0.662289  0.206043  0.708630  1
+  O  O18  1  0.337676  0.794003  0.291419  1
+  O  O19  1  0.837876  0.705981  0.791516  1

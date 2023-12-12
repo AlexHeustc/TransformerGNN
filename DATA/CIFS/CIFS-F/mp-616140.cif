@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Cs5SiAs3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12894438
+_cell_length_b   14.75455530
+_cell_length_c   16.20690762
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs5SiAs3
+_chemical_formula_sum   'Cs20 Si4 As12'
+_cell_volume   1465.58820535
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.750000  0.144715  0.452231  1
+  Cs  Cs1  1  0.250000  0.277452  0.204672  1
+  Cs  Cs2  1  0.750000  0.435363  0.548708  1
+  Cs  Cs3  1  0.750000  0.449519  0.845942  1
+  Cs  Cs4  1  0.250000  0.855285  0.547769  1
+  Cs  Cs5  1  0.250000  0.355285  0.952231  1
+  Cs  Cs6  1  0.750000  0.644715  0.047769  1
+  Cs  Cs7  1  0.750000  0.935363  0.951292  1
+  Cs  Cs8  1  0.250000  0.550481  0.154058  1
+  Cs  Cs9  1  0.250000  0.777452  0.295328  1
+  Cs  Cs10  1  0.750000  0.880491  0.186542  1
+  Cs  Cs11  1  0.250000  0.064637  0.048708  1
+  Cs  Cs12  1  0.750000  0.722548  0.795328  1
+  Cs  Cs13  1  0.750000  0.222548  0.704672  1
+  Cs  Cs14  1  0.750000  0.949519  0.654058  1
+  Cs  Cs15  1  0.250000  0.564637  0.451292  1
+  Cs  Cs16  1  0.250000  0.119509  0.813458  1
+  Cs  Cs17  1  0.750000  0.380491  0.313458  1
+  Cs  Cs18  1  0.250000  0.050481  0.345942  1
+  Cs  Cs19  1  0.250000  0.619509  0.686542  1
+  Si  Si20  1  0.750000  0.239847  0.066060  1
+  Si  Si21  1  0.750000  0.739847  0.433940  1
+  Si  Si22  1  0.250000  0.760153  0.933940  1
+  Si  Si23  1  0.250000  0.260153  0.566060  1
+  As  As24  1  0.750000  0.895527  0.411775  1
+  As  As25  1  0.250000  0.363750  0.674192  1
+  As  As26  1  0.750000  0.136250  0.174192  1
+  As  As27  1  0.750000  0.192616  0.929544  1
+  As  As28  1  0.750000  0.395527  0.088225  1
+  As  As29  1  0.250000  0.104473  0.588225  1
+  As  As30  1  0.250000  0.307384  0.429544  1
+  As  As31  1  0.250000  0.807384  0.070456  1
+  As  As32  1  0.750000  0.636250  0.325808  1
+  As  As33  1  0.250000  0.604473  0.911775  1
+  As  As34  1  0.250000  0.863750  0.825808  1
+  As  As35  1  0.750000  0.692616  0.570456  1

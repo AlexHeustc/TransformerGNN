@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZnCuO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.21526296
+_cell_length_b   8.14657804
+_cell_length_c   7.83249849
+_cell_angle_alpha   78.22607084
+_cell_angle_beta   78.97861866
+_cell_angle_gamma   95.75647807
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCuO2
+_chemical_formula_sum   'Zn4 Cu4 O8'
+_cell_volume   195.05603591
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.406735  0.127884  0.246630  1
+  Zn  Zn1  1  0.571064  0.844010  0.792352  1
+  Zn  Zn2  1  0.930937  0.807263  0.133020  1
+  Zn  Zn3  1  0.081145  0.192872  0.871919  1
+  Cu  Cu4  1  0.609263  0.338018  0.506633  1
+  Cu  Cu5  1  0.171568  0.477604  0.168616  1
+  Cu  Cu6  1  0.838424  0.504393  0.845680  1
+  Cu  Cu7  1  0.428159  0.672576  0.493568  1
+  O  O8  1  0.822829  0.688961  0.644162  1
+  O  O9  1  0.661039  0.320995  0.745884  1
+  O  O10  1  0.346556  0.667538  0.260488  1
+  O  O11  1  0.191343  0.308307  0.373460  1
+  O  O12  1  0.070003  0.961369  0.855347  1
+  O  O13  1  0.865380  0.327223  0.053695  1
+  O  O14  1  0.871864  0.996466  0.247410  1
+  O  O15  1  0.136355  0.642059  0.965981  1

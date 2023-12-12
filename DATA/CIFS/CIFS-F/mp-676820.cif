@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Tm2Zr8O19
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.65806530
+_cell_length_b   36.71973782
+_cell_length_c   35.04442750
+_cell_angle_alpha   5.19300042
+_cell_angle_beta   58.52576837
+_cell_angle_gamma   60.11277033
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tm2Zr8O19
+_chemical_formula_sum   'Tm2 Zr8 O19'
+_cell_volume   348.75439268
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.029876  0.827615  0.965610  1
+  Tm  Tm1  1  0.964583  0.875656  0.030968  1
+  Zr  Zr2  1  0.991559  0.994095  0.007996  1
+  Zr  Zr3  1  0.993453  0.090538  0.011260  1
+  Zr  Zr4  1  0.996412  0.193359  0.007760  1
+  Zr  Zr5  1  -0.000183  0.297672  0.002461  1
+  Zr  Zr6  1  0.002778  0.401725  0.997438  1
+  Zr  Zr7  1  0.004061  0.503996  0.994463  1
+  Zr  Zr8  1  0.006489  0.605243  0.992640  1
+  Zr  Zr9  1  0.007294  0.706163  0.991584  1
+  O  O10  1  0.258411  0.003391  0.245269  1
+  O  O11  1  0.257647  0.104804  0.243591  1
+  O  O12  1  0.230887  0.184975  0.268265  1
+  O  O13  1  0.286738  0.329913  0.211963  1
+  O  O14  1  0.219401  0.375349  0.280129  1
+  O  O15  1  0.299620  0.542683  0.196596  1
+  O  O16  1  0.718055  0.977943  0.777645  1
+  O  O17  1  0.748326  0.102114  0.747635  1
+  O  O18  1  0.198648  0.662596  0.297244  1
+  O  O19  1  0.276453  0.819948  0.225088  1
+  O  O20  1  0.774777  0.223959  0.720633  1
+  O  O21  1  0.222909  0.873616  0.282412  1
+  O  O22  1  0.710096  0.266081  0.792403  1
+  O  O23  1  0.770775  0.412221  0.734223  1
+  O  O24  1  0.738351  0.487852  0.764704  1
+  O  O25  1  0.743179  0.593885  0.757285  1
+  O  O26  1  0.774002  0.719902  0.724680  1
+  O  O27  1  0.722346  0.778454  0.776318  1
+  O  O28  1  0.795614  0.936331  0.703891  1

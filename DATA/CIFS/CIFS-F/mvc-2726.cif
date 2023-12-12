@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca2Ta2NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44023947
+_cell_length_b   6.33427378
+_cell_length_c   9.94329139
+_cell_angle_alpha   108.70482633
+_cell_angle_beta   91.43342009
+_cell_angle_gamma   89.99114092
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Ta2NiO8
+_chemical_formula_sum   'Ca4 Ta4 Ni2 O16'
+_cell_volume   324.43530902
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.756423  0.464539  0.583314  1
+  Ca  Ca1  1  0.740772  0.880716  0.413237  1
+  Ca  Ca2  1  0.241145  0.532602  0.415333  1
+  Ca  Ca3  1  0.256309  0.116306  0.584771  1
+  Ta  Ta4  1  0.748537  0.258860  0.218988  1
+  Ta  Ta5  1  0.748874  0.037874  0.778885  1
+  Ta  Ta6  1  0.248901  0.738506  0.779503  1
+  Ta  Ta7  1  0.248321  0.959236  0.219316  1
+  Ni  Ni8  1  0.748515  0.632622  0.999193  1
+  Ni  Ni9  1  0.248546  0.365394  0.999400  1
+  O  O10  1  0.085456  0.192980  0.135036  1
+  O  O11  1  0.411787  0.056966  0.863248  1
+  O  O12  1  0.911866  0.804241  0.863152  1
+  O  O13  1  0.585547  0.940018  0.134926  1
+  O  O14  1  0.580940  0.413870  0.111834  1
+  O  O15  1  0.915623  0.300853  0.886984  1
+  O  O16  1  0.416161  0.583736  0.887034  1
+  O  O17  1  0.080868  0.696539  0.111353  1
+  O  O18  1  0.488432  0.240184  0.357574  1
+  O  O19  1  0.009315  0.880404  0.640566  1
+  O  O20  1  0.337711  0.840068  0.369363  1
+  O  O21  1  0.158947  0.469027  0.629157  1
+  O  O22  1  0.659323  0.156757  0.628733  1
+  O  O23  1  0.838643  0.528171  0.369403  1
+  O  O24  1  0.988147  0.116716  0.357737  1
+  O  O25  1  0.508990  0.756687  0.640707  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Cr2FeTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07073799
+_cell_length_b   6.94393925
+_cell_length_c   7.05068546
+_cell_angle_alpha   119.40749969
+_cell_angle_beta   106.77875187
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2FeTe4
+_chemical_formula_sum   'Cr2 Fe1 Te4'
+_cell_volume   163.81161868
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.251830  0.264742  0.503659  1
+  Cr  Cr1  1  0.748170  0.735258  0.496341  1
+  Fe  Fe2  1  -0.000000  0.000000  0.000000  1
+  Te  Te3  1  0.120631  0.457246  0.241261  1
+  Te  Te4  1  0.879369  0.542754  0.758739  1
+  Te  Te5  1  0.373764  0.038063  0.747528  1
+  Te  Te6  1  0.626236  0.961937  0.252472  1

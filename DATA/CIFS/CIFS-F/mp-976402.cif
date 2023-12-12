@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_NaZnAs(H2O3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75402096
+_cell_length_b   6.21789689
+_cell_length_c   7.95419943
+_cell_angle_alpha   87.87353205
+_cell_angle_beta   88.55688631
+_cell_angle_gamma   91.38497475
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZnAs(H2O3)2
+_chemical_formula_sum   'Na2 Zn2 As2 H8 O12'
+_cell_volume   284.20866314
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.500001  0.499997  0.999993  1
+  Na  Na1  1  0.000001  0.000001  -0.000000  1
+  Zn  Zn2  1  0.686507  0.746476  0.388062  1
+  Zn  Zn3  1  0.313486  0.253521  0.611941  1
+  As  As4  1  0.812620  0.251391  0.382125  1
+  As  As5  1  0.187382  0.748613  0.617870  1
+  H  H6  1  0.868455  0.389032  0.026139  1
+  H  H7  1  0.459415  0.094854  0.149263  1
+  H  H8  1  0.062366  0.603035  0.167384  1
+  H  H9  1  0.249579  0.205447  0.231207  1
+  H  H10  1  0.750419  0.794549  0.768790  1
+  H  H11  1  0.937656  0.396977  0.832620  1
+  H  H12  1  0.540589  0.905139  0.850749  1
+  H  H13  1  0.131553  0.610986  0.973888  1
+  O  O14  1  0.166999  0.675478  0.081464  1
+  O  O15  1  0.324087  0.180571  0.118428  1
+  O  O16  1  0.774675  0.484890  0.254386  1
+  O  O17  1  0.741658  0.032316  0.261556  1
+  O  O18  1  0.106016  0.242532  0.417474  1
+  O  O19  1  0.351715  0.736259  0.438492  1
+  O  O20  1  0.648267  0.263749  0.561520  1
+  O  O21  1  0.893973  0.757459  0.582538  1
+  O  O22  1  0.258335  0.967685  0.738453  1
+  O  O23  1  0.225332  0.515108  0.745620  1
+  O  O24  1  0.675894  0.819439  0.881585  1
+  O  O25  1  0.833014  0.324505  0.918448  1

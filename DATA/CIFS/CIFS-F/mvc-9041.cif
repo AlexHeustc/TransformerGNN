@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_MgCr2(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68734059
+_cell_length_b   6.68760511
+_cell_length_c   8.70493989
+_cell_angle_alpha   102.67526826
+_cell_angle_beta   102.71344445
+_cell_angle_gamma   115.35291326
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCr2(PO5)2
+_chemical_formula_sum   'Mg2 Cr4 P4 O20'
+_cell_volume   320.72574779
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.493356  0.993368  0.500009  1
+  Mg  Mg1  1  0.243319  0.243323  0.999986  1
+  Cr  Cr2  1  0.870959  0.619675  0.250509  1
+  Cr  Cr3  1  0.369234  0.620498  0.749514  1
+  Cr  Cr4  1  0.870466  0.119222  0.249513  1
+  Cr  Cr5  1  0.869729  0.620937  0.750483  1
+  P  P6  1  0.036744  0.037625  0.584579  1
+  P  P7  1  0.702268  0.203151  0.915430  1
+  P  P8  1  0.453106  0.452209  0.415449  1
+  P  P9  1  0.287633  0.786785  0.084544  1
+  O  O10  1  0.578151  0.553710  0.299201  1
+  O  O11  1  0.663965  0.666759  0.840714  1
+  O  O12  1  0.310615  0.588339  0.969742  1
+  O  O13  1  0.803639  0.328060  0.799192  1
+  O  O14  1  0.213263  0.235209  0.295783  1
+  O  O15  1  0.427060  0.649161  0.529260  1
+  O  O16  1  0.075156  0.575970  0.659267  1
+  O  O17  1  0.825971  0.823926  0.159195  1
+  O  O18  1  0.916760  0.415158  0.340808  1
+  O  O19  1  0.167467  0.689374  0.204217  1
+  O  O20  1  0.254539  0.279033  0.700813  1
+  O  O21  1  0.485116  0.963184  0.795766  1
+  O  O22  1  0.939456  0.917555  0.704215  1
+  O  O23  1  0.147821  0.869931  0.970741  1
+  O  O24  1  0.119953  0.897837  0.470771  1
+  O  O25  1  0.899202  0.177057  0.029266  1
+  O  O26  1  0.838288  0.060666  0.469753  1
+  O  O27  1  0.618532  0.340843  0.030222  1
+  O  O28  1  0.528955  0.004482  0.200815  1
+  O  O29  1  0.590880  0.368555  0.530243  1

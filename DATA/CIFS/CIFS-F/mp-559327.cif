@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na2CoGeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40709040
+_cell_length_b   5.68554912
+_cell_length_c   7.22865237
+_cell_angle_alpha   90.00019030
+_cell_angle_beta   89.97934980
+_cell_angle_gamma   90.00012658
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CoGeO4
+_chemical_formula_sum   'Na4 Co2 Ge2 O8'
+_cell_volume   222.22522668
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.011460  0.322906  0.250958  1
+  Na  Na1  1  0.507157  0.177935  0.007189  1
+  Na  Na2  1  0.007157  0.822061  0.507190  1
+  Na  Na3  1  0.511461  0.677097  0.750956  1
+  Co  Co4  1  0.497820  0.186168  0.499609  1
+  Co  Co5  1  0.997825  0.813832  0.999611  1
+  Ge  Ge6  1  0.493194  0.685002  0.253631  1
+  Ge  Ge7  1  0.993191  0.314997  0.753640  1
+  O  O8  1  0.079894  0.153422  0.955929  1
+  O  O9  1  0.134271  0.205416  0.548425  1
+  O  O10  1  0.165511  0.707429  0.227774  1
+  O  O11  1  0.076590  0.618032  0.779684  1
+  O  O12  1  0.576589  0.381966  0.279681  1
+  O  O13  1  0.579898  0.846580  0.455928  1
+  O  O14  1  0.665506  0.292573  0.727771  1
+  O  O15  1  0.634273  0.794583  0.048425  1

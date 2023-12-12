@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr(NdS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53591215
+_cell_length_b   7.53591185
+_cell_length_c   7.53591193
+_cell_angle_alpha   109.43741207
+_cell_angle_beta   109.53885252
+_cell_angle_gamma   109.43741224
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(NdS2)2
+_chemical_formula_sum   'Sr2 Nd4 S8'
+_cell_volume   329.44668356
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.250000  0.627111  0.377111  1
+  Nd  Nd1  1  0.622889  0.372889  0.250000  1
+  Nd  Nd2  1  0.750000  0.872889  0.122889  1
+  Nd  Nd3  1  0.877111  0.127111  0.750000  1
+  S  S4  1  0.989502  0.847278  0.490783  1
+  S  S5  1  0.510498  0.001280  0.857776  1
+  S  S6  1  0.142224  0.152722  0.143504  1
+  S  S7  1  0.357776  0.501280  0.010498  1
+  S  S8  1  0.643504  0.652722  0.642224  1
+  S  S9  1  0.509217  0.998720  0.356496  1
+  S  S10  1  0.856496  0.498720  0.009217  1
+  S  S11  1  0.990783  0.347278  0.489502  1
+  Sr  Sr12  1  0.125000  0.750000  0.875000  1
+  Sr  Sr13  1  0.375000  0.250000  0.625000  1

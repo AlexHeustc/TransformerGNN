@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na(NO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61836903
+_cell_length_b   3.71732187
+_cell_length_c   15.39156851
+_cell_angle_alpha   71.74326153
+_cell_angle_beta   57.26290477
+_cell_angle_gamma   55.23988737
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(NO)2
+_chemical_formula_sum   'Na2 N4 O4'
+_cell_volume   182.60036039
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.513558  0.511010  0.362623  1
+  Na  Na1  1  0.470485  0.590964  0.623536  1
+  N  N2  1  0.165865  0.463678  0.550344  1
+  N  N3  1  0.917908  0.516570  0.158803  1
+  N  N4  1  0.094130  0.535318  0.073553  1
+  N  N5  1  0.890171  0.833920  0.847310  1
+  O  O6  1  0.135871  0.330279  0.339962  1
+  O  O7  1  0.865677  0.696776  0.397301  1
+  O  O8  1  0.018960  0.384147  0.647993  1
+  O  O9  1  0.927374  0.523338  0.902076  1

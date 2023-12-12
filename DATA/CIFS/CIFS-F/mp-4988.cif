@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_TlAsS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31962924
+_cell_length_b   11.64452460
+_cell_length_c   12.87164643
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   102.67604688
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlAsS2
+_chemical_formula_sum   'Tl8 As8 S16'
+_cell_volume   924.12558444
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.403562  0.786139  0.823194  1
+  S  S1  1  0.588477  0.467742  0.316438  1
+  S  S2  1  0.911523  0.967742  0.183562  1
+  S  S3  1  0.411523  0.532258  0.683562  1
+  S  S4  1  0.088477  0.032258  0.816438  1
+  S  S5  1  0.903562  0.713861  0.323194  1
+  S  S6  1  0.596438  0.213861  0.176806  1
+  S  S7  1  0.096438  0.286139  0.676806  1
+  S  S8  1  0.582607  0.314150  0.875889  1
+  S  S9  1  0.917393  0.814150  0.624111  1
+  S  S10  1  0.417393  0.685850  0.124111  1
+  S  S11  1  0.541829  0.937363  0.349679  1
+  S  S12  1  0.041829  0.562637  0.849679  1
+  S  S13  1  0.458171  0.062637  0.650321  1
+  S  S14  1  0.958171  0.437363  0.150321  1
+  S  S15  1  0.082607  0.185850  0.375889  1
+  As  As16  1  0.466088  0.331668  0.701913  1
+  As  As17  1  0.893703  0.910207  0.356665  1
+  As  As18  1  0.606297  0.410207  0.143335  1
+  As  As19  1  0.106297  0.089793  0.643335  1
+  As  As20  1  0.393703  0.589793  0.856665  1
+  As  As21  1  0.533912  0.668332  0.298087  1
+  As  As22  1  0.966088  0.168332  0.201913  1
+  As  As23  1  0.033912  0.831668  0.798087  1
+  Tl  Tl24  1  0.091048  0.322361  0.940495  1
+  Tl  Tl25  1  0.408952  0.822361  0.559505  1
+  Tl  Tl26  1  0.908952  0.677639  0.059505  1
+  Tl  Tl27  1  0.591048  0.177639  0.440495  1
+  Tl  Tl28  1  0.620105  0.057356  0.888618  1
+  Tl  Tl29  1  0.879895  0.557356  0.611382  1
+  Tl  Tl30  1  0.379895  0.942644  0.111382  1
+  Tl  Tl31  1  0.120105  0.442644  0.388618  1

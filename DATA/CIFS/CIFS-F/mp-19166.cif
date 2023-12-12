@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sr3NiPtO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74662670
+_cell_length_b   6.74662669
+_cell_length_c   6.74662669
+_cell_angle_alpha   91.65999210
+_cell_angle_beta   91.65999213
+_cell_angle_gamma   91.65999212
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3NiPtO6
+_chemical_formula_sum   'Sr6 Ni2 Pt2 O12'
+_cell_volume   306.69175679
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.789250  0.590747  0.465415  1
+  O  O1  1  0.590746  0.465415  0.789250  1
+  O  O2  1  0.465416  0.789250  0.590747  1
+  O  O3  1  0.034583  0.909253  0.710750  1
+  O  O4  1  0.909253  0.710750  0.034584  1
+  O  O5  1  0.710749  0.034584  0.909253  1
+  O  O6  1  0.210749  0.409253  0.534584  1
+  O  O7  1  0.409253  0.534583  0.210749  1
+  O  O8  1  0.534584  0.210750  0.409253  1
+  O  O9  1  0.965416  0.090747  0.289251  1
+  O  O10  1  0.289251  0.965416  0.090746  1
+  O  O11  1  0.090746  0.289250  0.965416  1
+  Ni  Ni12  1  0.250000  0.250000  0.250000  1
+  Ni  Ni13  1  0.750000  0.750000  0.750000  1
+  Sr  Sr14  1  0.613940  0.886060  0.250001  1
+  Sr  Sr15  1  0.250000  0.613941  0.886061  1
+  Sr  Sr16  1  0.113940  0.750000  0.386060  1
+  Sr  Sr17  1  0.886060  0.250000  0.613941  1
+  Sr  Sr18  1  0.386059  0.113940  0.750000  1
+  Sr  Sr19  1  0.750000  0.386060  0.113940  1
+  Pt  Pt20  1  0.000000  0.000000  0.000000  1
+  Pt  Pt21  1  0.500000  0.499999  0.500000  1

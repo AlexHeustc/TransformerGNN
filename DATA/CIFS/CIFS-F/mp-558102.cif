@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KLiSi2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.87563102
+_cell_length_b   6.08705260
+_cell_length_c   8.30316363
+_cell_angle_alpha   93.40421954
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLiSi2O5
+_chemical_formula_sum   'K2 Li2 Si4 O10'
+_cell_volume   245.98831366
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.313216  0.970115  0.313849  1
+  K  K1  1  0.813216  0.029885  0.686151  1
+  Li  Li2  1  0.298250  0.869803  0.905569  1
+  Li  Li3  1  0.798250  0.130197  0.094431  1
+  Si  Si4  1  0.779981  0.629953  0.064253  1
+  Si  Si5  1  0.864834  0.441015  0.394024  1
+  Si  Si6  1  0.364834  0.558985  0.605976  1
+  Si  Si7  1  0.279981  0.370047  0.935747  1
+  O  O8  1  0.653018  0.852910  0.008005  1
+  O  O9  1  0.808463  0.192883  0.329310  1
+  O  O10  1  0.602388  0.406404  0.000801  1
+  O  O11  1  0.193340  0.481384  0.440092  1
+  O  O12  1  0.293208  0.370056  0.737066  1
+  O  O13  1  0.793208  0.629944  0.262934  1
+  O  O14  1  0.102388  0.593596  0.999199  1
+  O  O15  1  0.693340  0.518616  0.559908  1
+  O  O16  1  0.308463  0.807117  0.670690  1
+  O  O17  1  0.153018  0.147090  0.991995  1

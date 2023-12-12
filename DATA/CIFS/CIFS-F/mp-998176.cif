@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_RbPbBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98042420
+_cell_length_b   5.98507327
+_cell_length_c   5.98509528
+_cell_angle_alpha   90.06772244
+_cell_angle_beta   90.12103204
+_cell_angle_gamma   89.99375446
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbPbBr3
+_chemical_formula_sum   'Rb1 Pb1 Br3'
+_cell_volume   214.22554457
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.999805  0.998324  0.997044  1
+  Pb  Pb1  1  0.483568  0.498074  0.492656  1
+  Br  Br2  1  0.485275  0.998511  0.495934  1
+  Br  Br3  1  0.984151  0.507979  0.510524  1
+  Br  Br4  1  0.487204  0.497112  0.993840  1

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TlInS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   18.41140494
+_cell_length_b   6.63336073
+_cell_length_c   9.65545201
+_cell_angle_alpha   152.06976798
+_cell_angle_beta   162.44355644
+_cell_angle_gamma   22.07643486
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlInS2
+_chemical_formula_sum   'Tl1 In1 S2'
+_cell_volume   133.68916257
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.000000  0.000000  0.000000  1
+  In  In1  1  0.000000  0.500000  0.000000  1
+  S  S2  1  0.583688  0.649807  1.000000  1
+  S  S3  1  0.416312  0.350193  0.000000  1

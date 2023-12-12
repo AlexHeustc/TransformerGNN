@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CrCoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08363669
+_cell_length_b   10.46366022
+_cell_length_c   4.95128712
+_cell_angle_alpha   90.01017220
+_cell_angle_beta   89.99475297
+_cell_angle_gamma   89.99968845
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrCoO4
+_chemical_formula_sum   'Cr4 Co4 O16'
+_cell_volume   315.18460896
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.249987  0.094219  0.407994  1
+  Cr  Cr1  1  0.249989  0.594116  0.092090  1
+  Cr  Cr2  1  0.749999  0.405841  0.907969  1
+  Cr  Cr3  1  0.750000  0.905822  0.591980  1
+  Co  Co4  1  0.250056  0.269121  0.973449  1
+  Co  Co5  1  0.250050  0.769192  0.526783  1
+  Co  Co6  1  0.750060  0.230890  0.473451  1
+  Co  Co7  1  0.750016  0.730844  0.026579  1
+  O  O8  1  0.030874  0.171778  0.273712  1
+  O  O9  1  0.030946  0.671810  0.226208  1
+  O  O10  1  0.249997  0.440358  0.169513  1
+  O  O11  1  0.249902  0.110939  0.738013  1
+  O  O12  1  0.249958  0.610880  0.761974  1
+  O  O13  1  0.249978  0.940452  0.330422  1
+  O  O14  1  0.469183  0.171889  0.273905  1
+  O  O15  1  0.469076  0.671867  0.226138  1
+  O  O16  1  0.530897  0.828152  0.726155  1
+  O  O17  1  0.530929  0.328242  0.773678  1
+  O  O18  1  0.749971  0.559609  0.830468  1
+  O  O19  1  0.749972  0.059581  0.669526  1
+  O  O20  1  0.749901  0.389088  0.238016  1
+  O  O21  1  0.749976  0.889058  0.261987  1
+  O  O22  1  0.969145  0.328125  0.773893  1
+  O  O23  1  0.969137  0.828126  0.726096  1

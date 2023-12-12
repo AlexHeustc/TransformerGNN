@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_In2Pt2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16367548
+_cell_length_b   7.16370936
+_cell_length_c   7.16333614
+_cell_angle_alpha   59.99099931
+_cell_angle_beta   59.99144762
+_cell_angle_gamma   59.99829629
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Pt2O7
+_chemical_formula_sum   'In4 Pt4 O14'
+_cell_volume   259.90281244
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.000059  -0.000065  0.000019  1
+  In  In1  1  0.499944  0.000030  -0.000027  1
+  In  In2  1  0.000078  0.499888  0.000069  1
+  In  In3  1  -0.000031  0.000078  0.499913  1
+  Pt  Pt4  1  0.499917  0.499989  -0.000047  1
+  Pt  Pt5  1  0.499965  -0.000044  0.500074  1
+  Pt  Pt6  1  -0.000101  0.500089  0.499885  1
+  Pt  Pt7  1  0.499997  0.499966  0.500026  1
+  O  O8  1  0.125033  0.124916  0.124970  1
+  O  O9  1  0.591612  0.158445  0.158433  1
+  O  O10  1  0.591451  0.158559  0.591492  1
+  O  O11  1  0.158504  0.591607  0.158491  1
+  O  O12  1  0.591451  0.591592  0.158496  1
+  O  O13  1  0.158498  0.158497  0.591439  1
+  O  O14  1  0.841639  0.408480  0.408401  1
+  O  O15  1  0.158436  0.591568  0.591589  1
+  O  O16  1  0.841537  0.841554  0.408500  1
+  O  O17  1  0.408512  0.841494  0.408510  1
+  O  O18  1  0.408455  0.408523  0.841615  1
+  O  O19  1  0.841571  0.408298  0.841681  1
+  O  O20  1  0.408453  0.841525  0.841507  1
+  O  O21  1  0.875019  0.875010  0.874964  1

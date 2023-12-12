@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_DyGaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12098752
+_cell_length_b   6.12098759
+_cell_length_c   11.72040022
+_cell_angle_alpha   90.00049786
+_cell_angle_beta   89.99946676
+_cell_angle_gamma   120.00031483
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyGaO3
+_chemical_formula_sum   'Dy6 Ga6 O18'
+_cell_volume   380.28981049
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.333330  0.666669  0.229510  1
+  Dy  Dy1  1  0.999993  0.000004  0.271307  1
+  Dy  Dy2  1  0.999989  0.999995  0.771304  1
+  Dy  Dy3  1  0.333324  0.666662  0.729507  1
+  Dy  Dy4  1  0.666655  0.333327  0.729507  1
+  Dy  Dy5  1  0.666664  0.333338  0.229508  1
+  Ga  Ga6  1  0.999995  0.665740  0.496724  1
+  Ga  Ga7  1  0.999994  0.334264  0.996721  1
+  Ga  Ga8  1  0.334240  0.334245  0.496722  1
+  Ga  Ga9  1  0.665742  0.665754  0.996721  1
+  Ga  Ga10  1  0.334246  0.000003  0.996721  1
+  Ga  Ga11  1  0.665736  0.999998  0.496724  1
+  O  O12  1  0.999992  0.693185  0.659426  1
+  O  O13  1  0.999996  0.640684  0.335223  1
+  O  O14  1  0.999987  0.359315  0.835226  1
+  O  O15  1  0.999994  0.306810  0.159426  1
+  O  O16  1  0.333330  0.666667  0.016546  1
+  O  O17  1  0.333327  0.666663  0.516543  1
+  O  O18  1  -0.000000  0.000008  0.473769  1
+  O  O19  1  0.999994  0.000005  0.973770  1
+  O  O20  1  0.306806  0.306806  0.659422  1
+  O  O21  1  0.359319  0.359328  0.335221  1
+  O  O22  1  0.306808  0.000005  0.159425  1
+  O  O23  1  0.640662  0.640669  0.835227  1
+  O  O24  1  0.693183  0.693191  0.159427  1
+  O  O25  1  0.359309  0.999989  0.835227  1
+  O  O26  1  0.666667  0.333335  0.516545  1
+  O  O27  1  0.666666  0.333335  0.016545  1
+  O  O28  1  0.640673  0.000006  0.335222  1
+  O  O29  1  0.693182  0.999997  0.659425  1

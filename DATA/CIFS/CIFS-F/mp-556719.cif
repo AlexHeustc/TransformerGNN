@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_K2Ti(SiO3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.71575130
+_cell_length_b   7.71575174
+_cell_length_c   7.71575164
+_cell_angle_alpha   82.44123691
+_cell_angle_beta   82.44123651
+_cell_angle_gamma   82.44123659
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Ti(SiO3)3
+_chemical_formula_sum   'K4 Ti2 Si6 O18'
+_cell_volume   448.33174691
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.769617  0.228212  0.994905  1
+  K  K1  1  0.994905  0.769617  0.228212  1
+  K  K2  1  0.228212  0.994905  0.769617  1
+  K  K3  1  0.496500  0.496500  0.496500  1
+  Ti  Ti4  1  0.222404  0.222404  0.222404  1
+  Ti  Ti5  1  0.740778  0.740778  0.740778  1
+  Si  Si6  1  0.509980  0.890558  0.098000  1
+  Si  Si7  1  0.890558  0.098000  0.509980  1
+  Si  Si8  1  0.098000  0.509980  0.890558  1
+  Si  Si9  1  0.549049  0.015210  0.436331  1
+  Si  Si10  1  0.015210  0.436331  0.549049  1
+  Si  Si11  1  0.436331  0.549049  0.015210  1
+  O  O12  1  0.099970  0.323877  0.017515  1
+  O  O13  1  0.157250  0.467027  0.683955  1
+  O  O14  1  0.467027  0.683955  0.157250  1
+  O  O15  1  0.942417  0.243756  0.628820  1
+  O  O16  1  0.628820  0.942417  0.243756  1
+  O  O17  1  0.847857  0.587574  0.556454  1
+  O  O18  1  0.910619  0.631601  0.904259  1
+  O  O19  1  0.904259  0.910619  0.631601  1
+  O  O20  1  0.587574  0.556454  0.847857  1
+  O  O21  1  0.243756  0.628820  0.942417  1
+  O  O22  1  0.631601  0.904259  0.910619  1
+  O  O23  1  0.556454  0.847857  0.587574  1
+  O  O24  1  0.683955  0.157250  0.467027  1
+  O  O25  1  0.121052  0.426398  0.354367  1
+  O  O26  1  0.426398  0.354367  0.121052  1
+  O  O27  1  0.017515  0.099970  0.323877  1
+  O  O28  1  0.354367  0.121052  0.426398  1
+  O  O29  1  0.323877  0.017515  0.099970  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ag8SnSe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94469687
+_cell_length_b   8.12718141
+_cell_length_c   11.22211743
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag8SnSe6
+_chemical_formula_sum   'Ag16 Sn2 Se12'
+_cell_volume   724.58959641
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.289829  0.500000  0.499508  1
+  Se  Se1  1  0.710171  0.000000  0.999508  1
+  Se  Se2  1  0.802282  0.500000  0.255311  1
+  Se  Se3  1  0.197718  0.000000  0.755311  1
+  Se  Se4  1  0.505953  0.500000  0.847860  1
+  Se  Se5  1  0.494047  0.000000  0.347860  1
+  Se  Se6  1  0.004324  0.500000  0.832267  1
+  Se  Se7  1  0.995676  0.000000  0.332267  1
+  Se  Se8  1  0.242857  0.239806  0.111476  1
+  Se  Se9  1  0.757143  0.260194  0.611476  1
+  Se  Se10  1  0.757143  0.739806  0.611476  1
+  Se  Se11  1  0.242857  0.760194  0.111476  1
+  Ag  Ag12  1  0.623344  0.500000  0.464643  1
+  Ag  Ag13  1  0.698743  0.500000  0.034429  1
+  Ag  Ag14  1  0.301257  0.000000  0.534429  1
+  Ag  Ag15  1  0.830529  0.773550  0.864328  1
+  Ag  Ag16  1  0.474585  0.807266  0.739910  1
+  Ag  Ag17  1  0.525415  0.692734  0.239910  1
+  Ag  Ag18  1  0.830529  0.226450  0.864328  1
+  Ag  Ag19  1  0.169471  0.273550  0.364328  1
+  Ag  Ag20  1  0.169471  0.726450  0.364328  1
+  Ag  Ag21  1  0.525415  0.307266  0.239910  1
+  Ag  Ag22  1  0.886726  0.212319  0.134982  1
+  Ag  Ag23  1  0.113274  0.287681  0.634982  1
+  Ag  Ag24  1  0.113274  0.712319  0.634982  1
+  Ag  Ag25  1  0.886726  0.787681  0.134982  1
+  Ag  Ag26  1  0.474585  0.192734  0.739910  1
+  Ag  Ag27  1  0.376656  0.000000  0.964643  1
+  Sn  Sn28  1  0.247120  0.500000  0.984190  1
+  Sn  Sn29  1  0.752880  0.000000  0.484189  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ta2Mn4O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70486342
+_cell_length_b   5.70486326
+_cell_length_c   17.12737521
+_cell_angle_alpha   56.74390882
+_cell_angle_beta   56.74390985
+_cell_angle_gamma   56.48269428
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Mn4O9
+_chemical_formula_sum   'Ta4 Mn8 O18'
+_cell_volume   363.71424718
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.000848  0.019054  0.995832  1
+  Ta  Ta1  1  0.493456  0.505221  0.170789  1
+  Ta  Ta2  1  0.005221  0.993456  0.670789  1
+  Ta  Ta3  1  0.519054  0.500848  0.495832  1
+  Mn  Mn4  1  0.007688  0.009012  0.336595  1
+  Mn  Mn5  1  0.275807  0.287597  0.097678  1
+  Mn  Mn6  1  0.298516  0.284475  0.428243  1
+  Mn  Mn7  1  0.787328  0.788639  0.261857  1
+  Mn  Mn8  1  0.288639  0.287328  0.761857  1
+  Mn  Mn9  1  0.509012  0.507688  0.836595  1
+  Mn  Mn10  1  0.787597  0.775807  0.597678  1
+  Mn  Mn11  1  0.784475  0.798516  0.928242  1
+  O  O12  1  0.140339  0.391093  0.230577  1
+  O  O13  1  0.361971  0.731771  0.039726  1
+  O  O14  1  0.738521  0.126613  0.120683  1
+  O  O15  1  0.242751  0.860081  0.203407  1
+  O  O16  1  0.610321  0.234702  0.285793  1
+  O  O17  1  0.120821  0.358380  0.578280  1
+  O  O18  1  0.858380  0.620821  0.078280  1
+  O  O19  1  0.390330  0.702285  0.380239  1
+  O  O20  1  0.699689  0.127824  0.467344  1
+  O  O21  1  0.231771  0.861971  0.539726  1
+  O  O22  1  0.626613  0.238521  0.620683  1
+  O  O23  1  0.103868  0.368198  0.914158  1
+  O  O24  1  0.868198  0.603868  0.414158  1
+  O  O25  1  0.360081  0.742751  0.703407  1
+  O  O26  1  0.734702  0.110321  0.785793  1
+  O  O27  1  0.202285  0.890330  0.880239  1
+  O  O28  1  0.627824  0.199689  0.967344  1
+  O  O29  1  0.891093  0.640339  0.730577  1

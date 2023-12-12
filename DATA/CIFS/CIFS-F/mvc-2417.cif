@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_AlW3Se2ClO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.50930818
+_cell_length_b   7.53440631
+_cell_length_c   11.16608529
+_cell_angle_alpha   89.02178890
+_cell_angle_beta   65.34650278
+_cell_angle_gamma   78.36714959
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlW3Se2ClO8
+_chemical_formula_sum   'Al2 W6 Se4 Cl2 O16'
+_cell_volume   635.45767125
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.307959  0.227302  0.304074  1
+  Al  Al1  1  0.647386  0.827132  0.708652  1
+  W  W2  1  0.556916  0.890453  0.042459  1
+  W  W3  1  0.603107  0.040981  0.452523  1
+  W  W4  1  0.940815  0.951714  0.004697  1
+  W  W5  1  0.672393  0.353966  0.684194  1
+  W  W6  1  0.265085  0.615648  0.289457  1
+  W  W7  1  0.986195  0.977096  0.494884  1
+  Se  Se8  1  0.754901  0.708598  0.136116  1
+  Se  Se9  1  0.142927  0.498217  0.881435  1
+  Se  Se10  1  0.900950  0.776166  0.364202  1
+  Se  Se11  1  0.367689  0.430062  0.668459  1
+  Cl  Cl12  1  0.982036  0.242397  0.658111  1
+  Cl  Cl13  1  0.806008  0.144275  0.216778  1
+  O  O14  1  0.368663  0.739643  0.142213  1
+  O  O15  1  0.167415  0.428677  0.264382  1
+  O  O16  1  0.699700  0.586597  0.668500  1
+  O  O17  1  0.437211  0.099869  0.149340  1
+  O  O18  1  0.530273  0.934150  0.621606  1
+  O  O19  1  0.851073  0.894500  0.659341  1
+  O  O20  1  0.773144  0.014841  0.940416  1
+  O  O21  1  0.073804  0.113356  0.954212  1
+  O  O22  1  0.123259  0.117445  0.374263  1
+  O  O23  1  0.120475  0.752738  0.902167  1
+  O  O24  1  0.198652  0.762361  0.443796  1
+  O  O25  1  0.747433  0.179534  0.529478  1
+  O  O26  1  0.552823  0.833091  0.882772  1
+  O  O27  1  0.416859  0.116154  0.405519  1
+  O  O28  1  0.576154  0.305620  0.847434  1
+  O  O29  1  0.428697  0.437414  0.308523  1

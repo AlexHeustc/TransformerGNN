@@ -1,0 +1,64 @@
+# generated using pymatgen
+data_Ba4Nd2Cd3Se10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.40245775
+_cell_length_b   9.84893131
+_cell_length_c   28.05450140
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   102.91464500
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4Nd2Cd3Se10
+_chemical_formula_sum   'Ba8 Nd4 Cd6 Se20'
+_cell_volume   1185.65859088
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Se  Se0  1  0.579234  0.158467  0.324576  1
+  Se  Se1  1  0.420766  0.841533  0.824576  1
+  Se  Se2  1  0.592540  0.185081  0.181676  1
+  Se  Se3  1  0.407460  0.814919  0.681676  1
+  Se  Se4  1  0.654051  0.308102  0.490160  1
+  Se  Se5  1  0.345949  0.691898  0.990160  1
+  Se  Se6  1  0.656436  0.312873  0.018473  1
+  Se  Se7  1  0.343564  0.687127  0.518473  1
+  Se  Se8  1  0.762736  0.525473  0.769258  1
+  Se  Se9  1  0.237264  0.474527  0.269258  1
+  Se  Se10  1  0.790082  0.580165  0.377341  1
+  Se  Se11  1  0.209918  0.419835  0.877341  1
+  Se  Se12  1  0.793316  0.586633  0.131564  1
+  Se  Se13  1  0.206684  0.413367  0.631564  1
+  Se  Se14  1  0.928070  0.856140  0.247723  1
+  Se  Se15  1  0.071930  0.143860  0.747723  1
+  Se  Se16  1  0.984561  0.969123  0.429665  1
+  Se  Se17  1  0.015439  0.030877  0.929665  1
+  Se  Se18  1  0.009614  0.019229  0.574031  1
+  Se  Se19  1  0.990386  0.980771  0.074031  1
+  Cd  Cd20  1  0.785329  0.570657  0.231423  1
+  Cd  Cd21  1  0.214671  0.429343  0.731423  1
+  Cd  Cd22  1  0.844320  0.688640  0.461306  1
+  Cd  Cd23  1  0.155680  0.311360  0.961306  1
+  Cd  Cd24  1  0.851782  0.703563  0.045150  1
+  Cd  Cd25  1  0.148218  0.296437  0.545150  1
+  Ba  Ba26  1  0.405763  0.811525  0.338935  1
+  Ba  Ba27  1  0.594237  0.188475  0.838935  1
+  Ba  Ba28  1  0.424899  0.849797  0.157586  1
+  Ba  Ba29  1  0.575101  0.150203  0.657586  1
+  Ba  Ba30  1  0.834101  0.668202  0.609625  1
+  Ba  Ba31  1  0.165899  0.331798  0.109625  1
+  Ba  Ba32  1  0.834434  0.668868  0.892161  1
+  Ba  Ba33  1  0.165566  0.331132  0.392161  1
+  Nd  Nd34  1  0.497040  0.994080  0.499676  1
+  Nd  Nd35  1  0.502960  0.005920  0.999676  1
+  Nd  Nd36  1  0.917518  0.835036  0.753800  1
+  Nd  Nd37  1  0.082482  0.164964  0.253800  1

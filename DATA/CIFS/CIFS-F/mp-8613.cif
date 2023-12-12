@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MnPS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08655757
+_cell_length_b   6.08655757
+_cell_length_c   7.47661542
+_cell_angle_alpha   97.69688989
+_cell_angle_beta   97.69688982
+_cell_angle_gamma   120.01761607
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnPS3
+_chemical_formula_sum   'Mn2 P2 S6'
+_cell_volume   231.06022835
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.050707  0.050707  0.153339  1
+  P  P1  1  0.949293  0.949293  0.846661  1
+  S  S2  1  0.399208  0.074324  0.225291  1
+  S  S3  1  0.925676  0.600792  0.774709  1
+  S  S4  1  0.250773  0.250773  0.774806  1
+  S  S5  1  0.749227  0.749227  0.225194  1
+  S  S6  1  0.600792  0.925676  0.774709  1
+  S  S7  1  0.074324  0.399208  0.225291  1
+  Mn  Mn8  1  0.333237  0.666763  0.000000  1
+  Mn  Mn9  1  0.666763  0.333237  0.000000  1

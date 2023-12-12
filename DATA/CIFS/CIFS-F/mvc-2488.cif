@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sr2YTlCr2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88517789
+_cell_length_b   3.88515870
+_cell_length_c   12.77344818
+_cell_angle_alpha   90.00057619
+_cell_angle_beta   89.99996247
+_cell_angle_gamma   89.96466250
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2YTlCr2O7
+_chemical_formula_sum   'Sr2 Y1 Tl1 Cr2 O7'
+_cell_volume   192.80919479
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.499997  0.500001  0.808621  1
+  Sr  Sr1  1  0.500004  0.499986  0.191368  1
+  Y  Y2  1  0.500002  0.500007  0.500003  1
+  Tl  Tl3  1  0.999996  0.999988  0.999990  1
+  Cr  Cr4  1  0.999981  0.000017  0.644002  1
+  Cr  Cr5  1  -0.000007  0.999969  0.355993  1
+  O  O6  1  0.500003  0.000007  0.611065  1
+  O  O7  1  0.999997  0.500022  0.611068  1
+  O  O8  1  0.500001  0.000006  0.388946  1
+  O  O9  1  0.000004  0.499994  0.388945  1
+  O  O10  1  0.000002  -0.000000  0.793983  1
+  O  O11  1  0.000014  0.000008  0.206025  1
+  O  O12  1  0.500006  0.499995  0.999993  1

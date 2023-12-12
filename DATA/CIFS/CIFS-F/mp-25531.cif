@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_FeH8(BrO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14049419
+_cell_length_b   7.60417632
+_cell_length_c   8.73073561
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.97549152
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeH8(BrO2)2
+_chemical_formula_sum   'Fe2 H16 Br4 O8'
+_cell_volume   383.14196930
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.871132  0.707731  0.504049  1
+  H  H1  1  0.628868  0.207732  0.995951  1
+  H  H2  1  0.128868  0.292268  0.495951  1
+  H  H3  1  0.371132  0.792268  0.004049  1
+  H  H4  1  0.700409  0.700829  0.324104  1
+  H  H5  1  0.799591  0.200828  0.175896  1
+  H  H6  1  0.299591  0.299172  0.675896  1
+  H  H7  1  0.200409  0.799172  0.824104  1
+  H  H8  1  0.726678  0.566595  0.836893  1
+  H  H9  1  0.773322  0.066594  0.663107  1
+  H  H10  1  0.273322  0.433406  0.163108  1
+  H  H11  1  0.226678  0.933406  0.336894  1
+  H  H12  1  0.880372  0.426391  0.787124  1
+  H  H13  1  0.619628  0.926390  0.712876  1
+  H  H14  1  0.380372  0.073609  0.287123  1
+  H  H15  1  0.119628  0.573609  0.212876  1
+  O  O16  1  0.706161  0.690625  0.438264  1
+  O  O17  1  0.793839  0.190625  0.061737  1
+  O  O18  1  0.293839  0.309374  0.561736  1
+  O  O19  1  0.206161  0.809374  0.938263  1
+  O  O20  1  0.735850  0.495175  0.744860  1
+  O  O21  1  0.764150  0.995175  0.755140  1
+  O  O22  1  0.264150  0.504824  0.255140  1
+  O  O23  1  0.235850  0.004825  0.244860  1
+  Fe  Fe24  1  0.000000  0.000000  0.000000  1
+  Fe  Fe25  1  0.500000  0.500000  0.500000  1
+  Br  Br26  1  0.766249  0.727210  0.078879  1
+  Br  Br27  1  0.733751  0.227210  0.421121  1
+  Br  Br28  1  0.233751  0.272789  0.921121  1
+  Br  Br29  1  0.266249  0.772789  0.578879  1

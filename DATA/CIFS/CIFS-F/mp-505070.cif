@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_CeTa3O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.61783757
+_cell_length_b   7.37260200
+_cell_length_c   7.37260208
+_cell_angle_alpha   62.94240480
+_cell_angle_beta   86.70973545
+_cell_angle_gamma   86.70973224
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeTa3O9
+_chemical_formula_sum   'Ce2 Ta6 O18'
+_cell_volume   319.61731727
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.949946  0.736954  0.736954  1
+  Ce  Ce1  1  0.050054  0.263046  0.263046  1
+  Ta  Ta2  1  0.762511  0.218114  0.716036  1
+  Ta  Ta3  1  0.237489  0.283964  0.781886  1
+  Ta  Ta4  1  0.237489  0.781886  0.283964  1
+  Ta  Ta5  1  0.762511  0.716036  0.218114  1
+  Ta  Ta6  1  0.500000  0.500000  0.000000  1
+  Ta  Ta7  1  0.500000  0.000000  0.500000  1
+  O  O8  1  0.779942  0.078421  0.507549  1
+  O  O9  1  0.220058  0.492451  0.921579  1
+  O  O10  1  0.220058  0.921579  0.492451  1
+  O  O11  1  0.779942  0.507549  0.078421  1
+  O  O12  1  0.452692  0.689253  0.127377  1
+  O  O13  1  0.547308  0.872623  0.310747  1
+  O  O14  1  0.547308  0.310747  0.872623  1
+  O  O15  1  0.452692  0.127377  0.689253  1
+  O  O16  1  0.933238  0.361644  0.820455  1
+  O  O17  1  0.066762  0.179545  0.638356  1
+  O  O18  1  0.066762  0.638356  0.179545  1
+  O  O19  1  0.933238  0.820455  0.361644  1
+  O  O20  1  0.795460  0.931510  0.931510  1
+  O  O21  1  0.204540  0.068490  0.068490  1
+  O  O22  1  0.271471  0.538982  0.538982  1
+  O  O23  1  0.728529  0.461018  0.461018  1
+  O  O24  1  0.575314  0.732492  0.732492  1
+  O  O25  1  0.424686  0.267508  0.267508  1

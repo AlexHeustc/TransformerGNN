@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Eu2CoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78982078
+_cell_length_b   6.61511549
+_cell_length_c   5.36078983
+_cell_angle_alpha   113.91803003
+_cell_angle_beta   45.02609421
+_cell_angle_gamma   106.61444704
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu2CoO4
+_chemical_formula_sum   'Eu2 Co1 O4'
+_cell_volume   86.91077998
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.997952  0.720738  0.362191  1
+  Eu  Eu1  1  0.002638  0.280292  0.637359  1
+  Co  Co2  1  0.997269  0.999110  0.000728  1
+  O  O3  1  0.990993  0.330868  0.170831  1
+  O  O4  1  0.500758  0.001992  0.502474  1
+  O  O5  1  0.496937  0.002632  0.003302  1
+  O  O6  1  0.999416  0.671254  0.833943  1

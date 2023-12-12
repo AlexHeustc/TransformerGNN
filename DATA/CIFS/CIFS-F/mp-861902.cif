@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_EuTl2Cd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48298249
+_cell_length_b   5.48307199
+_cell_length_c   5.48311401
+_cell_angle_alpha   59.44834035
+_cell_angle_beta   59.44768310
+_cell_angle_gamma   59.44919934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuTl2Cd
+_chemical_formula_sum   'Eu1 Tl2 Cd1'
+_cell_volume   115.09827379
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.749997  0.749990  0.750003  1
+  Tl  Tl1  1  0.000190  0.000209  0.000192  1
+  Tl  Tl2  1  0.499806  0.499798  0.499805  1
+  Cd  Cd3  1  0.250005  0.250002  0.249998  1

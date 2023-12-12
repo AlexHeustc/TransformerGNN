@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TiBrO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.54034426
+_cell_length_b   10.12171655
+_cell_length_c   11.12616800
+_cell_angle_alpha   92.62280540
+_cell_angle_beta   88.30186447
+_cell_angle_gamma   88.61870090
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiBrO
+_chemical_formula_sum   'Ti8 Br8 O8'
+_cell_volume   510.38906363
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.978598  0.744889  0.818748  1
+  Ti  Ti1  1  0.482795  0.871735  0.923640  1
+  Ti  Ti2  1  0.516052  0.127935  0.076970  1
+  Ti  Ti3  1  0.018423  0.256194  0.179075  1
+  Ti  Ti4  1  0.010260  0.115891  0.911905  1
+  Ti  Ti5  1  0.507827  0.246226  0.831513  1
+  Ti  Ti6  1  0.988685  0.884051  0.089057  1
+  Ti  Ti7  1  0.492758  0.751171  0.163797  1
+  Br  Br8  1  0.011492  0.142125  0.362136  1
+  Br  Br9  1  0.000249  0.356141  0.819712  1
+  Br  Br10  1  -0.000252  0.640612  0.175038  1
+  Br  Br11  1  0.505958  0.161503  0.627322  1
+  Br  Br12  1  -0.010804  0.863669  0.638997  1
+  Br  Br13  1  0.490456  0.831463  0.370233  1
+  Br  Br14  1  0.511736  0.366085  0.190239  1
+  Br  Br15  1  0.486310  0.634436  0.809710  1
+  O  O16  1  0.508877  0.928253  0.102281  1
+  O  O17  1  0.001398  0.441589  0.486574  1
+  O  O18  1  0.500425  0.560984  0.518158  1
+  O  O19  1  0.984735  0.088983  0.089745  1
+  O  O20  1  0.509075  0.442389  0.484930  1
+  O  O21  1  0.992912  0.561612  0.520555  1
+  O  O22  1  0.492692  0.072003  0.898295  1
+  O  O23  1  0.019344  0.910062  0.911370  1

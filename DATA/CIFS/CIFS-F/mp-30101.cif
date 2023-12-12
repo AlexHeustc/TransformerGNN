@@ -1,0 +1,62 @@
+# generated using pymatgen
+data_Ba4Si3Br2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.90485253
+_cell_length_b   8.97138872
+_cell_length_c   15.25587037
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.94118308
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4Si3Br2
+_chemical_formula_sum   'Ba16 Si12 Br8'
+_cell_volume   1192.40095172
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.260721  0.064893  0.912336  1
+  Si  Si1  1  0.239279  0.564893  0.087664  1
+  Si  Si2  1  0.739279  0.935107  0.087664  1
+  Si  Si3  1  0.760721  0.435107  0.912336  1
+  Si  Si4  1  0.507873  0.432430  0.815340  1
+  Si  Si5  1  0.992127  0.932430  0.184660  1
+  Si  Si6  1  0.492127  0.567570  0.184660  1
+  Si  Si7  1  0.007873  0.067570  0.815340  1
+  Si  Si8  1  0.697481  0.630030  0.802211  1
+  Si  Si9  1  0.802519  0.130030  0.197789  1
+  Si  Si10  1  0.302519  0.369970  0.197789  1
+  Si  Si11  1  0.197481  0.869970  0.802211  1
+  Br  Br12  1  0.365780  0.359290  0.507482  1
+  Br  Br13  1  0.134220  0.859290  0.492518  1
+  Br  Br14  1  0.634220  0.640710  0.492518  1
+  Br  Br15  1  0.865780  0.140710  0.507482  1
+  Br  Br16  1  0.053553  0.493401  0.636985  1
+  Br  Br17  1  0.446447  0.993401  0.363015  1
+  Br  Br18  1  0.946447  0.506599  0.363015  1
+  Br  Br19  1  0.553553  0.006599  0.636985  1
+  Ba  Ba20  1  0.478803  0.711118  0.955431  1
+  Ba  Ba21  1  0.021197  0.211118  0.044569  1
+  Ba  Ba22  1  0.521197  0.288882  0.044569  1
+  Ba  Ba23  1  0.978803  0.788882  0.955431  1
+  Ba  Ba24  1  0.265721  0.661716  0.330692  1
+  Ba  Ba25  1  0.234279  0.161716  0.669308  1
+  Ba  Ba26  1  0.734279  0.338284  0.669308  1
+  Ba  Ba27  1  0.765721  0.838284  0.330692  1
+  Ba  Ba28  1  0.629338  0.061957  0.854290  1
+  Ba  Ba29  1  0.870662  0.561957  0.145710  1
+  Ba  Ba30  1  0.370662  0.938043  0.145710  1
+  Ba  Ba31  1  0.129338  0.438043  0.854290  1
+  Ba  Ba32  1  0.381530  0.678029  0.653829  1
+  Ba  Ba33  1  0.118470  0.178029  0.346171  1
+  Ba  Ba34  1  0.618470  0.321971  0.346171  1
+  Ba  Ba35  1  0.881530  0.821971  0.653829  1

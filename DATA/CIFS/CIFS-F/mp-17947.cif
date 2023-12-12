@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_BaCu2GeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.27703298
+_cell_length_b   6.27703298
+_cell_length_c   15.55798258
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCu2GeS4
+_chemical_formula_sum   'Ba3 Cu6 Ge3 S12'
+_cell_volume   530.87556161
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.096307  0.334372  0.749040  1
+  S  S1  1  0.238066  0.903693  0.415707  1
+  S  S2  1  0.665628  0.761934  0.082373  1
+  S  S3  1  0.428643  0.998902  0.752432  1
+  S  S4  1  0.570258  0.571357  0.419099  1
+  S  S5  1  0.001098  0.429742  0.085765  1
+  S  S6  1  0.286371  0.134562  0.969725  1
+  S  S7  1  0.848190  0.713629  0.636391  1
+  S  S8  1  0.380251  0.181421  0.198376  1
+  S  S9  1  0.801169  0.619749  0.865042  1
+  S  S10  1  0.818579  0.198831  0.531709  1
+  S  S11  1  0.865438  0.151810  0.303058  1
+  Cu  Cu12  1  0.687668  0.090081  0.161687  1
+  Cu  Cu13  1  0.264409  0.243479  0.339637  1
+  Cu  Cu14  1  0.756521  0.020930  0.672970  1
+  Cu  Cu15  1  0.402412  0.312332  0.828353  1
+  Cu  Cu16  1  0.909919  0.597588  0.495020  1
+  Cu  Cu17  1  0.979070  0.735591  0.006303  1
+  Ge  Ge18  1  0.044180  0.666662  0.750723  1
+  Ge  Ge19  1  0.333338  0.377518  0.084057  1
+  Ge  Ge20  1  0.622482  0.955820  0.417390  1
+  Ba  Ba21  1  0.765230  0.098551  0.917414  1
+  Ba  Ba22  1  0.333321  0.234770  0.584081  1
+  Ba  Ba23  1  0.901449  0.666679  0.250747  1

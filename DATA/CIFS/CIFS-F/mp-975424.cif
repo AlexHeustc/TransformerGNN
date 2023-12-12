@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Rb(Mg4Al3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.16693898
+_cell_length_b   9.25868958
+_cell_length_c   9.25868994
+_cell_angle_alpha   109.67109885
+_cell_angle_beta   109.27060145
+_cell_angle_gamma   109.27059644
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb(Mg4Al3)4
+_chemical_formula_sum   'Rb1 Mg16 Al12'
+_cell_volume   606.41620139
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.371937  0.000000  0.000000  1
+  Mg  Mg1  1  0.998071  0.344237  0.000000  1
+  Mg  Mg2  1  0.615352  0.330211  0.000000  1
+  Mg  Mg3  1  0.313115  0.599005  0.000000  1
+  Mg  Mg4  1  0.683620  0.683401  0.287807  1
+  Mg  Mg5  1  0.000221  0.604407  0.316600  1
+  Mg  Mg6  1  0.615352  0.000001  0.330210  1
+  Mg  Mg7  1  0.998072  0.000000  0.344236  1
+  Mg  Mg8  1  0.395815  0.712194  0.395594  1
+  Mg  Mg9  1  0.714112  0.400996  0.400996  1
+  Mg  Mg10  1  0.313115  0.000000  0.599005  1
+  Mg  Mg11  1  0.000221  0.316600  0.604407  1
+  Mg  Mg12  1  0.653834  0.655763  0.655763  1
+  Mg  Mg13  1  0.285143  0.669790  0.669789  1
+  Mg  Mg14  1  0.683621  0.287807  0.683401  1
+  Mg  Mg15  1  0.395815  0.395594  0.712194  1
+  Mg  Mg16  1  0.995372  0.999999  0.000000  1
+  Al  Al17  1  0.635791  0.812561  0.000000  1
+  Al  Al18  1  0.362933  0.373881  0.182492  1
+  Al  Al19  1  0.823229  0.187440  0.187440  1
+  Al  Al20  1  0.180440  0.817507  0.191387  1
+  Al  Al21  1  0.178294  0.363666  0.363665  1
+  Al  Al22  1  0.362933  0.182492  0.373881  1
+  Al  Al23  1  0.989052  0.808612  0.626120  1
+  Al  Al24  1  0.814631  0.000000  0.636336  1
+  Al  Al25  1  0.989052  0.626120  0.808612  1
+  Al  Al26  1  0.635792  0.000001  0.812560  1
+  Al  Al27  1  0.180440  0.191388  0.817507  1
+  Al  Al28  1  0.814630  0.636336  0.000000  1

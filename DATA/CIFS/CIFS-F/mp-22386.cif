@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_InAgTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59017119
+_cell_length_b   6.59017119
+_cell_length_c   7.98361430
+_cell_angle_alpha   114.40054403
+_cell_angle_beta   114.40054403
+_cell_angle_gamma   90.10860745
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InAgTe2
+_chemical_formula_sum   'In2 Ag2 Te4'
+_cell_volume   281.26390180
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.002040  0.001370  0.000413  1
+  Ag  Ag1  1  0.251370  0.752040  0.500413  1
+  In  In2  1  0.748978  0.246685  0.498949  1
+  In  In3  1  0.496685  0.498978  0.998949  1
+  Te  Te4  1  0.123774  0.629086  0.748560  1
+  Te  Te5  1  0.371517  0.376550  0.252078  1
+  Te  Te6  1  0.626550  0.121517  0.752078  1
+  Te  Te7  1  0.879086  0.873774  0.248560  1

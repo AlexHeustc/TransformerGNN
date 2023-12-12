@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_CaAsH5O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23597397
+_cell_length_b   9.18639734
+_cell_length_c   6.15526439
+_cell_angle_alpha   83.83850120
+_cell_angle_beta   108.43484160
+_cell_angle_gamma   109.84114043
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAsH5O6
+_chemical_formula_sum   'Ca2 As2 H10 O12'
+_cell_volume   314.65885223
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.111969  0.655273  0.120562  1
+  Ca  Ca1  1  0.456696  0.344727  0.620562  1
+  As  As2  1  0.510035  0.639845  0.916413  1
+  As  As3  1  0.870190  0.360155  0.416413  1
+  H  H4  1  0.094219  0.828202  0.633377  1
+  H  H5  1  0.170700  0.967491  0.299977  1
+  H  H6  1  0.499221  0.148678  0.285643  1
+  H  H7  1  0.047336  0.148247  0.760488  1
+  H  H8  1  0.203208  0.032509  0.799977  1
+  H  H9  1  0.350542  0.851322  0.785643  1
+  H  H10  1  0.634660  0.633394  0.304948  1
+  H  H11  1  0.266016  0.171798  0.133377  1
+  H  H12  1  0.001265  0.366606  0.804948  1
+  H  H13  1  0.899089  0.851753  0.260488  1
+  O  O14  1  0.188445  0.854973  0.795162  1
+  O  O15  1  0.068026  0.855171  0.303848  1
+  O  O16  1  0.228387  0.519871  0.907175  1
+  O  O17  1  0.156527  0.460057  0.411510  1
+  O  O18  1  0.212855  0.144829  0.803848  1
+  O  O19  1  0.539475  0.796187  0.743389  1
+  O  O20  1  0.587333  0.718758  0.202370  1
+  O  O21  1  0.333472  0.145027  0.295162  1
+  O  O22  1  0.708514  0.480129  0.407175  1
+  O  O23  1  0.868575  0.281242  0.702370  1
+  O  O24  1  0.696469  0.539942  0.911510  1
+  O  O25  1  0.743288  0.203813  0.243389  1

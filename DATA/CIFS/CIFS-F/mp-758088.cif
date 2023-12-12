@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ba6Bi6O17
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.69550606
+_cell_length_b   10.92870445
+_cell_length_c   6.33803422
+_cell_angle_alpha   73.14293952
+_cell_angle_beta   90.00342456
+_cell_angle_gamma   113.44295250
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba6Bi6O17
+_chemical_formula_sum   'Ba6 Bi6 O17'
+_cell_volume   524.26660405
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.500000  0.000000  0.000000  1
+  Ba  Ba1  1  0.822471  0.644785  0.677964  1
+  Ba  Ba2  1  0.667914  0.336163  0.331462  1
+  Ba  Ba3  1  0.000000  0.000000  0.000000  1
+  Ba  Ba4  1  0.332086  0.663837  0.668538  1
+  Ba  Ba5  1  0.177529  0.355215  0.322036  1
+  Bi  Bi6  1  0.751821  0.000017  0.499986  1
+  Bi  Bi7  1  0.917204  0.331442  0.834199  1
+  Bi  Bi8  1  0.248179  -0.000017  0.500014  1
+  Bi  Bi9  1  0.414265  0.331455  0.834165  1
+  Bi  Bi10  1  0.585735  0.668545  0.165835  1
+  Bi  Bi11  1  0.082796  0.668558  0.165801  1
+  O  O12  1  0.839055  0.165966  0.669543  1
+  O  O13  1  0.839226  0.166112  0.164598  1
+  O  O14  1  0.667517  0.335094  0.832667  1
+  O  O15  1  0.500000  0.000000  0.500000  1
+  O  O16  1  0.832393  0.664877  0.167403  1
+  O  O17  1  0.327010  0.166113  0.669456  1
+  O  O18  1  0.327076  0.166218  0.164426  1
+  O  O19  1  0.500000  0.500000  0.500000  1
+  O  O20  1  0.500000  0.500000  0.000000  1
+  O  O21  1  0.672924  0.833782  0.835574  1
+  O  O22  1  0.672990  0.833887  0.330544  1
+  O  O23  1  0.167607  0.335123  0.832597  1
+  O  O24  1  0.332483  0.664906  0.167333  1
+  O  O25  1  0.000000  0.500000  0.500000  1
+  O  O26  1  0.160774  0.833888  0.835402  1
+  O  O27  1  0.160945  0.834034  0.330457  1
+  O  O28  1  0.000000  0.500000  0.000000  1

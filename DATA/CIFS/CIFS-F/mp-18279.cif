@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zr2CuGe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.81197312
+_cell_length_b   3.83685705
+_cell_length_c   16.88873989
+_cell_angle_alpha   96.52242987
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2CuGe4
+_chemical_formula_sum   'Zr4 Cu2 Ge8'
+_cell_volume   245.41582969
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.750000  0.749906  0.499812  1
+  Cu  Cu1  1  0.250000  0.250094  0.500188  1
+  Ge  Ge2  1  0.250000  0.113199  0.226398  1
+  Ge  Ge3  1  0.750000  0.886801  0.773602  1
+  Ge  Ge4  1  0.250000  0.797560  0.595119  1
+  Ge  Ge5  1  0.750000  0.202440  0.404881  1
+  Ge  Ge6  1  0.750000  0.472824  0.945647  1
+  Ge  Ge7  1  0.250000  0.527176  0.054353  1
+  Ge  Ge8  1  0.750000  0.612852  0.225705  1
+  Ge  Ge9  1  0.250000  0.387148  0.774295  1
+  Zr  Zr10  1  0.250000  0.677610  0.355221  1
+  Zr  Zr11  1  0.750000  0.322390  0.644779  1
+  Zr  Zr12  1  0.250000  0.952797  0.905594  1
+  Zr  Zr13  1  0.750000  0.047203  0.094406  1

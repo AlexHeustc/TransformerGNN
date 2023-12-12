@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr2Y2Co2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.68068144
+_cell_length_b   12.68068144
+_cell_length_c   12.68068144
+_cell_angle_alpha   36.22263020
+_cell_angle_beta   154.41887209
+_cell_angle_gamma   154.78992638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Y2Co2O7
+_chemical_formula_sum   'Sr4 Y4 Co4 O14'
+_cell_volume   374.52898869
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.040805  0.879307  0.880951  1
+  Sr  Sr1  1  0.998358  0.159854  0.119049  1
+  Sr  Sr2  1  0.040805  0.659854  0.661497  1
+  Sr  Sr3  1  0.998358  0.379307  0.338503  1
+  Y  Y4  1  0.029539  0.529539  0.500000  1
+  Y  Y5  1  0.029539  0.029539  0.000000  1
+  Y  Y6  1  0.528297  0.731812  0.296485  1
+  Y  Y7  1  0.435327  0.231812  0.703515  1
+  Co  Co8  1  0.525406  0.453475  0.921206  1
+  Co  Co9  1  0.532268  0.604199  0.078794  1
+  Co  Co10  1  0.525406  0.104199  0.571931  1
+  Co  Co11  1  0.532268  0.953475  0.428069  1
+  O  O12  1  0.006856  0.831676  0.675180  1
+  O  O13  1  0.156496  0.331676  0.324820  1
+  O  O14  1  0.512109  0.213398  0.180111  1
+  O  O15  1  0.033289  0.331999  0.819889  1
+  O  O16  1  0.512109  0.831999  0.798710  1
+  O  O17  1  0.033289  0.713398  0.201290  1
+  O  O18  1  0.549732  0.728695  0.697664  1
+  O  O19  1  0.031032  0.852068  0.302336  1
+  O  O20  1  0.549732  0.352068  0.321037  1
+  O  O21  1  0.031032  0.228695  0.678963  1
+  O  O22  1  0.511564  0.887774  0.295362  1
+  O  O23  1  0.592413  0.216201  0.704638  1
+  O  O24  1  0.511564  0.716201  0.123789  1
+  O  O25  1  0.592413  0.387774  0.876211  1

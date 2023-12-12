@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CaFeSiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51707704
+_cell_length_b   7.00147257
+_cell_length_c   8.83540334
+_cell_angle_alpha   89.77582089
+_cell_angle_beta   143.22337218
+_cell_angle_gamma   76.20268820
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaFeSiO5
+_chemical_formula_sum   'Ca2 Fe2 Si2 O10'
+_cell_volume   186.94878452
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.498945  0.246947  0.169695  1
+  Ca  Ca1  1  0.493821  0.744510  0.828713  1
+  Fe  Fe2  1  0.496585  0.496165  0.499204  1
+  Fe  Fe3  1  0.496384  0.995886  0.499190  1
+  Si  Si4  1  0.497485  0.245356  0.817514  1
+  Si  Si5  1  0.495683  0.746441  0.180697  1
+  O  O6  1  0.292950  0.109290  0.612257  1
+  O  O7  1  0.704575  0.379938  0.816653  1
+  O  O8  1  0.699880  0.882425  0.385876  1
+  O  O9  1  0.288431  0.611764  0.181453  1
+  O  O10  1  0.863105  0.585293  0.246541  1
+  O  O11  1  0.127762  0.905960  0.876875  1
+  O  O12  1  0.130178  0.406705  0.751704  1
+  O  O13  1  0.865077  0.085762  0.121254  1
+  O  O14  1  0.497797  0.745201  0.569968  1
+  O  O15  1  0.495340  0.246517  0.428415  1

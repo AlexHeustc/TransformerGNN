@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Ba2CaTl2(CuO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.68765049
+_cell_length_b   3.68765043
+_cell_length_c   22.91084846
+_cell_angle_alpha   94.61605297
+_cell_angle_beta   94.61605358
+_cell_angle_gamma   89.99999577
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CaTl2(CuO3)4
+_chemical_formula_sum   'Ba2 Ca1 Tl2 Cu4 O12'
+_cell_volume   309.53479897
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.15644820  0.15644820  0.31289540  1
+  Ba  Ba1  1  0.84355180  0.84355180  0.68710460  1
+  Ca  Ca2  1  0.00000000  0.00000000  0.00000000  1
+  Tl  Tl3  1  0.72339752  0.72339752  0.44679405  1
+  Tl  Tl4  1  0.27660248  0.27660248  0.55320595  1
+  Cu  Cu5  1  0.54287999  0.54287999  0.08575999  1
+  Cu  Cu6  1  0.39557624  0.39557624  0.79115248  1
+  Cu  Cu7  1  0.60442376  0.60442376  0.20884752  1
+  Cu  Cu8  1  0.45712001  0.45712001  0.91424001  1
+  O  O9  1  0.38653639  0.88653639  0.77307279  1
+  O  O10  1  0.53373815  0.03373815  0.06747730  1
+  O  O11  1  0.23010866  0.23010866  0.46021732  1
+  O  O12  1  0.96626185  0.46626185  0.93252270  1
+  O  O13  1  0.76989134  0.76989134  0.53978268  1
+  O  O14  1  0.11346361  0.61346361  0.22692721  1
+  O  O15  1  0.61346361  0.11346361  0.22692721  1
+  O  O16  1  0.32120164  0.32120164  0.64240328  1
+  O  O17  1  0.88653639  0.38653639  0.77307279  1
+  O  O18  1  0.03373815  0.53373815  0.06747730  1
+  O  O19  1  0.46626185  0.96626185  0.93252270  1
+  O  O20  1  0.67879836  0.67879836  0.35759672  1

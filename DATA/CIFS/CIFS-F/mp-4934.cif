@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Al2SiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81715904
+_cell_length_b   7.57224924
+_cell_length_c   7.77885174
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2SiO5
+_chemical_formula_sum   'Al8 Si4 O20'
+_cell_volume   342.65047009
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.013851  0.625437  0.276270  1
+  O  O1  1  0.513851  0.374563  0.723730  1
+  O  O2  1  0.986149  0.125437  0.223730  1
+  O  O3  1  0.486149  0.874563  0.776270  1
+  O  O4  1  0.986149  0.374563  0.723730  1
+  O  O5  1  0.486149  0.625437  0.276270  1
+  O  O6  1  0.013851  0.874563  0.776270  1
+  O  O7  1  0.513851  0.125437  0.223730  1
+  O  O8  1  0.750000  0.022138  0.501364  1
+  O  O9  1  0.250000  0.977862  0.498636  1
+  O  O10  1  0.250000  0.522138  0.998636  1
+  O  O11  1  0.750000  0.477862  0.001364  1
+  O  O12  1  0.750000  0.359489  0.410179  1
+  O  O13  1  0.250000  0.640511  0.589821  1
+  O  O14  1  0.250000  0.859489  0.089821  1
+  O  O15  1  0.750000  0.140511  0.910179  1
+  O  O16  1  0.250000  0.357277  0.434522  1
+  O  O17  1  0.750000  0.642723  0.565478  1
+  O  O18  1  0.750000  0.857277  0.065478  1
+  O  O19  1  0.250000  0.142723  0.934522  1
+  Al  Al20  1  0.000000  0.000000  0.000000  1
+  Al  Al21  1  0.500000  0.000000  0.000000  1
+  Al  Al22  1  0.000000  0.500000  0.500000  1
+  Al  Al23  1  0.500000  0.500000  0.500000  1
+  Al  Al24  1  0.250000  0.357130  0.846217  1
+  Al  Al25  1  0.750000  0.642870  0.153783  1
+  Al  Al26  1  0.750000  0.857130  0.653783  1
+  Al  Al27  1  0.250000  0.142870  0.346217  1
+  Si  Si28  1  0.750000  0.152810  0.341060  1
+  Si  Si29  1  0.250000  0.847190  0.658940  1
+  Si  Si30  1  0.250000  0.652810  0.158940  1
+  Si  Si31  1  0.750000  0.347190  0.841060  1

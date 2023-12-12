@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Ce8Nd2O19
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.88096374
+_cell_length_b   38.89138730
+_cell_length_c   37.10695022
+_cell_angle_alpha   5.20030039
+_cell_angle_beta   58.49377615
+_cell_angle_gamma   60.09166833
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce8Nd2O19
+_chemical_formula_sum   'Ce8 Nd2 O19'
+_cell_volume   415.18474207
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.991445  0.192933  0.009024  1
+  Ce  Ce1  1  0.004643  0.399799  0.000280  1
+  Ce  Ce2  1  0.002052  0.299454  0.001123  1
+  Ce  Ce3  1  0.004674  0.501115  0.998724  1
+  Ce  Ce4  1  0.003384  0.599744  -0.000272  1
+  Ce  Ce5  1  0.003857  0.805723  0.992893  1
+  Ce  Ce6  1  0.000817  0.700644  0.998623  1
+  Ce  Ce7  1  0.013879  0.909762  0.987362  1
+  Nd  Nd8  1  0.036554  0.025786  0.966899  1
+  Nd  Nd9  1  0.966520  0.071903  0.034442  1
+  O  O10  1  0.252969  0.098264  0.252247  1
+  O  O11  1  0.254975  0.199872  0.250253  1
+  O  O12  1  0.256118  0.302860  0.246511  1
+  O  O13  1  0.251403  0.397838  0.251786  1
+  O  O14  1  0.254183  0.506696  0.241600  1
+  O  O15  1  0.749014  0.001863  0.747390  1
+  O  O16  1  0.251478  0.601802  0.247760  1
+  O  O17  1  0.289244  0.727560  0.214595  1
+  O  O18  1  0.767564  0.115798  0.730366  1
+  O  O19  1  0.741782  0.189348  0.762327  1
+  O  O20  1  0.748559  0.297510  0.751979  1
+  O  O21  1  0.212625  0.870787  0.286211  1
+  O  O22  1  0.760766  0.408145  0.739238  1
+  O  O23  1  0.256320  0.005877  0.243684  1
+  O  O24  1  0.740006  0.492947  0.760019  1
+  O  O25  1  0.753846  0.598864  0.751338  1
+  O  O26  1  0.756829  0.700933  0.748734  1
+  O  O27  1  0.753398  0.799682  0.750313  1
+  O  O28  1  0.754174  0.899600  0.749470  1

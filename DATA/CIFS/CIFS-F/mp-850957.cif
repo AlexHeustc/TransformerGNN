@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Na6Ti2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00809896
+_cell_length_b   8.58790263
+_cell_length_c   9.05993905
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.02101922
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na6Ti2O7
+_chemical_formula_sum   'Na12 Ti4 O14'
+_cell_volume   467.39715720
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.179841  0.424857  0.592067  1
+  Na  Na1  1  0.185090  0.560278  0.913695  1
+  Na  Na2  1  0.304962  0.275106  0.178854  1
+  Na  Na3  1  0.301336  0.783460  0.611302  1
+  Na  Na4  1  0.421965  0.926625  0.183880  1
+  Na  Na5  1  0.406236  0.053192  0.871297  1
+  Na  Na6  1  0.679841  0.575143  0.092067  1
+  Na  Na7  1  0.685090  0.439722  0.413695  1
+  Na  Na8  1  0.801336  0.216540  0.111302  1
+  Na  Na9  1  0.804962  0.724894  0.678854  1
+  Na  Na10  1  0.906236  0.946808  0.371297  1
+  Na  Na11  1  0.921965  0.073375  0.683880  1
+  Ti  Ti12  1  0.975904  0.898356  0.998179  1
+  Ti  Ti13  1  0.119739  0.593446  0.281424  1
+  Ti  Ti14  1  0.475904  0.101644  0.498179  1
+  Ti  Ti15  1  0.619739  0.406554  0.781424  1
+  O  O16  1  0.022462  0.660049  0.462123  1
+  O  O17  1  0.038008  0.722356  0.118774  1
+  O  O18  1  0.123026  0.060668  0.078546  1
+  O  O19  1  0.086387  0.869730  0.812484  1
+  O  O20  1  0.180051  0.068898  0.497977  1
+  O  O21  1  0.417792  0.562115  0.277363  1
+  O  O22  1  0.474744  0.584377  0.739953  1
+  O  O23  1  0.522462  0.339951  0.962123  1
+  O  O24  1  0.538008  0.277644  0.618774  1
+  O  O25  1  0.586387  0.130270  0.312484  1
+  O  O26  1  0.623026  0.939332  0.578546  1
+  O  O27  1  0.680051  0.931102  0.997977  1
+  O  O28  1  0.974744  0.415623  0.239953  1
+  O  O29  1  0.917792  0.437885  0.777363  1

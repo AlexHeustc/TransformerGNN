@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsUTiTe5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19136432
+_cell_length_b   8.56208494
+_cell_length_c   10.34225449
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsUTiTe5
+_chemical_formula_sum   'Cs2 U2 Ti2 Te10'
+_cell_volume   548.25312041
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.750000  0.500000  0.213937  1
+  Cs  Cs1  1  0.250000  0.500000  0.786063  1
+  U  U2  1  0.750000  0.000000  0.669911  1
+  U  U3  1  0.250000  0.000000  0.330089  1
+  Ti  Ti4  1  0.000000  0.000000  0.000000  1
+  Ti  Ti5  1  0.500000  0.000000  0.000000  1
+  Te  Te6  1  0.000000  0.756766  0.500000  1
+  Te  Te7  1  0.750000  0.239550  0.889667  1
+  Te  Te8  1  0.750000  0.760450  0.889667  1
+  Te  Te9  1  0.000000  0.243234  0.500000  1
+  Te  Te10  1  0.250000  0.000000  0.773840  1
+  Te  Te11  1  0.750000  0.000000  0.226160  1
+  Te  Te12  1  0.500000  0.756766  0.500000  1
+  Te  Te13  1  0.250000  0.760450  0.110333  1
+  Te  Te14  1  0.250000  0.239550  0.110333  1
+  Te  Te15  1  0.500000  0.243234  0.500000  1

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Na3LiMn5O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.47587326
+_cell_length_b   5.43361899
+_cell_length_c   5.34110361
+_cell_angle_alpha   120.44981530
+_cell_angle_beta   108.26112828
+_cell_angle_gamma   72.01809515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3LiMn5O9
+_chemical_formula_sum   'Na3 Li1 Mn5 O9'
+_cell_volume   197.97036659
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.478702  0.848622  0.146693  1
+  Na  Na1  1  0.481712  0.178580  0.821212  1
+  Na  Na2  1  0.479822  0.525646  0.493039  1
+  Li  Li3  1  0.169480  0.948916  0.720277  1
+  Mn  Mn4  1  0.154053  0.603765  0.050765  1
+  Mn  Mn5  1  0.153703  0.265856  0.375029  1
+  Mn  Mn6  1  0.819494  0.069559  0.268537  1
+  Mn  Mn7  1  0.820143  0.397574  0.925685  1
+  Mn  Mn8  1  0.823679  0.730011  0.597656  1
+  O  O9  1  0.993228  0.605530  0.280304  1
+  O  O10  1  0.962930  0.321554  0.644512  1
+  O  O11  1  0.284059  0.263137  0.093827  1
+  O  O12  1  0.284093  0.926559  0.420631  1
+  O  O13  1  0.267108  0.551786  0.750442  1
+  O  O14  1  0.693547  0.123417  0.554689  1
+  O  O15  1  0.687791  0.444587  0.193205  1
+  O  O16  1  0.687867  0.802533  0.912416  1
+  O  O17  1  0.993181  0.982120  0.032053  1

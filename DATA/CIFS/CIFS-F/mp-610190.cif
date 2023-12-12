@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Zr9(In2Co)7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.46241237
+_cell_length_b   9.45995220
+_cell_length_c   9.45897867
+_cell_angle_alpha   59.98026981
+_cell_angle_beta   59.99333262
+_cell_angle_gamma   60.00710685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr9(In2Co)7
+_chemical_formula_sum   'Zr9 In14 Co7'
+_cell_volume   598.62753728
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.378993  0.378744  0.378789  1
+  Zr  Zr1  1  0.136807  0.620980  0.621053  1
+  Zr  Zr2  1  0.620841  0.136802  0.621035  1
+  Zr  Zr3  1  0.863537  0.378987  0.378782  1
+  Zr  Zr4  1  0.999913  0.000193  0.000082  1
+  Zr  Zr5  1  0.620900  0.621119  0.136698  1
+  Zr  Zr6  1  0.379066  0.863049  0.378955  1
+  Zr  Zr7  1  0.620961  0.621249  0.621286  1
+  Zr  Zr8  1  0.378906  0.379012  0.863149  1
+  In  In9  1  0.000148  0.999970  0.342174  1
+  In  In10  1  0.000089  0.342611  0.000066  1
+  In  In11  1  -0.000011  0.658300  0.999819  1
+  In  In12  1  0.999926  0.342157  0.657756  1
+  In  In13  1  0.342226  0.657628  0.000109  1
+  In  In14  1  0.657502  0.000089  0.000100  1
+  In  In15  1  0.342234  0.999843  0.000139  1
+  In  In16  1  0.999942  0.999856  0.657752  1
+  In  In17  1  0.342268  0.999875  0.657812  1
+  In  In18  1  0.000043  0.657756  0.342402  1
+  In  In19  1  0.657682  0.342297  0.999970  1
+  In  In20  1  0.657699  0.000003  0.342341  1
+  In  In21  1  0.250156  0.250090  0.249915  1
+  In  In22  1  0.749899  0.750086  0.749861  1
+  Co  Co23  1  0.720428  0.279529  0.279419  1
+  Co  Co24  1  0.500040  0.499991  0.499904  1
+  Co  Co25  1  0.279842  0.720044  0.279867  1
+  Co  Co26  1  0.279391  0.279548  0.720510  1
+  Co  Co27  1  0.279729  0.720262  0.720432  1
+  Co  Co28  1  0.720300  0.279675  0.720238  1
+  Co  Co29  1  0.720541  0.720255  0.279584  1

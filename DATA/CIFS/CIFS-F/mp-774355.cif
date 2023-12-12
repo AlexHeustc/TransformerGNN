@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Li3Co2(SiO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33896760
+_cell_length_b   10.78668596
+_cell_length_c   5.07078695
+_cell_angle_alpha   90.08620375
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Co2(SiO4)2
+_chemical_formula_sum   'Li6 Co4 Si4 O16'
+_cell_volume   346.72203240
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.017175  0.830732  0.761912  1
+  Li  Li1  1  0.482825  0.330732  0.761912  1
+  Li  Li2  1  0.496488  0.669357  0.259073  1
+  Li  Li3  1  0.749302  0.909960  0.255560  1
+  Li  Li4  1  0.750698  0.409960  0.255560  1
+  Li  Li5  1  0.003512  0.169357  0.259073  1
+  Co  Co6  1  0.239795  0.416738  0.259932  1
+  Co  Co7  1  0.260205  0.916738  0.259932  1
+  Co  Co8  1  0.733239  0.087829  0.762583  1
+  Co  Co9  1  0.766761  0.587829  0.762583  1
+  Si  Si10  1  0.007918  0.667530  0.261775  1
+  Si  Si11  1  0.492082  0.167530  0.261775  1
+  Si  Si12  1  0.507398  0.832544  0.764216  1
+  Si  Si13  1  0.992602  0.332544  0.764216  1
+  O  O14  1  0.977949  0.670176  0.586599  1
+  O  O15  1  0.006771  0.812651  0.155976  1
+  O  O16  1  0.209351  0.386685  0.640952  1
+  O  O17  1  0.224164  0.594172  0.191220  1
+  O  O18  1  0.275836  0.094172  0.191220  1
+  O  O19  1  0.290649  0.886685  0.640952  1
+  O  O20  1  0.493229  0.312651  0.155976  1
+  O  O21  1  0.522051  0.170176  0.586599  1
+  O  O22  1  0.505501  0.832814  0.087843  1
+  O  O23  1  0.546041  0.688681  0.655127  1
+  O  O24  1  0.708293  0.095451  0.138316  1
+  O  O25  1  0.719786  0.917296  0.668122  1
+  O  O26  1  0.780214  0.417296  0.668122  1
+  O  O27  1  0.791707  0.595451  0.138316  1
+  O  O28  1  0.953959  0.188681  0.655127  1
+  O  O29  1  0.994499  0.332814  0.087843  1

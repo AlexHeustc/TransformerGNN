@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbFe(MoO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70920501
+_cell_length_b   5.70920502
+_cell_length_c   7.75617927
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbFe(MoO4)2
+_chemical_formula_sum   'Rb1 Fe1 Mo2 O8'
+_cell_volume   218.94233583
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.841117  0.158883  0.852458  1
+  O  O1  1  0.841117  0.682234  0.852458  1
+  O  O2  1  0.317766  0.158883  0.852458  1
+  O  O3  1  0.682234  0.841117  0.147542  1
+  O  O4  1  0.333333  0.666667  0.442520  1
+  O  O5  1  0.666667  0.333333  0.557480  1
+  O  O6  1  0.158883  0.841117  0.147542  1
+  O  O7  1  0.158883  0.317766  0.147542  1
+  Fe  Fe8  1  0.000000  0.000000  0.000000  1
+  Rb  Rb9  1  0.000000  0.000000  0.500000  1
+  Mo  Mo10  1  0.333333  0.666667  0.216611  1
+  Mo  Mo11  1  0.666667  0.333333  0.783389  1

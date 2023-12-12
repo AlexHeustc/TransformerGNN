@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_DyTiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33559956
+_cell_length_b   5.71698452
+_cell_length_c   7.69290291
+_cell_angle_alpha   90.00339751
+_cell_angle_beta   89.99734615
+_cell_angle_gamma   89.99921976
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyTiO3
+_chemical_formula_sum   'Dy4 Ti4 O12'
+_cell_volume   234.66077167
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.978077  0.427487  0.749971  1
+  Dy  Dy1  1  0.521893  0.927395  0.749969  1
+  Dy  Dy2  1  0.478107  0.072605  0.250030  1
+  Dy  Dy3  1  0.021924  0.572512  0.250029  1
+  Ti  Ti4  1  -0.000001  -0.000000  0.000000  1
+  Ti  Ti5  1  0.000000  0.000000  0.500000  1
+  Ti  Ti6  1  0.500001  0.500001  0.000000  1
+  Ti  Ti7  1  0.499999  0.500001  0.500000  1
+  O  O8  1  0.121659  0.045239  0.749990  1
+  O  O9  1  0.189131  0.303370  0.058196  1
+  O  O10  1  0.189133  0.303366  0.441813  1
+  O  O11  1  0.310834  0.803395  0.441813  1
+  O  O12  1  0.310836  0.803401  0.058195  1
+  O  O13  1  0.378334  0.545241  0.749990  1
+  O  O14  1  0.621666  0.454761  0.250009  1
+  O  O15  1  0.689164  0.196599  0.941805  1
+  O  O16  1  0.689166  0.196605  0.558186  1
+  O  O17  1  0.810867  0.696633  0.558186  1
+  O  O18  1  0.810869  0.696630  0.941805  1
+  O  O19  1  0.878340  0.954759  0.250010  1
